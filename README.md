@@ -1,14 +1,10 @@
-# JWT
-
-JWTs seem to last a very long time, but if you ever need to update it, see:
-
-
+# DuoLingo Data Extractor
 
 # How to make Anki flashcards
 
-1. If necessary, update JWT in src/api-client/api-client.ts
+1. Copy `.env.example` to `.env` and set `JWT` to your DuoLingo JWT token.
 
-2. Configure the language (CURRENT_COURSE) in src/config.ts
+2. Configure the language (`CURRENT_COURSE`) in `src/config.ts`
 
 3. `npm run fetch-current-course`
 
