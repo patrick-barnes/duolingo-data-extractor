@@ -1,0 +1,30 @@
+{
+  "name": "duolingo-data-extractor",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Extracts data from DuoLingo",
+  "main": "index.js",
+  "scripts": {
+    "build": "dotenv tsc",
+    "fetch-current-course": "dotenv tsc && dotenv node dist/fetch-current-course.js",
+    "fetch-sessions": "dotenv tsc && dotenv node dist/fetch-sessions.js",
+    "fetch-lexemes": "dotenv tsc && dotenv node dist/fetch-lexemes.js",
+    "explore-course": "dotenv tsc && dotenv node dist/explore-course.js",
+    "make-flashcards": "dotenv tsc && dotenv node dist/make-flashcards.js",
+    "hindi-transliterator": "dotenv tsc && dotenv node dist/hindi-transliterator.js",
+    "airlearn-fetch-words": "dotenv tsc && dotenv node dist/airlearn/app/fetch-words.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "dotenv-cli": "^7.4.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@indic-tools/hindi-transliterate": "^0.0.4",
+    "arabic-transliterate": "^1.0.1",
+    "arabscript": "^0.0.1"
+  }
+}

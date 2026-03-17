@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+output/
+output-airlearn/
+data/
+notes/
+python/
+*.log
