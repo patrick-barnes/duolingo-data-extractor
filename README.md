@@ -28,10 +28,12 @@ Check the `output` folder for results.
 
 ### How to make Anki flashcards for AirLearn
 
-This feature is not yet complete, but:
+Note: This feature is currently limited, it only creates 50 word flashcards.
 
 1. In `.env`, set `AIRLEARN_JWT` to your AirLearn JWT token.
 
-2. `npm run airlearn-fetch-words`
+2. Configure the language (`AIRLEARN_CURRENT_GOAL`) in `src/airlearn/config.ts`
 
-Check the `output-airlearn` folder for results.
+3. `npm run airlearn-fetch-words` to create `words.json`
+
+4. `npm run airlearn-make-flashcards` to create `lexeme-flashcards.tsv`

@@ -58,6 +58,15 @@ export function getV1ContentWordsJsonFilenameByCourseIdGranular(
     return `output-airlearn/${airLearnGoal.commonFolderName}/get.v1.content.words.${startIndex}-${endIndex}.${orderStr}.${importantStr}.json`;
 }
 
+export function getLexemeFlashcardsTsvFilename(goalUID: string) {
+    let airLearnGoal = getAirLearnGoalByGoalUID(goalUID);
+    if (!airLearnGoal) {
+        throw "Unsupported goalUID: " + goalUID;
+    }
+    return `output-airlearn/${airLearnGoal.commonFolderName}/flashcards/lexeme-flashcards.tsv`;
+}
+
+
 // Folder structure:
 // =================
 // output/L-F/course.json

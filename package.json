@@ -13,6 +13,7 @@
     "make-flashcards": "dotenv tsc && dotenv node dist/make-flashcards.js",
     "hindi-transliterator": "dotenv tsc && dotenv node dist/hindi-transliterator.js",
     "airlearn-fetch-words": "dotenv tsc && dotenv node dist/airlearn/app/fetch-words.js",
+    "airlearn-make-flashcards": "dotenv tsc && dotenv node dist/airlearn/app/make-flashcards.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
