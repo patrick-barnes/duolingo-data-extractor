@@ -14,7 +14,7 @@ Extracts data from DuoLingo and makes flashcards.
 
 1. In `.env`, set `JWT` to your DuoLingo JWT token.
 
-2. Configure the language (`CURRENT_COURSE`) in `src/config.ts`
+2. In `src/config.ts`, set the language
 
 3. `npm run fetch-current-course`
 
@@ -28,11 +28,14 @@ Check the `output` folder for results.
 
 ### How to make Anki flashcards for AirLearn
 
-Note: This feature is currently limited, it only creates 50 word flashcards.
+Note: This feature is currently limited:
+- it only creates 50 word flashcards (to be fixed soon)
+- it does not create sentence flashcards (new feature planned soon-ish)
+- it only creates flashcards that you have already learned (possibly a permanent limitation)
 
 1. In `.env`, set `AIRLEARN_JWT` to your AirLearn JWT token.
 
-2. Configure the language (`AIRLEARN_CURRENT_GOAL`) in `src/airlearn/config.ts`
+2. In `src/airlearn/config.ts`, set the language
 
 3. `npm run airlearn-fetch-words` to create `words.json`
 
