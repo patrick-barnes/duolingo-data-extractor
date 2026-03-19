@@ -1,96 +1,24 @@
 import { LANGUAGE_COURSES } from "./model/courses.js";
 
-export const CURRENT_COURSE = LANGUAGE_COURSES.ARABIC_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.SPANISH_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.CHINESE_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.HINDI_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.JAPANESE_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.RUSSIAN_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.KOREAN_ENGLISH!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.ENGLISH_TELUGU!;
-//export const CURRENT_COURSE = LANGUAGE_COURSES.ENGLISH_TAGALOG!;
+// .env should set USER_ID
+export const USER_ID = process.env.USER_ID || '';
+if (!USER_ID) {
+	throw new Error('USER_ID environment variable is not set');
+}
 
+// .env should set JWT
+export const JWT = process.env.JWT || '';
+if (!JWT) {
+	throw new Error('JWT environment variable is not set');
+}
 
-export const keysToIgnore = new Set<string>([
-  "challengeDisplaySettings.canRequireUserToType",
-  "challengeDisplaySettings.showInputModeToggle",
-  "challengeGeneratorIdentifier.generatorId",
-  "challengeGeneratorIdentifier.specificType",
-  "challengeResponseTrackingProperties.best_solution",
-  "challengeResponseTrackingProperties.birdbrain_probability",
-  "challengeResponseTrackingProperties.birdbrain_source",
-  "challengeResponseTrackingProperties.birdbrain_target",
-  "challengeResponseTrackingProperties.content_length",
-  "challengeResponseTrackingProperties.forward_sentence_id",
-  "challengeResponseTrackingProperties.generation_timestamp",
-  "challengeResponseTrackingProperties.grading_graph_size",
-  "challengeResponseTrackingProperties.highlighted_l1_weak_word_in_prompt",
-  "challengeResponseTrackingProperties.is_adaptive",
-  "challengeResponseTrackingProperties.is_v2",
-  "challengeResponseTrackingProperties.level_session_index",
-  "challengeResponseTrackingProperties.num_correct_answer_tokens",
-  "challengeResponseTrackingProperties.num_tap_distractors",
-  "challengeResponseTrackingProperties.predicted_time_taken",
-  "challengeResponseTrackingProperties.session_subtype",
-  "challengeResponseTrackingProperties.session_type",
-  "character.avatarIconImage.pdf",
-  "character.avatarIconImage.svg",
-  "character.correctAnimation",
-  "character.gender",
-  "character.idleAnimation",
-  "character.image.pdf",
-  "character.image.svg",
-  "character.incorrectAnimation",
-  "character.name",
-  "character.url",
-  "correctIndex",
-  "grader.language",
-  "grader.version",
-  "grader.whitespaceDelimited",
-  "id",
-  "image.pdf",
-  "image.svg",
-  "isSpeakerUniversal",
-  //"metadata.best_translation",
-  //   "metadata.challenge_construction_insights.best_solution",
-  "metadata.challenge_construction_insights.birdbrain_probability",
-  "metadata.challenge_construction_insights.birdbrain_source",
-  "metadata.challenge_construction_insights.birdbrain_target",
-  "metadata.challenge_construction_insights.content_length",
-  "metadata.challenge_construction_insights.forward_sentence_id",
-  "metadata.challenge_construction_insights.highlighted_l1_weak_word_in_prompt",
-  "metadata.challenge_construction_insights.is_adaptive",
-  "metadata.challenge_construction_insights.num_correct_answer_tokens",
-  "metadata.challenge_construction_insights.num_tap_distractors",
-  "metadata.challenge_construction_insights.predicted_time_taken",
-  "metadata.challenge_display_settings.can_require_user_to_type",
-  "metadata.challenge_display_settings.show_input_mode_toggle",
-  "metadata.correct_index",
-  "metadata.from_language", ////
-  "metadata.language",
-  "metadata.learning_language", ////
-  "metadata.memory_style",
-  "metadata.num_comments",
-  "metadata.pdf_url",
-  //   "metadata.prompt",
-  //   "metadata.sentence",
-  //   "metadata.sentence_text",
-  //   "metadata.skill_tree_id",
-  "metadata.solution_key",
-  //   "metadata.solution_translation",
-  "metadata.source_language",
-  //   "metadata.specific_type",
-  "metadata.svg_url",
-  "metadata.target_language",
-  //   "metadata.text",
-  //   "metadata.translation",
-  //   "metadata.type",
-  "metadata.ui_language",
-  //   "prompt",
-  //   "sentenceId",
-  //   "solutionTranslation",
-  "sourceLanguage",
-  "targetLanguage",
-  "tts",
-  //   "type"
-]);
+// .env should set COURSE_NAME
+const COURSE_NAME = process.env.COURSE_NAME!;
+if (!COURSE_NAME) {
+    throw new Error('COURSE_NAME environment variable is not set');
+}
+export const CURRENT_COURSE = LANGUAGE_COURSES[COURSE_NAME]!;
+if (!CURRENT_COURSE) {
+    throw new Error(`COURSE_NAME "${COURSE_NAME}" is invalid. It must be one of:\n` +
+        Object.keys(LANGUAGE_COURSES).join('\n'));
+}

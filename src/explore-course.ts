@@ -1,6 +1,5 @@
 import { readJsonFromFile, writeStringToFile, FM } from './file-util.js';
-import { type LanguageCourse } from './model/courses.js';
-import { CURRENT_COURSE, keysToIgnore } from './config.js';
+import { keysToIgnore } from './explore-config.js';
 
 function getFlattenedKeys(obj: any, prefix = ''): string[] {
     let keys: string[] = [];

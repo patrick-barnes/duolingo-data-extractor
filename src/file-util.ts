@@ -53,14 +53,11 @@ export function getCourseJsonFilenameByCourseId(courseId: string): string {
 
 export class FileManager {
 
-    private course!: LanguageCourse; // = CURRENT_COURSE;
-
-    constructor(course: LanguageCourse) {
-        this.course = course;
+    constructor() {
     }
 
     getSessionFilenames() {
-        let sessionsFolder = `output/${this.course.commonFolderName}/sessions`;
+        let sessionsFolder = `output/${CURRENT_COURSE.commonFolderName}/sessions`;
         let sessionFilenames: string[] = [];
         const filenames = fs.readdirSync(sessionsFolder);
         for (let filename of filenames) {
@@ -78,11 +75,10 @@ export class FileManager {
         levelIndex: number,
         sessionIndex: number
     ) {
-        return `output/${this.course.commonFolderName}/sessions/sessions.${sectionIndex}.${unitIndex}.${levelIndex}.${sessionIndex}.json`;
+        return `output/${CURRENT_COURSE.commonFolderName}/sessions/sessions.${sectionIndex}.${unitIndex}.${levelIndex}.${sessionIndex}.json`;
     }
 
     getAllCoursesJsonFilename() {
-        // originally 'data/chinese-or-generic/user.courses.json'
         return `output/all-courses.json`;
     }
 
@@ -91,40 +87,37 @@ export class FileManager {
     }
 
     getCourseJsonFilename() {
-        return `output/${this.course.commonFolderName}/course.json`;
+        return `output/${CURRENT_COURSE.commonFolderName}/course.json`;
     }
 
     getExploreLevelsTsvFilename() {
-        return `output/${this.course.commonFolderName}/explore/levels.tsv`;
+        return `output/${CURRENT_COURSE.commonFolderName}/explore/levels.tsv`;
     }
 
     getExploreSkillsTsvFilename() {
-        return `output/${this.course.commonFolderName}/explore/skills.tsv`;
+        return `output/${CURRENT_COURSE.commonFolderName}/explore/skills.tsv`;
     }
 
     getExploreChallengeKeysJsonFilename() {
-        return `output/${this.course.commonFolderName}/explore/challenge-keys.json`;
+        return `output/${CURRENT_COURSE.commonFolderName}/explore/challenge-keys.json`;
     }
 
     getExploreChallengesTsvFilename() {
-        return `output/${this.course.commonFolderName}/explore/challenges.tsv`;
+        return `output/${CURRENT_COURSE.commonFolderName}/explore/challenges.tsv`;
     }
 
     getSentenceFlashcardsTsvFilename() {
-        return `output/${this.course.commonFolderName}/flashcards/sentence-flashcards.tsv`;
+        return `output/${CURRENT_COURSE.commonFolderName}/flashcards/sentence-flashcards.tsv`;
     }
 
     getLexemesJsonFilename() {
-        return `output/${this.course.commonFolderName}/lexemes/lexemes.json`;
+        return `output/${CURRENT_COURSE.commonFolderName}/lexemes/lexemes.json`;
     }
 
     getLexemeFlashcardsTsvFilename() {
-        return `output/${this.course.commonFolderName}/flashcards/lexeme-flashcards.tsv`;
+        return `output/${CURRENT_COURSE.commonFolderName}/flashcards/lexeme-flashcards.tsv`;
     }
 
 };
 
-export const FM = new FileManager(CURRENT_COURSE);
-
-
-
+export const FM = new FileManager();

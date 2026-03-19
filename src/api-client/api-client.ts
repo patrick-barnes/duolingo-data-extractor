@@ -3,6 +3,7 @@ import type { User, Course } from "../model/user.js";
 import { FM, getCourseJsonFilenameByCourseId, writeStringToFile } from "../file-util.js";
 import { ALL_CHALLENGE_TYPES } from "./all-challenge-types.js";
 import type { GetLearnedLexemesRequest, GetLearnedLexemesResponse, LearnedLexeme, ProgressedSkill } from "../model/lexemes.js";
+import { JWT, USER_ID } from "../config.js";
 
 const BASE_URL = 'https://www.duolingo.com/2017-06-30';
 
@@ -12,14 +13,7 @@ const WAIT_MILLIS = 1000;
 
 export class APIClient {
 
-	private USER_ID: string = '1691300557';
-	private jwt: string;
-
 	constructor() {
-		this.jwt = process.env.JWT || '';
-		if (!this.jwt) {
-			throw new Error('JWT environment variable is not set');
-		}
 	}
 
 	// common
@@ -32,7 +26,7 @@ export class APIClient {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
-				'Authorization': `Bearer ${this.jwt}`,
+				'Authorization': `Bearer ${JWT}`,
 			},
 			body: JSON.stringify(payload),
 		});
@@ -53,7 +47,7 @@ export class APIClient {
 		const response = await fetch(url, {
 			method: 'GET',
 			headers: {
-				'Authorization': `Bearer ${this.jwt}`,
+				'Authorization': `Bearer ${JWT}`,
 			},
 		});
 		if (!response.ok) {
@@ -79,7 +73,7 @@ export class APIClient {
 			payload: GetLearnedLexemesRequest
 	): Promise<GetLearnedLexemesResponse> {
 		let sortBy = 'LEARNED_DATE'; // 'ALPHABETICAL';
-		let url = `users/${this.USER_ID}/courses/${learningLanguage}/${fromLanguage}/learned-lexemes` +
+		let url = `users/${USER_ID}/courses/${learningLanguage}/${fromLanguage}/learned-lexemes` +
 			`?limit=${limit}` +
 			`&sortBy=${sortBy}` +
 			`&startIndex=${startIndex}`;
@@ -96,7 +90,7 @@ export class APIClient {
 	async fetchAndSaveCurrentCourse() {
 	  console.info('fetchAndSaveCurrentCourse() called');
 	  let ts = Date.now();
-	  let path = `users/${this.USER_ID}?fields=currentCourse&_=${ts}`;
+	  let path = `users/${USER_ID}?fields=currentCourse&_=${ts}`;
 	  let user: User = await this.doGet(path) as User;
 	  let courseId = user.currentCourse.id; // "DUOLINGO_AR_EN"
 	  let userJson = JSON.stringify(user, null, 2);
@@ -154,7 +148,7 @@ export class APIClient {
 								};
 								let sessions = await this.getSessions(req);
 								let sessionsJson = JSON.stringify(sessions, null, 2);
-								let sessionsFilename = `output/${courseId}/sessions/sessions.${section.index}.${unit.unitIndex}.${levelIndex}.${sessionIndex}.json`;
+								let sessionsFilename = FM.getSessionFilename(section.index, unit.unitIndex, levelIndex, sessionIndex);
 								writeStringToFile(sessionsJson, sessionsFilename);
 							}
 						}

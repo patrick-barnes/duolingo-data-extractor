@@ -30,7 +30,6 @@ The scripts will automatically load `.env` before executing.
   - `npm run explore-course` — Explore course structure
   - `npm run make-flashcards` — Generate Anki flashcards from fetched data
   - `npm run hindi-transliterator` — Transliterate Hindi text
-  - `npm run airlearn-fetch-words` — Fetch words for AirLearn
 
 ## Project Architecture
 
@@ -66,7 +65,7 @@ The project extracts learning data from Duolingo and generates Anki flashcards. 
   - `app.py` — Indic script transliteration
   - `transliterator/` — Supporting modules
 
-- **`output/`, `output-airlearn/`, `cache/`, `data/`** — Data directories (built at runtime)
+- **`output/`, `cache/`, `data/`** — Data directories (built at runtime)
 
 ### Configuration & Secrets
 

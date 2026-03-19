@@ -8,24 +8,18 @@ import { LANGUAGE_COURSES, type LanguageCourse } from './model/courses.js';
 interface Note {
     //id: string;
     english: string;
-    context: string;
     foreign: string;
     transliteration: string;
-    tip: string;
-    sources: string;
-    debug: string;
+    context: string;
 };
 
 function noteToTsvRow(note: Note): string {
     let row = [
         //note.id,
         note.english,
-        note.context,
         note.foreign,
         note.transliteration,
-        note.tip,
-        note.sources,
-        note.debug
+        note.context,
     ].join('\t');
     return row;
 }
@@ -33,12 +27,9 @@ function noteToTsvRow(note: Note): string {
 const NOTE_TSV_HEADERS = [
     //"ID",
     "English",
-    "Context",
     "Foreign",
     "Transliteration",
-    "Tip",
-    "Sources",
-    "Debug"
+    "Context",
 ];
 
 function getChallenges(sessionData: any): any[] {
@@ -57,7 +48,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
     try {
         sessionData = readJsonFromFile(jsonFilePath); // JSON.parse(fileContent);
     } catch (e) {
-        console.error(`Error while trying to read: ${jsonFilePath}`, e);
+        //console.error(`Error while trying to read: ${jsonFilePath}`/*, e*/);
         return [];
     }
     let notes: Note[] = [];
@@ -100,13 +91,13 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                 }
                 let note: Note = {
                     //id: 'TODO',
-                    context: teachingObjective,
                     english: isReverse ? textLang1 : textLang2,
                     foreign: isReverse ? textLang2 : textLang1,
                     transliteration: transliteration,
-                    sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
-                    tip: '-', // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
-                    debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+                    context: teachingObjective,
+                    //sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+                    //tip: '-', // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+                    //debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
                 };
                 let row = noteToTsvRow(note);
                 notes.push(note);
@@ -145,13 +136,13 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     }
                     let note: Note = {
                         //id: 'TODO',
-                        context: teachingObjective,
                         english: textLang1,
                         foreign: textLang2,
                         transliteration: transliteration,
-                        sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
-                        tip: '-',
-                        debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+                        context: teachingObjective,
+                        //sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+                        //tip: '-',
+                        //debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
                     };
                     let row = noteToTsvRow(note);
                     notes.push(note);
@@ -244,13 +235,13 @@ function makeLexemeFlashcards() {
     for (let lexeme of lexemes) {
         let note: Note = {
             //id: 'TODO',
-            context: 'lexeme',
             english: lexeme.translations.join('; '),
             foreign: lexeme.text,
             transliteration: '-',
-            sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
-            tip: '-',
-            debug: '-'
+            context: '',
+            //sources: 'Duo', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
+            //tip: '-',
+            //debug: '-'
         };
         if (CURRENT_COURSE.learningLanguage == 'ar') {
             note.transliteration = transliterateArabic(lexeme.text);
