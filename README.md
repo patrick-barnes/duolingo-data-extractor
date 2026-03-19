@@ -32,6 +32,16 @@ For examples of generated flashcards, see:
 Check the `output` folder for results.
 
 
+## Known Bugs and Limitations
+
+- When the target language is English itself, the `Foreign` and `English` column names are incorrect:
+  - The `English` column is not English, and the `Foreign` column is native
+- Transliteration/romanization is limited:
+  - for some languages, not supported for sentences, only lexems (words)
+  - for some languages, not supported at all
+- In output-example/, for some languages, sentence flashcards are not provided, only lexemes
+
+
 ## How to get your DuoLingo USER_ID and JWT token
 
 - Use Chrome Developer tools or similar to monitor network traffic
