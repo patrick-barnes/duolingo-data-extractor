@@ -7,7 +7,7 @@ const BASE_URL = 'https://api.unacademylanguage.com';
 
 // Wait in between API calls to avoid rate limiting
 const WAIT_MILLIS = 1000;
-const BATCH_SIZE = 50;
+const WORDS_BATCH_SIZE = 50;
 
 export class AirLearnAPIClient {
 
@@ -80,7 +80,7 @@ export class AirLearnAPIClient {
 		order: number, // 1 or 2
 		is_important: number, // 0 or 1
 	): Promise<any> {
-		console.info('getV1ContentWords() called');
+		console.info(`getV1ContentWords() called, goal_uid: ${goal_uid}, limit: ${limit}, offset: ${offset}, order: ${order}, is_important: ${is_important}`);
 		let url = `apollo/v1/content/words/?limit=${limit}&offset=${offset}&goal_uid=${goal_uid}&order=${order}&is_important=${is_important}`;
 		let words = await this.doGet(url);
 		let wordsJson = JSON.stringify(words, null, 2);
@@ -93,17 +93,30 @@ export class AirLearnAPIClient {
 	async fetchAndSaveWords(): Promise<Word[]> {
 	  console.info('fetchAndSaveWords() called');
 	  let goalUID = AIRLEARN_CURRENT_GOAL.goalUID;
-	  let limit = BATCH_SIZE;
-	  let offset = BATCH_SIZE * 0;
-	  let order = 2; // recent
+	  let limit = WORDS_BATCH_SIZE;
+	  let offset = 0; // start at the beginning
+	  let order = 1; // 1=recent, 2=a-z
 	  let isImportant = 0; // 0=all, 1=starred
-	  // TODO: Iterate...
-	  let wordsResponse: GetV1ContentWordsResponse = await this.getV1ContentWords(goalUID, limit, offset, order, isImportant);
-	  let words: Word[] = wordsResponse.data.words;
-	  let wordsJson = JSON.stringify(words, null, 2);
+	  let done = false;
+	  let allWords: Word[] = [];
+	  while (!done) {
+		// TODO: Iterate...
+		let wordsResponse: GetV1ContentWordsResponse = await this.getV1ContentWords(goalUID, limit, offset, order, isImportant);
+		let words: Word[] = wordsResponse.data.words;
+		allWords = allWords.concat(words);
+		if (!(wordsResponse.next)) {
+		  done = true;
+		} else if (allWords.length >= wordsResponse.count) {
+		  console.warn(`WARNING: avoided infinite loop; next was not empty but we already fetched count=${wordsResponse.count} words.`);
+		  done = true;
+		} else {
+		  offset += limit;
+		}
+	  }
+	  let wordsJson = JSON.stringify(allWords, null, 2);
 	  let wordsJsonFilename = getV1ContentWordsJsonFilenameByCourseIdGeneric(goalUID);
 	  writeStringToFile(wordsJson, wordsJsonFilename);
-	  return words;
+	  return allWords;
 	}
 
 }

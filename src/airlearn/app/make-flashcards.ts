@@ -112,5 +112,9 @@ let goalUID = AIRLEARN_CURRENT_GOAL.goalUID;
 let wordsJsonFilename = getV1ContentWordsJsonFilenameByCourseIdGeneric(goalUID);
 let wordsFlashcardsJsonFilename = getLexemeFlashcardsTsvFilename(goalUID);
 let words: Word[] = readJsonFromFile(wordsJsonFilename);
+// The words are sorted by most recent first.
+// However, we want oldest first, because that's the order in which they were learned,
+// which is more intuitive for flashcards. So we reverse the order here.
+words.reverse(); 
 let notes: Note[] = makeFlashCards(words);
 saveFlashCardsToTsv(notes, wordsFlashcardsJsonFilename);
