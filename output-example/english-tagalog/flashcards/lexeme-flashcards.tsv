@@ -1,0 +1,4176 @@
+ID	Context	Foreign	English	Transliteration	Sources	Tip	Debug
+TODO	lexeme	please	pakiusap	-	Duo	-	-
+TODO	lexeme	coffee	kape	-	Duo	-	-
+TODO	lexeme	welcome	maligayang pagdating	-	Duo	-	-
+TODO	lexeme	tea	tsaa	-	Duo	-	-
+TODO	lexeme	or	o	-	Duo	-	-
+TODO	lexeme	with	may kasama; na may; kasama; kasama ang; na kasama; ng; gamit ng; sa; kasamang	-	Duo	-	-
+TODO	lexeme	milk	gatas	-	Duo	-	-
+TODO	lexeme	sugar	asukal	-	Duo	-	-
+TODO	lexeme	hello	kumusta	-	Duo	-	-
+TODO	lexeme	water	tubig	-	Duo	-	-
+TODO	lexeme	and	at ng; y; at; sina; na't; na’t	-	Duo	-	-
+TODO	lexeme	thank you	salamat	-	Duo	-	-
+TODO	lexeme	goodbye	paalam	-	Duo	-	-
+TODO	lexeme	i am from	Ako ay mula sa	-	Duo	-	-
+TODO	lexeme	and you	at ikaw ay; at ikaw	-	Duo	-	-
+TODO	lexeme	too	masyadong; masyado; pati; rin; din	-	Duo	-	-
+TODO	lexeme	hi	hi	-	Duo	-	-
+TODO	lexeme	my name is	ang aking pangalan ay	-	Duo	-	-
+TODO	lexeme	dad	tatay	-	Duo	-	-
+TODO	lexeme	mom	nanay	-	Duo	-	-
+TODO	lexeme	my	aking; akin; kong; ko; ng aking; sakin; sa akin; ang aking	-	Duo	-	-
+TODO	lexeme	this is	Ito ang; Ito ay	-	Duo	-	-
+TODO	lexeme	sister	babaeng kapatid	-	Duo	-	-
+TODO	lexeme	brother	lalaking kapatid	-	Duo	-	-
+TODO	lexeme	is from	ay mula sa	-	Duo	-	-
+TODO	lexeme	passport	pasaporte	-	Duo	-	-
+TODO	lexeme	ticket	tiket	-	Duo	-	-
+TODO	lexeme	your	kita; mo; niyo; iyong; iyo; ninyong; sa iyong; ng iyong; inyong; n'yo; ninyo; ang iyong; mong; niyong	-	Duo	-	-
+TODO	lexeme	gate	gate	-	Duo	-	-
+TODO	lexeme	bag	bagahe	-	Duo	-	-
+TODO	lexeme	phone	cellphone	-	Duo	-	-
+TODO	lexeme	is this	ito ba ay; ito ba ang; itong	-	Duo	-	-
+TODO	lexeme	jacket	jacket	-	Duo	-	-
+TODO	lexeme	welcome to	Maligayang pagdating sa	-	Duo	-	-
+TODO	lexeme	customs	adwana; customs	-	Duo	-	-
+TODO	lexeme	yes	oo	-	Duo	-	-
+TODO	lexeme	city	lungsod	-	Duo	-	-
+TODO	lexeme	big	malaki	-	Duo	-	-
+TODO	lexeme	nice	maganda	-	Duo	-	-
+TODO	lexeme	is	ang; ba ay; ay; ba ang; bang; ng; si; '; e	-	Duo	-	-
+TODO	lexeme	busy	matao	-	Duo	-	-
+TODO	lexeme	museum	museo	-	Duo	-	-
+TODO	lexeme	street	kalye	-	Duo	-	-
+TODO	lexeme	this	itong; ito; nito; na ito; nitong	-	Duo	-	-
+TODO	lexeme	famous	sikat	-	Duo	-	-
+TODO	lexeme	house	bahay	-	Duo	-	-
+TODO	lexeme	quiet	tahimik	-	Duo	-	-
+TODO	lexeme	university	unibersidad	-	Duo	-	-
+TODO	lexeme	right	kanang; tamang; kanan; pakanan; tama; karapatan	-	Duo	-	-
+TODO	lexeme	where is	Nasaan	-	Duo	-	-
+TODO	lexeme	old	luma	-	Duo	-	-
+TODO	lexeme	library	library	-	Duo	-	-
+TODO	lexeme	restaurant	restawran	-	Duo	-	-
+TODO	lexeme	park	parke	-	Duo	-	-
+TODO	lexeme	very	napaka-	-	Duo	-	-
+TODO	lexeme	menu	menu	-	Duo	-	-
+TODO	lexeme	sandwich	sandwich	-	Duo	-	-
+TODO	lexeme	expensive	mahal	-	Duo	-	-
+TODO	lexeme	i'd like a	Gusto ko ng isang	-	Duo	-	-
+TODO	lexeme	small	maliit	-	Duo	-	-
+TODO	lexeme	pizza	pizza	-	Duo	-	-
+TODO	lexeme	glass of water	baso ng tubig	-	Duo	-	-
+TODO	lexeme	a	ng; isang; ng isang; a	-	Duo	-	-
+TODO	lexeme	large	malaki	-	Duo	-	-
+TODO	lexeme	burger	burger	-	Duo	-	-
+TODO	lexeme	salad	salad	-	Duo	-	-
+TODO	lexeme	bowl of soup	mangkok ng sopas	-	Duo	-	-
+TODO	lexeme	excuse me	pasuyo	-	Duo	-	-
+TODO	lexeme	dessert	dessert	-	Duo	-	-
+TODO	lexeme	check	bill	-	Duo	-	-
+TODO	lexeme	here is your	Narito ang iyong	-	Duo	-	-
+TODO	lexeme	delicious	masarap	-	Duo	-	-
+TODO	lexeme	doctor	doktor	-	Duo	-	-
+TODO	lexeme	student	estudyante	-	Duo	-	-
+TODO	lexeme	i'm	ako; kong; ako ay; ko	-	Duo	-	-
+TODO	lexeme	chef	chef	-	Duo	-	-
+TODO	lexeme	wife	asawang babae	-	Duo	-	-
+TODO	lexeme	teacher	titser	-	Duo	-	-
+TODO	lexeme	husband	asawang lalaki	-	Duo	-	-
+TODO	lexeme	nurse	nars	-	Duo	-	-
+TODO	lexeme	lawyer	abogado	-	Duo	-	-
+TODO	lexeme	friend	kaibigan	-	Duo	-	-
+TODO	lexeme	great	magaling	-	Duo	-	-
+TODO	lexeme	speak	nagsasalita	-	Duo	-	-
+TODO	lexeme	English	Ingles	-	Duo	-	-
+TODO	lexeme	Spanish	Spanish	-	Duo	-	-
+TODO	lexeme	I	Ako	-	Duo	-	-
+TODO	lexeme	you	ikaw	-	Duo	-	-
+TODO	lexeme	understand	nakakaintindi	-	Duo	-	-
+TODO	lexeme	oh	uy; oh	-	Duo	-	-
+TODO	lexeme	Chinese	Chinese	-	Duo	-	-
+TODO	lexeme	study	nag-aaral	-	Duo	-	-
+TODO	lexeme	at school	sa paaralan	-	Duo	-	-
+TODO	lexeme	French	French	-	Duo	-	-
+TODO	lexeme	a little	konti	-	Duo	-	-
+TODO	lexeme	Hindi	Hindi	-	Duo	-	-
+TODO	lexeme	well	mahusay	-	Duo	-	-
+TODO	lexeme	at home	sa bahay	-	Duo	-	-
+TODO	lexeme	today	ngayong araw	-	Duo	-	-
+TODO	lexeme	it's rainy	Maulan	-	Duo	-	-
+TODO	lexeme	here	dito; nandito; narito; rito	-	Duo	-	-
+TODO	lexeme	it's cold	Malamig	-	Duo	-	-
+TODO	lexeme	it's sunny	maaraw	-	Duo	-	-
+TODO	lexeme	it's hot	mainit	-	Duo	-	-
+TODO	lexeme	in	tuwing; i; sa loob ng; sa; in	-	Duo	-	-
+TODO	lexeme	cloudy	maulap	-	Duo	-	-
+TODO	lexeme	need	kailangan	-	Duo	-	-
+TODO	lexeme	hat	sombrero	-	Duo	-	-
+TODO	lexeme	is it	ba; bang	-	Duo	-	-
+TODO	lexeme	it's	ito'y; itong; ito ay; ito	-	Duo	-	-
+TODO	lexeme	windy	mahangin	-	Duo	-	-
+TODO	lexeme	scarf	balabal	-	Duo	-	-
+TODO	lexeme	sweater	sweater	-	Duo	-	-
+TODO	lexeme	dog	aso	-	Duo	-	-
+TODO	lexeme	pet	alagang hayop	-	Duo	-	-
+TODO	lexeme	cat	pusa	-	Duo	-	-
+TODO	lexeme	do you have	Mayroon ka bang	-	Duo	-	-
+TODO	lexeme	i have	Mayroon akong; Mayroon ba akong	-	Duo	-	-
+TODO	lexeme	rabbit	kuneho	-	Duo	-	-
+TODO	lexeme	cute	kyut	-	Duo	-	-
+TODO	lexeme	are	ay	-	Duo	-	-
+TODO	lexeme	two	dalawa	-	Duo	-	-
+TODO	lexeme	smart	matalino	-	Duo	-	-
+TODO	lexeme	three	tatlo	-	Duo	-	-
+TODO	lexeme	snake	ahas	-	Duo	-	-
+TODO	lexeme	don't worry	huwag kang mag-alala	-	Duo	-	-
+TODO	lexeme	store	tindahan	-	Duo	-	-
+TODO	lexeme	new	bago	-	Duo	-	-
+TODO	lexeme	open	bukas	-	Duo	-	-
+TODO	lexeme	shirt	polo shirt	-	Duo	-	-
+TODO	lexeme	red	pula	-	Duo	-	-
+TODO	lexeme	want	gusto	-	Duo	-	-
+TODO	lexeme	on sale	nakadiskuwento	-	Duo	-	-
+TODO	lexeme	closed	sarado	-	Duo	-	-
+TODO	lexeme	like	gusto; nais; mahilig; magugustuhan; gustong; gustung	-	Duo	-	-
+TODO	lexeme	skirt	palda	-	Duo	-	-
+TODO	lexeme	white	puti	-	Duo	-	-
+TODO	lexeme	that	iyan; na iyan; na; iyon; iyang; na iyon; iyáng	-	Duo	-	-
+TODO	lexeme	cheap	mura	-	Duo	-	-
+TODO	lexeme	green	berde	-	Duo	-	-
+TODO	lexeme	how much is	Magkano ang	-	Duo	-	-
+TODO	lexeme	apartment	apartment	-	Duo	-	-
+TODO	lexeme	i'm good	Mabuti ako	-	Duo	-	-
+TODO	lexeme	here is	Narito	-	Duo	-	-
+TODO	lexeme	come in	pumasok; tumuloy	-	Duo	-	-
+TODO	lexeme	how are you	kumusta ka	-	Duo	-	-
+TODO	lexeme	living room	sala	-	Duo	-	-
+TODO	lexeme	kitchen	kusina	-	Duo	-	-
+TODO	lexeme	beautiful	maganda	-	Duo	-	-
+TODO	lexeme	the	u; ang; ay; sina; ng; ika; sa; yung; a	-	Duo	-	-
+TODO	lexeme	table	mesa	-	Duo	-	-
+TODO	lexeme	clean	malinis	-	Duo	-	-
+TODO	lexeme	couch	sofa	-	Duo	-	-
+TODO	lexeme	on	bukas; tuwing; nung; on; naka; kapag; noong; nasa; tungkol; nakadikit; sa; nakabukas; para sa; in	-	Duo	-	-
+TODO	lexeme	bathroom	banyo	-	Duo	-	-
+TODO	lexeme	fridge	ref	-	Duo	-	-
+TODO	lexeme	food	pagkain	-	Duo	-	-
+TODO	lexeme	have a seat	maupo ka	-	Duo	-	-
+TODO	lexeme	car	kotse	-	Duo	-	-
+TODO	lexeme	wallet	pitaka	-	Duo	-	-
+TODO	lexeme	near	malapit; na malapit	-	Duo	-	-
+TODO	lexeme	see you later	kita-kita	-	Duo	-	-
+TODO	lexeme	am	ang; ay	-	Duo	-	-
+TODO	lexeme	also	pa din; rin; din; ding	-	Duo	-	-
+TODO	lexeme	nice to meet you	masayang makilala ka	-	Duo	-	-
+TODO	lexeme	professor	propesor	-	Duo	-	-
+TODO	lexeme	roommate	kabahay	-	Duo	-	-
+TODO	lexeme	cake	keyk	-	Duo	-	-
+TODO	lexeme	who is	Sino ang; sino ang	-	Duo	-	-
+TODO	lexeme	good	okey lang; ayos; maganda; ayos lang; mabuti naman; maiinam; maayos naman; magaganda; magaling; mabubuti; mabait; maayos; magagandang; maaayos; okey; galing; mainam; mabubuting; mahusay; mabuti; masarap; okay lang; mabuting; magandang; good	-	Duo	-	-
+TODO	lexeme	really	talagang	-	Duo	-	-
+TODO	lexeme	class	klase	-	Duo	-	-
+TODO	lexeme	together	magkasama	-	Duo	-	-
+TODO	lexeme	we	kami; natin; nating; kaming; tayong; tayo; namin; naming; aming; kami’y	-	Duo	-	-
+TODO	lexeme	classmate	kaklase	-	Duo	-	-
+TODO	lexeme	fun	masaya	-	Duo	-	-
+TODO	lexeme	party	party	-	Duo	-	-
+TODO	lexeme	they	sila	-	Duo	-	-
+TODO	lexeme	cousin	pinsan	-	Duo	-	-
+TODO	lexeme	friendly	palakaibigan	-	Duo	-	-
+TODO	lexeme	from	nagmula; mula; mulang; mula sa; nanggaling sa; taga; nagmula sa; galing; sa; galing sa	-	Duo	-	-
+TODO	lexeme	you're	kang; ikaw ay	-	Duo	-	-
+TODO	lexeme	she	siya	-	Duo	-	-
+TODO	lexeme	we're	tayo ay; kami ay	-	Duo	-	-
+TODO	lexeme	funny	nakakatawa	-	Duo	-	-
+TODO	lexeme	neighbor	kapitbahay	-	Duo	-	-
+TODO	lexeme	he	siya	-	Duo	-	-
+TODO	lexeme	late	huli	-	Duo	-	-
+TODO	lexeme	sorry	pasensiya na	-	Duo	-	-
+TODO	lexeme	she's	siya'y; siya ang; siya ay; niya	-	Duo	-	-
+TODO	lexeme	he's	ay; siya'y; siya ay; siya; niya; siyang; po siya; Siya’y; ang	-	Duo	-	-
+TODO	lexeme	polite	magalang	-	Duo	-	-
+TODO	lexeme	best friend	matalik na kaibigan	-	Duo	-	-
+TODO	lexeme	so	kaya	-	Duo	-	-
+TODO	lexeme	they're	sila ay; nila; sila	-	Duo	-	-
+TODO	lexeme	bye	paalam	-	Duo	-	-
+TODO	lexeme	café	kapihan	-	Duo	-	-
+TODO	lexeme	breakfast	almusal	-	Duo	-	-
+TODO	lexeme	for	sa loob ng; sa isang; ng; sa; para; para sa; ipag	-	Duo	-	-
+TODO	lexeme	available	bakante	-	Duo	-	-
+TODO	lexeme	fresh	sariwa	-	Duo	-	-
+TODO	lexeme	pancake	pancake	-	Duo	-	-
+TODO	lexeme	egg	itlog	-	Duo	-	-
+TODO	lexeme	hot	mainit	-	Duo	-	-
+TODO	lexeme	how much	magkano	-	Duo	-	-
+TODO	lexeme	bread	tinapay	-	Duo	-	-
+TODO	lexeme	sweet	matamis	-	Duo	-	-
+TODO	lexeme	vegetarian	taong makagulay; vegetarian	-	Duo	-	-
+TODO	lexeme	cold	malamig	-	Duo	-	-
+TODO	lexeme	spicy	maanghang	-	Duo	-	-
+TODO	lexeme	drink	inumin	-	Duo	-	-
+TODO	lexeme	enough	sapat	-	Duo	-	-
+TODO	lexeme	box	kahon; kahong	-	Duo	-	-
+TODO	lexeme	credit card	credit card	-	Duo	-	-
+TODO	lexeme	full	mapupuno; busog; puno; punông	-	Duo	-	-
+TODO	lexeme	done	nagawa; natapos; nagawang; nagdo	-	Duo	-	-
+TODO	lexeme	do you need	Kailangan mo bang; Kailangan mo ba	-	Duo	-	-
+TODO	lexeme	pen	bolpen	-	Duo	-	-
+TODO	lexeme	computer	computer	-	Duo	-	-
+TODO	lexeme	office	opisina	-	Duo	-	-
+TODO	lexeme	key	susi	-	Duo	-	-
+TODO	lexeme	document	dokumento	-	Duo	-	-
+TODO	lexeme	these	ang; ito; itong; nitong; na ito	-	Duo	-	-
+TODO	lexeme	important	importante	-	Duo	-	-
+TODO	lexeme	at work	sa trabaho	-	Duo	-	-
+TODO	lexeme	boss	boss	-	Duo	-	-
+TODO	lexeme	book	libro	-	Duo	-	-
+TODO	lexeme	desk	mesa	-	Duo	-	-
+TODO	lexeme	hard	mahirap	-	Duo	-	-
+TODO	lexeme	job	trabaho	-	Duo	-	-
+TODO	lexeme	coworker	katrabaho	-	Duo	-	-
+TODO	lexeme	interesting	interesante	-	Duo	-	-
+TODO	lexeme	no	hindi; wala; walang; huwag; ng hindi	-	Duo	-	-
+TODO	lexeme	tired	pagod	-	Duo	-	-
+TODO	lexeme	not	nai; hindi; '	-	Duo	-	-
+TODO	lexeme	happy	masaya	-	Duo	-	-
+TODO	lexeme	family	pamilya	-	Duo	-	-
+TODO	lexeme	how	kumusta	-	Duo	-	-
+TODO	lexeme	sad	malungkot	-	Duo	-	-
+TODO	lexeme	son	lalaking anak	-	Duo	-	-
+TODO	lexeme	baby	beybi	-	Duo	-	-
+TODO	lexeme	daughter	babaeng anak	-	Duo	-	-
+TODO	lexeme	upset	naiinis	-	Duo	-	-
+TODO	lexeme	surprised	nagulat	-	Duo	-	-
+TODO	lexeme	i'm sorry	pasensya na	-	Duo	-	-
+TODO	lexeme	good to see you	nakakatuwang makita ka	-	Duo	-	-
+TODO	lexeme	parents	mga magulang	-	Duo	-	-
+TODO	lexeme	take care	ingat	-	Duo	-	-
+TODO	lexeme	excited	tuwang-tuwa	-	Duo	-	-
+TODO	lexeme	question	tanong	-	Duo	-	-
+TODO	lexeme	answer	sagot	-	Duo	-	-
+TODO	lexeme	school	eskwela	-	Duo	-	-
+TODO	lexeme	test	test	-	Duo	-	-
+TODO	lexeme	number	numero	-	Duo	-	-
+TODO	lexeme	pencil	lapis	-	Duo	-	-
+TODO	lexeme	isn't	hindi; ay hindi	-	Duo	-	-
+TODO	lexeme	wrong	mali	-	Duo	-	-
+TODO	lexeme	word	salita	-	Duo	-	-
+TODO	lexeme	eraser	pambura	-	Duo	-	-
+TODO	lexeme	page	pahina	-	Duo	-	-
+TODO	lexeme	aren't	ay hindi; hindi; '	-	Duo	-	-
+TODO	lexeme	quiz	quiz	-	Duo	-	-
+TODO	lexeme	grade	grado	-	Duo	-	-
+TODO	lexeme	bad	pangit	-	Duo	-	-
+TODO	lexeme	homework	asaynment	-	Duo	-	-
+TODO	lexeme	classroom	klasrum	-	Duo	-	-
+TODO	lexeme	group	grupo	-	Duo	-	-
+TODO	lexeme	confused	pagkalito	-	Duo	-	-
+TODO	lexeme	help	tumulong; tutulong; matulungan; tinutulungan; tulungang; tulong; tulungan; patulong; matutulungan; makatulong	-	Duo	-	-
+TODO	lexeme	shoe store	tindahan ng sapatos	-	Duo	-	-
+TODO	lexeme	mall	mall	-	Duo	-	-
+TODO	lexeme	upstairs	nasa taas	-	Duo	-	-
+TODO	lexeme	where	nasaan	-	Duo	-	-
+TODO	lexeme	laptop	laptop	-	Duo	-	-
+TODO	lexeme	shoe	sapatos	-	Duo	-	-
+TODO	lexeme	downstairs	nasa baba	-	Duo	-	-
+TODO	lexeme	over there	nandoon	-	Duo	-	-
+TODO	lexeme	toy store	tindahan ng laruan	-	Duo	-	-
+TODO	lexeme	why	bakit	-	Duo	-	-
+TODO	lexeme	at	ang; nasa; ng; sa; alas	-	Duo	-	-
+TODO	lexeme	broken	sira	-	Duo	-	-
+TODO	lexeme	manager	manedyer	-	Duo	-	-
+TODO	lexeme	tall	matangkad	-	Duo	-	-
+TODO	lexeme	who	sino	-	Duo	-	-
+TODO	lexeme	person	tao	-	Duo	-	-
+TODO	lexeme	game	laro	-	Duo	-	-
+TODO	lexeme	doll	manika	-	Duo	-	-
+TODO	lexeme	sock	medyas	-	Duo	-	-
+TODO	lexeme	another	isa pa	-	Duo	-	-
+TODO	lexeme	o'clock	alas-7; alas-9	-	Duo	-	-
+TODO	lexeme	one	una	-	Duo	-	-
+TODO	lexeme	what time is it	anong oras na	-	Duo	-	-
+TODO	lexeme	bus	bus	-	Duo	-	-
+TODO	lexeme	now	ngayon	-	Duo	-	-
+TODO	lexeme	thirty	y medya	-	Duo	-	-
+TODO	lexeme	four	kuwatro	-	Duo	-	-
+TODO	lexeme	bus station	istasyon ng bus	-	Duo	-	-
+TODO	lexeme	train station	istasyon ng tren	-	Duo	-	-
+TODO	lexeme	yet	pa; ano; ngunit; pang	-	Duo	-	-
+TODO	lexeme	five	singko	-	Duo	-	-
+TODO	lexeme	taxi	taxi	-	Duo	-	-
+TODO	lexeme	nearest	pinakamalapit; pinakamalapit na	-	Duo	-	-
+TODO	lexeme	six	sais	-	Duo	-	-
+TODO	lexeme	seven	siyete	-	Duo	-	-
+TODO	lexeme	almost	halos	-	Duo	-	-
+TODO	lexeme	airport	airport	-	Duo	-	-
+TODO	lexeme	nine	nuwebe	-	Duo	-	-
+TODO	lexeme	eight	otso	-	Duo	-	-
+TODO	lexeme	fifteen	labinlimang; labinlima; kinse; ay labinlimang	-	Duo	-	-
+TODO	lexeme	player	manlalaro	-	Duo	-	-
+TODO	lexeme	fast	mabilis	-	Duo	-	-
+TODO	lexeme	both	pareho; parehong	-	Duo	-	-
+TODO	lexeme	soccer	soccer	-	Duo	-	-
+TODO	lexeme	love	gustong-gusto	-	Duo	-	-
+TODO	lexeme	tennis	tennis	-	Duo	-	-
+TODO	lexeme	sport	isport	-	Duo	-	-
+TODO	lexeme	baseball	beysbol	-	Duo	-	-
+TODO	lexeme	favorite	paborito	-	Duo	-	-
+TODO	lexeme	ball	bola	-	Duo	-	-
+TODO	lexeme	play	tumugtog; laro; ay naglalaro; dulang; naglaro; maglalaro; maglaro; tumutugtog; tumugtog ng; paglaruan; lalaruin	-	Duo	-	-
+TODO	lexeme	a lot	nang sobra	-	Duo	-	-
+TODO	lexeme	me too	ako rin	-	Duo	-	-
+TODO	lexeme	exciting	nakakatuwa	-	Duo	-	-
+TODO	lexeme	team	team	-	Duo	-	-
+TODO	lexeme	basketball	basketbol	-	Duo	-	-
+TODO	lexeme	saturday	Sabado	-	Duo	-	-
+TODO	lexeme	cook	nagluluto	-	Duo	-	-
+TODO	lexeme	every day	araw-araw	-	Duo	-	-
+TODO	lexeme	every	bawat; tuwing; kada	-	Duo	-	-
+TODO	lexeme	rest	nagpapahinga	-	Duo	-	-
+TODO	lexeme	sweep	nagwawalis	-	Duo	-	-
+TODO	lexeme	always	lagi	-	Duo	-	-
+TODO	lexeme	usually	kadalasan	-	Duo	-	-
+TODO	lexeme	window	bintana	-	Duo	-	-
+TODO	lexeme	floor	sahig	-	Duo	-	-
+TODO	lexeme	wash	naglilinis	-	Duo	-	-
+TODO	lexeme	friday	Biyernes	-	Duo	-	-
+TODO	lexeme	week	linggo	-	Duo	-	-
+TODO	lexeme	month	buwan	-	Duo	-	-
+TODO	lexeme	sunday	Linggo	-	Duo	-	-
+TODO	lexeme	watch	relos; nanood; relo; manonood; napanood; pinanood; na manood; manood; nanonood ng; nanonood; napapanood	-	Duo	-	-
+TODO	lexeme	movie	pelikula	-	Duo	-	-
+TODO	lexeme	at night	sa gabi	-	Duo	-	-
+TODO	lexeme	tv	telebisyon; TV	-	Duo	-	-
+TODO	lexeme	eat breakfast	kakain ng almusal	-	Duo	-	-
+TODO	lexeme	a.m.	ng umaga	-	Duo	-	-
+TODO	lexeme	ten	diyes	-	Duo	-	-
+TODO	lexeme	monday	Lunes	-	Duo	-	-
+TODO	lexeme	start school	nagsimula sa paaralan	-	Duo	-	-
+TODO	lexeme	start work	magsimula ng trabaho	-	Duo	-	-
+TODO	lexeme	early	maaga	-	Duo	-	-
+TODO	lexeme	wednesday	Miyerkules	-	Duo	-	-
+TODO	lexeme	go	pagpunta	-	Duo	-	-
+TODO	lexeme	tuesday	Martes	-	Duo	-	-
+TODO	lexeme	to	ma; sa; i	-	Duo	-	-
+TODO	lexeme	goes	pumupunta; ay pupunta; umuwi; babalik; nagpupunta; pupunta; nagpapatuloy; dumadayo; pumupuntang	-	Duo	-	-
+TODO	lexeme	gym	gym	-	Duo	-	-
+TODO	lexeme	thursday	Huwebes	-	Duo	-	-
+TODO	lexeme	after school	pagkatapos ng paaralan	-	Duo	-	-
+TODO	lexeme	sometimes	minsan	-	Duo	-	-
+TODO	lexeme	after work	pagkatapos ng trabaho	-	Duo	-	-
+TODO	lexeme	walk	paglakad	-	Duo	-	-
+TODO	lexeme	dinner	hapunan	-	Duo	-	-
+TODO	lexeme	eat	pagkain	-	Duo	-	-
+TODO	lexeme	p.m.	hapon; gabi; tanghali; ng gabi; p.m	-	Duo	-	-
+TODO	lexeme	often	madalas	-	Duo	-	-
+TODO	lexeme	take	tatahakin; sumakay; kinuha; kuha; tangalin; dumaan; daanan; Kuha ka; kunin; kumukuha; kuhanin; aabutin; dadaanan; sumasakay; kumuha; inumin; inaabot	-	Duo	-	-
+TODO	lexeme	summer	tag-araw	-	Duo	-	-
+TODO	lexeme	year	taon	-	Duo	-	-
+TODO	lexeme	vacation	bakasyon	-	Duo	-	-
+TODO	lexeme	room	room; kuwartong; silid; kwartong; kuwarto; aralan	-	Duo	-	-
+TODO	lexeme	reservation	reserbasyon	-	Duo	-	-
+TODO	lexeme	have	meron	-	Duo	-	-
+TODO	lexeme	ready	handa	-	Duo	-	-
+TODO	lexeme	phone number	numero ng telepono	-	Duo	-	-
+TODO	lexeme	towel	tuwalya	-	Duo	-	-
+TODO	lexeme	toothbrush	sipilyo	-	Duo	-	-
+TODO	lexeme	pillow	unan	-	Duo	-	-
+TODO	lexeme	hotel	hotel	-	Duo	-	-
+TODO	lexeme	on vacation	nakabakasyon	-	Duo	-	-
+TODO	lexeme	allowed	pwede	-	Duo	-	-
+TODO	lexeme	place	lugar	-	Duo	-	-
+TODO	lexeme	warm	mainit-init	-	Duo	-	-
+TODO	lexeme	travel	pagbiyahe	-	Duo	-	-
+TODO	lexeme	night	gabi	-	Duo	-	-
+TODO	lexeme	banana	saging	-	Duo	-	-
+TODO	lexeme	tomato	kamatis	-	Duo	-	-
+TODO	lexeme	apple	mansanas	-	Duo	-	-
+TODO	lexeme	an	ng; isang; ang; isa; ng isang	-	Duo	-	-
+TODO	lexeme	buy	pagbili	-	Duo	-	-
+TODO	lexeme	cheese	keso	-	Duo	-	-
+TODO	lexeme	onion	sibuyas	-	Duo	-	-
+TODO	lexeme	bean	beans	-	Duo	-	-
+TODO	lexeme	soup	sopas	-	Duo	-	-
+TODO	lexeme	salt	asin	-	Duo	-	-
+TODO	lexeme	vegetable	gulay	-	Duo	-	-
+TODO	lexeme	meat	karne	-	Duo	-	-
+TODO	lexeme	rice	ng kanin; kanin; bigas; rice	-	Duo	-	-
+TODO	lexeme	chicken	manok	-	Duo	-	-
+TODO	lexeme	bottle	bote	-	Duo	-	-
+TODO	lexeme	juice	juice	-	Duo	-	-
+TODO	lexeme	of	ni; ang; ng; na; tungkol sa; may; kay; dahil sa; sa; de	-	Duo	-	-
+TODO	lexeme	ice cream	sorbetes	-	Duo	-	-
+TODO	lexeme	aunt	tiya; tiyahin; tita	-	Duo	-	-
+TODO	lexeme	boyfriend	boyfriend	-	Duo	-	-
+TODO	lexeme	grandparents	lolo't lola; lolo at lola	-	Duo	-	-
+TODO	lexeme	girlfriend	girlfriend	-	Duo	-	-
+TODO	lexeme	uncle	tito	-	Duo	-	-
+TODO	lexeme	has	ay mayroong; ay may; merong; mayroong; mayroon; may; nasa	-	Duo	-	-
+TODO	lexeme	children	sa mga bata; mga bata; ang mga bata; mga anak	-	Duo	-	-
+TODO	lexeme	brown	brown	-	Duo	-	-
+TODO	lexeme	blue	asul	-	Duo	-	-
+TODO	lexeme	eye	mata	-	Duo	-	-
+TODO	lexeme	hair	buhok	-	Duo	-	-
+TODO	lexeme	short	hindi matangkad	-	Duo	-	-
+TODO	lexeme	beard	balbas	-	Duo	-	-
+TODO	lexeme	married	kasal; mag-asawa; nagpakasal	-	Duo	-	-
+TODO	lexeme	their	nilang; kaniyang; kanilang; nila; kanila	-	Duo	-	-
+TODO	lexeme	blond	blond	-	Duo	-	-
+TODO	lexeme	single	walang karelasyon	-	Duo	-	-
+TODO	lexeme	our	ang aming; aming; namin; ating; natin; amin; atin; ang ating	-	Duo	-	-
+TODO	lexeme	chair	silya	-	Duo	-	-
+TODO	lexeme	thanks	salamat	-	Duo	-	-
+TODO	lexeme	camera	camera	-	Duo	-	-
+TODO	lexeme	picture of	larawan ng	-	Duo	-	-
+TODO	lexeme	picture	litrato	-	Duo	-	-
+TODO	lexeme	clock	relos	-	Duo	-	-
+TODO	lexeme	those	iyong; iyan; iyon; iyang	-	Duo	-	-
+TODO	lexeme	band	banda	-	Duo	-	-
+TODO	lexeme	piano	piano	-	Duo	-	-
+TODO	lexeme	play the	laruin ang	-	Duo	-	-
+TODO	lexeme	guitar	gitara	-	Duo	-	-
+TODO	lexeme	music	musika	-	Duo	-	-
+TODO	lexeme	wall	pader	-	Duo	-	-
+TODO	lexeme	poster	poster	-	Duo	-	-
+TODO	lexeme	plant	halaman	-	Duo	-	-
+TODO	lexeme	color	kulay	-	Duo	-	-
+TODO	lexeme	notebook	notbuk	-	Duo	-	-
+TODO	lexeme	read	pagbasa	-	Duo	-	-
+TODO	lexeme	under	sa ilalim; nasa ilalim	-	Duo	-	-
+TODO	lexeme	wait	teka	-	Duo	-	-
+TODO	lexeme	right here	nandito	-	Duo	-	-
+TODO	lexeme	what kind of	Anong klaseng	-	Duo	-	-
+TODO	lexeme	oh no	naku	-	Duo	-	-
+TODO	lexeme	lost	nawawala	-	Duo	-	-
+TODO	lexeme	gray	grey	-	Duo	-	-
+TODO	lexeme	glove	guwantes	-	Duo	-	-
+TODO	lexeme	dirty	marumi	-	Duo	-	-
+TODO	lexeme	plate	plato	-	Duo	-	-
+TODO	lexeme	bowl	mangkok	-	Duo	-	-
+TODO	lexeme	his	kaniya; ang kaniyang; niya; kaniyang; niyang; ng kaniyang; sa kaniya	-	Duo	-	-
+TODO	lexeme	birthday	bertdey	-	Duo	-	-
+TODO	lexeme	gift	regalo	-	Duo	-	-
+TODO	lexeme	her	ang kaniyang; kaniyang; niyang; kanyang; kaniya; kanya; siya; niya; siyang; ng kaniyang; sa kaniyang	-	Duo	-	-
+TODO	lexeme	thank you for	Salamat sa	-	Duo	-	-
+TODO	lexeme	black	itim	-	Duo	-	-
+TODO	lexeme	backpack	backpack	-	Duo	-	-
+TODO	lexeme	glasses	salamin	-	Duo	-	-
+TODO	lexeme	what color	Anong kulay	-	Duo	-	-
+TODO	lexeme	dress	bestida	-	Duo	-	-
+TODO	lexeme	t-shirt	T-shirt	-	Duo	-	-
+TODO	lexeme	purple	lila	-	Duo	-	-
+TODO	lexeme	i'd like	gusto kong; gusto ko; nais kong	-	Duo	-	-
+TODO	lexeme	good morning	magandang umaga	-	Duo	-	-
+TODO	lexeme	it	pa ito; ang; ganyan; iyan; 'yan; 'to; diyan; doon; ito'y; itong; iyon; nito; niya; 'yon; sa; ganun; ko; ito	-	Duo	-	-
+TODO	lexeme	boot	bota	-	Duo	-	-
+TODO	lexeme	orange	orange	-	Duo	-	-
+TODO	lexeme	see	nakikita	-	Duo	-	-
+TODO	lexeme	medium	medium	-	Duo	-	-
+TODO	lexeme	brush	brush	-	Duo	-	-
+TODO	lexeme	a lot of	maraming	-	Duo	-	-
+TODO	lexeme	wow	wow	-	Duo	-	-
+TODO	lexeme	shampoo	shampoo	-	Duo	-	-
+TODO	lexeme	here are	narito	-	Duo	-	-
+TODO	lexeme	dollar	dolyar	-	Duo	-	-
+TODO	lexeme	cost	nagkakahalaga	-	Duo	-	-
+TODO	lexeme	twenty	dalawampu	-	Duo	-	-
+TODO	lexeme	some	ilang; ilan; kaunti; kaunting; iilang	-	Duo	-	-
+TODO	lexeme	cool	astig	-	Duo	-	-
+TODO	lexeme	so many	sobrang dami	-	Duo	-	-
+TODO	lexeme	jeans	maong	-	Duo	-	-
+TODO	lexeme	good night	magandang gabi	-	Duo	-	-
+TODO	lexeme	hungry	gutom	-	Duo	-	-
+TODO	lexeme	market	palengke	-	Duo	-	-
+TODO	lexeme	go shopping	namimili	-	Duo	-	-
+TODO	lexeme	downtown	bayan	-	Duo	-	-
+TODO	lexeme	strawberry	strawberry	-	Duo	-	-
+TODO	lexeme	lemon	lemon	-	Duo	-	-
+TODO	lexeme	cherry	cherry	-	Duo	-	-
+TODO	lexeme	more	mas maraming	-	Duo	-	-
+TODO	lexeme	yellow	dilaw	-	Duo	-	-
+TODO	lexeme	pound	pound	-	Duo	-	-
+TODO	lexeme	potato	patatas	-	Duo	-	-
+TODO	lexeme	can	kaya ba; pwedeng; makakaya; maaring; maaari; maka; nakakapatugtog; maari; kaya; kayang; maaaring; ma; ay maaring; puwedeng; puwede; maaari ba; magagawa	-	Duo	-	-
+TODO	lexeme	very much	lubos; maraming	-	Duo	-	-
+TODO	lexeme	eleven	labing-isa	-	Duo	-	-
+TODO	lexeme	thirsty	pagkauhaw	-	Duo	-	-
+TODO	lexeme	carrot	carrot	-	Duo	-	-
+TODO	lexeme	good afternoon	magandang hapon	-	Duo	-	-
+TODO	lexeme	cash	pera	-	Duo	-	-
+TODO	lexeme	twelve	labindalawa	-	Duo	-	-
+TODO	lexeme	map	mapa	-	Duo	-	-
+TODO	lexeme	do	gawa; gawin; ginagawa; magyo; ginawa; magagawa	-	Duo	-	-
+TODO	lexeme	address	address	-	Duo	-	-
+TODO	lexeme	know	alam	-	Duo	-	-
+TODO	lexeme	live	pagtira	-	Duo	-	-
+TODO	lexeme	does	ang; ay; ba; nga; gawa; gawin; talaga; ito; may; ba'y	-	Duo	-	-
+TODO	lexeme	post office	post office	-	Duo	-	-
+TODO	lexeme	grocery store	grocery	-	Duo	-	-
+TODO	lexeme	tourist	turista	-	Duo	-	-
+TODO	lexeme	police officer	pulis	-	Duo	-	-
+TODO	lexeme	pharmacy	botika	-	Duo	-	-
+TODO	lexeme	next to	nasa tabi; sa tabi	-	Duo	-	-
+TODO	lexeme	far away	malayo	-	Duo	-	-
+TODO	lexeme	last name	apelyido	-	Duo	-	-
+TODO	lexeme	first name	pangalan	-	Duo	-	-
+TODO	lexeme	come here	halika rito	-	Duo	-	-
+TODO	lexeme	enjoy	nasisiyahan	-	Duo	-	-
+TODO	lexeme	football	futbol	-	Duo	-	-
+TODO	lexeme	boring	bagot	-	Duo	-	-
+TODO	lexeme	don't	huwag; hindi	-	Duo	-	-
+TODO	lexeme	no way	uy hindi	-	Duo	-	-
+TODO	lexeme	practice	pagpraktis	-	Duo	-	-
+TODO	lexeme	difficult	mahirap	-	Duo	-	-
+TODO	lexeme	doesn't	hindi	-	Duo	-	-
+TODO	lexeme	hockey	hockey	-	Duo	-	-
+TODO	lexeme	strong	malakas	-	Duo	-	-
+TODO	lexeme	easy	madali	-	Duo	-	-
+TODO	lexeme	volleyball	volleyball	-	Duo	-	-
+TODO	lexeme	good at	magaling	-	Duo	-	-
+TODO	lexeme	video game	video game	-	Duo	-	-
+TODO	lexeme	rule	patakaran	-	Duo	-	-
+TODO	lexeme	card game	larong baraha	-	Duo	-	-
+TODO	lexeme	win	pagkapanalo	-	Duo	-	-
+TODO	lexeme	closet	aparador	-	Duo	-	-
+TODO	lexeme	board game	board game	-	Duo	-	-
+TODO	lexeme	never	hindi kailanman	-	Duo	-	-
+TODO	lexeme	cough	ubo	-	Duo	-	-
+TODO	lexeme	feel sick	makaramdam ng sakit	-	Duo	-	-
+TODO	lexeme	fever	lagnat	-	Duo	-	-
+TODO	lexeme	the flu	trangkaso	-	Duo	-	-
+TODO	lexeme	child	anak	-	Duo	-	-
+TODO	lexeme	ear	tenga	-	Duo	-	-
+TODO	lexeme	stomach	tiyan	-	Duo	-	-
+TODO	lexeme	hurt	masakit; nanakit; ay masakit; masasakit; nakasakit; pasakitan; makakasakit	-	Duo	-	-
+TODO	lexeme	head	ulo	-	Duo	-	-
+TODO	lexeme	feel	pagparamdam	-	Duo	-	-
+TODO	lexeme	hand	kamay	-	Duo	-	-
+TODO	lexeme	sick	may sakit	-	Duo	-	-
+TODO	lexeme	foot	paa	-	Duo	-	-
+TODO	lexeme	medicine	gamot	-	Duo	-	-
+TODO	lexeme	better	mas mainam	-	Duo	-	-
+TODO	lexeme	feet	mga paa	-	Duo	-	-
+TODO	lexeme	fine	ayos; ayos lang; mabuti naman; maayos naman; okay; maayos; okey; mabuti; multa	-	Duo	-	-
+TODO	lexeme	sell	pagtinda	-	Duo	-	-
+TODO	lexeme	what	ano	-	Duo	-	-
+TODO	lexeme	clothes	mga damit	-	Duo	-	-
+TODO	lexeme	when	kailan	-	Duo	-	-
+TODO	lexeme	size	sukat	-	Duo	-	-
+TODO	lexeme	close	pagsara	-	Duo	-	-
+TODO	lexeme	pants	pantalon	-	Duo	-	-
+TODO	lexeme	cent	centavo	-	Duo	-	-
+TODO	lexeme	money	pera	-	Duo	-	-
+TODO	lexeme	fifty	limampu	-	Duo	-	-
+TODO	lexeme	prefer	mas gusto	-	Duo	-	-
+TODO	lexeme	tie	kurbata	-	Duo	-	-
+TODO	lexeme	wear	pagsuot	-	Duo	-	-
+TODO	lexeme	pay	binayaran; binabayaran; babayaran; nagbayad; magbabayad; nagbabayad; bayaran; babayad	-	Duo	-	-
+TODO	lexeme	with a card	gamit ang card	-	Duo	-	-
+TODO	lexeme	plastic	plastik	-	Duo	-	-
+TODO	lexeme	with cash	ng cash	-	Duo	-	-
+TODO	lexeme	weekend	weekend	-	Duo	-	-
+TODO	lexeme	right now	ngayon	-	Duo	-	-
+TODO	lexeme	sleep	pagtulog	-	Duo	-	-
+TODO	lexeme	toast	tustadong tinapay	-	Duo	-	-
+TODO	lexeme	run	pagtakbo	-	Duo	-	-
+TODO	lexeme	swim	paglangoy	-	Duo	-	-
+TODO	lexeme	outside	labas	-	Duo	-	-
+TODO	lexeme	write	pagsulat	-	Duo	-	-
+TODO	lexeme	animal	hayop	-	Duo	-	-
+TODO	lexeme	sit	pag-upo	-	Duo	-	-
+TODO	lexeme	about	ang; halos ng; tungkol kay; tungkol sa; pinag; ukol	-	Duo	-	-
+TODO	lexeme	make	paggawa	-	Duo	-	-
+TODO	lexeme	come	pagdating	-	Duo	-	-
+TODO	lexeme	snack	meryenda	-	Duo	-	-
+TODO	lexeme	scary	nakakatakot	-	Duo	-	-
+TODO	lexeme	snow	pag-snow	-	Duo	-	-
+TODO	lexeme	mountain	bundok	-	Duo	-	-
+TODO	lexeme	weather	panahon	-	Duo	-	-
+TODO	lexeme	still	pa rin	-	Duo	-	-
+TODO	lexeme	beach	beach	-	Duo	-	-
+TODO	lexeme	camp	pag-camping	-	Duo	-	-
+TODO	lexeme	surf	pag-surf; magsu; surf	-	Duo	-	-
+TODO	lexeme	relax	relaks	-	Duo	-	-
+TODO	lexeme	stand	pagtayo	-	Duo	-	-
+TODO	lexeme	hike	pag-hiking	-	Duo	-	-
+TODO	lexeme	river	ilog	-	Duo	-	-
+TODO	lexeme	smile	pagngiti	-	Duo	-	-
+TODO	lexeme	photo	litrato	-	Duo	-	-
+TODO	lexeme	video	video	-	Duo	-	-
+TODO	lexeme	tent	tent	-	Duo	-	-
+TODO	lexeme	bear	bear	-	Duo	-	-
+TODO	lexeme	fire	apoy	-	Duo	-	-
+TODO	lexeme	on the ground	sa lupa	-	Duo	-	-
+TODO	lexeme	project	proyekto	-	Duo	-	-
+TODO	lexeme	draw	pagdrowing	-	Duo	-	-
+TODO	lexeme	start	pag-umpisa	-	Duo	-	-
+TODO	lexeme	topic	paksa	-	Duo	-	-
+TODO	lexeme	paint	pagpinta	-	Duo	-	-
+TODO	lexeme	language	wika	-	Duo	-	-
+TODO	lexeme	email	email	-	Duo	-	-
+TODO	lexeme	learn	pagkatuto	-	Duo	-	-
+TODO	lexeme	discuss	pag-uusap	-	Duo	-	-
+TODO	lexeme	coffee shop	kapihan	-	Duo	-	-
+TODO	lexeme	use	paggamit	-	Duo	-	-
+TODO	lexeme	the internet	internet	-	Duo	-	-
+TODO	lexeme	late for	huli	-	Duo	-	-
+TODO	lexeme	next	darating; susunod; nasa tabi; sa darating; sa susunod; kasunod	-	Duo	-	-
+TODO	lexeme	math	math	-	Duo	-	-
+TODO	lexeme	textbook	teksbuk	-	Duo	-	-
+TODO	lexeme	science	ang siyensiya; siyensiya; ang agham; isang agham; agham; science	-	Duo	-	-
+TODO	lexeme	history	kasaysayan	-	Duo	-	-
+TODO	lexeme	subject	sabjek	-	Duo	-	-
+TODO	lexeme	done with	tapos na; tapos	-	Duo	-	-
+TODO	lexeme	stressed	nababagabag	-	Duo	-	-
+TODO	lexeme	coach	coach	-	Duo	-	-
+TODO	lexeme	locker	locker	-	Duo	-	-
+TODO	lexeme	pool	swimming pool	-	Duo	-	-
+TODO	lexeme	lesson	leksiyon	-	Duo	-	-
+TODO	lexeme	club	club	-	Duo	-	-
+TODO	lexeme	art	sining	-	Duo	-	-
+TODO	lexeme	same	pareho	-	Duo	-	-
+TODO	lexeme	invite	pag-imbita	-	Duo	-	-
+TODO	lexeme	movie theater	sinehan	-	Duo	-	-
+TODO	lexeme	call	pagtawag	-	Duo	-	-
+TODO	lexeme	me	ako	-	Duo	-	-
+TODO	lexeme	try	tikman	-	Duo	-	-
+TODO	lexeme	join	makakasama; sumali; sumama; sinalihan; sasali; pagsama; sumasali; sumasama	-	Duo	-	-
+TODO	lexeme	meet	pagkikita	-	Duo	-	-
+TODO	lexeme	us	ating; kami; sa amin; natin; kaming; us; tayong; Estados Unidos; US; tayo; namin; ninyo; sa atin; aming	-	Duo	-	-
+TODO	lexeme	lunch	tanghalian	-	Duo	-	-
+TODO	lexeme	there	meron; magkaroon; mayroon; nandiyan; riyan; roon; diyan; nandoon; naroon; doon; nariyan; may; nandoroon	-	Duo	-	-
+TODO	lexeme	let's	tara't; tara; tayo; na't	-	Duo	-	-
+TODO	lexeme	sound	tunog	-	Duo	-	-
+TODO	lexeme	drive	pagmaneho	-	Duo	-	-
+TODO	lexeme	perfect	perpekto	-	Duo	-	-
+TODO	lexeme	calendar	kalendaryo	-	Duo	-	-
+TODO	lexeme	tonight	ngayong gabi	-	Duo	-	-
+TODO	lexeme	ok	sige	-	Duo	-	-
+TODO	lexeme	free	malilibre; malalayang; malaya; libreng; libre; malayang; Pinakawalan; bakanteng	-	Duo	-	-
+TODO	lexeme	safe	ligtas	-	Duo	-	-
+TODO	lexeme	be	maging; magiging	-	Duo	-	-
+TODO	lexeme	charge	pag-charge	-	Duo	-	-
+TODO	lexeme	alone	mag-isa	-	Duo	-	-
+TODO	lexeme	careful	maingat	-	Duo	-	-
+TODO	lexeme	bring	pagdala	-	Duo	-	-
+TODO	lexeme	purse	handbag	-	Duo	-	-
+TODO	lexeme	forget	pagkalimot	-	Duo	-	-
+TODO	lexeme	crowded	matao	-	Duo	-	-
+TODO	lexeme	bridge	tulay	-	Duo	-	-
+TODO	lexeme	road	daan	-	Duo	-	-
+TODO	lexeme	hurry	pagkabilis	-	Duo	-	-
+TODO	lexeme	spend	paggastos	-	Duo	-	-
+TODO	lexeme	cross	pagtawid	-	Duo	-	-
+TODO	lexeme	area	lugar	-	Duo	-	-
+TODO	lexeme	too much	masyadong marami	-	Duo	-	-
+TODO	lexeme	dangerous	delikado	-	Duo	-	-
+TODO	lexeme	worry	pag-aalala	-	Duo	-	-
+TODO	lexeme	go swimming	paglangoy	-	Duo	-	-
+TODO	lexeme	have fun	magpakasaya	-	Duo	-	-
+TODO	lexeme	inside	loob; nasa loob; sa loob	-	Duo	-	-
+TODO	lexeme	catch	pagsalo	-	Duo	-	-
+TODO	lexeme	kick	pagsipa	-	Duo	-	-
+TODO	lexeme	throw	paghagis	-	Duo	-	-
+TODO	lexeme	can't	hindi puwede; hindi kayang; hindi maaaring; hindi puwedeng; hindi; '	-	Duo	-	-
+TODO	lexeme	far	malayo	-	Duo	-	-
+TODO	lexeme	push-up	push-up	-	Duo	-	-
+TODO	lexeme	lift	pagbuhat	-	Duo	-	-
+TODO	lexeme	heavy	mabigat	-	Duo	-	-
+TODO	lexeme	weight	timbang	-	Duo	-	-
+TODO	lexeme	karate	karate	-	Duo	-	-
+TODO	lexeme	yoga	Yoga	-	Duo	-	-
+TODO	lexeme	meal	pagkain	-	Duo	-	-
+TODO	lexeme	healthy	masustansiya	-	Duo	-	-
+TODO	lexeme	fruit	prutas	-	Duo	-	-
+TODO	lexeme	lots of	maraming	-	Duo	-	-
+TODO	lexeme	come over	pagpunta rito	-	Duo	-	-
+TODO	lexeme	in the afternoon	sa hapon	-	Duo	-	-
+TODO	lexeme	could	maaari; maari; maaaring; kaya	-	Duo	-	-
+TODO	lexeme	of course	sige ba	-	Duo	-	-
+TODO	lexeme	put	paglagay	-	Duo	-	-
+TODO	lexeme	flower	bulaklak	-	Duo	-	-
+TODO	lexeme	counter	patungan	-	Duo	-	-
+TODO	lexeme	porch	beranda	-	Duo	-	-
+TODO	lexeme	package	pakete	-	Duo	-	-
+TODO	lexeme	no problem	walang problema	-	Duo	-	-
+TODO	lexeme	the mail	koreo	-	Duo	-	-
+TODO	lexeme	walk the dog	nilalakad; ilakad	-	Duo	-	-
+TODO	lexeme	feed	pagpapakain	-	Duo	-	-
+TODO	lexeme	fish	isda	-	Duo	-	-
+TODO	lexeme	in the evening	sa gabi	-	Duo	-	-
+TODO	lexeme	truck	trak	-	Duo	-	-
+TODO	lexeme	garage	garahe	-	Duo	-	-
+TODO	lexeme	that's fine	ayos lang iyan	-	Duo	-	-
+TODO	lexeme	take a flight	paglipad	-	Duo	-	-
+TODO	lexeme	will	magha; magta; magiging; magba; ay; ba; nais; idadagdag; magso; magbe; magsi; naisin; isusulat; gustong; ita	-	Duo	-	-
+TODO	lexeme	first	una	-	Duo	-	-
+TODO	lexeme	North america	North America	-	Duo	-	-
+TODO	lexeme	trip	biyahe	-	Duo	-	-
+TODO	lexeme	i'll	ako; ko; ako ay	-	Duo	-	-
+TODO	lexeme	you'll	kayo; mo; ikaw; ninyo; ka; n’yo	-	Duo	-	-
+TODO	lexeme	Asia	Asya	-	Duo	-	-
+TODO	lexeme	he'll	siya ay; siya; niya	-	Duo	-	-
+TODO	lexeme	South america	South America	-	Duo	-	-
+TODO	lexeme	she'll	siya; niya	-	Duo	-	-
+TODO	lexeme	visit	pagbisita	-	Duo	-	-
+TODO	lexeme	how long	gaano katagal	-	Duo	-	-
+TODO	lexeme	Africa	Africa	-	Duo	-	-
+TODO	lexeme	we'll	tayo ay; kami ay; nating; tayo; namin; kami	-	Duo	-	-
+TODO	lexeme	stay	pananatili; manatili	-	Duo	-	-
+TODO	lexeme	country	bansa	-	Duo	-	-
+TODO	lexeme	they'll	sila ay; nila; sila	-	Duo	-	-
+TODO	lexeme	how many	ilan	-	Duo	-	-
+TODO	lexeme	Australia	Australia	-	Duo	-	-
+TODO	lexeme	theme park	karnabal	-	Duo	-	-
+TODO	lexeme	morning	umaga	-	Duo	-	-
+TODO	lexeme	ride	ride	-	Duo	-	-
+TODO	lexeme	how about	Paano	-	Duo	-	-
+TODO	lexeme	roller coaster	roller coaster	-	Duo	-	-
+TODO	lexeme	parking lot	paradahan	-	Duo	-	-
+TODO	lexeme	won't	hindi; '	-	Duo	-	-
+TODO	lexeme	magic show	mahikang palabas	-	Duo	-	-
+TODO	lexeme	parade	parada	-	Duo	-	-
+TODO	lexeme	wait in line	pumila	-	Duo	-	-
+TODO	lexeme	next time	sa susunod	-	Duo	-	-
+TODO	lexeme	minute	minuto	-	Duo	-	-
+TODO	lexeme	line	pila	-	Duo	-	-
+TODO	lexeme	ninety	siyamnapu	-	Duo	-	-
+TODO	lexeme	share	pagbahagi	-	Duo	-	-
+TODO	lexeme	fries	french fries	-	Duo	-	-
+TODO	lexeme	again	ulit	-	Duo	-	-
+TODO	lexeme	popcorn	popcorn	-	Duo	-	-
+TODO	lexeme	item	bagay	-	Duo	-	-
+TODO	lexeme	aisle	hilera	-	Duo	-	-
+TODO	lexeme	find	paghanap	-	Duo	-	-
+TODO	lexeme	all	lahat	-	Duo	-	-
+TODO	lexeme	bandage	band-aid	-	Duo	-	-
+TODO	lexeme	brand	tatak	-	Duo	-	-
+TODO	lexeme	toilet paper	tisyu	-	Duo	-	-
+TODO	lexeme	already	na; nang	-	Duo	-	-
+TODO	lexeme	but	subalit; kaya; ngunit; kundi; pero	-	Duo	-	-
+TODO	lexeme	pill	tabletas	-	Duo	-	-
+TODO	lexeme	throat	lalamunan	-	Duo	-	-
+TODO	lexeme	mask	maskara	-	Duo	-	-
+TODO	lexeme	have a headache	masakit ang ulo	-	Duo	-	-
+TODO	lexeme	decide	pagdesisyon	-	Duo	-	-
+TODO	lexeme	paper towel	malaking tisyu	-	Duo	-	-
+TODO	lexeme	soap	sabon	-	Duo	-	-
+TODO	lexeme	um	um	-	Duo	-	-
+TODO	lexeme	receipt	resibo	-	Duo	-	-
+TODO	lexeme	coupon	voucher	-	Duo	-	-
+TODO	lexeme	total	sumatotal	-	Duo	-	-
+TODO	lexeme	you're welcome	walang anuman	-	Duo	-	-
+TODO	lexeme	forty	apatnapu	-	Duo	-	-
+TODO	lexeme	event	ganap	-	Duo	-	-
+TODO	lexeme	fan	tagahanga	-	Duo	-	-
+TODO	lexeme	grandma	lola	-	Duo	-	-
+TODO	lexeme	loud	maingay	-	Duo	-	-
+TODO	lexeme	bar	bar	-	Duo	-	-
+TODO	lexeme	concert	concert	-	Duo	-	-
+TODO	lexeme	ad	komersiyal	-	Duo	-	-
+TODO	lexeme	hate	ayaw	-	Duo	-	-
+TODO	lexeme	during	kapag; sa; habang; habang nasa; pag; tuwing	-	Duo	-	-
+TODO	lexeme	napkin	pamunas	-	Duo	-	-
+TODO	lexeme	chip	tsip	-	Duo	-	-
+TODO	lexeme	salty	maalat	-	Duo	-	-
+TODO	lexeme	glass	basong; baso; salamin	-	Duo	-	-
+TODO	lexeme	thing	bagay; isang bagay	-	Duo	-	-
+TODO	lexeme	beer	beer	-	Duo	-	-
+TODO	lexeme	score	iskor	-	Duo	-	-
+TODO	lexeme	point	puntos	-	Duo	-	-
+TODO	lexeme	lose	pagkatalo	-	Duo	-	-
+TODO	lexeme	yay	yehey	-	Duo	-	-
+TODO	lexeme	hear	pagdinig	-	Duo	-	-
+TODO	lexeme	quite	medyo	-	Duo	-	-
+TODO	lexeme	on mute	magiging naka-mute; naka-mute	-	Duo	-	-
+TODO	lexeme	tell	pagsabi	-	Duo	-	-
+TODO	lexeme	either	alinman	-	Duo	-	-
+TODO	lexeme	them	sila	-	Duo	-	-
+TODO	lexeme	meeting	miting	-	Duo	-	-
+TODO	lexeme	ask	pagtanong	-	Duo	-	-
+TODO	lexeme	him	kanya; siya; kaniya	-	Duo	-	-
+TODO	lexeme	later	mamaya	-	Duo	-	-
+TODO	lexeme	believe	pagkapaniwala	-	Duo	-	-
+TODO	lexeme	finish	pagtapos	-	Duo	-	-
+TODO	lexeme	detail	detalye	-	Duo	-	-
+TODO	lexeme	tomorrow	bukas	-	Duo	-	-
+TODO	lexeme	server	weyter	-	Duo	-	-
+TODO	lexeme	toward	patungo	-	Duo	-	-
+TODO	lexeme	by	sa pamamagitan ng; sa; ayon sa; nasa tabi; gamit ang; nang; hanggang; gamit ng	-	Duo	-	-
+TODO	lexeme	evening	gabi	-	Duo	-	-
+TODO	lexeme	wine	wine	-	Duo	-	-
+TODO	lexeme	beef	baka	-	Duo	-	-
+TODO	lexeme	sauce	sarsa	-	Duo	-	-
+TODO	lexeme	order	pag-order	-	Duo	-	-
+TODO	lexeme	between	pagitan; nasa pagitan ng; nasa gitna ng; gitna; sa pagitan	-	Duo	-	-
+TODO	lexeme	side	panig; tabi; gilid; tagiliran	-	Duo	-	-
+TODO	lexeme	butter	butter	-	Duo	-	-
+TODO	lexeme	extra	dagdag; ekstrang; labis; sobra; extra	-	Duo	-	-
+TODO	lexeme	save	pagtabi	-	Duo	-	-
+TODO	lexeme	bill	bill	-	Duo	-	-
+TODO	lexeme	pie	pie	-	Duo	-	-
+TODO	lexeme	dance	pagsayaw	-	Duo	-	-
+TODO	lexeme	look	tingnan mo	-	Duo	-	-
+TODO	lexeme	there is	mayroon; may; mayroong	-	Duo	-	-
+TODO	lexeme	only	lang	-	Duo	-	-
+TODO	lexeme	restroom	CR	-	Duo	-	-
+TODO	lexeme	ugly	pangit	-	Duo	-	-
+TODO	lexeme	long	mahaba	-	Duo	-	-
+TODO	lexeme	is there	May; may	-	Duo	-	-
+TODO	lexeme	people	mga tao; ang mga tao; mga taong; ng mga tao; tao; katao	-	Duo	-	-
+TODO	lexeme	awesome	patok	-	Duo	-	-
+TODO	lexeme	there are	may; mayroon	-	Duo	-	-
+TODO	lexeme	singer	manganganta	-	Duo	-	-
+TODO	lexeme	seat	upuan	-	Duo	-	-
+TODO	lexeme	other	isa; iba pang; ng ibang; iba; ibang; kabilang	-	Duo	-	-
+TODO	lexeme	are there	mayroon bang; may mga; meron bang; may	-	Duo	-	-
+TODO	lexeme	screen	screen	-	Duo	-	-
+TODO	lexeme	candy	kendi	-	Duo	-	-
+TODO	lexeme	there's	merong; meron; may; mayroon	-	Duo	-	-
+TODO	lexeme	before	bago	-	Duo	-	-
+TODO	lexeme	brunch	almusal	-	Duo	-	-
+TODO	lexeme	because	kasi	-	Duo	-	-
+TODO	lexeme	in a hurry	nagmamadali	-	Duo	-	-
+TODO	lexeme	station	himpilan; istasyon; istasyong	-	Duo	-	-
+TODO	lexeme	get	makauwi; kuha; magkuha; makukuha; nakuha; kunin; kukuha; makuha; makapupunta; makakuha; magka; kuhanan	-	Duo	-	-
+TODO	lexeme	train	tren	-	Duo	-	-
+TODO	lexeme	hour	oras	-	Duo	-	-
+TODO	lexeme	subway	subway	-	Duo	-	-
+TODO	lexeme	schedule	iskedyul	-	Duo	-	-
+TODO	lexeme	noon	tanghaling tapat	-	Duo	-	-
+TODO	lexeme	end	pagtapos	-	Duo	-	-
+TODO	lexeme	zoo	zoo	-	Duo	-	-
+TODO	lexeme	soon	lalong panahon; lalong madaling panahon; kaagad; sa madaling panahon; maaga	-	Duo	-	-
+TODO	lexeme	leave	pag-alis	-	Duo	-	-
+TODO	lexeme	flight	flight	-	Duo	-	-
+TODO	lexeme	half an hour	kalahating oras	-	Duo	-	-
+TODO	lexeme	day	araw	-	Duo	-	-
+TODO	lexeme	keyboard	keyboard	-	Duo	-	-
+TODO	lexeme	work	pagtrabaho	-	Duo	-	-
+TODO	lexeme	from home	mula sa bahay	-	Duo	-	-
+TODO	lexeme	useful	napapakinabangan	-	Duo	-	-
+TODO	lexeme	webcam	webcam	-	Duo	-	-
+TODO	lexeme	type	pag-type	-	Duo	-	-
+TODO	lexeme	online	online	-	Duo	-	-
+TODO	lexeme	password	password	-	Duo	-	-
+TODO	lexeme	remember	pagtanda	-	Duo	-	-
+TODO	lexeme	microphone	mike	-	Duo	-	-
+TODO	lexeme	how's	Kumusta na	-	Duo	-	-
+TODO	lexeme	Wi-fi	Wi-Fi	-	Duo	-	-
+TODO	lexeme	inbox	inbox	-	Duo	-	-
+TODO	lexeme	send	pagpadala	-	Duo	-	-
+TODO	lexeme	email address	email	-	Duo	-	-
+TODO	lexeme	message	mensahe	-	Duo	-	-
+TODO	lexeme	see you tomorrow	kita-kita bukas	-	Duo	-	-
+TODO	lexeme	finally	sa wakas	-	Duo	-	-
+TODO	lexeme	interview	interbiyu	-	Duo	-	-
+TODO	lexeme	last	nakaraan	-	Duo	-	-
+TODO	lexeme	that's	Iyan ay; Iyan ang; iyan ay; iyan	-	Duo	-	-
+TODO	lexeme	was	ay; Noon; kanina; dati; niya	-	Duo	-	-
+TODO	lexeme	company	kumpanya	-	Duo	-	-
+TODO	lexeme	kind	pagkabait	-	Duo	-	-
+TODO	lexeme	helpful	pagkamatulungin	-	Duo	-	-
+TODO	lexeme	worker	trabahador	-	Duo	-	-
+TODO	lexeme	were	ay; nasa; naka	-	Duo	-	-
+TODO	lexeme	biology	biology	-	Duo	-	-
+TODO	lexeme	nervous	kabado	-	Duo	-	-
+TODO	lexeme	name	pangalan	-	Duo	-	-
+TODO	lexeme	challenge	paghamon	-	Duo	-	-
+TODO	lexeme	responsibility	responsibilidad	-	Duo	-	-
+TODO	lexeme	main	pangunahin	-	Duo	-	-
+TODO	lexeme	position	posisyon	-	Duo	-	-
+TODO	lexeme	British	British	-	Duo	-	-
+TODO	lexeme	interested in	interesado sa	-	Duo	-	-
+TODO	lexeme	angry	nagalit	-	Duo	-	-
+TODO	lexeme	terrible	terible	-	Duo	-	-
+TODO	lexeme	pleased	natuwa	-	Duo	-	-
+TODO	lexeme	door	pinto	-	Duo	-	-
+TODO	lexeme	bedroom	kuwartong-tulugan	-	Duo	-	-
+TODO	lexeme	wasn't	ay hindi; '	-	Duo	-	-
+TODO	lexeme	bed	kama	-	Duo	-	-
+TODO	lexeme	kid	bata	-	Duo	-	-
+TODO	lexeme	weren't	'di; hindi nasa; hindi; '	-	Duo	-	-
+TODO	lexeme	empty	walang laman	-	Duo	-	-
+TODO	lexeme	dining room	komedor	-	Duo	-	-
+TODO	lexeme	something	ng; ng kahit ano; may; pang; meron; mayroon; anuman; ng kahit anong	-	Duo	-	-
+TODO	lexeme	different	pagkaiba	-	Duo	-	-
+TODO	lexeme	dresser	tokador	-	Duo	-	-
+TODO	lexeme	garden	hardin	-	Duo	-	-
+TODO	lexeme	sofa	sofa	-	Duo	-	-
+TODO	lexeme	shower	shower	-	Duo	-	-
+TODO	lexeme	behind	nasa likod ng; sa likod ng; sa likuran; likod	-	Duo	-	-
+TODO	lexeme	go to	pumasok; pumupunta; pumunta	-	Duo	-	-
+TODO	lexeme	college	kolehiyo	-	Duo	-	-
+TODO	lexeme	Canada	Canada	-	Duo	-	-
+TODO	lexeme	major	kurso	-	Duo	-	-
+TODO	lexeme	talk to	kinakausap	-	Duo	-	-
+TODO	lexeme	chemistry	chemistry	-	Duo	-	-
+TODO	lexeme	business	business	-	Duo	-	-
+TODO	lexeme	all the time	palagi	-	Duo	-	-
+TODO	lexeme	workbook	librong-sanayan	-	Duo	-	-
+TODO	lexeme	look for	maghanap; hanapin	-	Duo	-	-
+TODO	lexeme	drawer	drower	-	Duo	-	-
+TODO	lexeme	stuff	gamit	-	Duo	-	-
+TODO	lexeme	maybe	siguro	-	Duo	-	-
+TODO	lexeme	listen to	makinig sa	-	Duo	-	-
+TODO	lexeme	lecture	lektura	-	Duo	-	-
+TODO	lexeme	take notes	pagnu-notes	-	Duo	-	-
+TODO	lexeme	talk about	mag-usap tungkol sa	-	Duo	-	-
+TODO	lexeme	board	board	-	Duo	-	-
+TODO	lexeme	sentence	pangungusap	-	Duo	-	-
+TODO	lexeme	look at	tignan; Tignan	-	Duo	-	-
+TODO	lexeme	partner	kapareha	-	Duo	-	-
+TODO	lexeme	essay	sanaysay	-	Duo	-	-
+TODO	lexeme	paper	papel	-	Duo	-	-
+TODO	lexeme	return	pagsoli	-	Duo	-	-
+TODO	lexeme	time	oras	-	Duo	-	-
+TODO	lexeme	so much	sobrang dami	-	Duo	-	-
+TODO	lexeme	information	impormasyon	-	Duo	-	-
+TODO	lexeme	customer service	customer service	-	Duo	-	-
+TODO	lexeme	option	pagpipilian	-	Duo	-	-
+TODO	lexeme	father	tatay	-	Duo	-	-
+TODO	lexeme	problem	problema	-	Duo	-	-
+TODO	lexeme	many	marami	-	Duo	-	-
+TODO	lexeme	furniture	kasangkapan	-	Duo	-	-
+TODO	lexeme	jewelry	alahas	-	Duo	-	-
+TODO	lexeme	clothing	damit	-	Duo	-	-
+TODO	lexeme	cell phone	cellphone	-	Duo	-	-
+TODO	lexeme	printer	printer	-	Duo	-	-
+TODO	lexeme	supermarket	supermarket	-	Duo	-	-
+TODO	lexeme	refund	pagbalik ng bayad	-	Duo	-	-
+TODO	lexeme	own	pagmamay-ari	-	Duo	-	-
+TODO	lexeme	mother	nanay	-	Duo	-	-
+TODO	lexeme	a few	ilan	-	Duo	-	-
+TODO	lexeme	makeup	makeup	-	Duo	-	-
+TODO	lexeme	recipe	resipi	-	Duo	-	-
+TODO	lexeme	olive	olive	-	Duo	-	-
+TODO	lexeme	oil	mantika	-	Duo	-	-
+TODO	lexeme	any	Sinuman; anumang; Sinumang; kahit anong; kahit anumang; kahit ano; alinmang	-	Duo	-	-
+TODO	lexeme	cracker	kraker	-	Duo	-	-
+TODO	lexeme	potato chip	potato chips	-	Duo	-	-
+TODO	lexeme	chocolate	tsokolate	-	Duo	-	-
+TODO	lexeme	soda	soft drink	-	Duo	-	-
+TODO	lexeme	tasty	malasa	-	Duo	-	-
+TODO	lexeme	pork	baboy	-	Duo	-	-
+TODO	lexeme	sushi	sushi	-	Duo	-	-
+TODO	lexeme	turkey	pabo	-	Duo	-	-
+TODO	lexeme	much	marami; maraming; ng sobra; karami; masyadong; kadami; daming	-	Duo	-	-
+TODO	lexeme	cart	push cart	-	Duo	-	-
+TODO	lexeme	mushroom	kabute	-	Duo	-	-
+TODO	lexeme	yum	sarap	-	Duo	-	-
+TODO	lexeme	too many	masyadong maraming	-	Duo	-	-
+TODO	lexeme	grilled	inihaw	-	Duo	-	-
+TODO	lexeme	shop	pagbili	-	Duo	-	-
+TODO	lexeme	groceries	mga groseri; mga pamilihin; pinamili; grocery	-	Duo	-	-
+TODO	lexeme	lemonade	lemonada	-	Duo	-	-
+TODO	lexeme	check in	check-in	-	Duo	-	-
+TODO	lexeme	front desk	resepsiyon	-	Duo	-	-
+TODO	lexeme	id	ID	-	Duo	-	-
+TODO	lexeme	ma'am	mam	-	Duo	-	-
+TODO	lexeme	good evening	magandang gabi	-	Duo	-	-
+TODO	lexeme	carry	pagbuhat	-	Duo	-	-
+TODO	lexeme	suitcase	maleta	-	Duo	-	-
+TODO	lexeme	sir	sir	-	Duo	-	-
+TODO	lexeme	sink	lababo	-	Duo	-	-
+TODO	lexeme	toilet	inidoro	-	Duo	-	-
+TODO	lexeme	fix	pag-ayos	-	Duo	-	-
+TODO	lexeme	blanket	kumot	-	Duo	-	-
+TODO	lexeme	temperature	temperatura	-	Duo	-	-
+TODO	lexeme	change	pagpalit	-	Duo	-	-
+TODO	lexeme	heat	heater	-	Duo	-	-
+TODO	lexeme	check out	checkout	-	Duo	-	-
+TODO	lexeme	tip	tip	-	Duo	-	-
+TODO	lexeme	comfortable	komportable	-	Duo	-	-
+TODO	lexeme	would like	gusto; nais	-	Duo	-	-
+TODO	lexeme	clear	transparent	-	Duo	-	-
+TODO	lexeme	how can i help you	paano kita matutulungan?	-	Duo	-	-
+TODO	lexeme	tape	teyp	-	Duo	-	-
+TODO	lexeme	pink	pink	-	Duo	-	-
+TODO	lexeme	would you like	gusto mo	-	Duo	-	-
+TODO	lexeme	present	regalo	-	Duo	-	-
+TODO	lexeme	card	card	-	Duo	-	-
+TODO	lexeme	grandchildren	mga apo	-	Duo	-	-
+TODO	lexeme	scissors	gunting	-	Duo	-	-
+TODO	lexeme	grandpa	lolo	-	Duo	-	-
+TODO	lexeme	letter	sulat	-	Duo	-	-
+TODO	lexeme	envelope	sobre	-	Duo	-	-
+TODO	lexeme	would like to	gusto	-	Duo	-	-
+TODO	lexeme	sixty	animnapu	-	Duo	-	-
+TODO	lexeme	would you like to	Gusto mo bang	-	Duo	-	-
+TODO	lexeme	stamp	selyo	-	Duo	-	-
+TODO	lexeme	add	pagdagdag	-	Duo	-	-
+TODO	lexeme	mail	sulat	-	Duo	-	-
+TODO	lexeme	international	internasyonal; international	-	Duo	-	-
+TODO	lexeme	receive	pagtanggap	-	Duo	-	-
+TODO	lexeme	with a check	gamit ang tseke	-	Duo	-	-
+TODO	lexeme	thirteen	labintatlo	-	Duo	-	-
+TODO	lexeme	dish	pinagkainan	-	Duo	-	-
+TODO	lexeme	mess	gulo	-	Duo	-	-
+TODO	lexeme	have to	pwedeng; nararapat; dapat; kailangan; kailangang	-	Duo	-	-
+TODO	lexeme	do the dishes	maghugas; naghuhugas; maghuhugas	-	Duo	-	-
+TODO	lexeme	smell bad	Mabaho	-	Duo	-	-
+TODO	lexeme	do laundry	paglaba	-	Duo	-	-
+TODO	lexeme	laundry	labada	-	Duo	-	-
+TODO	lexeme	ew	kadiri	-	Duo	-	-
+TODO	lexeme	vacuum	pag-vacuum	-	Duo	-	-
+TODO	lexeme	organize	pag-organisa	-	Duo	-	-
+TODO	lexeme	chore	gawaing-bahay	-	Duo	-	-
+TODO	lexeme	trash	basura	-	Duo	-	-
+TODO	lexeme	carpet	carpet	-	Duo	-	-
+TODO	lexeme	dishwasher	dishwasher	-	Duo	-	-
+TODO	lexeme	daily	pang-araw-araw	-	Duo	-	-
+TODO	lexeme	routine	gawi	-	Duo	-	-
+TODO	lexeme	normally	karaniwan	-	Duo	-	-
+TODO	lexeme	need to	kailangang	-	Duo	-	-
+TODO	lexeme	talk	nagsasalita; kinausap; makakausap; uusap; pinag-usapan; mag-usap; nakikipag-usap; magsalita; uusapan; nag-uusap; pinag-uusapan; makausap; kinakausap; mag - uusap; nakikipag; pag-usapan; kausapin; nakipag	-	Duo	-	-
+TODO	lexeme	explain	pagpaliwanag	-	Duo	-	-
+TODO	lexeme	what's wrong	ano'ng problema	-	Duo	-	-
+TODO	lexeme	everything	lahat	-	Duo	-	-
+TODO	lexeme	lonely	nalulumbay	-	Duo	-	-
+TODO	lexeme	seem	parang	-	Duo	-	-
+TODO	lexeme	worried	nag-alala; aalala	-	Duo	-	-
+TODO	lexeme	how are you doing	kumusta ka na ba	-	Duo	-	-
+TODO	lexeme	want to	gustong; gusto	-	Duo	-	-
+TODO	lexeme	try to	susubukan; sumusubok; subukan mong	-	Duo	-	-
+TODO	lexeme	mad	pagkaasar	-	Duo	-	-
+TODO	lexeme	jealous	nagseselos	-	Duo	-	-
+TODO	lexeme	plan to	plano kong	-	Duo	-	-
+TODO	lexeme	mad at	galit	-	Duo	-	-
+TODO	lexeme	that's too bad	sobrang sama niyan	-	Duo	-	-
+TODO	lexeme	agree with	sumang-ayon; sumasang-ayon	-	Duo	-	-
+TODO	lexeme	agree	pagsang-ayon	-	Duo	-	-
+TODO	lexeme	text	pag-text	-	Duo	-	-
+TODO	lexeme	see you soon	kita-kita	-	Duo	-	-
+TODO	lexeme	island	isla	-	Duo	-	-
+TODO	lexeme	raincoat	kapote	-	Duo	-	-
+TODO	lexeme	going to	papuntang; pupuntang; magiging	-	Duo	-	-
+TODO	lexeme	Egypt	Egypt	-	Duo	-	-
+TODO	lexeme	ski	pag-ski	-	Duo	-	-
+TODO	lexeme	can't wait	makapaghintay	-	Duo	-	-
+TODO	lexeme	October	Oktubre	-	Duo	-	-
+TODO	lexeme	January	Enero	-	Duo	-	-
+TODO	lexeme	ocean	karagatan	-	Duo	-	-
+TODO	lexeme	fly	paglipad	-	Duo	-	-
+TODO	lexeme	boat	bangka	-	Duo	-	-
+TODO	lexeme	across	sa tapat; sa kabila; tapat; patawid	-	Duo	-	-
+TODO	lexeme	August	Agosto	-	Duo	-	-
+TODO	lexeme	plane	eroplano	-	Duo	-	-
+TODO	lexeme	lake	lawa	-	Duo	-	-
+TODO	lexeme	actually	sa katunayan	-	Duo	-	-
+TODO	lexeme	March	Marso	-	Duo	-	-
+TODO	lexeme	first class	first class	-	Duo	-	-
+TODO	lexeme	swimsuit	Damit panglangoy	-	Duo	-	-
+TODO	lexeme	pack	pag-empake	-	Duo	-	-
+TODO	lexeme	sunscreen	sunblock	-	Duo	-	-
+TODO	lexeme	July	Hulyo	-	Duo	-	-
+TODO	lexeme	headphones	earphones	-	Duo	-	-
+TODO	lexeme	afternoon	hapon	-	Duo	-	-
+TODO	lexeme	tomorrow night	bukas ng gabi	-	Duo	-	-
+TODO	lexeme	hang out	pagtambay	-	Duo	-	-
+TODO	lexeme	i think so	sa palagay ko	-	Duo	-	-
+TODO	lexeme	picnic	piknik	-	Duo	-	-
+TODO	lexeme	storm	bagyo	-	Duo	-	-
+TODO	lexeme	rain	pag-ulan	-	Duo	-	-
+TODO	lexeme	around	bandang	-	Duo	-	-
+TODO	lexeme	attend	pagdalo	-	Duo	-	-
+TODO	lexeme	happen	pangyayari	-	Duo	-	-
+TODO	lexeme	wedding	kasal	-	Duo	-	-
+TODO	lexeme	fancy	magara	-	Duo	-	-
+TODO	lexeme	light	magaan; maliliwanag; liwanag; ilaw; maliwanag; mapusyaw	-	Duo	-	-
+TODO	lexeme	choose	pagpili	-	Duo	-	-
+TODO	lexeme	blouse	blusa	-	Duo	-	-
+TODO	lexeme	necklace	kuwintas	-	Duo	-	-
+TODO	lexeme	which	aling; sinong; alin na; alin; kung	-	Duo	-	-
+TODO	lexeme	i don't think so	sa palagay ko hindi	-	Duo	-	-
+TODO	lexeme	winter	taglamig	-	Duo	-	-
+TODO	lexeme	December	Disyembre	-	Duo	-	-
+TODO	lexeme	yesterday	kahapon	-	Duo	-	-
+TODO	lexeme	album	album	-	Duo	-	-
+TODO	lexeme	podcast	podcast	-	Duo	-	-
+TODO	lexeme	humid	maumido	-	Duo	-	-
+TODO	lexeme	over the weekend	noong weekend	-	Duo	-	-
+TODO	lexeme	June	Hunyo	-	Duo	-	-
+TODO	lexeme	umbrella	payong	-	Duo	-	-
+TODO	lexeme	April	Abril	-	Duo	-	-
+TODO	lexeme	in the rain	sa ulan	-	Duo	-	-
+TODO	lexeme	golf	golf	-	Duo	-	-
+TODO	lexeme	all day	buong araw	-	Duo	-	-
+TODO	lexeme	dry	tuyong; tuyo; napakatuyo	-	Duo	-	-
+TODO	lexeme	season	tag; panahon; kapanahunan; season	-	Duo	-	-
+TODO	lexeme	spring	tagsibol	-	Duo	-	-
+TODO	lexeme	February	Pebrero	-	Duo	-	-
+TODO	lexeme	last night	kagabi	-	Duo	-	-
+TODO	lexeme	all weekend	buong weekend	-	Duo	-	-
+TODO	lexeme	midnight	hatinggabi	-	Duo	-	-
+TODO	lexeme	bike	bisikleta	-	Duo	-	-
+TODO	lexeme	in the mountains	sa mga bundok	-	Duo	-	-
+TODO	lexeme	May	Mayo	-	Duo	-	-
+TODO	lexeme	symptom	sintomas	-	Duo	-	-
+TODO	lexeme	hospital	ospital	-	Duo	-	-
+TODO	lexeme	did not	hindi; Hindi pa [po/ho/]; ay hindi	-	Duo	-	-
+TODO	lexeme	follow	pagsunod	-	Duo	-	-
+TODO	lexeme	stay home	pagpanatili sa bahay	-	Duo	-	-
+TODO	lexeme	appointment	apoyntment	-	Duo	-	-
+TODO	lexeme	advice	payo	-	Duo	-	-
+TODO	lexeme	didn't	hindi; '	-	Duo	-	-
+TODO	lexeme	arm	braso	-	Duo	-	-
+TODO	lexeme	nose	ilong	-	Duo	-	-
+TODO	lexeme	break	nabali; pahinga; Sisirain; Babasagin; masisira; mababasag; masira	-	Duo	-	-
+TODO	lexeme	leg	binti	-	Duo	-	-
+TODO	lexeme	face	mukha	-	Duo	-	-
+TODO	lexeme	in bed	sa kama	-	Duo	-	-
+TODO	lexeme	health	kalusugan	-	Duo	-	-
+TODO	lexeme	miss	lumiban	-	Duo	-	-
+TODO	lexeme	reply	pagsagot	-	Duo	-	-
+TODO	lexeme	move	paglipat	-	Duo	-	-
+TODO	lexeme	neighborhood	barangay	-	Duo	-	-
+TODO	lexeme	ago	ang nakalipas	-	Duo	-	-
+TODO	lexeme	as a child	noong bata pa ako	-	Duo	-	-
+TODO	lexeme	eighteen	labingwalo	-	Duo	-	-
+TODO	lexeme	cry	pag-iyak	-	Duo	-	-
+TODO	lexeme	cafeteria	kapeteriya	-	Duo	-	-
+TODO	lexeme	high school	hay-iskul	-	Duo	-	-
+TODO	lexeme	Japanese	Japanese	-	Duo	-	-
+TODO	lexeme	grammar	gramatika	-	Duo	-	-
+TODO	lexeme	elementary school	elementarya	-	Duo	-	-
+TODO	lexeme	play cards	pagbaraha	-	Duo	-	-
+TODO	lexeme	rugby	rugby	-	Duo	-	-
+TODO	lexeme	did	pumunta; ginawa	-	Duo	-	-
+TODO	lexeme	cookie	biskuwit	-	Duo	-	-
+TODO	lexeme	jam	jam	-	Duo	-	-
+TODO	lexeme	cereal	cereal	-	Duo	-	-
+TODO	lexeme	pasta	pasta	-	Duo	-	-
+TODO	lexeme	had	nagkaroon; nagka; napapagawa	-	Duo	-	-
+TODO	lexeme	cartoon	cartoon	-	Duo	-	-
+TODO	lexeme	show	palabas	-	Duo	-	-
+TODO	lexeme	song	kanta	-	Duo	-	-
+TODO	lexeme	magazine	magasin	-	Duo	-	-
+TODO	lexeme	motorcycle	motorsiklo	-	Duo	-	-
+TODO	lexeme	accident	aksidente	-	Duo	-	-
+TODO	lexeme	gas station	gasolinahan	-	Duo	-	-
+TODO	lexeme	in front of	nasa harap; sa tapat; sa harap	-	Duo	-	-
+TODO	lexeme	arrive	darating; makauwi; ay sumasapit; sapitin; dumarating; dumating; ay dumarating; dumadating; ay dumadating; ay sumapit; pagdating; ay dumating; sumapit; nakakarating	-	Duo	-	-
+TODO	lexeme	fall off	nahulog	-	Duo	-	-
+TODO	lexeme	ambulance	ambulansiya	-	Duo	-	-
+TODO	lexeme	scooter	motor	-	Duo	-	-
+TODO	lexeme	quickly	agad-agad	-	Duo	-	-
+TODO	lexeme	surgery	operasyon	-	Duo	-	-
+TODO	lexeme	bruise	pasa	-	Duo	-	-
+TODO	lexeme	helmet	helmet	-	Duo	-	-
+TODO	lexeme	elbow	siko	-	Duo	-	-
+TODO	lexeme	waiting room	hintayan	-	Duo	-	-
+TODO	lexeme	grandmother	lola	-	Duo	-	-
+TODO	lexeme	after	matapos; pagkatapos ng; pagkatapos; makalipas ang; pagkagaling sa; pagkaraan	-	Duo	-	-
+TODO	lexeme	insurance company	insurance	-	Duo	-	-
+TODO	lexeme	prescription	reseta	-	Duo	-	-
+TODO	lexeme	cast	bendang semento	-	Duo	-	-
+TODO	lexeme	get well soon	pagaling ka	-	Duo	-	-
+TODO	lexeme	festival	festival	-	Duo	-	-
+TODO	lexeme	just	lang	-	Duo	-	-
+TODO	lexeme	regular	regular	-	Duo	-	-
+TODO	lexeme	rock	rock	-	Duo	-	-
+TODO	lexeme	than	kumpara kay; kesa; kaysa sa; kaysa; kaysa kay; sa; pa sa; kumpara; kay	-	Duo	-	-
+TODO	lexeme	rap	rap	-	Duo	-	-
+TODO	lexeme	stage	entablado	-	Duo	-	-
+TODO	lexeme	crowd	madla	-	Duo	-	-
+TODO	lexeme	pop	pop	-	Duo	-	-
+TODO	lexeme	folk	folk	-	Duo	-	-
+TODO	lexeme	perform	pagtatanghal	-	Duo	-	-
+TODO	lexeme	noisy	maingay	-	Duo	-	-
+TODO	lexeme	punk	punk	-	Duo	-	-
+TODO	lexeme	drums	mga tambol; drums	-	Duo	-	-
+TODO	lexeme	sleepy	inaantok	-	Duo	-	-
+TODO	lexeme	go home	pag-uwi	-	Duo	-	-
+TODO	lexeme	jazz	jazz	-	Duo	-	-
+TODO	lexeme	athlete	atleta	-	Duo	-	-
+TODO	lexeme	celebrity	artista	-	Duo	-	-
+TODO	lexeme	rich	mayaman	-	Duo	-	-
+TODO	lexeme	rude	pagkabastos	-	Duo	-	-
+TODO	lexeme	member	miyembro	-	Duo	-	-
+TODO	lexeme	as well	kasing galing	-	Duo	-	-
+TODO	lexeme	comedian	komedyante	-	Duo	-	-
+TODO	lexeme	actor	artista	-	Duo	-	-
+TODO	lexeme	pretty	maganda	-	Duo	-	-
+TODO	lexeme	director	direktor	-	Duo	-	-
+TODO	lexeme	i know	Alam ko; alam ko	-	Duo	-	-
+TODO	lexeme	strange	kakaiba	-	Duo	-	-
+TODO	lexeme	novel	nobela	-	Duo	-	-
+TODO	lexeme	poem	tula	-	Duo	-	-
+TODO	lexeme	young	bata	-	Duo	-	-
+TODO	lexeme	author	awtor	-	Duo	-	-
+TODO	lexeme	website	website	-	Duo	-	-
+TODO	lexeme	post	post	-	Duo	-	-
+TODO	lexeme	music video	music video	-	Duo	-	-
+TODO	lexeme	social media	social media	-	Duo	-	-
+TODO	lexeme	amazing	nakakabilib	-	Duo	-	-
+TODO	lexeme	presentation	presentasyon	-	Duo	-	-
+TODO	lexeme	plan	plano	-	Duo	-	-
+TODO	lexeme	someone	isang tao	-	Duo	-	-
+TODO	lexeme	due	pagpasa	-	Duo	-	-
+TODO	lexeme	idea	ideya	-	Duo	-	-
+TODO	lexeme	example	halimbawa	-	Duo	-	-
+TODO	lexeme	mention	pagbanggit	-	Duo	-	-
+TODO	lexeme	possible	posible	-	Duo	-	-
+TODO	lexeme	deadline	dedlayn	-	Duo	-	-
+TODO	lexeme	report	report	-	Duo	-	-
+TODO	lexeme	sure	sigurado; pihado	-	Duo	-	-
+TODO	lexeme	mistake	mali	-	Duo	-	-
+TODO	lexeme	paragraph	talata	-	Duo	-	-
+TODO	lexeme	oops	naku	-	Duo	-	-
+TODO	lexeme	instructions	mga instruksiyon	-	Duo	-	-
+TODO	lexeme	simple	simple	-	Duo	-	-
+TODO	lexeme	women	mga babaeng; mga babae; babae	-	Duo	-	-
+TODO	lexeme	several	mangilan-ngilan	-	Duo	-	-
+TODO	lexeme	say	pagsabi	-	Duo	-	-
+TODO	lexeme	steal	pagnakaw	-	Duo	-	-
+TODO	lexeme	detective	detektib	-	Duo	-	-
+TODO	lexeme	anything	ng kahit ano; kahit ano; ng anumang bagay; anuman; ibang; anumang bagay; ng kahit anong	-	Duo	-	-
+TODO	lexeme	grandfather	lolo	-	Duo	-	-
+TODO	lexeme	notice	pagpansin	-	Duo	-	-
+TODO	lexeme	robber	magnanakaw	-	Duo	-	-
+TODO	lexeme	anyone	tao; isang tao	-	Duo	-	-
+TODO	lexeme	police	pulis	-	Duo	-	-
+TODO	lexeme	diamond	diyamante	-	Duo	-	-
+TODO	lexeme	earring	hikaw	-	Duo	-	-
+TODO	lexeme	describe	pagdetalye	-	Duo	-	-
+TODO	lexeme	how big	gaano kalawak; gaano kalaki	-	Duo	-	-
+TODO	lexeme	missing	nawawala	-	Duo	-	-
+TODO	lexeme	contact	pagkontak	-	Duo	-	-
+TODO	lexeme	crime	krimen	-	Duo	-	-
+TODO	lexeme	location	lokasyon	-	Duo	-	-
+TODO	lexeme	men	mga lalaki; kalalakihan; mga tao; lalaki; mga lalake; lalaking	-	Duo	-	-
+TODO	lexeme	belong to	pagmamay-ari	-	Duo	-	-
+TODO	lexeme	ring	singsing	-	Duo	-	-
+TODO	lexeme	update	balita	-	Duo	-	-
+TODO	lexeme	valuable	mamahalin	-	Duo	-	-
+TODO	lexeme	holiday	piyesta-opisyal	-	Duo	-	-
+TODO	lexeme	got	ay kumuha; bumili; kinuha; nakatanggap; nakauwi; may; natanggap; nakakuha; kumuha; nagka	-	Duo	-	-
+TODO	lexeme	went	pumunta	-	Duo	-	-
+TODO	lexeme	Christmas	Pasko	-	Duo	-	-
+TODO	lexeme	came	dumating; ay dumating; pumarito; naparito	-	Duo	-	-
+TODO	lexeme	then	at saka	-	Duo	-	-
+TODO	lexeme	saw	nakita; Nakakita; nakita na	-	Duo	-	-
+TODO	lexeme	fall	taglagas	-	Duo	-	-
+TODO	lexeme	twice	dalawang beses	-	Duo	-	-
+TODO	lexeme	huge	napakalaki	-	Duo	-	-
+TODO	lexeme	drank	uminom; ay uminom; nakainom; ininom; drink	-	Duo	-	-
+TODO	lexeme	November	Nobyembre	-	Duo	-	-
+TODO	lexeme	ate	kumain; kinain; ay kumain	-	Duo	-	-
+TODO	lexeme	afraid	takot	-	Duo	-	-
+TODO	lexeme	took	sumakay; kinuha; nagkuha; umako; dinala; inalagaan; inaako; Inako; ginugol; tinatanggap; tumanggap; kumuha; nagugol	-	Duo	-	-
+TODO	lexeme	wore	nagsuot; sinuot	-	Duo	-	-
+TODO	lexeme	firework	paputok	-	Duo	-	-
+TODO	lexeme	made	ginawang; gumawa; ginawan; nakagawa; nagpa; ginawa; nagpaiyak	-	Duo	-	-
+TODO	lexeme	traditional	tradisyonal	-	Duo	-	-
+TODO	lexeme	repeat	pag-ulit	-	Duo	-	-
+TODO	lexeme	clinic	klinika	-	Duo	-	-
+TODO	lexeme	patient	pasyente	-	Duo	-	-
+TODO	lexeme	cause	pagdulot	-	Duo	-	-
+TODO	lexeme	confirm	pagkumpirma	-	Duo	-	-
+TODO	lexeme	anxiety	pagkabalisa	-	Duo	-	-
+TODO	lexeme	pain	sakit	-	Duo	-	-
+TODO	lexeme	fill out	sulatan	-	Duo	-	-
+TODO	lexeme	form	form	-	Duo	-	-
+TODO	lexeme	dentist	dentista	-	Duo	-	-
+TODO	lexeme	tooth	ipin	-	Duo	-	-
+TODO	lexeme	September	Setyembre	-	Duo	-	-
+TODO	lexeme	body	katawan	-	Duo	-	-
+TODO	lexeme	doctor's office	opisina ng doktor	-	Duo	-	-
+TODO	lexeme	Arabic	Arabic	-	Duo	-	-
+TODO	lexeme	German	German	-	Duo	-	-
+TODO	lexeme	whole body	buong katawan	-	Duo	-	-
+TODO	lexeme	side effect	ibang epekto	-	Duo	-	-
+TODO	lexeme	therapist	therapist	-	Duo	-	-
+TODO	lexeme	recommend	pagrekomenda	-	Duo	-	-
+TODO	lexeme	relaxation	pagrelaks	-	Duo	-	-
+TODO	lexeme	exercise	pag-ehersisyo	-	Duo	-	-
+TODO	lexeme	stressful	nakakabagabag	-	Duo	-	-
+TODO	lexeme	how's it going	ano na	-	Duo	-	-
+TODO	lexeme	go to bed	pagtulog	-	Duo	-	-
+TODO	lexeme	take a nap	pag-idlip	-	Duo	-	-
+TODO	lexeme	pajamas	padyama	-	Duo	-	-
+TODO	lexeme	relaxing	nakakarelaks	-	Duo	-	-
+TODO	lexeme	unhappy	malungkot	-	Duo	-	-
+TODO	lexeme	if	kung; kapag	-	Duo	-	-
+TODO	lexeme	honey	honey	-	Duo	-	-
+TODO	lexeme	stressed out	stressed out	-	Duo	-	-
+TODO	lexeme	fast food	fast food	-	Duo	-	-
+TODO	lexeme	hobby	libangan	-	Duo	-	-
+TODO	lexeme	go fishing	pangingisda	-	Duo	-	-
+TODO	lexeme	puzzle	jigsaw puzzle	-	Duo	-	-
+TODO	lexeme	what's	ano ang	-	Duo	-	-
+TODO	lexeme	instrument	instrumento	-	Duo	-	-
+TODO	lexeme	violin	biyolin	-	Duo	-	-
+TODO	lexeme	classical	klasiko	-	Duo	-	-
+TODO	lexeme	ask for	hingin	-	Duo	-	-
+TODO	lexeme	a ride	sakay	-	Duo	-	-
+TODO	lexeme	traffic	trapik	-	Duo	-	-
+TODO	lexeme	directions	mga direksyon; direksyon; direksiyong	-	Duo	-	-
+TODO	lexeme	airline	airline	-	Duo	-	-
+TODO	lexeme	without	wala; wala nang; na walang; walang; kung walang; nang wala	-	Duo	-	-
+TODO	lexeme	luggage	bagahe	-	Duo	-	-
+TODO	lexeme	take a tour	pagpasyal	-	Duo	-	-
+TODO	lexeme	tour	paglilibot	-	Duo	-	-
+TODO	lexeme	foggy	ma-fog	-	Duo	-	-
+TODO	lexeme	guest	bisita	-	Duo	-	-
+TODO	lexeme	stairs	hagdan; hagdanan	-	Duo	-	-
+TODO	lexeme	second	ikalawang; ikalawa; pangalawang; sa ikalawang; pangalawa; second	-	Duo	-	-
+TODO	lexeme	unpack	pag-ayos ng bagahe	-	Duo	-	-
+TODO	lexeme	washing machine	washing machine	-	Duo	-	-
+TODO	lexeme	get back	pagbalik	-	Duo	-	-
+TODO	lexeme	over	sa ibabaw; mahigit; higit; paglipas	-	Duo	-	-
+TODO	lexeme	exhausted	hapung-hapo	-	Duo	-	-
+TODO	lexeme	slow	mabagal	-	Duo	-	-
+TODO	lexeme	workout	ehersisyo	-	Duo	-	-
+TODO	lexeme	might	baka; maaaring	-	Duo	-	-
+TODO	lexeme	skip	paglaktaw	-	Duo	-	-
+TODO	lexeme	water bottle	tumbler	-	Duo	-	-
+TODO	lexeme	hire	pagkuha	-	Duo	-	-
+TODO	lexeme	trainer	coach	-	Duo	-	-
+TODO	lexeme	should	dapat	-	Duo	-	-
+TODO	lexeme	even	nga	-	Duo	-	-
+TODO	lexeme	fitness	pang-ehersisyo	-	Duo	-	-
+TODO	lexeme	marathon	marathon	-	Duo	-	-
+TODO	lexeme	mile	milya	-	Duo	-	-
+TODO	lexeme	at all	kahit kaunti	-	Duo	-	-
+TODO	lexeme	couldn't	hindi puwede; hindi kaya	-	Duo	-	-
+TODO	lexeme	ran	tumakbo	-	Duo	-	-
+TODO	lexeme	unhealthy	hindi masustansiya	-	Duo	-	-
+TODO	lexeme	smoothie	shake	-	Duo	-	-
+TODO	lexeme	shouldn't	hindi dapat	-	Duo	-	-
+TODO	lexeme	good for	mabuti para sa	-	Duo	-	-
+TODO	lexeme	lie down	paghiga	-	Duo	-	-
+TODO	lexeme	must	dapat	-	Duo	-	-
+TODO	lexeme	lying down	nakahiga	-	Duo	-	-
+TODO	lexeme	medical	medikal	-	Duo	-	-
+TODO	lexeme	stomachache	pananakit ng tiyan	-	Duo	-	-
+TODO	lexeme	wheelchair	wheelchair	-	Duo	-	-
+TODO	lexeme	receptionist	resepsiyonista	-	Duo	-	-
+TODO	lexeme	may	maaring; Mayo	-	Duo	-	-
+TODO	lexeme	neck	leeg	-	Duo	-	-
+TODO	lexeme	jump	pagtalon	-	Duo	-	-
+TODO	lexeme	mouth	bibig	-	Duo	-	-
+TODO	lexeme	normal	normal	-	Duo	-	-
+TODO	lexeme	must not	Hindi dapat	-	Duo	-	-
+TODO	lexeme	back pain	pananakit ng likod	-	Duo	-	-
+TODO	lexeme	once	isang beses	-	Duo	-	-
+TODO	lexeme	how often	gaano kadalas	-	Duo	-	-
+TODO	lexeme	teeth	mga ngipin; ipin	-	Duo	-	-
+TODO	lexeme	improve	pagpabuti	-	Duo	-	-
+TODO	lexeme	finger	daliri	-	Duo	-	-
+TODO	lexeme	thank	pagpasalamat	-	Duo	-	-
+TODO	lexeme	brain	utak	-	Duo	-	-
+TODO	lexeme	more often	mas madalas	-	Duo	-	-
+TODO	lexeme	dark	madilim	-	Duo	-	-
+TODO	lexeme	give	pagbigay	-	Duo	-	-
+TODO	lexeme	balloon	lobo	-	Duo	-	-
+TODO	lexeme	happy birthday	maligayang kaarawan	-	Duo	-	-
+TODO	lexeme	invitation	imbitasyon	-	Duo	-	-
+TODO	lexeme	text message	text	-	Duo	-	-
+TODO	lexeme	sent	pinadala; nakapagpadala; nagpadala; ay nagpadala; pinadalhan; ipinadala; naipapadala	-	Duo	-	-
+TODO	lexeme	brought	nagdala; dinala; dinalhan; ay nagdala	-	Duo	-	-
+TODO	lexeme	sing	pagkanta	-	Duo	-	-
+TODO	lexeme	sang	umawit; kumanta; kinantahan	-	Duo	-	-
+TODO	lexeme	wonderful	kahanga-hanga	-	Duo	-	-
+TODO	lexeme	annoying	nakakairita	-	Duo	-	-
+TODO	lexeme	gave	binigyan; ay nagbigay	-	Duo	-	-
+TODO	lexeme	story	kuwento	-	Duo	-	-
+TODO	lexeme	date	petsa; date	-	Duo	-	-
+TODO	lexeme	told	nagsabi; sinabi; nasabihan; nasabi; sinasabihan; inutusan; Sinabihan; nakapagsabi	-	Duo	-	-
+TODO	lexeme	forgot	nakalimutan	-	Duo	-	-
+TODO	lexeme	true	totoo	-	Duo	-	-
+TODO	lexeme	gossip	pagtsismis	-	Duo	-	-
+TODO	lexeme	years old	taong gulang; na taong gulang	-	Duo	-	-
+TODO	lexeme	twenty-one	dalawampu't isa	-	Duo	-	-
+TODO	lexeme	how old	ilang taon	-	Duo	-	-
+TODO	lexeme	file	file	-	Duo	-	-
+TODO	lexeme	wrote	sinulat; nagsulat; ay nagsulat; ay nagsusulat; isinulat; sinulatan	-	Duo	-	-
+TODO	lexeme	correct	tama	-	Duo	-	-
+TODO	lexeme	secretary	sekretarya	-	Duo	-	-
+TODO	lexeme	right away	agad-agad	-	Duo	-	-
+TODO	lexeme	version	bersiyon	-	Duo	-	-
+TODO	lexeme	create	paggawa	-	Duo	-	-
+TODO	lexeme	print	pag-print	-	Duo	-	-
+TODO	lexeme	if you want	kung gusto mo	-	Duo	-	-
+TODO	lexeme	folder	folder	-	Duo	-	-
+TODO	lexeme	copy	pagkopya	-	Duo	-	-
+TODO	lexeme	lend	pagpapahiram	-	Duo	-	-
+TODO	lexeme	if you can	kung pwede	-	Duo	-	-
+TODO	lexeme	fault	kasalanan	-	Duo	-	-
+TODO	lexeme	colleague	kasamahan	-	Duo	-	-
+TODO	lexeme	popular	sikat	-	Duo	-	-
+TODO	lexeme	sunglasses	sunglasses	-	Duo	-	-
+TODO	lexeme	this one	itong isa	-	Duo	-	-
+TODO	lexeme	chose	pumili; pinili	-	Duo	-	-
+TODO	lexeme	wool	wool	-	Duo	-	-
+TODO	lexeme	the most	pinaka-malilimutin	-	Duo	-	-
+TODO	lexeme	that one	iyang isa	-	Duo	-	-
+TODO	lexeme	rug	rug	-	Duo	-	-
+TODO	lexeme	lamp	lampara	-	Duo	-	-
+TODO	lexeme	colorful	makulay	-	Duo	-	-
+TODO	lexeme	gold	kulay gintong; ng ginto; ginto; may ginto	-	Duo	-	-
+TODO	lexeme	bracelet	pulseras	-	Duo	-	-
+TODO	lexeme	painting	larawang ipininta	-	Duo	-	-
+TODO	lexeme	silver	pilak	-	Duo	-	-
+TODO	lexeme	ones	mga iyon	-	Duo	-	-
+TODO	lexeme	special	espesyal	-	Duo	-	-
+TODO	lexeme	mango	mangga	-	Duo	-	-
+TODO	lexeme	spice	pampalasa	-	Duo	-	-
+TODO	lexeme	whole	buong	-	Duo	-	-
+TODO	lexeme	world	mundo; mundong; world	-	Duo	-	-
+TODO	lexeme	goal	layunin	-	Duo	-	-
+TODO	lexeme	ready for	handa para sa	-	Duo	-	-
+TODO	lexeme	worse	mas malala	-	Duo	-	-
+TODO	lexeme	conversation	usapan	-	Duo	-	-
+TODO	lexeme	department	departamento	-	Duo	-	-
+TODO	lexeme	worst	pinakamalala	-	Duo	-	-
+TODO	lexeme	best	pinakamagaling	-	Duo	-	-
+TODO	lexeme	writer	manunulat	-	Duo	-	-
+TODO	lexeme	suggestion	suhestiyon	-	Duo	-	-
+TODO	lexeme	task	tungkulin	-	Duo	-	-
+TODO	lexeme	organized	organisado	-	Duo	-	-
+TODO	lexeme	pick	pagpili	-	Duo	-	-
+TODO	lexeme	note	maikling sulat	-	Duo	-	-
+TODO	lexeme	convenient	akma	-	Duo	-	-
+TODO	lexeme	customer	customer	-	Duo	-	-
+TODO	lexeme	building	gusali	-	Duo	-	-
+TODO	lexeme	bought	bumili; ay bumili; bumili ng; binili; nabili; nakabili	-	Duo	-	-
+TODO	lexeme	thirty-first	ika-tatlumpu't isa; ika-tatlumpu't isang	-	Duo	-	-
+TODO	lexeme	go to sleep	pagtulog	-	Duo	-	-
+TODO	lexeme	get home	pag-uwi	-	Duo	-	-
+TODO	lexeme	think	pag-isip	-	Duo	-	-
+TODO	lexeme	set	ilalagay; ilagay; magtatakda; itatakda; magsimula; itakda; itinatakda; nagtatakda; nilalagay; set	-	Duo	-	-
+TODO	lexeme	skill	kakayahan	-	Duo	-	-
+TODO	lexeme	speak to	Kinakausap; Kausapin; kausapin	-	Duo	-	-
+TODO	lexeme	life	buhay	-	Duo	-	-
+TODO	lexeme	while	habang	-	Duo	-	-
+TODO	lexeme	stretch	pag-inat	-	Duo	-	-
+TODO	lexeme	journal	diary	-	Duo	-	-
+TODO	lexeme	meditate	pagmuni-muni	-	Duo	-	-
+TODO	lexeme	budget	badyet	-	Duo	-	-
+TODO	lexeme	bank	bangko	-	Duo	-	-
+TODO	lexeme	debit card	debit card	-	Duo	-	-
+TODO	lexeme	battery	baterya	-	Duo	-	-
+TODO	lexeme	drop	paghulog	-	Duo	-	-
+TODO	lexeme	tablet	tablet	-	Duo	-	-
+TODO	lexeme	broke	nabali; binasag; masira; nabasag; nakabali	-	Duo	-	-
+TODO	lexeme	turn on	pag-on	-	Duo	-	-
+TODO	lexeme	connect	pagkonekta	-	Duo	-	-
+TODO	lexeme	charger	charger	-	Duo	-	-
+TODO	lexeme	software	software	-	Duo	-	-
+TODO	lexeme	virus	virus	-	Duo	-	-
+TODO	lexeme	click on	pag-click	-	Duo	-	-
+TODO	lexeme	get a virus	nagka-virus	-	Duo	-	-
+TODO	lexeme	link	link	-	Duo	-	-
+TODO	lexeme	program	program	-	Duo	-	-
+TODO	lexeme	edit	pag-edit	-	Duo	-	-
+TODO	lexeme	turn off	pag-off	-	Duo	-	-
+TODO	lexeme	download	pag-download	-	Duo	-	-
+TODO	lexeme	heard	Napakinggan; nakarinig; ang narinig; narinig	-	Duo	-	-
+TODO	lexeme	in love	umiibig	-	Duo	-	-
+TODO	lexeme	relationship	relasyon	-	Duo	-	-
+TODO	lexeme	hope	umaasa	-	Duo	-	-
+TODO	lexeme	romantic	romantiko	-	Duo	-	-
+TODO	lexeme	knew	nalaman; alam; nakaalam; natutunan	-	Duo	-	-
+TODO	lexeme	get married	nagpakasal	-	Duo	-	-
+TODO	lexeme	break up	naghiwalay	-	Duo	-	-
+TODO	lexeme	awful	masagwa	-	Duo	-	-
+TODO	lexeme	shocked	nabigla	-	Duo	-	-
+TODO	lexeme	glad	nagagalak	-	Duo	-	-
+TODO	lexeme	the truth	katotohanan	-	Duo	-	-
+TODO	lexeme	guy	lalaki	-	Duo	-	-
+TODO	lexeme	rumor	tsismis	-	Duo	-	-
+TODO	lexeme	unfortunately	sa kasamaang-palad	-	Duo	-	-
+TODO	lexeme	yeah	oo	-	Duo	-	-
+TODO	lexeme	thought	inisip; inakala; akala; naisip; inasahan; nagisip	-	Duo	-	-
+TODO	lexeme	surprise	sorpresa	-	Duo	-	-
+TODO	lexeme	such a	napakabuting	-	Duo	-	-
+TODO	lexeme	chat	usapan	-	Duo	-	-
+TODO	lexeme	laugh	pagtawa	-	Duo	-	-
+TODO	lexeme	each other	isa't-isa; ang isa't-isa; sila	-	Duo	-	-
+TODO	lexeme	instructor	instruktor	-	Duo	-	-
+TODO	lexeme	teach	pagturo	-	Duo	-	-
+TODO	lexeme	cycling	pagbibisikleta	-	Duo	-	-
+TODO	lexeme	energy	enerhiya; ng enerhiya	-	Duo	-	-
+TODO	lexeme	activity	aktibidad	-	Duo	-	-
+TODO	lexeme	retreat	retreat	-	Duo	-	-
+TODO	lexeme	wellness	pangkalusugan	-	Duo	-	-
+TODO	lexeme	who's	Sino ang	-	Duo	-	-
+TODO	lexeme	prize	premyo	-	Duo	-	-
+TODO	lexeme	winner	nanalo	-	Duo	-	-
+TODO	lexeme	habit	gawi	-	Duo	-	-
+TODO	lexeme	diet	diyeta	-	Duo	-	-
+TODO	lexeme	avoid	maiwasan; iwasan; iwas; maiiwasan	-	Duo	-	-
+TODO	lexeme	fit	malusog	-	Duo	-	-
+TODO	lexeme	fried	prito	-	Duo	-	-
+TODO	lexeme	kilometer	kilometro	-	Duo	-	-
+TODO	lexeme	race	karera	-	Duo	-	-
+TODO	lexeme	else	iba; ibang	-	Duo	-	-
+TODO	lexeme	good luck	pagpalain ka sana; swertehin ka sana; mabuting suwerte; galingan mo; good luck	-	Duo	-	-
+TODO	lexeme	supper	hapunan	-	Duo	-	-
+TODO	lexeme	peach	peach	-	Duo	-	-
+TODO	lexeme	cup	tasa	-	Duo	-	-
+TODO	lexeme	grape	ubas	-	Duo	-	-
+TODO	lexeme	ingredient	sangkap	-	Duo	-	-
+TODO	lexeme	pear	peras	-	Duo	-	-
+TODO	lexeme	little	maliit	-	Duo	-	-
+TODO	lexeme	a variety of	iba't ibang	-	Duo	-	-
+TODO	lexeme	pepper	paminta	-	Duo	-	-
+TODO	lexeme	basil	basil	-	Duo	-	-
+TODO	lexeme	garlic	bawang	-	Duo	-	-
+TODO	lexeme	cupcake	cupcake	-	Duo	-	-
+TODO	lexeme	bake	magbeyk	-	Duo	-	-
+TODO	lexeme	above	itaas; taas; mataas; higit; nasa itaas	-	Duo	-	-
+TODO	lexeme	flour	arina	-	Duo	-	-
+TODO	lexeme	cream	krema	-	Duo	-	-
+TODO	lexeme	slice	hiwa	-	Duo	-	-
+TODO	lexeme	ketchup	ketsap	-	Duo	-	-
+TODO	lexeme	ham	hamon	-	Duo	-	-
+TODO	lexeme	barbecue	barbikyu	-	Duo	-	-
+TODO	lexeme	seafood	pagkaing-dagat	-	Duo	-	-
+TODO	lexeme	yard	bakuran	-	Duo	-	-
+TODO	lexeme	some of	ilan sa	-	Duo	-	-
+TODO	lexeme	any of	alinman sa	-	Duo	-	-
+TODO	lexeme	all of	Lahat ng	-	Duo	-	-
+TODO	lexeme	stole	nanakaw	-	Duo	-	-
+TODO	lexeme	mayor	mayor	-	Duo	-	-
+TODO	lexeme	of course not	siyempre hindi	-	Duo	-	-
+TODO	lexeme	met	nakikilala; nakipagkita; nakilala; nagkita	-	Duo	-	-
+TODO	lexeme	anymore	nang; na; ng mas marami pang	-	Duo	-	-
+TODO	lexeme	bicycle	bisikleta	-	Duo	-	-
+TODO	lexeme	complain	pagreklamo	-	Duo	-	-
+TODO	lexeme	shout	pagsigaw	-	Duo	-	-
+TODO	lexeme	instead	na lang	-	Duo	-	-
+TODO	lexeme	what about	Ano naman ang tungkol sa	-	Duo	-	-
+TODO	lexeme	equipment	kagamitan	-	Duo	-	-
+TODO	lexeme	insect	insekto	-	Duo	-	-
+TODO	lexeme	borrow	paghiram	-	Duo	-	-
+TODO	lexeme	tool	gamit	-	Duo	-	-
+TODO	lexeme	leaves	aalis; ay aalis; mga dahon; ay umaalis	-	Duo	-	-
+TODO	lexeme	none of	Wala	-	Duo	-	-
+TODO	lexeme	freezer	freezer	-	Duo	-	-
+TODO	lexeme	cabinet	kabinet	-	Duo	-	-
+TODO	lexeme	ice	yelo	-	Duo	-	-
+TODO	lexeme	hot chocolate	mainit na tsokolate	-	Duo	-	-
+TODO	lexeme	expired	napanis	-	Duo	-	-
+TODO	lexeme	stove	kalan	-	Duo	-	-
+TODO	lexeme	pot	kaldero	-	Duo	-	-
+TODO	lexeme	curry	kare-kare	-	Duo	-	-
+TODO	lexeme	yogurt	yogurt	-	Duo	-	-
+TODO	lexeme	main course	main course	-	Duo	-	-
+TODO	lexeme	fork	tinidor	-	Duo	-	-
+TODO	lexeme	mug	mug	-	Duo	-	-
+TODO	lexeme	spoon	kutsara	-	Duo	-	-
+TODO	lexeme	teaspoon	kutsarita	-	Duo	-	-
+TODO	lexeme	measure	pagsukat	-	Duo	-	-
+TODO	lexeme	mix	paghalo	-	Duo	-	-
+TODO	lexeme	oven	oven	-	Duo	-	-
+TODO	lexeme	half	kalahati	-	Duo	-	-
+TODO	lexeme	gallon	galon	-	Duo	-	-
+TODO	lexeme	blender	blender	-	Duo	-	-
+TODO	lexeme	sweets	minatamis	-	Duo	-	-
+TODO	lexeme	jelly	dyelatin; jelly	-	Duo	-	-
+TODO	lexeme	there were	mayroong; Mayroong; Mayroon	-	Duo	-	-
+TODO	lexeme	there was	nagkaroon; merong	-	Duo	-	-
+TODO	lexeme	salespeople	mga tindero	-	Duo	-	-
+TODO	lexeme	salesperson	tagatinda	-	Duo	-	-
+TODO	lexeme	belt	sinturon	-	Duo	-	-
+TODO	lexeme	discount	diskuwento	-	Duo	-	-
+TODO	lexeme	leather	balat	-	Duo	-	-
+TODO	lexeme	sneaker	de-gomang sapatos	-	Duo	-	-
+TODO	lexeme	toy	laruan	-	Duo	-	-
+TODO	lexeme	high	mahal	-	Duo	-	-
+TODO	lexeme	price	presyo	-	Duo	-	-
+TODO	lexeme	euro	euro	-	Duo	-	-
+TODO	lexeme	bookstore	tindahan ng libro	-	Duo	-	-
+TODO	lexeme	spent	ginastos; ay gumastos; gumugol; nagastos; gumastos; gumasta	-	Duo	-	-
+TODO	lexeme	for sale	ipinagbibili	-	Duo	-	-
+TODO	lexeme	parking space	paradahan	-	Duo	-	-
+TODO	lexeme	carefully	maingat	-	Duo	-	-
+TODO	lexeme	found	nakahanap; natagpuan; nahanap; mahahanap	-	Duo	-	-
+TODO	lexeme	where's	nasaan ang; nasaan	-	Duo	-	-
+TODO	lexeme	graduate from	makapagtapos	-	Duo	-	-
+TODO	lexeme	ceremony	seremonya	-	Duo	-	-
+TODO	lexeme	casual	kaswal	-	Duo	-	-
+TODO	lexeme	hey	uy	-	Duo	-	-
+TODO	lexeme	celebrate	pagdiwang	-	Duo	-	-
+TODO	lexeme	backyard	bakuran	-	Duo	-	-
+TODO	lexeme	tons of	tone-toneladang	-	Duo	-	-
+TODO	lexeme	adult	matatanda	-	Duo	-	-
+TODO	lexeme	steak	steak	-	Duo	-	-
+TODO	lexeme	melon	pakwan; melon	-	Duo	-	-
+TODO	lexeme	champagne	champagne	-	Duo	-	-
+TODO	lexeme	photographer	litratista	-	Duo	-	-
+TODO	lexeme	waiter	weyter	-	Duo	-	-
+TODO	lexeme	seventeen	labimpito	-	Duo	-	-
+TODO	lexeme	speech	talumpati	-	Duo	-	-
+TODO	lexeme	rsvp	magbigay-alam; rsvp	-	Duo	-	-
+TODO	lexeme	congratulations	congrats	-	Duo	-	-
+TODO	lexeme	what time	anong oras	-	Duo	-	-
+TODO	lexeme	all kinds of	lahat ng uri ng	-	Duo	-	-
+TODO	lexeme	alarm clock	relos na panggising	-	Duo	-	-
+TODO	lexeme	coat	jacket	-	Duo	-	-
+TODO	lexeme	yours	iyo; inyo; sa iyo; Sa'yo; sa inyo; sa'yo; mo; Sa’yo; sayo	-	Duo	-	-
+TODO	lexeme	whose	na ang; Kanino; na kung; kaninong; kung kaninong	-	Duo	-	-
+TODO	lexeme	mine	sa akin	-	Duo	-	-
+TODO	lexeme	perfume	pabango	-	Duo	-	-
+TODO	lexeme	messy	makalat	-	Duo	-	-
+TODO	lexeme	hers	kaniya; sa kaniya	-	Duo	-	-
+TODO	lexeme	toothpaste	toothpaste	-	Duo	-	-
+TODO	lexeme	pile	tambak	-	Duo	-	-
+TODO	lexeme	newspaper	diyaryo	-	Duo	-	-
+TODO	lexeme	ours	amin; atin; sa amin	-	Duo	-	-
+TODO	lexeme	mixer	panghalo	-	Duo	-	-
+TODO	lexeme	knives	mga kutsilyo; mga kutsilyong; kutsilyo	-	Duo	-	-
+TODO	lexeme	knife	kutsilyo	-	Duo	-	-
+TODO	lexeme	fill	pagpuno	-	Duo	-	-
+TODO	lexeme	theirs	sa kanila; kanila	-	Duo	-	-
+TODO	lexeme	fourteen	labing-apat	-	Duo	-	-
+TODO	lexeme	population	populasyon	-	Duo	-	-
+TODO	lexeme	well-known	popular	-	Duo	-	-
+TODO	lexeme	as	katulad; habang; kasing; bilang	-	Duo	-	-
+TODO	lexeme	modern	moderno	-	Duo	-	-
+TODO	lexeme	Italian	Italian	-	Duo	-	-
+TODO	lexeme	represent	pagrepresenta	-	Duo	-	-
+TODO	lexeme	cuisine	mga lutuin	-	Duo	-	-
+TODO	lexeme	culture	kultura	-	Duo	-	-
+TODO	lexeme	adventurous	malakas ang loob	-	Duo	-	-
+TODO	lexeme	what do you think of	ano sa tingin mo sa	-	Duo	-	-
+TODO	lexeme	flag	bandila	-	Duo	-	-
+TODO	lexeme	mosque	moske	-	Duo	-	-
+TODO	lexeme	owner	may-ari	-	Duo	-	-
+TODO	lexeme	church	simbahan	-	Duo	-	-
+TODO	lexeme	its	niya	-	Duo	-	-
+TODO	lexeme	capital	kapital	-	Duo	-	-
+TODO	lexeme	hometown	bayan	-	Duo	-	-
+TODO	lexeme	bilingual	bilingguwal	-	Duo	-	-
+TODO	lexeme	climate	klima	-	Duo	-	-
+TODO	lexeme	exactly	eksaktong	-	Duo	-	-
+TODO	lexeme	geography	heograpiya	-	Duo	-	-
+TODO	lexeme	architecture	arkitektura	-	Duo	-	-
+TODO	lexeme	sandal	sandalyas	-	Duo	-	-
+TODO	lexeme	list	listahan	-	Duo	-	-
+TODO	lexeme	picky	pihikan	-	Duo	-	-
+TODO	lexeme	less	hindi kasing-	-	Duo	-	-
+TODO	lexeme	don't care	pakialam	-	Duo	-	-
+TODO	lexeme	section	seksiyon	-	Duo	-	-
+TODO	lexeme	half price	kalahating bawas-presyo	-	Duo	-	-
+TODO	lexeme	least	pinakahindi gaano	-	Duo	-	-
+TODO	lexeme	affordable	abot-kaya	-	Duo	-	-
+TODO	lexeme	racket	raketa	-	Duo	-	-
+TODO	lexeme	rare	di-pangkaraniwan	-	Duo	-	-
+TODO	lexeme	price tag	etiketa ng presyo	-	Duo	-	-
+TODO	lexeme	jersey	jersey	-	Duo	-	-
+TODO	lexeme	choice	pinili	-	Duo	-	-
+TODO	lexeme	up to you	nasa sa iyo	-	Duo	-	-
+TODO	lexeme	swimmer	manlalangoy	-	Duo	-	-
+TODO	lexeme	jog	pag-jogging	-	Duo	-	-
+TODO	lexeme	along	sumama; nasa tabi	-	Duo	-	-
+TODO	lexeme	forest	gubat	-	Duo	-	-
+TODO	lexeme	ever	kahit minsan	-	Duo	-	-
+TODO	lexeme	regularly	regular	-	Duo	-	-
+TODO	lexeme	third	ikatlo	-	Duo	-	-
+TODO	lexeme	snowboard	pag-snowboard	-	Duo	-	-
+TODO	lexeme	path	daan	-	Duo	-	-
+TODO	lexeme	nature	kalikasan	-	Duo	-	-
+TODO	lexeme	easily	madali	-	Duo	-	-
+TODO	lexeme	bright	maliwanag	-	Duo	-	-
+TODO	lexeme	the moon	buwan	-	Duo	-	-
+TODO	lexeme	the sky	sa langit; ang langit	-	Duo	-	-
+TODO	lexeme	clearly	malinaw	-	Duo	-	-
+TODO	lexeme	the sun	araw	-	Duo	-	-
+TODO	lexeme	conference room	silid-pulong	-	Duo	-	-
+TODO	lexeme	weekly	lingguhan	-	Duo	-	-
+TODO	lexeme	in person	sa personal	-	Duo	-	-
+TODO	lexeme	argue	pakikipagtalo	-	Duo	-	-
+TODO	lexeme	video call	video call	-	Duo	-	-
+TODO	lexeme	stop	tumitigil; huminto ka; himpilan; matapos; humihinto; makatigil; itigil; huminto; pigilan; humintong; pahintuin; ihinto; tumigil; hintuan; pigilin; ihintô; makapigil	-	Duo	-	-
+TODO	lexeme	on time	nasa oras	-	Duo	-	-
+TODO	lexeme	why don't	Bakit hindi	-	Duo	-	-
+TODO	lexeme	keep	paglagay	-	Duo	-	-
+TODO	lexeme	stapler	stapler	-	Duo	-	-
+TODO	lexeme	supplies	suplay	-	Duo	-	-
+TODO	lexeme	for example	halimbawa	-	Duo	-	-
+TODO	lexeme	i don't know	hindi ko alam; Hindi ko; Hindi ko alam	-	Duo	-	-
+TODO	lexeme	respect	pagrespeto	-	Duo	-	-
+TODO	lexeme	others	iba	-	Duo	-	-
+TODO	lexeme	not right now	hindi muna ngayon	-	Duo	-	-
+TODO	lexeme	feedback	fidbak	-	Duo	-	-
+TODO	lexeme	suggest	pagmungkahi	-	Duo	-	-
+TODO	lexeme	solution	solusyon	-	Duo	-	-
+TODO	lexeme	redo	ulitin	-	Duo	-	-
+TODO	lexeme	mind	isip; isipan; mamasamain; bale	-	Duo	-	-
+TODO	lexeme	i'd love that	gusto ko 'yan	-	Duo	-	-
+TODO	lexeme	trailer	trailer	-	Duo	-	-
+TODO	lexeme	begin	magsimula	-	Duo	-	-
+TODO	lexeme	everyone	lahat	-	Duo	-	-
+TODO	lexeme	no one	walang sinuman	-	Duo	-	-
+TODO	lexeme	bored	nababagot	-	Duo	-	-
+TODO	lexeme	nothing	walang anuman	-	Duo	-	-
+TODO	lexeme	definitely	tiyak	-	Duo	-	-
+TODO	lexeme	afraid of	natatakot	-	Duo	-	-
+TODO	lexeme	comedy	komedya	-	Duo	-	-
+TODO	lexeme	horror	horror	-	Duo	-	-
+TODO	lexeme	part	parte	-	Duo	-	-
+TODO	lexeme	make sense	pagkaroon ng katuturan	-	Duo	-	-
+TODO	lexeme	character	karakter	-	Duo	-	-
+TODO	lexeme	American	Amerikano	-	Duo	-	-
+TODO	lexeme	subtitles	mga subtitle	-	Duo	-	-
+TODO	lexeme	scene	eksena	-	Duo	-	-
+TODO	lexeme	ending	katapusan	-	Duo	-	-
+TODO	lexeme	me neither	ako rin hindi	-	Duo	-	-
+TODO	lexeme	action	gawa; pagkilos; aksyon; hakbang; aksiyon	-	Duo	-	-
+TODO	lexeme	horrible	napakasama	-	Duo	-	-
+TODO	lexeme	vote	pagboto 	-	Duo	-	-
+TODO	lexeme	politician	politiko	-	Duo	-	-
+TODO	lexeme	vote for	iboboto; Iboboto	-	Duo	-	-
+TODO	lexeme	intelligent	intelihente	-	Duo	-	-
+TODO	lexeme	somebody	isáng tao; ibang táo	-	Duo	-	-
+TODO	lexeme	politics	politika	-	Duo	-	-
+TODO	lexeme	president	presidente	-	Duo	-	-
+TODO	lexeme	candidate	kandidato	-	Duo	-	-
+TODO	lexeme	anybody	kahit sino; may tao	-	Duo	-	-
+TODO	lexeme	not exactly	hindi eksaktong; hindi eksakto	-	Duo	-	-
+TODO	lexeme	radio	radyo	-	Duo	-	-
+TODO	lexeme	election	eleksiyon	-	Duo	-	-
+TODO	lexeme	pay attention to	bantayan; pinakikinggan	-	Duo	-	-
+TODO	lexeme	pay attention	pagbigay ng pansin	-	Duo	-	-
+TODO	lexeme	against	kontra; laban sa; salungat	-	Duo	-	-
+TODO	lexeme	disagree	hindi sang-ayon	-	Duo	-	-
+TODO	lexeme	fact	katotohanan	-	Duo	-	-
+TODO	lexeme	shocking	nakakabigla	-	Duo	-	-
+TODO	lexeme	honest	tapat	-	Duo	-	-
+TODO	lexeme	i hope not	Sana hindi; sana hindi	-	Duo	-	-
+TODO	lexeme	mean	ibig sabihin	-	Duo	-	-
+TODO	lexeme	the news	ang balita	-	Duo	-	-
+TODO	lexeme	future	hinaharap	-	Duo	-	-
+TODO	lexeme	never mind	di bale na	-	Duo	-	-
+TODO	lexeme	factory	pabrika	-	Duo	-	-
+TODO	lexeme	volunteer	pagboluntaryo	-	Duo	-	-
+TODO	lexeme	nineteen	labinsiyam	-	Duo	-	-
+TODO	lexeme	flute	plawta	-	Duo	-	-
+TODO	lexeme	soul	soul	-	Duo	-	-
+TODO	lexeme	thousand	libo't; libong; libo; libu	-	Duo	-	-
+TODO	lexeme	on stage	sa entablado	-	Duo	-	-
+TODO	lexeme	town	bayan	-	Duo	-	-
+TODO	lexeme	since	noon; mula; magmula; nung; noong; Kung kailan; Dahil; mula nang; pa... mula; simula; Mula noong; kailan	-	Duo	-	-
+TODO	lexeme	how about you	at ikaw	-	Duo	-	-
+TODO	lexeme	nineteen sixty	labing-siyam na animnapu	-	Duo	-	-
+TODO	lexeme	collect	pagkolekta	-	Duo	-	-
+TODO	lexeme	coin	barya	-	Duo	-	-
+TODO	lexeme	two thousand three	dalawang libo't tatlo	-	Duo	-	-
+TODO	lexeme	seventy	pitumpu	-	Duo	-	-
+TODO	lexeme	participate	sumali	-	Duo	-	-
+TODO	lexeme	twenty ten	dalawampu sampu	-	Duo	-	-
+TODO	lexeme	drama	drama	-	Duo	-	-
+TODO	lexeme	chess	chess	-	Duo	-	-
+TODO	lexeme	flown	lumipad; nilipad; nakalipad	-	Duo	-	-
+TODO	lexeme	visited	nakabisita; nabisita; bumisita; binisita; nakapasyal	-	Duo	-	-
+TODO	lexeme	reunion	reunion	-	Duo	-	-
+TODO	lexeme	great-grandparent	nuno sa tuhod	-	Duo	-	-
+TODO	lexeme	graduation	gradwasyon	-	Duo	-	-
+TODO	lexeme	gone	punta; umuwi; nagpunta; umuwi na; umalis; lumipas; pinuntahan; naging; nangyari; naganap; pinasukan; pumasok; nagbanyo	-	Duo	-	-
+TODO	lexeme	degree	titulo	-	Duo	-	-
+TODO	lexeme	award	parangal	-	Duo	-	-
+TODO	lexeme	gotten	natanggap; nakuha	-	Duo	-	-
+TODO	lexeme	taught	tinuro; nagturo; ay tinuruan; tinuruan; naturuan; naituro	-	Duo	-	-
+TODO	lexeme	statue	estatwa	-	Duo	-	-
+TODO	lexeme	taken	kinuha; kuha; nakuha; nailayo; nakakuha; kinuha na; naibalik; naihatid; nagpagliban	-	Duo	-	-
+TODO	lexeme	hasn't	Wala pang	-	Duo	-	-
+TODO	lexeme	seen	nakita; nakikita; nakakikita; nakitang	-	Duo	-	-
+TODO	lexeme	haven't	hindi pa; '	-	Duo	-	-
+TODO	lexeme	cow	baka	-	Duo	-	-
+TODO	lexeme	farm	bukid	-	Duo	-	-
+TODO	lexeme	eighteen ninety	labing-walong siyamnapu	-	Duo	-	-
+TODO	lexeme	cover letter	pang-introduksiyong sulat	-	Duo	-	-
+TODO	lexeme	résumé	biodata; résumé	-	Duo	-	-
+TODO	lexeme	written	nakasulat; naisulat; nasulatan	-	Duo	-	-
+TODO	lexeme	outfit	kasuotan	-	Duo	-	-
+TODO	lexeme	complete	pagkumpleto	-	Duo	-	-
+TODO	lexeme	application	aplikasyon	-	Duo	-	-
+TODO	lexeme	eaten	kumain; nakakain; kinain; nakain; kain	-	Duo	-	-
+TODO	lexeme	chosen	napiling; mapili; pinili; nakapili	-	Duo	-	-
+TODO	lexeme	earn	pagkita	-	Duo	-	-
+TODO	lexeme	course	kurso	-	Duo	-	-
+TODO	lexeme	here's	ito ang	-	Duo	-	-
+TODO	lexeme	professional	propesyonal	-	Duo	-	-
+TODO	lexeme	experience	karanasan	-	Duo	-	-
+TODO	lexeme	exam	eksam	-	Duo	-	-
+TODO	lexeme	prepare	paghanda	-	Duo	-	-
+TODO	lexeme	currently	kasalukuyang	-	Duo	-	-
+TODO	lexeme	occupation	trabaho	-	Duo	-	-
+TODO	lexeme	engineer	inhinyero	-	Duo	-	-
+TODO	lexeme	excellent	ekselente	-	Duo	-	-
+TODO	lexeme	previous	dati	-	Duo	-	-
+TODO	lexeme	set up	pag-organisa	-	Duo	-	-
+TODO	lexeme	article	artikulo	-	Duo	-	-
+TODO	lexeme	not very	hindi masyadong	-	Duo	-	-
+TODO	lexeme	fourth	ikaapat	-	Duo	-	-
+TODO	lexeme	follow up	makibalita	-	Duo	-	-
+TODO	lexeme	find out	nalaman	-	Duo	-	-
+TODO	lexeme	thanks for	Salamat sa	-	Duo	-	-
+TODO	lexeme	perhaps	malamang	-	Duo	-	-
+TODO	lexeme	look up	paghanap	-	Duo	-	-
+TODO	lexeme	put together	paghanda	-	Duo	-	-
+TODO	lexeme	result	resulta	-	Duo	-	-
+TODO	lexeme	go over	pagrebyu	-	Duo	-	-
+TODO	lexeme	incorrect	mali	-	Duo	-	-
+TODO	lexeme	turn in	pagpasa	-	Duo	-	-
+TODO	lexeme	error	pagkakamali	-	Duo	-	-
+TODO	lexeme	spell	pag-ispel	-	Duo	-	-
+TODO	lexeme	assignment	asaynment	-	Duo	-	-
+TODO	lexeme	fifth	ikalima	-	Duo	-	-
+TODO	lexeme	fail	bumagsak	-	Duo	-	-
+TODO	lexeme	give up	sumuko	-	Duo	-	-
+TODO	lexeme	semester	semestre	-	Duo	-	-
+TODO	lexeme	spoke	nag-usap; pinag-usapan; nagsalita; kinausap; nagkausap	-	Duo	-	-
+TODO	lexeme	physics	physics	-	Duo	-	-
+TODO	lexeme	like to	Gusto	-	Duo	-	-
+TODO	lexeme	rec center	sentrong panlibangan	-	Duo	-	-
+TODO	lexeme	the day after tomorrow	makalawa	-	Duo	-	-
+TODO	lexeme	ping pong	pingpong	-	Duo	-	-
+TODO	lexeme	day care	day care center	-	Duo	-	-
+TODO	lexeme	love to	gustong-gusto	-	Duo	-	-
+TODO	lexeme	climb	pag-akyat	-	Duo	-	-
+TODO	lexeme	playground	palaruan	-	Duo	-	-
+TODO	lexeme	ballet	ballet	-	Duo	-	-
+TODO	lexeme	let's do it	gawin natin ito	-	Duo	-	-
+TODO	lexeme	monthly	buwanan	-	Duo	-	-
+TODO	lexeme	able to	pwede; puwede	-	Duo	-	-
+TODO	lexeme	eighty	walumpu	-	Duo	-	-
+TODO	lexeme	in the future	sa hinaharap; Sa hinaharap	-	Duo	-	-
+TODO	lexeme	tenth	ikasampu	-	Duo	-	-
+TODO	lexeme	photography	potograpiya	-	Duo	-	-
+TODO	lexeme	fee	bayad	-	Duo	-	-
+TODO	lexeme	exercise machine	makinang pang-ehersisyo	-	Duo	-	-
+TODO	lexeme	staff	mga tauhan	-	Duo	-	-
+TODO	lexeme	bingo	bingo	-	Duo	-	-
+TODO	lexeme	cancel	pagkansela	-	Duo	-	-
+TODO	lexeme	beginner	baguhan	-	Duo	-	-
+TODO	lexeme	all right	o sige	-	Duo	-	-
+TODO	lexeme	sixth	ikaanim	-	Duo	-	-
+TODO	lexeme	been to	na	-	Duo	-	-
+TODO	lexeme	driven	nakapagmaneho; determinado; drive; naipagmaneho	-	Duo	-	-
+TODO	lexeme	the us	us	-	Duo	-	-
+TODO	lexeme	foreign	banyaga	-	Duo	-	-
+TODO	lexeme	horse	kabayo	-	Duo	-	-
+TODO	lexeme	drunk	nakainom ng; makainom; Nakainom; Uminom; ininom; nakakainom	-	Duo	-	-
+TODO	lexeme	ridden	nakasakay; sinasakyan; nasakyan; nakasakyan	-	Duo	-	-
+TODO	lexeme	slept	natulog; nakatulog	-	Duo	-	-
+TODO	lexeme	ship	barko	-	Duo	-	-
+TODO	lexeme	airplane	eroplano	-	Duo	-	-
+TODO	lexeme	visitor	bisita	-	Duo	-	-
+TODO	lexeme	cloud	ulap	-	Duo	-	-
+TODO	lexeme	been	[naging]; nakararating; nagiging; nandyan	-	Duo	-	-
+TODO	lexeme	adventure	abentura	-	Duo	-	-
+TODO	lexeme	castle	kastilyo	-	Duo	-	-
+TODO	lexeme	desert	disyerto	-	Duo	-	-
+TODO	lexeme	bird	ibon	-	Duo	-	-
+TODO	lexeme	home	bahay	-	Duo	-	-
+TODO	lexeme	adorable	kyut	-	Duo	-	-
+TODO	lexeme	incredible	kamangha-mangha	-	Duo	-	-
+TODO	lexeme	dust	pagpunas	-	Duo	-	-
+TODO	lexeme	shelf	estante	-	Duo	-	-
+TODO	lexeme	shelves	mga estante; estante	-	Duo	-	-
+TODO	lexeme	annoyed	naiirita	-	Duo	-	-
+TODO	lexeme	thirty-seven	tatlumpu't pito	-	Duo	-	-
+TODO	lexeme	electricity	kuryente	-	Duo	-	-
+TODO	lexeme	hundred	raan; raang; daan; daang	-	Duo	-	-
+TODO	lexeme	way too	sobrang	-	Duo	-	-
+TODO	lexeme	paid	binayad; binayaran; nagbayad; nakabayad; nakapagbayad; nabayaran; mabayaran	-	Duo	-	-
+TODO	lexeme	suit	ternong damit	-	Duo	-	-
+TODO	lexeme	donate	pag-donate	-	Duo	-	-
+TODO	lexeme	shorts	shorts	-	Duo	-	-
+TODO	lexeme	sold	naibenta; nakapagbenta; binenta; ay nagbenta; Nagbenta; ibinenta; ipinagbibili; naipagbili	-	Duo	-	-
+TODO	lexeme	repair	pagkumpuni	-	Duo	-	-
+TODO	lexeme	ceiling	kisame	-	Duo	-	-
+TODO	lexeme	hammer	martilyo	-	Duo	-	-
+TODO	lexeme	hole	butas	-	Duo	-	-
+TODO	lexeme	glue	pandikit	-	Duo	-	-
+TODO	lexeme	curtain	kurtina	-	Duo	-	-
+TODO	lexeme	refrigerator	ref	-	Duo	-	-
+TODO	lexeme	apartment building	gusaling pang-apartment	-	Duo	-	-
+TODO	lexeme	elevator	elevator	-	Duo	-	-
+TODO	lexeme	seventh	ikapito	-	Duo	-	-
+TODO	lexeme	memory	memorya	-	Duo	-	-
+TODO	lexeme	forgotten	kinalimutan; nakalimutan; nakalimutang	-	Duo	-	-
+TODO	lexeme	twenty fifteen	dalawampu't labinlima	-	Duo	-	-
+TODO	lexeme	reliable	maaasahan	-	Duo	-	-
+TODO	lexeme	left	maiiwan; kaliwa; natitira; umalis; iniwanan; natitirang; iniwan; naiwanan; kaliwang; naiwan; pakaliwa; maiwan; naiiwan; kakaliwa	-	Duo	-	-
+TODO	lexeme	benefit	benepisyo	-	Duo	-	-
+TODO	lexeme	promotion	promosyon	-	Duo	-	-
+TODO	lexeme	deserve	nararapat	-	Duo	-	-
+TODO	lexeme	insurance	insurance	-	Duo	-	-
+TODO	lexeme	time off	pagliban sa trabaho	-	Duo	-	-
+TODO	lexeme	such as	tulad ng	-	Duo	-	-
+TODO	lexeme	salary	suweldo	-	Duo	-	-
+TODO	lexeme	raise	umento	-	Duo	-	-
+TODO	lexeme	low	mababa	-	Duo	-	-
+TODO	lexeme	two thousand seven	dalawang libo't pito	-	Duo	-	-
+TODO	lexeme	yearly	taunan	-	Duo	-	-
+TODO	lexeme	began	sinimulan; nagsimula; nagsimulang	-	Duo	-	-
+TODO	lexeme	employee	empleyado	-	Duo	-	-
+TODO	lexeme	businesswoman	negosyanteng babae	-	Duo	-	-
+TODO	lexeme	flexible	madaling makibagay	-	Duo	-	-
+TODO	lexeme	businessman	negosyanteng lalaki	-	Duo	-	-
+TODO	lexeme	lazy	tamad	-	Duo	-	-
+TODO	lexeme	nineteen ninety	labing siyam na siyamnapu	-	Duo	-	-
+TODO	lexeme	take out	ilabas	-	Duo	-	-
+TODO	lexeme	block	bloke	-	Duo	-	-
+TODO	lexeme	pick up	sunduin	-	Duo	-	-
+TODO	lexeme	straight	dumiretso	-	Duo	-	-
+TODO	lexeme	tree	puno	-	Duo	-	-
+TODO	lexeme	crosswalk	tawiran	-	Duo	-	-
+TODO	lexeme	turn	pagliko	-	Duo	-	-
+TODO	lexeme	woman	babae	-	Duo	-	-
+TODO	lexeme	platform	plataporma	-	Duo	-	-
+TODO	lexeme	write down	isulat	-	Duo	-	-
+TODO	lexeme	sign	karatula	-	Duo	-	-
+TODO	lexeme	man	lalaki	-	Duo	-	-
+TODO	lexeme	confusing	nakakalito	-	Duo	-	-
+TODO	lexeme	bathing suit	damit panligo	-	Duo	-	-
+TODO	lexeme	fashion	fashion	-	Duo	-	-
+TODO	lexeme	fitting room	kuwartong sukatan	-	Duo	-	-
+TODO	lexeme	sweatshirt	sweatshirt	-	Duo	-	-
+TODO	lexeme	soft	malambot	-	Duo	-	-
+TODO	lexeme	take off	inaalis; tinatanggal; tangalin	-	Duo	-	-
+TODO	lexeme	pocket	bulsa	-	Duo	-	-
+TODO	lexeme	button	butones	-	Duo	-	-
+TODO	lexeme	flip-flop	tsinelas	-	Duo	-	-
+TODO	lexeme	tight	masikip	-	Duo	-	-
+TODO	lexeme	exit	labasan	-	Duo	-	-
+TODO	lexeme	gift card	gift certificate	-	Duo	-	-
+TODO	lexeme	tag	taya	-	Duo	-	-
+TODO	lexeme	have a good day	magandang araw	-	Duo	-	-
+TODO	lexeme	mute	pag-alis ng tunog	-	Duo	-	-
+TODO	lexeme	speaker	speaker	-	Duo	-	-
+TODO	lexeme	introduce	pagpakilala	-	Duo	-	-
+TODO	lexeme	yourself	sarili; ang sarili	-	Duo	-	-
+TODO	lexeme	myself	aking sarili; ang sarili ko	-	Duo	-	-
+TODO	lexeme	noise	ingay	-	Duo	-	-
+TODO	lexeme	unmute	pagbalik ng tunog	-	Duo	-	-
+TODO	lexeme	himself	sarili niya; kanyang sarili; sarili	-	Duo	-	-
+TODO	lexeme	herself	sarili; kaniyang sarili; ang sarili	-	Duo	-	-
+TODO	lexeme	just a minute	sandali lang	-	Duo	-	-
+TODO	lexeme	restart	muling pagbukas	-	Duo	-	-
+TODO	lexeme	know how	marunong	-	Duo	-	-
+TODO	lexeme	connection	koneksiyon	-	Duo	-	-
+TODO	lexeme	itself	ang kaniyang sarili; sarili nito; mismo; ang sarili niya	-	Duo	-	-
+TODO	lexeme	themselves	mag-isaisa; mag-isa; kanilang sarili; mag-iisang	-	Duo	-	-
+TODO	lexeme	ourselves	sarili naming; aming sarili; sarili nating	-	Duo	-	-
+TODO	lexeme	if you like	kung gusto mo	-	Duo	-	-
+TODO	lexeme	cannot	maaring; hindi kayang; hindi kaya; hindi maaring; hindi puwedeng; hindi puwede/pwede; hindi maaari; hindi; ma	-	Duo	-	-
+TODO	lexeme	yourselves	kayo sa inyong sarili!; kayo-kayo lang; inyong mga sarili; sa sarili ninyo	-	Duo	-	-
+TODO	lexeme	channel	istasyon	-	Duo	-	-
+TODO	lexeme	go out	paglabas	-	Duo	-	-
+TODO	lexeme	television	telebisyon; tv	-	Duo	-	-
+TODO	lexeme	opinion	opinyon	-	Duo	-	-
+TODO	lexeme	until	hanggang; hangang	-	Duo	-	-
+TODO	lexeme	entertaining	nakakaaliw	-	Duo	-	-
+TODO	lexeme	reality tv	reality TV	-	Duo	-	-
+TODO	lexeme	bad for you	masama para sa iyo	-	Duo	-	-
+TODO	lexeme	latest	pinakabago	-	Duo	-	-
+TODO	lexeme	die	pagkamatay	-	Duo	-	-
+TODO	lexeme	episode	episode	-	Duo	-	-
+TODO	lexeme	fantastic	kahanga-hanga	-	Duo	-	-
+TODO	lexeme	continue	pagpatuloy	-	Duo	-	-
+TODO	lexeme	final	panghuli	-	Duo	-	-
+TODO	lexeme	series	serye	-	Duo	-	-
+TODO	lexeme	guide	gabay	-	Duo	-	-
+TODO	lexeme	explore	paglibot	-	Duo	-	-
+TODO	lexeme	sightseeing	mamasyal	-	Duo	-	-
+TODO	lexeme	identification	identipikasyon	-	Duo	-	-
+TODO	lexeme	postcard	postcard	-	Duo	-	-
+TODO	lexeme	happy to	Masaya	-	Duo	-	-
+TODO	lexeme	temple	templo	-	Duo	-	-
+TODO	lexeme	ancient	sinauna	-	Duo	-	-
+TODO	lexeme	prepared	handa	-	Duo	-	-
+TODO	lexeme	theater	teatro	-	Duo	-	-
+TODO	lexeme	artist	alagad ng sining	-	Duo	-	-
+TODO	lexeme	enter	pagpasok	-	Duo	-	-
+TODO	lexeme	sculpture	eskultura	-	Duo	-	-
+TODO	lexeme	queen	reyna	-	Duo	-	-
+TODO	lexeme	duck	pato	-	Duo	-	-
+TODO	lexeme	passenger	pasahero	-	Duo	-	-
+TODO	lexeme	eager	sabik	-	Duo	-	-
+TODO	lexeme	lucky	masuwerte	-	Duo	-	-
+TODO	lexeme	king	hari	-	Duo	-	-
+TODO	lexeme	souvenir	souvenir	-	Duo	-	-
+TODO	lexeme	back	bumalik ka; babalik; bumalik; likuran; likod; likurang	-	Duo	-	-
+TODO	lexeme	bad at	hindi magaling	-	Duo	-	-
+TODO	lexeme	pass	pagpasa	-	Duo	-	-
+TODO	lexeme	an a	isang A	-	Duo	-	-
+TODO	lexeme	whiteboard	whiteboard	-	Duo	-	-
+TODO	lexeme	tutor	tutor	-	Duo	-	-
+TODO	lexeme	slowly	mabagal	-	Duo	-	-
+TODO	lexeme	vocabulary	bokabularyo	-	Duo	-	-
+TODO	lexeme	planner	planner	-	Duo	-	-
+TODO	lexeme	remind	pagpaalala	-	Duo	-	-
+TODO	lexeme	an f	F	-	Duo	-	-
+TODO	lexeme	certainly	pihado	-	Duo	-	-
+TODO	lexeme	binder	binder	-	Duo	-	-
+TODO	lexeme	review	pagrebyu	-	Duo	-	-
+TODO	lexeme	highlight	pag-highlight	-	Duo	-	-
+TODO	lexeme	literature	literatura	-	Duo	-	-
+TODO	lexeme	hundreds	daan-daan; daan-daang	-	Duo	-	-
+TODO	lexeme	cheat	pagdaya	-	Duo	-	-
+TODO	lexeme	compare	pagkumpara	-	Duo	-	-
+TODO	lexeme	s'	ng mga; ng	-	Duo	-	-
+TODO	lexeme	touch	hawakan	-	Duo	-	-
+TODO	lexeme	object	bagay	-	Duo	-	-
+TODO	lexeme	century	siglo	-	Duo	-	-
+TODO	lexeme	replace	pagpalit	-	Duo	-	-
+TODO	lexeme	common	pangkaraniwan	-	Duo	-	-
+TODO	lexeme	put on	nasuot; naisuot	-	Duo	-	-
+TODO	lexeme	cap	sombrero	-	Duo	-	-
+TODO	lexeme	in the past	Noon; noon	-	Duo	-	-
+TODO	lexeme	tights	medyas; tights	-	Duo	-	-
+TODO	lexeme	uncomfortable	hindi komportable	-	Duo	-	-
+TODO	lexeme	destroy	pagwasak	-	Duo	-	-
+TODO	lexeme	wet	basa	-	Duo	-	-
+TODO	lexeme	wind	hangin	-	Duo	-	-
+TODO	lexeme	eighteen seventy	labing-walong pitumpu	-	Duo	-	-
+TODO	lexeme	fence	bakod	-	Duo	-	-
+TODO	lexeme	sheep	tupa	-	Duo	-	-
+TODO	lexeme	fed	pinakain; nagpakain; napakain	-	Duo	-	-
+TODO	lexeme	most	karamihan	-	Duo	-	-
+TODO	lexeme	soldier	sundalo	-	Duo	-	-
+TODO	lexeme	war	giyera	-	Duo	-	-
+TODO	lexeme	great-grandmother	lola sa tuhod	-	Duo	-	-
+TODO	lexeme	because of	dahil sa	-	Duo	-	-
+TODO	lexeme	anniversary	anibersaryo	-	Duo	-	-
+TODO	lexeme	sunset	paglubog ng araw	-	Duo	-	-
+TODO	lexeme	get dressed	pagbihis	-	Duo	-	-
+TODO	lexeme	including	kasama	-	Duo	-	-
+TODO	lexeme	twentieth	ikadalawampu	-	Duo	-	-
+TODO	lexeme	star	bituin	-	Duo	-	-
+TODO	lexeme	th	ika-5	-	Duo	-	-
+TODO	lexeme	moment	saglit	-	Duo	-	-
+TODO	lexeme	forty-five	apatnapu't lima	-	Duo	-	-
+TODO	lexeme	rd	ika-3	-	Duo	-	-
+TODO	lexeme	for a while	nang matagal	-	Duo	-	-
+TODO	lexeme	granddaughter	babaeng apo	-	Duo	-	-
+TODO	lexeme	st	unang	-	Duo	-	-
+TODO	lexeme	the bar	bar	-	Duo	-	-
+TODO	lexeme	the whole time	sa buong oras	-	Duo	-	-
+TODO	lexeme	wooden	pang-kahoy	-	Duo	-	-
+TODO	lexeme	get along	pagkakasundo	-	Duo	-	-
+TODO	lexeme	grandson	lalaking apo	-	Duo	-	-
+TODO	lexeme	you guys	kayo; Kayo	-	Duo	-	-
+TODO	lexeme	nd	ika-2; ika-42	-	Duo	-	-
+TODO	lexeme	calm	kalmado	-	Duo	-	-
+TODO	lexeme	immediately	kaagad	-	Duo	-	-
+TODO	lexeme	badly	labis	-	Duo	-	-
+TODO	lexeme	heart	puso	-	Duo	-	-
+TODO	lexeme	toothache	masakit na ipin	-	Duo	-	-
+TODO	lexeme	wake up	paggising	-	Duo	-	-
+TODO	lexeme	push	pagtulak	-	Duo	-	-
+TODO	lexeme	on foot	nang naglakad	-	Duo	-	-
+TODO	lexeme	hold	paghawak	-	Duo	-	-
+TODO	lexeme	fall down	paghulog	-	Duo	-	-
+TODO	lexeme	fell down	pagkahulog	-	Duo	-	-
+TODO	lexeme	dizzy	nahilo	-	Duo	-	-
+TODO	lexeme	woke up	nagising; Nagising	-	Duo	-	-
+TODO	lexeme	sit down	pag-upo	-	Duo	-	-
+TODO	lexeme	into	sa	-	Duo	-	-
+TODO	lexeme	sat down	umupo	-	Duo	-	-
+TODO	lexeme	teenager	tin-edyer	-	Duo	-	-
+TODO	lexeme	in pain	may nararamdaman; sakit	-	Duo	-	-
+TODO	lexeme	until then	Hanggang noon; hanggang noon	-	Duo	-	-
+TODO	lexeme	blood	dugo	-	Duo	-	-
+TODO	lexeme	in here	nandito; dito	-	Duo	-	-
+TODO	lexeme	cozy	maginhawa	-	Duo	-	-
+TODO	lexeme	cover	pabalat	-	Duo	-	-
+TODO	lexeme	mystery	misteryo	-	Duo	-	-
+TODO	lexeme	comic book	komiks	-	Duo	-	-
+TODO	lexeme	anyway	naman	-	Duo	-	-
+TODO	lexeme	bookshelf	estante ng libro	-	Duo	-	-
+TODO	lexeme	pig	baboy	-	Duo	-	-
+TODO	lexeme	bad guy	kontrabida	-	Duo	-	-
+TODO	lexeme	serious	seryoso	-	Duo	-	-
+TODO	lexeme	beginning	umpisa	-	Duo	-	-
+TODO	lexeme	complicated	komplikado	-	Duo	-	-
+TODO	lexeme	honestly	sa totoo lang	-	Duo	-	-
+TODO	lexeme	chapter	kabanata	-	Duo	-	-
+TODO	lexeme	come back	pagbalik	-	Duo	-	-
+TODO	lexeme	shop for	mamili; mamimili	-	Duo	-	-
+TODO	lexeme	pair	pares	-	Duo	-	-
+TODO	lexeme	village	nayon	-	Duo	-	-
+TODO	lexeme	away	wala	-	Duo	-	-
+TODO	lexeme	through	tagusan; tuloy-tuloy; sa pamamagitan ng; pamamagitan	-	Duo	-	-
+TODO	lexeme	lunchtime	pananghalian	-	Duo	-	-
+TODO	lexeme	get dark	pagdidilim	-	Duo	-	-
+TODO	lexeme	sausage	tsoriso	-	Duo	-	-
+TODO	lexeme	campfire	sigaan	-	Duo	-	-
+TODO	lexeme	roast	pag-ihaw	-	Duo	-	-
+TODO	lexeme	view	tanawin	-	Duo	-	-
+TODO	lexeme	sea	dagat	-	Duo	-	-
+TODO	lexeme	past	nakaraang; nagdaang; makalipas; lampas; nakalipas; nakaraan; lagpas; makalipas ng; pasado	-	Duo	-	-
+TODO	lexeme	woods	kagubatan	-	Duo	-	-
+TODO	lexeme	per	kada; bawat	-	Duo	-	-
+TODO	lexeme	thunderstorm	unos	-	Duo	-	-
+TODO	lexeme	change of clothes	pamalit na damit	-	Duo	-	-
+TODO	lexeme	wild	mabangis	-	Duo	-	-
+TODO	lexeme	everybody	lahat; sa lahat	-	Duo	-	-
+TODO	lexeme	mouse	bubuwit	-	Duo	-	-
+TODO	lexeme	owl	kuwago	-	Duo	-	-
+TODO	lexeme	top	tuktok	-	Duo	-	-
+TODO	lexeme	photograph	larawan; litrato	-	Duo	-	-
+TODO	lexeme	hill	burol	-	Duo	-	-
+TODO	lexeme	mice	daga; mga daga; mga bubuwit	-	Duo	-	-
+TODO	lexeme	down	pababa; nalulumbay	-	Duo	-	-
+TODO	lexeme	entrance	pasukan	-	Duo	-	-
+TODO	lexeme	gallery	galeriya	-	Duo	-	-
+TODO	lexeme	national	pambansa	-	Duo	-	-
+TODO	lexeme	famous for	sikat para sa; sikat	-	Duo	-	-
+TODO	lexeme	elephant	elepante	-	Duo	-	-
+TODO	lexeme	painter	pintor	-	Duo	-	-
+TODO	lexeme	australian	Australian	-	Duo	-	-
+TODO	lexeme	said	nagsabi; sinabi; sinabi na; nasabi; sinabing; sinasabi; nasasabi	-	Duo	-	-
+TODO	lexeme	dead	patay	-	Duo	-	-
+TODO	lexeme	round	pabilog	-	Duo	-	-
+TODO	lexeme	dragon	dragon	-	Duo	-	-
+TODO	lexeme	Canadian	Canadian	-	Duo	-	-
+TODO	lexeme	made of	gawa sa	-	Duo	-	-
+TODO	lexeme	wood	kahoy	-	Duo	-	-
+TODO	lexeme	paintbrush	pampintang brush	-	Duo	-	-
+TODO	lexeme	boy	batang lalaki	-	Duo	-	-
+TODO	lexeme	lion	leon	-	Duo	-	-
+TODO	lexeme	especially	lalong	-	Duo	-	-
+TODO	lexeme	drew	Gumuhit; nagdrawing; Ginuhit; dinrowing; ginuhitan; nagdrowing	-	Duo	-	-
+TODO	lexeme	drawing	drowing	-	Duo	-	-
+TODO	lexeme	girl	batang babae	-	Duo	-	-
+TODO	lexeme	except	maliban sa; maliban	-	Duo	-	-
+TODO	lexeme	probably	malamang	-	Duo	-	-
+TODO	lexeme	by the way	siyanga pala	-	Duo	-	-
+TODO	lexeme	difference	pagkakaiba	-	Duo	-	-
+TODO	lexeme	heart attack	atake sa puso	-	Duo	-	-
+TODO	lexeme	look after	alagaan; aalagaan; mag-aalaga; inaalagaan	-	Duo	-	-
+TODO	lexeme	sneeze	pagbahing	-	Duo	-	-
+TODO	lexeme	toe	daliri sa paa	-	Duo	-	-
+TODO	lexeme	weak	nanghihina	-	Duo	-	-
+TODO	lexeme	poor	kawawa	-	Duo	-	-
+TODO	lexeme	breathe	paghinga	-	Duo	-	-
+TODO	lexeme	operation	operasyon	-	Duo	-	-
+TODO	lexeme	reason	dahilan	-	Duo	-	-
+TODO	lexeme	stand up	pagtayo	-	Duo	-	-
+TODO	lexeme	it'll	Ito ay; Ito; Ito po ay; Ito’y; Ito'y	-	Duo	-	-
+TODO	lexeme	comb	suklay	-	Duo	-	-
+TODO	lexeme	go to the bathroom	punta sa banyo; pumunta sa banyo; pupunta sa banyo; makapunta sa banyo	-	Duo	-	-
+TODO	lexeme	sore	mahapdi	-	Duo	-	-
+TODO	lexeme	bother	mang-istorbo	-	Duo	-	-
+TODO	lexeme	felt	ayos; nararamdaman; ang pakiramdam; nakaramdam; naramdaman; nakaranas; nakadama	-	Duo	-	-
+TODO	lexeme	take a bath	pagligo	-	Duo	-	-
+TODO	lexeme	make sure	paniniguro	-	Duo	-	-
+TODO	lexeme	smoke	paninigarilyo	-	Duo	-	-
+TODO	lexeme	nobody	walang sinuman; walang taong; walang; walang tao; wala	-	Duo	-	-
+TODO	lexeme	age	edad	-	Duo	-	-
+TODO	lexeme	sign up	pagrehistro	-	Duo	-	-
+TODO	lexeme	tournament	torneo	-	Duo	-	-
+TODO	lexeme	become	pagiging	-	Duo	-	-
+TODO	lexeme	field	palaruan	-	Duo	-	-
+TODO	lexeme	play against	maglaro; Maglalaro	-	Duo	-	-
+TODO	lexeme	average	pangkaraniwang	-	Duo	-	-
+TODO	lexeme	score a goal	maka-iskor ng goal	-	Duo	-	-
+TODO	lexeme	do you mind if	puwede bang; Puwede bang	-	Duo	-	-
+TODO	lexeme	runner	mananakbo	-	Duo	-	-
+TODO	lexeme	uniform	uniporme	-	Duo	-	-
+TODO	lexeme	don't forget to	huwag kalimutan	-	Duo	-	-
+TODO	lexeme	feeling	damdamin	-	Duo	-	-
+TODO	lexeme	argument	argumento	-	Duo	-	-
+TODO	lexeme	at the moment	sa sandaling ito	-	Duo	-	-
+TODO	lexeme	won	nanalo; napanalunan; nagwagi; at nanalo	-	Duo	-	-
+TODO	lexeme	stay away from	lalayo; lumayo	-	Duo	-	-
+TODO	lexeme	became	naging; ay naging	-	Duo	-	-
+TODO	lexeme	embarrassed	nahiya	-	Duo	-	-
+TODO	lexeme	listen	pakikinig	-	Duo	-	-
+TODO	lexeme	grow up	mag-asal-matanda	-	Duo	-	-
+TODO	lexeme	mood	kalagayan	-	Duo	-	-
+TODO	lexeme	suddenly	bigla	-	Duo	-	-
+TODO	lexeme	offer	pag-alok	-	Duo	-	-
+TODO	lexeme	make up	nagkabati	-	Duo	-	-
+TODO	lexeme	just now	ngayon lang	-	Duo	-	-
+TODO	lexeme	weekday	araw ng trabaho	-	Duo	-	-
+TODO	lexeme	off	off; tanggal; tanggalin; i	-	Duo	-	-
+TODO	lexeme	pickle	pickle	-	Duo	-	-
+TODO	lexeme	jar	garapon	-	Duo	-	-
+TODO	lexeme	about to	malapit nang	-	Duo	-	-
+TODO	lexeme	peanut butter	peanut butter	-	Duo	-	-
+TODO	lexeme	spot	puwesto	-	Duo	-	-
+TODO	lexeme	sun	araw	-	Duo	-	-
+TODO	lexeme	first of all	una sa lahat	-	Duo	-	-
+TODO	lexeme	way	daan	-	Duo	-	-
+TODO	lexeme	by accident	nang hindi sinasadya	-	Duo	-	-
+TODO	lexeme	allergic to	allergic	-	Duo	-	-
+TODO	lexeme	grass	damo	-	Duo	-	-
+TODO	lexeme	include	pagsama	-	Duo	-	-
+TODO	lexeme	can make it	kaya mong gawin ito; kaya niyang gawin ito	-	Duo	-	-
+TODO	lexeme	work out	mag-eehersisyo; nag-eehersisyo	-	Duo	-	-
+TODO	lexeme	take a walk	paglilibot-libot	-	Duo	-	-
+TODO	lexeme	skateboard	skateboard	-	Duo	-	-
+TODO	lexeme	end up	nauwi	-	Duo	-	-
+TODO	lexeme	a bit	medyo	-	Duo	-	-
+TODO	lexeme	deep	malalim	-	Duo	-	-
+TODO	lexeme	competition	kompetisyon	-	Duo	-	-
+TODO	lexeme	advanced	mas mahirap	-	Duo	-	-
+TODO	lexeme	caught	nakahuli; nanghuli; mahuhuli; nasalo; nakadakip; hinuli; nahuli; ay nakahuli; nagka; dinakip; masasalo	-	Duo	-	-
+TODO	lexeme	in pairs	nang magkapares	-	Duo	-	-
+TODO	lexeme	keep fit	magpanatili ng kalusugan	-	Duo	-	-
+TODO	lexeme	across from	tapat ng	-	Duo	-	-
+TODO	lexeme	drove	minaneho; nagmaneho; nakapagmaneho	-	Duo	-	-
+TODO	lexeme	fog	fog	-	Duo	-	-
+TODO	lexeme	quick	mabilisang	-	Duo	-	-
+TODO	lexeme	as usual	gaya ng dati	-	Duo	-	-
+TODO	lexeme	before bed	bago matulog	-	Duo	-	-
+TODO	lexeme	diploma	diploma	-	Duo	-	-
+TODO	lexeme	matter	materya; bagay; materyal	-	Duo	-	-
+TODO	lexeme	quit	tumigil; umalis; huminto	-	Duo	-	-
+TODO	lexeme	neither	wala sa dalawa	-	Duo	-	-
+TODO	lexeme	hall	koridor	-	Duo	-	-
+TODO	lexeme	campus	kampus	-	Duo	-	-
+TODO	lexeme	opposite	nasa kabila	-	Duo	-	-
+TODO	lexeme	meant	kahulugan	-	Duo	-	-
+TODO	lexeme	trust	pagtiwala	-	Duo	-	-
+TODO	lexeme	dictionary	diksiyonaryo	-	Duo	-	-
+TODO	lexeme	studies	nag-aaral; ay nag aaral; pag-aaral; aaral	-	Duo	-	-
+TODO	lexeme	interest	pagkainteres	-	Duo	-	-
+TODO	lexeme	sort	uri	-	Duo	-	-
+TODO	lexeme	understood	naintindihan; nakaintindi	-	Duo	-	-
+TODO	lexeme	corner	sulok	-	Duo	-	-
+TODO	lexeme	security camera	CCTV	-	Duo	-	-
+TODO	lexeme	rat	daga	-	Duo	-	-
+TODO	lexeme	tire	gulong	-	Duo	-	-
+TODO	lexeme	stolen	ninakaw; ninakawan	-	Duo	-	-
+TODO	lexeme	cigarette	sigarilyo	-	Duo	-	-
+TODO	lexeme	delay	naatraso	-	Duo	-	-
+TODO	lexeme	bad luck	malas	-	Duo	-	-
+TODO	lexeme	square	plaza	-	Duo	-	-
+TODO	lexeme	exchange	pagpalit	-	Duo	-	-
+TODO	lexeme	roof	bubong	-	Duo	-	-
+TODO	lexeme	pray	pagdasal	-	Duo	-	-
+TODO	lexeme	synagogue	sinagoga	-	Duo	-	-
+TODO	lexeme	hit	pagtira	-	Duo	-	-
+TODO	lexeme	match	laro	-	Duo	-	-
+TODO	lexeme	stadium	stadium	-	Duo	-	-
+TODO	lexeme	south	pa-timog	-	Duo	-	-
+TODO	lexeme	thousands	libu-libong; libo-libong; libo-libo; libu	-	Duo	-	-
+TODO	lexeme	wide	malapad	-	Duo	-	-
+TODO	lexeme	feel about	nararamdaman	-	Duo	-	-
+TODO	lexeme	get on	sumakay; sumasakay; makakasakay	-	Duo	-	-
+TODO	lexeme	north	pa-norte	-	Duo	-	-
+TODO	lexeme	get off	Bumaba; bumaba; Bababa; bababa	-	Duo	-	-
+TODO	lexeme	unusual	hindi pangkaraniwan	-	Duo	-	-
+TODO	lexeme	drawn	nagguhit; dinrowing; iginuhit; ginuhit; dinodrowing	-	Duo	-	-
+TODO	lexeme	level	lebel	-	Duo	-	-
+TODO	lexeme	not too	masyadong; hindi masyadong	-	Duo	-	-
+TODO	lexeme	description	deskripsiyon	-	Duo	-	-
+TODO	lexeme	design	disenyo	-	Duo	-	-
+TODO	lexeme	guess	paghula	-	Duo	-	-
+TODO	lexeme	report card	report card	-	Duo	-	-
+TODO	lexeme	principal	prinsipal	-	Duo	-	-
+TODO	lexeme	writing	pagsusulat	-	Duo	-	-
+TODO	lexeme	cookbook	libro ng mga resipe	-	Duo	-	-
+TODO	lexeme	omelet	omelet	-	Duo	-	-
+TODO	lexeme	salmon	salmon	-	Duo	-	-
+TODO	lexeme	real	tunay	-	Duo	-	-
+TODO	lexeme	thin	manipis	-	Duo	-	-
+TODO	lexeme	cut	paghiwa	-	Duo	-	-
+TODO	lexeme	at least	halos	-	Duo	-	-
+TODO	lexeme	machine	makina	-	Duo	-	-
+TODO	lexeme	bagel	bagel	-	Duo	-	-
+TODO	lexeme	or not	o hindi	-	Duo	-	-
+TODO	lexeme	the rest	natitirang	-	Duo	-	-
+TODO	lexeme	cream cheese	cream cheese	-	Duo	-	-
+TODO	lexeme	nearly	muntik	-	Duo	-	-
+TODO	lexeme	lettuce	litsugas	-	Duo	-	-
+TODO	lexeme	serve	paghain	-	Duo	-	-
+TODO	lexeme	blueberry	blueberry	-	Duo	-	-
+TODO	lexeme	piece	piraso	-	Duo	-	-
+TODO	lexeme	leftovers	tirang pagkain	-	Duo	-	-
+TODO	lexeme	each	bawat	-	Duo	-	-
+TODO	lexeme	apply	mag-aplay	-	Duo	-	-
+TODO	lexeme	dream	pangarap	-	Duo	-	-
+TODO	lexeme	all about	lahat tungkol; lahat tungkol sa	-	Duo	-	-
+TODO	lexeme	various	iba-ibang	-	Duo	-	-
+TODO	lexeme	click	click	-	Duo	-	-
+TODO	lexeme	or something	o kung ano	-	Duo	-	-
+TODO	lexeme	notes	mga tala; notes	-	Duo	-	-
+TODO	lexeme	spare time	bakanteng oras	-	Duo	-	-
+TODO	lexeme	get into	Makapasok; makakapasok	-	Duo	-	-
+TODO	lexeme	these days	itong mga araw	-	Duo	-	-
+TODO	lexeme	not bad	hindi masama	-	Duo	-	-
+TODO	lexeme	possibly	malamang	-	Duo	-	-
+TODO	lexeme	think of	iniisip	-	Duo	-	-
+TODO	lexeme	I don't mind	okey lang	-	Duo	-	-
+TODO	lexeme	actress	aktres	-	Duo	-	-
+TODO	lexeme	mechanic	mekaniko	-	Duo	-	-
+TODO	lexeme	married to	kasal kay; kasal sa	-	Duo	-	-
+TODO	lexeme	cheeseburger	cheeseburger	-	Duo	-	-
+TODO	lexeme	yummy	masarap	-	Duo	-	-
+TODO	lexeme	alcohol	alak	-	Duo	-	-
+TODO	lexeme	good job	ang galing	-	Duo	-	-
+TODO	lexeme	grill	mag-ihaw	-	Duo	-	-
+TODO	lexeme	i'd love	Gusto	-	Duo	-	-
+TODO	lexeme	mustard	mustasa	-	Duo	-	-
+TODO	lexeme	brownie	brownie	-	Duo	-	-
+TODO	lexeme	full of	puno ng	-	Duo	-	-
+TODO	lexeme	whipped cream	whipped cream	-	Duo	-	-
+TODO	lexeme	muffin	muffin	-	Duo	-	-
+TODO	lexeme	trash can	basurahan	-	Duo	-	-
+TODO	lexeme	middle	gitna	-	Duo	-	-
+TODO	lexeme	named	pinangalanang; pinangalanan	-	Duo	-	-
+TODO	lexeme	known	ay nakilala; magkakilala; kilala; Alam; natuto; natutunan; nakilala; nalalaman; nalaman; natututunan; nakakaalam; nakikilala	-	Duo	-	-
+TODO	lexeme	guard	guwardiya	-	Duo	-	-
+TODO	lexeme	driver's license	lisensya sa pagmamaneho	-	Duo	-	-
+TODO	lexeme	forgetful	makakalimutin	-	Duo	-	-
+TODO	lexeme	clown	payaso	-	Duo	-	-
+TODO	lexeme	monkey	unggoy	-	Duo	-	-
+TODO	lexeme	opera	opera	-	Duo	-	-
+TODO	lexeme	can you believe it	akalain mo iyon	-	Duo	-	-
+TODO	lexeme	engine	makina	-	Duo	-	-
+TODO	lexeme	shut	pagsara	-	Duo	-	-
+TODO	lexeme	driver	drayber	-	Duo	-	-
+TODO	lexeme	electric	de-kuryente	-	Duo	-	-
+TODO	lexeme	app	app	-	Duo	-	-
+TODO	lexeme	record	pag-record	-	Duo	-	-
+TODO	lexeme	headache	sakit ng ulo	-	Duo	-	-
+TODO	lexeme	case	case	-	Duo	-	-
+TODO	lexeme	highway	haywey	-	Duo	-	-
+TODO	lexeme	east	pa-silangan	-	Duo	-	-
+TODO	lexeme	atm	ATM	-	Duo	-	-
+TODO	lexeme	million	milyon	-	Duo	-	-
+TODO	lexeme	do business	pagnegosyo	-	Duo	-	-
+TODO	lexeme	west	pa-kanluran	-	Duo	-	-
+TODO	lexeme	deposit	pagdeposito	-	Duo	-	-
+TODO	lexeme	account	account	-	Duo	-	-
+TODO	lexeme	withdraw	pag-withdraw	-	Duo	-	-
+TODO	lexeme	advertisement	komersiyal	-	Duo	-	-
+TODO	lexeme	sheet	sheet	-	Duo	-	-
+TODO	lexeme	anywhere	kahit saan	-	Duo	-	-
+TODO	lexeme	quarter to	menos kuwarto	-	Duo	-	-
+TODO	lexeme	rent	upa	-	Duo	-	-
+TODO	lexeme	quarter past	ika-labinlimang minuto makalipas ang	-	Duo	-	-
+TODO	lexeme	located	nakalugar; natagpuan; matatagpuan	-	Duo	-	-
+TODO	lexeme	land	lupain; lupaing	-	Duo	-	-
+TODO	lexeme	traveler	manlalakbay	-	Duo	-	-
+TODO	lexeme	solo	Solo	-	Duo	-	-
+TODO	lexeme	for the first time	sa unang pagkakataon	-	Duo	-	-
+TODO	lexeme	arrival	pagdating; dating	-	Duo	-	-
+TODO	lexeme	farther	palayo	-	Duo	-	-
+TODO	lexeme	reserve	nagrereserba	-	Duo	-	-
+TODO	lexeme	let	hayaan; hinahayaang; hayaang; pinabayaan; pahintulutan; pinahintulutan; pinababayaang; pinahihintulutang; hahayaan; maging; tayo; hinayaan; ay pinahintulutan; hinahayaan	-	Duo	-	-
+TODO	lexeme	fare	pamasahe	-	Duo	-	-
+TODO	lexeme	nearby	malapit	-	Duo	-	-
+TODO	lexeme	continent	kontinente	-	Duo	-	-
+TODO	lexeme	homesick	pangungulila	-	Duo	-	-
+TODO	lexeme	farthest	pinakamalayo	-	Duo	-	-
+TODO	lexeme	container	lalagyan	-	Duo	-	-
+TODO	lexeme	smell	nag-aamoy; amuyin; inaamoy	-	Duo	-	-
+TODO	lexeme	delivery	ng pagpapadala; padala; pagpapadala	-	Duo	-	-
+TODO	lexeme	tuna	tuna	-	Duo	-	-
+TODO	lexeme	taste	tikman	-	Duo	-	-
+TODO	lexeme	allergic	may alerhiya	-	Duo	-	-
+TODO	lexeme	few	ngilang; kaunti; konting; ilang; mangilan; konti; ngilan	-	Duo	-	-
+TODO	lexeme	pineapple	pinya; pinyang; ang pinya	-	Duo	-	-
+TODO	lexeme	flavor	lasa	-	Duo	-	-
+TODO	lexeme	sour	maasim	-	Duo	-	-
+TODO	lexeme	coconut	niyog	-	Duo	-	-
+TODO	lexeme	beverage	inumin	-	Duo	-	-
+TODO	lexeme	utensils	kagamitan	-	Duo	-	-
+TODO	lexeme	dorm	dormitorio	-	Duo	-	-
+TODO	lexeme	hurry up	bilisan mo	-	Duo	-	-
+TODO	lexeme	row	hilera; hanay; hilerang	-	Duo	-	-
+TODO	lexeme	meaning	katuturan; halaga; kahulugan	-	Duo	-	-
+TODO	lexeme	intermediate	gitnang antas	-	Duo	-	-
+TODO	lexeme	underline	Salungguhitan	-	Duo	-	-
+TODO	lexeme	translate	magsalin	-	Duo	-	-
+TODO	lexeme	similar	katulad	-	Duo	-	-
+TODO	lexeme	laboratory	laboratoryo; laboratoryong	-	Duo	-	-
+TODO	lexeme	certificate	sertipiko; certificate	-	Duo	-	-
+TODO	lexeme	research	Saliksik; Pananaliksik; Riserts	-	Duo	-	-
+TODO	lexeme	education	edukasyon	-	Duo	-	-
+TODO	lexeme	engineering	inhenyeriya	-	Duo	-	-
+TODO	lexeme	responsible	responsable; responsableng	-	Duo	-	-
+TODO	lexeme	career	karera	-	Duo	-	-
+TODO	lexeme	begun	nagsimula; nagsisimula	-	Duo	-	-
+TODO	lexeme	benefits	mga benepisyo	-	Duo	-	-
+TODO	lexeme	accept	tumatanggap; tanggapin; tinanggap; tumanggap; matatanggap	-	Duo	-	-
+TODO	lexeme	decision	desisyon; pasiya; pasya	-	Duo	-	-
+TODO	lexeme	housework	gawaing bahay	-	Duo	-	-
+TODO	lexeme	garbage	basura	-	Duo	-	-
+TODO	lexeme	mop	mop	-	Duo	-	-
+TODO	lexeme	dislike	hindi gusto; ayaw	-	Duo	-	-
+TODO	lexeme	neat	maayos	-	Duo	-	-
+TODO	lexeme	heater	pampainit; heater	-	Duo	-	-
+TODO	lexeme	spill	buhos; tapon; kalat	-	Duo	-	-
+TODO	lexeme	lock	kinakandado; kandado	-	Duo	-	-
+TODO	lexeme	hide	Itago	-	Duo	-	-
+TODO	lexeme	hopefully	sana	-	Duo	-	-
+TODO	lexeme	rainy	maulan; maulang	-	Duo	-	-
+TODO	lexeme	icy	mayelo; malamig	-	Duo	-	-
+TODO	lexeme	hid	nagtago; tago; itinago	-	Duo	-	-
+TODO	lexeme	thunder	kulog	-	Duo	-	-
+TODO	lexeme	figure	hugis; itsura	-	Duo	-	-
+TODO	lexeme	agenda	adyenda	-	Duo	-	-
+TODO	lexeme	couple	magkasintahan	-	Duo	-	-
+TODO	lexeme	hidden	nakatago	-	Duo	-	-
+TODO	lexeme	in contact	sa pakikipag-ugnayan	-	Duo	-	-
+TODO	lexeme	annual	taun-taon; taunang	-	Duo	-	-
+TODO	lexeme	curly	kulot	-	Duo	-	-
+TODO	lexeme	bald	kalbo; kalbong	-	Duo	-	-
+TODO	lexeme	hung out	tambay	-	Duo	-	-
+TODO	lexeme	outgoing	papalabas	-	Duo	-	-
+TODO	lexeme	dj	DJ	-	Duo	-	-
+TODO	lexeme	cheers	Mabuhay; M	-	Duo	-	-
+TODO	lexeme	hug	niyayakap; yumayakap; yakap	-	Duo	-	-
+TODO	lexeme	except that	maliban sa	-	Duo	-	-
+TODO	lexeme	it's time	oras na	-	Duo	-	-
+TODO	lexeme	bleed	dudugo; lalampas	-	Duo	-	-
+TODO	lexeme	fortunately	sa kabutihang palad; buti na lang	-	Duo	-	-
+TODO	lexeme	tissue	tisyu	-	Duo	-	-
+TODO	lexeme	issue	isyu	-	Duo	-	-
+TODO	lexeme	surprising	pagkagulat; nakakagulat; ginugulat; nakakabiglang	-	Duo	-	-
+TODO	lexeme	delete	bura; tanggal; binubura; tinatanggal	-	Duo	-	-
+TODO	lexeme	private	pribado	-	Duo	-	-
+TODO	lexeme	communicate	nakikipag-usap	-	Duo	-	-
+TODO	lexeme	search	hanapin; maghanap; paghahanap; humanap; Naghahanap	-	Duo	-	-
+TODO	lexeme	none	wala	-	Duo	-	-
+TODO	lexeme	completely	lubos; ganap; ganap na	-	Duo	-	-
+TODO	lexeme	attachment	kalakip	-	Duo	-	-
+TODO	lexeme	effect	epekto; bunga	-	Duo	-	-
+TODO	lexeme	technology	teknolohiya; teknolohiyang	-	Duo	-	-
+TODO	lexeme	awake	gumising; gising	-	Duo	-	-
+TODO	lexeme	asleep	tulog; natutulog	-	Duo	-	-
+TODO	lexeme	shave	ahit; inaahit; ahitin	-	Duo	-	-
+TODO	lexeme	scared	takot; natatakot	-	Duo	-	-
+TODO	lexeme	kiss	maghahalikan; halik; halikan	-	Duo	-	-
+TODO	lexeme	rang	tumunog	-	Duo	-	-
+TODO	lexeme	rung	tumunog	-	Duo	-	-
+TODO	lexeme	princess	prinsesa	-	Duo	-	-
+TODO	lexeme	palace	palasyo; palasyong	-	Duo	-	-
+TODO	lexeme	cushion	unan	-	Duo	-	-
+TODO	lexeme	prince	prinsipe	-	Duo	-	-
+TODO	lexeme	fight	laban; away	-	Duo	-	-
+TODO	lexeme	monster	halimaw	-	Duo	-	-
+TODO	lexeme	besides	bukod sa	-	Duo	-	-
+TODO	lexeme	brave	matapang	-	Duo	-	-
+TODO	lexeme	fought	lumaban	-	Duo	-	-
+TODO	lexeme	discover	matuklasan; makadeskubri; discubre; makatuklas; tuklasin; madeskubri	-	Duo	-	-
+TODO	lexeme	candle	kandila	-	Duo	-	-
+TODO	lexeme	shoulder	balikat	-	Duo	-	-
+TODO	lexeme	whatever	anuman	-	Duo	-	-
+TODO	lexeme	celebration	diwang	-	Duo	-	-
+TODO	lexeme	wave	alon	-	Duo	-	-
+TODO	lexeme	fountain	bukal	-	Duo	-	-
+TODO	lexeme	shiny	kumikinang; makinang	-	Duo	-	-
+TODO	lexeme	musician	musikero	-	Duo	-	-
+TODO	lexeme	greet	Babatiin; Binabati; batiin	-	Duo	-	-
+TODO	lexeme	relative	kamag-anak	-	Duo	-	-
+TODO	lexeme	engaged	nakipag	-	Duo	-	-
+TODO	lexeme	rose	rosas	-	Duo	-	-
+TODO	lexeme	deliver	Hinahatid; naghahatid; nagdadala; Dinadala	-	Duo	-	-
+TODO	lexeme	bride	babaing ikakasal	-	Duo	-	-
+TODO	lexeme	groom	ihanda	-	Duo	-	-
+TODO	lexeme	cheek	pisngi	-	Duo	-	-
+TODO	lexeme	till	hanggang	-	Duo	-	-
+TODO	lexeme	vase	banga	-	Duo	-	-
+TODO	lexeme	instead of	sa halip na	-	Duo	-	-
+TODO	lexeme	stood	tumayo	-	Duo	-	-
+TODO	lexeme	kicked	sipain; sinipa; sumipa	-	Duo	-	-
+TODO	lexeme	childhood	kabataan	-	Duo	-	-
+TODO	lexeme	strict	malupit; mahigpit; istrikto	-	Duo	-	-
+TODO	lexeme	joke	magbiro; biruin; biro	-	Duo	-	-
+TODO	lexeme	trumpet	trumpeta	-	Duo	-	-
+TODO	lexeme	shy	mahiyain	-	Duo	-	-
+TODO	lexeme	used to	noon; dati; Noon ay	-	Duo	-	-
+TODO	lexeme	frog	palaka	-	Duo	-	-
+TODO	lexeme	knee	tuhod	-	Duo	-	-
+TODO	lexeme	bug	insekto	-	Duo	-	-
+TODO	lexeme	dirt	dumi	-	Duo	-	-
+TODO	lexeme	up	gumigising	-	Duo	-	-
+TODO	lexeme	spinach	espinakang; kangkong; espinaka	-	Duo	-	-
+TODO	lexeme	retire	magretiro	-	Duo	-	-
+TODO	lexeme	firefighter	bumbero	-	Duo	-	-
+TODO	lexeme	nephew	pamangking lalaki; pamangkin na lalaki	-	Duo	-	-
+TODO	lexeme	blind	bulag	-	Duo	-	-
+TODO	lexeme	haircut	gupit	-	Duo	-	-
+TODO	lexeme	spouse	asawa	-	Duo	-	-
+TODO	lexeme	divorced	hiwalay	-	Duo	-	-
+TODO	lexeme	british	Britaniko; british	-	Duo	-	-
+TODO	lexeme	gay	bakla	-	Duo	-	-
+TODO	lexeme	lesbian	lesbiyana	-	Duo	-	-
+TODO	lexeme	niece	pamangkin; pamangking babae; pamangkin na babae	-	Duo	-	-
+TODO	lexeme	marriage	kasal; pag-iisang dibdib	-	Duo	-	-
+TODO	lexeme	barber	manggugupit; barbero	-	Duo	-	-
+TODO	lexeme	successful	matagumpay	-	Duo	-	-
+TODO	lexeme	tiny	maliit	-	Duo	-	-
+TODO	lexeme	cotton	bulak	-	Duo	-	-
+TODO	lexeme	thrown	tinapon; itinapon	-	Duo	-	-
+TODO	lexeme	quality	kalidad	-	Duo	-	-
+TODO	lexeme	sleeve	manggas	-	Duo	-	-
+TODO	lexeme	checkout	checkout	-	Duo	-	-
+TODO	lexeme	afterward	pagkatapos	-	Duo	-	-
+TODO	lexeme	underwear	kasuutang pang-ilalim	-	Duo	-	-
+TODO	lexeme	percent	porsiyento	-	Duo	-	-
+TODO	lexeme	canceled	kinansela; nagkansela; nakansela; cancel	-	Duo	-	-
+TODO	lexeme	citizen	mamamayan; mamamayang	-	Duo	-	-
+TODO	lexeme	transportation	transportasyon	-	Duo	-	-
+TODO	lexeme	reservations	reserbasyon	-	Duo	-	-
+TODO	lexeme	embassy	embahada	-	Duo	-	-
+TODO	lexeme	baggage	bagahe	-	Duo	-	-
+TODO	lexeme	abroad	sa ibang bansa	-	Duo	-	-
+TODO	lexeme	visa	bisa; visa	-	Duo	-	-
+TODO	lexeme	spare	panghalili; reserba	-	Duo	-	-
+TODO	lexeme	security	seguridad; security	-	Duo	-	-
+TODO	lexeme	headline	pamagat	-	Duo	-	-
+TODO	lexeme	government	pamahalaan; gobyerno	-	Duo	-	-
+TODO	lexeme	leader	pinuno; lider	-	Duo	-	-
+TODO	lexeme	spy	espiya	-	Duo	-	-
+TODO	lexeme	border	hangganan	-	Duo	-	-
+TODO	lexeme	enemy	kaaway	-	Duo	-	-
+TODO	lexeme	gun	baril	-	Duo	-	-
+TODO	lexeme	rob	Rob	-	Duo	-	-
+TODO	lexeme	billion	bilyon	-	Duo	-	-
+TODO	lexeme	jail	kulungan	-	Duo	-	-
+TODO	lexeme	court	nililigawan [pandiwa]; korte; nililigawan	-	Duo	-	-
+TODO	lexeme	expect	asahan; inaasahan	-	Duo	-	-
+TODO	lexeme	though	kahit; kahit na	-	Duo	-	-
+TODO	lexeme	bomb	bomba; bombahin	-	Duo	-	-
+TODO	lexeme	crash	bumagsak	-	Duo	-	-
+TODO	lexeme	in jail	sa kulungan	-	Duo	-	-
+TODO	lexeme	false	mali	-	Duo	-	-
+TODO	lexeme	tiger	tigre	-	Duo	-	-
+TODO	lexeme	stone	bato	-	Duo	-	-
+TODO	lexeme	jungle	kagubatan	-	Duo	-	-
+TODO	lexeme	parrot	loro	-	Duo	-	-
+TODO	lexeme	earth	Daigdig; mundo	-	Duo	-	-
+TODO	lexeme	beside	bukod; sa tabi; katabi	-	Duo	-	-
+TODO	lexeme	dolphin	dolpin; lumba-lumba; dolphin	-	Duo	-	-
+TODO	lexeme	giraffe	dyirap	-	Duo	-	-
+TODO	lexeme	penguin	penguin	-	Duo	-	-
+TODO	lexeme	quietly	tahimik; nang tahimik	-	Duo	-	-
+TODO	lexeme	loudly	malakas	-	Duo	-	-
+TODO	lexeme	leaf	dahon	-	Duo	-	-
+TODO	lexeme	ahead	nauuna; una; sa unahan	-	Duo	-	-
+TODO	lexeme	stream	sapa	-	Duo	-	-
+TODO	lexeme	sunrise	sikat ng araw	-	Duo	-	-
+TODO	lexeme	fewer	mas kaunti	-	Duo	-	-
+TODO	lexeme	corn	mais	-	Duo	-	-
+TODO	lexeme	outdoors	labas	-	Duo	-	-
+TODO	lexeme	swept	winalis; nakawalis; nagwalis	-	Duo	-	-
+TODO	lexeme	indoors	sa loob ng bahay	-	Duo	-	-
+TODO	lexeme	religion	relihiyon	-	Duo	-	-
+TODO	lexeme	however	sa paanong paraan	-	Duo	-	-
+TODO	lexeme	inch	pulgada	-	Duo	-	-
+TODO	lexeme	tax	buwis	-	Duo	-	-
+TODO	lexeme	accountant	kontador	-	Duo	-	-
+TODO	lexeme	web	website; sapot	-	Duo	-	-
+TODO	lexeme	social	sosyal; social	-	Duo	-	-
+TODO	lexeme	nightclub	bahay-aliwan	-	Duo	-	-
+TODO	lexeme	clever	wais; matalino; maabilidad	-	Duo	-	-
+TODO	lexeme	nightlife	panggabing buhay	-	Duo	-	-
+TODO	lexeme	careless	pabaya	-	Duo	-	-
+TODO	lexeme	shrimp	hipon	-	Duo	-	-
+TODO	lexeme	increase	dadamihan; damihan; dagdagan; pagtaas; dadagdagan	-	Duo	-	-
+TODO	lexeme	response	sagot	-	Duo	-	-
+TODO	lexeme	imagine	Isipin	-	Duo	-	-
+TODO	lexeme	in my opinion	sa aking palagay	-	Duo	-	-
+TODO	lexeme	roll	ginugulong; gulong; gumugulong	-	Duo	-	-
+TODO	lexeme	cabbage	repolyo	-	Duo	-	-
+TODO	lexeme	pea	gisantes	-	Duo	-	-
+TODO	lexeme	shown	ipinakita; nagpakita	-	Duo	-	-
+TODO	lexeme	whether	Kung	-	Duo	-	-
+TODO	lexeme	plus	at saka; at; bukod pa sa	-	Duo	-	-
+TODO	lexeme	chili	sili	-	Duo	-	-
+TODO	lexeme	although	bagaman	-	Duo	-	-
+TODO	lexeme	reach	umabot; maabutan; maabot; makaabot; makakuha; aabutin	-	Duo	-	-
+TODO	lexeme	annoy	iniinis; inis	-	Duo	-	-
+TODO	lexeme	broccoli	brokuli	-	Duo	-	-
+TODO	lexeme	double	doble	-	Duo	-	-
+TODO	lexeme	grandkid	apo	-	Duo	-	-
+TODO	lexeme	community	komunidad	-	Duo	-	-
+TODO	lexeme	parking	paradahan	-	Duo	-	-
+TODO	lexeme	narrow	masikip; makitid; sikip	-	Duo	-	-
+TODO	lexeme	recycle	Ma-recycle; Muling ginagamit; mag-recycle	-	Duo	-	-
+TODO	lexeme	branch	sanga; sangay	-	Duo	-	-
+TODO	lexeme	succeed	nagtagumpay; magtagumpay	-	Duo	-	-
+TODO	lexeme	ordinary	ordinaryo; napakapangkaraniwan; karaniwang; pangkaraniwang; pangkaraniwan	-	Duo	-	-
+TODO	lexeme	knowledge	kaalaman	-	Duo	-	-
+TODO	lexeme	success	tagumpay; matagumpay; ang tagumpay	-	Duo	-	-
+TODO	lexeme	farming	pagsasaka	-	Duo	-	-
+TODO	lexeme	signature	pirma; lagda	-	Duo	-	-
+TODO	lexeme	shook	umuga	-	Duo	-	-
+TODO	lexeme	blank	blanko	-	Duo	-	-
+TODO	lexeme	baker	panadero	-	Duo	-	-
+TODO	lexeme	hairstylist	tagaayos ng buhok	-	Duo	-	-
+TODO	lexeme	photocopy	kopya	-	Duo	-	-
+TODO	lexeme	shaken	nilindol	-	Duo	-	-
+TODO	lexeme	sincerely	taos-puso	-	Duo	-	-
+TODO	lexeme	solve	nilulutas; lulutasin	-	Duo	-	-
+TODO	lexeme	media	midya; media	-	Duo	-	-
+TODO	lexeme	completed	matatapos; tinapos; nakumpleto; natapos	-	Duo	-	-
+TODO	lexeme	solved	nalutas; nasolusyunan	-	Duo	-	-
+TODO	lexeme	extremely	lubha	-	Duo	-	-
+TODO	lexeme	prison	kulungan; bilangguan; piitan	-	Duo	-	-
+TODO	lexeme	trouble	gulo	-	Duo	-	-
+TODO	lexeme	necessary	kinakailangan; kailangan; kinakailangang	-	Duo	-	-
+TODO	lexeme	title	pamagat; titulo	-	Duo	-	-
+TODO	lexeme	publish	ilathala; inilalathala	-	Duo	-	-
+TODO	lexeme	performance	pag-arte; pagtatanghal; pagtanghal; pagganáp; pagganap	-	Duo	-	-
+TODO	lexeme	film	pelikulang / sineng; sine; pelikula; kunan; pelikulang	-	Duo	-	-
+TODO	lexeme	act	kilos	-	Duo	-	-
+TODO	lexeme	fiction	kathang-isip	-	Duo	-	-
+TODO	lexeme	cinema	sinehan; sine; sinehang	-	Duo	-	-
+TODO	lexeme	commercial	patalastas; komersiyal	-	Duo	-	-
+TODO	lexeme	orchestra	orkestra	-	Duo	-	-
+TODO	lexeme	performer	tagaganap	-	Duo	-	-
+TODO	lexeme	nightmare	bangungot	-	Duo	-	-
+TODO	lexeme	angel	anghel	-	Duo	-	-
+TODO	lexeme	smooth	makinis	-	Duo	-	-
+TODO	lexeme	flu	trangkaso	-	Duo	-	-
+TODO	lexeme	lightning	kidlat	-	Duo	-	-
+TODO	lexeme	step	hakbang	-	Duo	-	-
+TODO	lexeme	wing	pakpak	-	Duo	-	-
+TODO	lexeme	unpleasant	hindi kanais-nais	-	Duo	-	-
+TODO	lexeme	fluffy	malambot	-	Duo	-	-
+TODO	lexeme	mattress	kutson	-	Duo	-	-
+TODO	lexeme	lullaby	hili; kantang pampatulog	-	Duo	-	-
+TODO	lexeme	the dark	ang dilim	-	Duo	-	-
+TODO	lexeme	next-door	sa katabing bahay	-	Duo	-	-
+TODO	lexeme	surprisingly	nakakagulat; kagulat-gulat	-	Duo	-	-
+TODO	lexeme	silently	matahimik	-	Duo	-	-
+TODO	lexeme	ability	abilidad; kakayahan	-	Duo	-	-
+TODO	lexeme	unlucky	malas; sawing-palad	-	Duo	-	-
+TODO	lexeme	nickname	palayaw	-	Duo	-	-
+TODO	lexeme	fairly	pare-pareho	-	Duo	-	-
+TODO	lexeme	alike	magkatulad	-	Duo	-	-
+TODO	lexeme	brilliant	napakatalino	-	Duo	-	-
+TODO	lexeme	uninteresting	nakaiinip	-	Duo	-	-
+TODO	lexeme	amazed	namangha	-	Duo	-	-
+TODO	lexeme	confident	tiwala	-	Duo	-	-
+TODO	lexeme	relaxed	nagpahinga; relax	-	Duo	-	-
+TODO	lexeme	unemployed	walang trabaho	-	Duo	-	-
+TODO	lexeme	creative	malikhain	-	Duo	-	-
+TODO	lexeme	chin	baba	-	Duo	-	-
+TODO	lexeme	lover	kasintahan	-	Duo	-	-
+TODO	lexeme	sand	buhangin	-	Duo	-	-
+TODO	lexeme	unbelievable	Hindi mapaniwalaan	-	Duo	-	-
+TODO	lexeme	costume	kasuotan	-	Duo	-	-
+TODO	lexeme	witch	mangkukulam; bruha	-	Duo	-	-
+TODO	lexeme	tear	punitin; pinupunit; punit	-	Duo	-	-
+TODO	lexeme	loose	maluwag	-	Duo	-	-
+TODO	lexeme	tying	pagtatali; nagtatali; tinatali	-	Duo	-	-
+TODO	lexeme	tore	pinunit	-	Duo	-	-
+TODO	lexeme	bat	paniki	-	Duo	-	-
+TODO	lexeme	torn	punit-punit	-	Duo	-	-
+TODO	lexeme	honeymoon	hanimun	-	Duo	-	-
+TODO	lexeme	typical	tipikal	-	Duo	-	-
+TODO	lexeme	rarely	bihira	-	Duo	-	-
+TODO	lexeme	tradition	tradisyon	-	Duo	-	-
+TODO	lexeme	lately	kamakailan	-	Duo	-	-
+TODO	lexeme	peaceful	mapayapa	-	Duo	-	-
+TODO	lexeme	shape	pangangatawan; hugis	-	Duo	-	-
+TODO	lexeme	valley	lambak	-	Duo	-	-
+TODO	lexeme	direction	direksiyon; direksyon	-	Duo	-	-
+TODO	lexeme	silent	tahimik	-	Duo	-	-
+TODO	lexeme	nowhere	wala saan man	-	Duo	-	-
+TODO	lexeme	ant	langgam	-	Duo	-	-
+TODO	lexeme	stick	tungkod	-	Duo	-	-
+TODO	lexeme	outdoor	panlabas	-	Duo	-	-
+TODO	lexeme	mosquito	lamok	-	Duo	-	-
+TODO	lexeme	natural	likas	-	Duo	-	-
+TODO	lexeme	beauty	ganda	-	Duo	-	-
+TODO	lexeme	butterfly	paruparo	-	Duo	-	-
+TODO	lexeme	gentle	marahan; mayumi; maamo	-	Duo	-	-
+TODO	lexeme	underneath	sa ibaba	-	Duo	-	-
+TODO	lexeme	among	kabilang sa	-	Duo	-	-
+TODO	lexeme	dusty	maalikabok	-	Duo	-	-
+TODO	lexeme	secret	lihim; sikreto	-	Duo	-	-
+TODO	lexeme	lie	sinungaling; kasinungalingan	-	Duo	-	-
+TODO	lexeme	have been	nakapunta; nanggaling [/galing]; galing	-	Duo	-	-
+TODO	lexeme	has been	ng; nakarating/nakapunta; nakarating	-	Duo	-	-
+TODO	lexeme	in secret	palihim	-	Duo	-	-
+TODO	lexeme	realize	gumulong	-	Duo	-	-
+TODO	lexeme	at first	sa una	-	Duo	-	-
+TODO	lexeme	by the time	sa pagdating ng oras	-	Duo	-	-
+TODO	lexeme	criminal	kriminal	-	Duo	-	-
+TODO	lexeme	appear	makikita; nagpapakita; magpakita; nakikita; magpapakita	-	Duo	-	-
+TODO	lexeme	shadow	anino	-	Duo	-	-
+TODO	lexeme	according to	ayon kay	-	Duo	-	-
+TODO	lexeme	grab	hawakan	-	Duo	-	-
+TODO	lexeme	scream	sumisigaw; sigaw	-	Duo	-	-
+TODO	lexeme	painful	masakit; mahapding	-	Duo	-	-
+TODO	lexeme	healthier	mas malusog	-	Duo	-	-
+TODO	lexeme	bone	buto	-	Duo	-	-
+TODO	lexeme	advise	ipinapayo; pinapayuhan; payuhan	-	Duo	-	-
+TODO	lexeme	illness	sakit	-	Duo	-	-
+TODO	lexeme	drug	gamot; droga	-	Duo	-	-
+TODO	lexeme	disease	Sakit; Karamdaman	-	Duo	-	-
+TODO	lexeme	drugstore	botika	-	Duo	-	-
+TODO	lexeme	seriously	seryoso	-	Duo	-	-
+TODO	lexeme	require	kinakailangan; kailangan; nangangailangan	-	Duo	-	-
+TODO	lexeme	lab	laboratoryo	-	Duo	-	-
+TODO	lexeme	register	rehistro	-	Duo	-	-
+TODO	lexeme	circle	bilog; sirkulo; siklo	-	Duo	-	-
+TODO	lexeme	unit	yunit	-	Duo	-	-
+TODO	lexeme	essential	kailangan; mahalaga	-	Duo	-	-
+TODO	lexeme	difficulty	kahirapan; difikultad	-	Duo	-	-
+TODO	lexeme	used	nagamit; gumamit; ginamit; sanay	-	Duo	-	-
+TODO	lexeme	attention	atensiyon; pansin; atensyon	-	Duo	-	-
+TODO	lexeme	decorate	dekorasyunan; magpalamuti; palamutihan	-	Duo	-	-
+TODO	lexeme	control	kontrol; kokontrolin; ng kontrol	-	Duo	-	-
+TODO	lexeme	bathtub	batya	-	Duo	-	-
+TODO	lexeme	recycling	paggamit muli	-	Duo	-	-
+TODO	lexeme	alarm	hudyat	-	Duo	-	-
+TODO	lexeme	switch	pindutan	-	Duo	-	-
+TODO	lexeme	power	kapangyarihan	-	Duo	-	-
+TODO	lexeme	come with	sinasamahan	-	Duo	-	-
+TODO	lexeme	on the way to	sa daan	-	Duo	-	-
+TODO	lexeme	lane	linya; daanan	-	Duo	-	-
+TODO	lexeme	rush hour	oras ng pagmamadali	-	Duo	-	-
+TODO	lexeme	slowed	bumagal; nagbagal; binagalan	-	Duo	-	-
+TODO	lexeme	spoken	nagsasalita; nakapagsalita; napahayag; nagpahayag na; nagsalita	-	Duo	-	-
+TODO	lexeme	care	pangangalaga; care; ingat; alaga; pakialam; kalinga; aalaga	-	Duo	-	-
+TODO	lexeme	embarrassing	pagkahiya; nakakahiya	-	Duo	-	-
+TODO	lexeme	forgive	patawarin	-	Duo	-	-
+TODO	lexeme	hold on	Diyan ka lang	-	Duo	-	-
+TODO	lexeme	impossible	imposible	-	Duo	-	-
+TODO	lexeme	forgiven	napatawad; nagpatawad; pinatawad	-	Duo	-	-
+TODO	lexeme	forgave	nagpatawad; pinatawad	-	Duo	-	-
+TODO	lexeme	smartphone	smartphone	-	Duo	-	-
+TODO	lexeme	volume	dami	-	Duo	-	-
+TODO	lexeme	attach	ilakip; ikabit; idikit	-	Duo	-	-
+TODO	lexeme	plug	isaksak; isinasaksak	-	Duo	-	-
+TODO	lexeme	username	pangalan ng gumagamit	-	Duo	-	-
+TODO	lexeme	accidentally	hindi sinasadya	-	Duo	-	-
+TODO	lexeme	upgrade	pag-upgrade	-	Duo	-	-
+TODO	lexeme	state	estado	-	Duo	-	-
+TODO	lexeme	democracy	demokrasya	-	Duo	-	-
+TODO	lexeme	currency	salapi; pera	-	Duo	-	-
+TODO	lexeme	local	panlungsod	-	Duo	-	-
+TODO	lexeme	truth	katotohanan	-	Duo	-	-
+TODO	lexeme	former	dati	-	Duo	-	-
+TODO	lexeme	economy	kabuhayan; ekonomiya	-	Duo	-	-
+TODO	lexeme	immigration	imigrasyon	-	Duo	-	-
+TODO	lexeme	had to	kailangan	-	Duo	-	-
+TODO	lexeme	environmental	kapaligiran; sa kapaligiran	-	Duo	-	-
+TODO	lexeme	shark	pating	-	Duo	-	-
+TODO	lexeme	spider	anluwagi; gagamba; gagambang	-	Duo	-	-
+TODO	lexeme	fear	takot; pagkatakot; kinakatakutan; ang takot	-	Duo	-	-
+TODO	lexeme	swum	lumangoy; nilangoy	-	Duo	-	-
+TODO	lexeme	anxious	balisa	-	Duo	-	-
+TODO	lexeme	earthquake	lindol	-	Duo	-	-
+TODO	lexeme	cliff	bangin	-	Duo	-	-
+TODO	lexeme	attack	atake; paglusob	-	Duo	-	-
+TODO	lexeme	bee	bubuyog	-	Duo	-	-
+TODO	lexeme	scared of	takot sa	-	Duo	-	-
+TODO	lexeme	creepy	nakakakilabot	-	Duo	-	-
+TODO	lexeme	yikes	Ay naku	-	Duo	-	-
+TODO	lexeme	terrified	takot na takot	-	Duo	-	-
+TODO	lexeme	animated	animado	-	Duo	-	-
+TODO	lexeme	audience	manonood; tagapanood; madla	-	Duo	-	-
+TODO	lexeme	independent	independiyente; kalayaan; malaya	-	Duo	-	-
+TODO	lexeme	plot	balangkas	-	Duo	-	-
+TODO	lexeme	documentary	dokumentaryong; dokumentaryo	-	Duo	-	-
+TODO	lexeme	can't stand	hindi makatayo	-	Duo	-	-
+TODO	lexeme	thriller	Palabas na nakakatakot	-	Duo	-	-
+TODO	lexeme	talented	may talento; magaling	-	Duo	-	-
+TODO	lexeme	champion	kampeon	-	Duo	-	-
+TODO	lexeme	compete	makipaglaban; makakalaban; naglalaban	-	Duo	-	-
+TODO	lexeme	olympics	Olympics	-	Duo	-	-
+TODO	lexeme	beat	makahigit; hampasin; lampasan; hinahampas; Tinalo; binubugbog; Binugbog; pinapalo; mahigitan; talunin; paluin; malampasan; higitan; makalampas	-	Duo	-	-
+TODO	lexeme	transaction	transaksyon	-	Duo	-	-
+TODO	lexeme	transfer	maglilipat; lipat; maglipat; isalin; palit; ilipat	-	Duo	-	-
+TODO	lexeme	payment	bayad; pagbayad	-	Duo	-	-
+TODO	lexeme	temporary	pansamantala	-	Duo	-	-
+TODO	lexeme	consider	Itinuturing; Isaalang-alang; Isaalang-alang mo; ituturing; ikonsidera; ituri; isasaalang-alang; ituring; itinuturi	-	Duo	-	-
+TODO	lexeme	paperwork	papeles	-	Duo	-	-
+TODO	lexeme	limit	limitasyon; hangganan	-	Duo	-	-
+TODO	lexeme	lent	ipinahiram	-	Duo	-	-
+TODO	lexeme	balance	balanse	-	Duo	-	-
+TODO	lexeme	afford	kayang bumili; kayang bayaran; kayang bilhin	-	Duo	-	-
+TODO	lexeme	up-to-date	napapanahon	-	Duo	-	-
+TODO	lexeme	assistant	katulong	-	Duo	-	-
+TODO	lexeme	designer	taga-disenyo	-	Duo	-	-
+TODO	lexeme	employer	maypagawa; amo	-	Duo	-	-
+TODO	lexeme	opportunity	oportunidad; pagkakataon	-	Duo	-	-
+TODO	lexeme	whenever	kahit kailanman	-	Duo	-	-
+TODO	lexeme	tiring	pagkapagod	-	Duo	-	-
+TODO	lexeme	forecast	hula	-	Duo	-	-
+TODO	lexeme	grow	lumaki; lumalaki	-	Duo	-	-
+TODO	lexeme	range	hanay ng bundok; pagitan; saklaw; hanay	-	Duo	-	-
+TODO	lexeme	region	rehiyon; rehiyong	-	Duo	-	-
+TODO	lexeme	wildlife	mga hayop at halaman sa kalikasan	-	Duo	-	-
+TODO	lexeme	grew	lumaki	-	Duo	-	-
+TODO	lexeme	whale	balyena	-	Duo	-	-
+TODO	lexeme	blow	ihipan; ihip; hinihipan; humihip	-	Duo	-	-
+TODO	lexeme	blew	ihip	-	Duo	-	-
+TODO	lexeme	northeast	hilagang-silangan	-	Duo	-	-
+TODO	lexeme	coast	baybayin	-	Duo	-	-
+TODO	lexeme	northwest	hilagang kanluran	-	Duo	-	-
+TODO	lexeme	held	nagtaglay; hinawakan; humawak; nakahawak; hinawak; ginaganap	-	Duo	-	-
+TODO	lexeme	sunshine	sikat ng araw	-	Duo	-	-
+TODO	lexeme	destination	destinasyon; patutunguhan	-	Duo	-	-
+TODO	lexeme	camel	kamelyo	-	Duo	-	-
+TODO	lexeme	southwest	timog-kanluran	-	Duo	-	-
+TODO	lexeme	southeast	timog-silangan	-	Duo	-	-
+TODO	lexeme	mild	kainaman	-	Duo	-	-
+TODO	lexeme	fallen	bumagsak; nahulog; nalaglag	-	Duo	-	-
+TODO	lexeme	overnight	magdamag	-	Duo	-	-
+TODO	lexeme	allergy	alerhiya; allergy	-	Duo	-	-
+TODO	lexeme	peanut	mani; peanut	-	Duo	-	-
+TODO	lexeme	starving	ginugutom; paggutom; nagugutom	-	Duo	-	-
+TODO	lexeme	herb	damo	-	Duo	-	-
+TODO	lexeme	disgusting	nakasusuklam	-	Duo	-	-
+TODO	lexeme	yuck	kadiri	-	Duo	-	-
+TODO	lexeme	split	hiwalayan; paghihiwalay; naghihiwalay	-	Duo	-	-
+TODO	lexeme	guitarist	gitarista; gitaristang	-	Duo	-	-
+TODO	lexeme	out	makakalabas; lumalabas; makalabas; lalabas; labas; lumabas	-	Duo	-	-
+TODO	lexeme	beautifully	maganda	-	Duo	-	-
+TODO	lexeme	sung	inawit; kumanta; kinanta	-	Duo	-	-
+TODO	lexeme	balcony	balkonahe	-	Duo	-	-
+TODO	lexeme	unforgettable	hindi malilimutan	-	Duo	-	-
+TODO	lexeme	historic	makasaysayan	-	Duo	-	-
+TODO	lexeme	admission	pagpasok	-	Duo	-	-
+TODO	lexeme	enormous	napakalaki	-	Duo	-	-
+TODO	lexeme	protect	protektahan	-	Duo	-	-
+TODO	lexeme	robbery	pagnanakaw	-	Duo	-	-
+TODO	lexeme	certain	tiyak	-	Duo	-	-
+TODO	lexeme	thief	magnanakaw	-	Duo	-	-
+TODO	lexeme	worn	nasuot; sinusuot; sinuot	-	Duo	-	-
+TODO	lexeme	thieves	mga magnanakaw	-	Duo	-	-
+TODO	lexeme	innocent	inosente	-	Duo	-	-
+TODO	lexeme	unknown	hindi kilala	-	Duo	-	-
+TODO	lexeme	emergency	emerhensiya; biglang pinangangailangan	-	Duo	-	-
+TODO	lexeme	arrest	hulihin; arestuhin; aarestuhin	-	Duo	-	-
+TODO	lexeme	commit	mangako	-	Duo	-	-
+TODO	lexeme	luckily	sa kabutihang-palad	-	Duo	-	-
+TODO	lexeme	police report	ulat ng pulis	-	Duo	-	-
+TODO	lexeme	unless	maliban kung	-	Duo	-	-
+TODO	lexeme	in charge of	namumuno	-	Duo	-	-
+TODO	lexeme	championship	kampeonato	-	Duo	-	-
+TODO	lexeme	they all	silang lahat	-	Duo	-	-
+TODO	lexeme	custom	kaugalian	-	Duo	-	-
+TODO	lexeme	sociable	mapagkakapwa; napakapagkakapwa	-	Duo	-	-
+TODO	lexeme	make it	gawin; ginagawa	-	Duo	-	-
+TODO	lexeme	Independence Day	araw ng kalayaan	-	Duo	-	-
+TODO	lexeme	knowing	nakakaalam; inaalam; pag-alam; pagkaalam; alam	-	Duo	-	-
+TODO	lexeme	zipper	siper	-	Duo	-	-
+TODO	lexeme	material	materyal	-	Duo	-	-
+TODO	lexeme	owe	utang	-	Duo	-	-
+TODO	lexeme	amount	dami; halaga; bilang	-	Duo	-	-
+TODO	lexeme	worth	halaga; sulit; nagkakahalaga	-	Duo	-	-
+TODO	lexeme	inexpensive	mura	-	Duo	-	-
+TODO	lexeme	bargain	tawad; kasunduan	-	Duo	-	-
+TODO	lexeme	if you ask me	kung tatanungin mo ako	-	Duo	-	-
+TODO	lexeme	invention	imbento	-	Duo	-	-
+TODO	lexeme	discovery	tuklas; pagkakatuklas; pagkakadiskubri; deskubrimyento	-	Duo	-	-
+TODO	lexeme	nineteenth	ikalabingsiyam; ika-19	-	Duo	-	-
+TODO	lexeme	twenty-first	dalawampu't isa	-	Duo	-	-
+TODO	lexeme	1802	isang libo't walong daan at dalawa	-	Duo	-	-
+TODO	lexeme	born	ipinanganak	-	Duo	-	-
+TODO	lexeme	to be honest	sa totoo lang	-	Duo	-	-
+TODO	lexeme	2016	dalawang libo at labing anim	-	Duo	-	-
+TODO	lexeme	1992	1992	-	Duo	-	-
+TODO	lexeme	twenty-fifth	dalawampu’t lima; dalawampu’t lima ng	-	Duo	-	-
+TODO	lexeme	nowadays	sa panahon ngayon; sa ngayon	-	Duo	-	-
+TODO	lexeme	grown	lumaki	-	Duo	-	-
+TODO	lexeme	generation	henerasyon; salinlahi; henerasyong; salinlahing	-	Duo	-	-
+TODO	lexeme	eighties	dekada otsenta	-	Duo	-	-
+TODO	lexeme	2017	2017	-	Duo	-	-
+TODO	lexeme	fifties	limampu	-	Duo	-	-
+TODO	lexeme	cruise	paglalayag	-	Duo	-	-
+TODO	lexeme	luxury	luho	-	Duo	-	-
+TODO	lexeme	wherever	kahit saan	-	Duo	-	-
+TODO	lexeme	ferry	lantsa	-	Duo	-	-
+TODO	lexeme	depart	alis; umaalis	-	Duo	-	-
+TODO	lexeme	direct	tuwiran	-	Duo	-	-
+TODO	lexeme	hostel	tuluyan	-	Duo	-	-
+TODO	lexeme	currency exchange	palitan ng pera	-	Duo	-	-
+TODO	lexeme	hitchhike	angkas; makisakay	-	Duo	-	-
+TODO	lexeme	next day	susunod na araw	-	Duo	-	-
+TODO	lexeme	appreciate	Pinahahalagahan	-	Duo	-	-
+TODO	lexeme	puppy	tuta	-	Duo	-	-
+TODO	lexeme	elderly	matanda	-	Duo	-	-
+TODO	lexeme	delighted	natutuwa	-	Duo	-	-
+TODO	lexeme	somehow	kahit papano; kahit papaano	-	Duo	-	-
+TODO	lexeme	unexpected	hindi inaasahan	-	Duo	-	-
+TODO	lexeme	it is	itong	-	Duo	-	-
+TODO	lexeme	promise	Pangako	-	Duo	-	-
+TODO	lexeme	grateful	nagpapasalamat; pasasalamat	-	Duo	-	-
+TODO	lexeme	friendship	pagkakaibigan	-	Duo	-	-
+TODO	lexeme	attitude	pag-uugali; ugali	-	Duo	-	-
+TODO	lexeme	generous	mapagbigay	-	Duo	-	-
+TODO	lexeme	handle	hawakan; kinaya	-	Duo	-	-
+TODO	lexeme	proud	ipinagmamalaki	-	Duo	-	-
+TODO	lexeme	positive	positibo; Positibo	-	Duo	-	-
+TODO	lexeme	personality	pagkatao; personalidad	-	Duo	-	-
+TODO	lexeme	adopt	mag-ampon; ampunin; nag-ampon	-	Duo	-	-
+TODO	lexeme	easygoing	magaan; maluwag	-	Duo	-	-
+TODO	lexeme	ladder	hagdan	-	Duo	-	-
+TODO	lexeme	lady	ginang	-	Duo	-	-
+TODO	lexeme	vehicle	behikulo; sasakyan; masasakyan	-	Duo	-	-
+TODO	lexeme	property	ari-arian	-	Duo	-	-
+TODO	lexeme	lay	humiga	-	Duo	-	-
+TODO	lexeme	kettle	takore	-	Duo	-	-
+TODO	lexeme	occasion	pagkakataong; okasyon; pagkakataon; okasyong	-	Duo	-	-
+TODO	lexeme	stranger	estranghero	-	Duo	-	-
+TODO	lexeme	league	liga	-	Duo	-	-
+TODO	lexeme	collection	koleksiyon	-	Duo	-	-
+TODO	lexeme	poetry	mga tula	-	Duo	-	-
+TODO	lexeme	very long	napakatagal	-	Duo	-	-
+TODO	lexeme	leisure	paglilibang	-	Duo	-	-
+TODO	lexeme	interrupt	mang-abala; putulin; pag-abala	-	Duo	-	-
+TODO	lexeme	familiar	pamilyar	-	Duo	-	-
+TODO	lexeme	architect	arkitekto	-	Duo	-	-
+TODO	lexeme	journalist	mamamahayag; peryodista	-	Duo	-	-
+TODO	lexeme	twin	kambal; magkambal	-	Duo	-	-
+TODO	lexeme	hardly	bahagya	-	Duo	-	-
+TODO	lexeme	worth it	sulit	-	Duo	-	-
+TODO	lexeme	sometime	minsan	-	Duo	-	-
+TODO	lexeme	freeze	nagyeyelo; yumeyelo	-	Duo	-	-
+TODO	lexeme	beaten	natalo; tinalo	-	Duo	-	-
+TODO	lexeme	froze	nagyelo; yumelo	-	Duo	-	-
+TODO	lexeme	typically	Karaniwan	-	Duo	-	-
+TODO	lexeme	frozen	nagyelo	-	Duo	-	-
+TODO	lexeme	in common	sa karaniwan	-	Duo	-	-
+TODO	lexeme	sports	mga laro	-	Duo	-	-
+TODO	lexeme	comment	komentaryo; puna; koment	-	Duo	-	-
+TODO	lexeme	brochure	polyeto	-	Duo	-	-
+TODO	lexeme	internationally	internasyonal	-	Duo	-	-
+TODO	lexeme	complaint	reklamo	-	Duo	-	-
+TODO	lexeme	safely	matiwasay	-	Duo	-	-
+TODO	lexeme	intend	balak	-	Duo	-	-
+TODO	lexeme	discussion	diskusyon; talakayan	-	Duo	-	-
+TODO	lexeme	support	suporta; sinusuportahan; suportahan	-	Duo	-	-
+TODO	lexeme	distance	distansiya; layo	-	Duo	-	-
+TODO	lexeme	briefly	sandali; maikli	-	Duo	-	-
+TODO	lexeme	contest	timpalak; kompetisyon; kontest; paligsahan	-	Duo	-	-
+TODO	lexeme	cabin	kubo	-	Duo	-	-
+TODO	lexeme	amazingly	kamangha-mangha	-	Duo	-	-
+TODO	lexeme	wonder	pagtataka; nagtataka; taka; mangha	-	Duo	-	-
+TODO	lexeme	political	pampulitika	-	Duo	-	-
+TODO	lexeme	disaster	sakuna; kapahamakan	-	Duo	-	-
+TODO	lexeme	law	batas	-	Duo	-	-
+TODO	lexeme	recently	kamakailan	-	Duo	-	-
+TODO	lexeme	pollution	polusyon	-	Duo	-	-
+TODO	lexeme	battle	laban; labang	-	Duo	-	-
+TODO	lexeme	defeat	pagkatalo; talunin; tatalunin	-	Duo	-	-
+TODO	lexeme	army	hukbó; hukbo.; hukbo	-	Duo	-	-
+TODO	lexeme	majority	Mayorya; Karamihan	-	Duo	-	-
+TODO	lexeme	wondered	nagtaka	-	Duo	-	-
+TODO	lexeme	society	lipunan	-	Duo	-	-
+TODO	lexeme	mainly	higit sa lahat	-	Duo	-	-
+TODO	lexeme	poverty	kahirapan	-	Duo	-	-
+TODO	lexeme	fair	patas	-	Duo	-	-
+TODO	lexeme	rescue	magligtas; Sinasagip; iligtas	-	Duo	-	-
+TODO	lexeme	charity	kawanggawa	-	Duo	-	-
+TODO	lexeme	progress	pag-unlad	-	Duo	-	-
+TODO	lexeme	peace	kapayapaan	-	Duo	-	-
+TODO	lexeme	powerful	makapangyarihan	-	Duo	-	-
+TODO	lexeme	so far	sa ngayon	-	Duo	-	-
+TODO	lexeme	based on	batay sa	-	Duo	-	-
+TODO	lexeme	obvious	halata	-	Duo	-	-
+TODO	lexeme	kitten	kuting	-	Duo	-	-
+TODO	lexeme	animation	animasyon	-	Duo	-	-
+TODO	lexeme	lead	pinamumunuan; pamunuan; pamumuno	-	Duo	-	-
+TODO	lexeme	cheerful	masayang; masaya	-	Duo	-	-
+TODO	lexeme	spoil	sirain; napanis	-	Duo	-	-
+TODO	lexeme	killer	pumatay; mamamatay-tao	-	Duo	-	-
+TODO	lexeme	hero	bayani	-	Duo	-	-
+TODO	lexeme	invent	nag-imbento	-	Duo	-	-
+TODO	lexeme	she'd	siya; niya	-	Duo	-	-
+TODO	lexeme	he'd	niya; siya	-	Duo	-	-
+TODO	lexeme	eighteenth	ikalabing-walo	-	Duo	-	-
+TODO	lexeme	seventies	dekada setenta	-	Duo	-	-
+TODO	lexeme	recognize	kilalanin; kilala; nakilala	-	Duo	-	-
+TODO	lexeme	you'd	mo; ikaw	-	Duo	-	-
+TODO	lexeme	at last	sa huli	-	Duo	-	-
+TODO	lexeme	they'd	sila; nila	-	Duo	-	-
+TODO	lexeme	1984	1984	-	Duo	-	-
+TODO	lexeme	we'd	tayo; kami	-	Duo	-	-
+TODO	lexeme	situation	sitwasyon; katayuan	-	Duo	-	-
+TODO	lexeme	hadn't	hindi	-	Duo	-	-
+TODO	lexeme	2005	2005	-	Duo	-	-
+TODO	lexeme	predict	hulaan; tiyakin; mabatid	-	Duo	-	-
+TODO	lexeme	2020	dalawang libo at dalawampu; 2020	-	Duo	-	-
+TODO	lexeme	someplace	sa kung saan	-	Duo	-	-
+TODO	lexeme	plain	payak	-	Duo	-	-
+TODO	lexeme	willing	maluwag sa kalooban	-	Duo	-	-
+TODO	lexeme	one of these days	isa sa mga araw na ito	-	Duo	-	-
+TODO	lexeme	regards	pagbati	-	Duo	-	-
+TODO	lexeme	guys	mga lalaki	-	Duo	-	-
+TODO	lexeme	immediate	agaran	-	Duo	-	-
+TODO	lexeme	stepmother	madrasta	-	Duo	-	-
+TODO	lexeme	female	babae	-	Duo	-	-
+TODO	lexeme	male	lalaki	-	Duo	-	-
+TODO	lexeme	alive	buhay	-	Duo	-	-
+TODO	lexeme	babysitter	yaya	-	Duo	-	-
+TODO	lexeme	negative	negatibong; negatibo	-	Duo	-	-
+TODO	lexeme	blame	bintang; sisihin; paratang	-	Duo	-	-
+TODO	lexeme	unfair	hindi patas	-	Duo	-	-
+TODO	lexeme	hang	isinasabit; isabit	-	Duo	-	-
+TODO	lexeme	refuse	tumatanggi; tinatanggihan; tanggi	-	Duo	-	-
+TODO	lexeme	disappointing	nakadidismaya	-	Duo	-	-
+TODO	lexeme	disappointed	nabigo	-	Duo	-	-
+TODO	lexeme	apology	paumanhin	-	Duo	-	-
+TODO	lexeme	I bet	taya ko	-	Duo	-	-
+TODO	lexeme	totally	lubos; kabuuan; hanap	-	Duo	-	-
+TODO	lexeme	asked	nagtanong; ay nagtanong; tinanong; naitanong; humingi	-	Duo	-	-
+TODO	lexeme	promote	itataas; itinataas	-	Duo	-	-
+TODO	lexeme	favor	pabor	-	Duo	-	-
+TODO	lexeme	personally	para sa akin	-	Duo	-	-
+TODO	lexeme	admit	aminado; aminin; inamin; aaminin; inaamin	-	Duo	-	-
+TODO	lexeme	asking	tinatanong; pagtanong; hinihiling	-	Duo	-	-
+TODO	lexeme	personal	sarili	-	Duo	-	-
+TODO	lexeme	regret	hinayang; nanghihinayanng; pagkasisi	-	Duo	-	-
+TODO	lexeme	loan	utang	-	Duo	-	-
+TODO	lexeme	waste	sayang; sinasayang	-	Duo	-	-
+TODO	lexeme	prayer	dasal	-	Duo	-	-
+TODO	lexeme	Jewish	hudyo	-	Duo	-	-
+TODO	lexeme	death	sa kamatayan; kamatayan; pagkamatay	-	Duo	-	-
+TODO	lexeme	priest	pari	-	Duo	-	-
+TODO	lexeme	bible	bibliya	-	Duo	-	-
+TODO	lexeme	god	Diyos	-	Duo	-	-
+TODO	lexeme	catholic	Katolikong; Katoliko	-	Duo	-	-
+TODO	lexeme	atheist	atiesta	-	Duo	-	-
+TODO	lexeme	doubt	duda; pagdududa	-	Duo	-	-
+TODO	lexeme	goddess	diyosa	-	Duo	-	-
+TODO	lexeme	ghost	multo	-	Duo	-	-
+TODO	lexeme	lives	mga buhay	-	Duo	-	-
+TODO	lexeme	religious	relihiyoso; napakarelihiyoso	-	Duo	-	-
+TODO	lexeme	happiness	kaligayahan	-	Duo	-	-
+TODO	lexeme	lamb	kordero	-	Duo	-	-
+TODO	lexeme	waterfall	talon	-	Duo	-	-
+TODO	lexeme	convince	mapaniwala; makumbinsi; napapayag; mapapayag; pagpapayag	-	Duo	-	-
+TODO	lexeme	politely	magalang	-	Duo	-	-
+TODO	lexeme	system	sistemang; sistema	-	Duo	-	-
+TODO	lexeme	lease	paupahan	-	Duo	-	-
+TODO	lexeme	utilities	mga kagamitan	-	Duo	-	-
+TODO	lexeme	damage	sirà; pinsala; danyos; sira	-	Duo	-	-
+TODO	lexeme	basement	silong	-	Duo	-	-
+TODO	lexeme	antique	makaluma	-	Duo	-	-
+TODO	lexeme	sooner	mas maaga	-	Duo	-	-
+TODO	lexeme	news	balita	-	Duo	-	-
+TODO	lexeme	loss	pagkawala	-	Duo	-	-
+TODO	lexeme	funeral	libing	-	Duo	-	-
+TODO	lexeme	forever	magpakailanman	-	Duo	-	-
+TODO	lexeme	condolences	mga pakikiramay	-	Duo	-	-
+TODO	lexeme	too bad	masyadong masama	-	Duo	-	-
+TODO	lexeme	apologize	humihingi ng tawad; humihingi ng tawag; humingi ng tawad	-	Duo	-	-
+TODO	lexeme	excuse	palusot; mawalang	-	Duo	-	-
+TODO	lexeme	recover	magpagaling; mabawi; gumaling; bawiin; Babawi; mababawi	-	Duo	-	-
+TODO	lexeme	condition	kondisyon; kalagayan	-	Duo	-	-
+TODO	lexeme	graduate	nakapagtapos; magtatapos; magtapos; gradweyt	-	Duo	-	-
+TODO	lexeme	scientist	dalub-agham; siyentista; siyentipiko; siyentistang; siyentistaang	-	Duo	-	-
+TODO	lexeme	industry	industriya	-	Duo	-	-
+TODO	lexeme	background	kasaysayan	-	Duo	-	-
+TODO	lexeme	out of work	wala sa trabaho	-	Duo	-	-
+TODO	lexeme	admire	hinahangaan	-	Duo	-	-
+TODO	lexeme	effort	pagsisikap	-	Duo	-	-
+TODO	lexeme	conference	conference; pulong balitaan; konferensya; kumperensiya; pangkumperensiya	-	Duo	-	-
+TODO	lexeme	training	pangsasanay; ang pagsasanay	-	Duo	-	-
+TODO	lexeme	current	kasalukuyan	-	Duo	-	-
+TODO	lexeme	achievement	tagumpay	-	Duo	-	-
+TODO	lexeme	gain	magkakaroon; tataba; makakakuha	-	Duo	-	-
+TODO	lexeme	achieve	matatamo; makamit; makakamit; nakamit	-	Duo	-	-
+TODO	lexeme	greatest	pinakadakila	-	Duo	-	-
+TODO	lexeme	tank	tangke	-	Duo	-	-
+TODO	lexeme	sidewalk	bangketa	-	Duo	-	-
+TODO	lexeme	trunk	bagahe	-	Duo	-	-
+TODO	lexeme	headlight	ilaw ng sasakyan	-	Duo	-	-
+TODO	lexeme	brake	preno	-	Duo	-	-
+TODO	lexeme	rather	sa halip; mas gusto	-	Duo	-	-
+TODO	lexeme	bitter	mapait	-	Duo	-	-
+TODO	lexeme	lime	dayap	-	Duo	-	-
+TODO	lexeme	squash	kalabasa	-	Duo	-	-
+TODO	lexeme	would	sana; kaya; sanang	-	Duo	-	-
+TODO	lexeme	silverware	kubyertos	-	Duo	-	-
+TODO	lexeme	wouldn't	ay hindi	-	Duo	-	-
+TODO	lexeme	takeout	pagkaing pambaon	-	Duo	-	-
+TODO	lexeme	bacon	tosino	-	Duo	-	-
+TODO	lexeme	alcoholic	lasenggo	-	Duo	-	-
+TODO	lexeme	ache	sakit; kirot	-	Duo	-	-
+TODO	lexeme	pregnant	buntis	-	Duo	-	-
+TODO	lexeme	reschedule	magtakda ng panibagong oras	-	Duo	-	-
+TODO	lexeme	have to be	dapat	-	Duo	-	-
+TODO	lexeme	request	kahilingan; humiling	-	Duo	-	-
+TODO	lexeme	health insurance	segurong pangkalusugan	-	Duo	-	-
+TODO	lexeme	injure	sugatan	-	Duo	-	-
+TODO	lexeme	ankle	bukong-bukong	-	Duo	-	-
+TODO	lexeme	bled	nagdugo; dinugo; dumugo	-	Duo	-	-
+TODO	lexeme	will be	magiging	-	Duo	-	-
+TODO	lexeme	earache	sakit sa tenga	-	Duo	-	-
+TODO	lexeme	treatment	paggamot	-	Duo	-	-
+TODO	lexeme	thumb	hinlalaki	-	Duo	-	-
+TODO	lexeme	skin	balat	-	Duo	-	-
+TODO	lexeme	midterm	gitnang termino	-	Duo	-	-
+TODO	lexeme	preparation	paghahanda	-	Duo	-	-
+TODO	lexeme	participation	pakikilahok	-	Duo	-	-
+TODO	lexeme	absent	wala; liban; lumiban	-	Duo	-	-
+TODO	lexeme	correction	koreksyon	-	Duo	-	-
+TODO	lexeme	rewrite	isulat muli	-	Duo	-	-
+TODO	lexeme	handwriting	sulat-kamay	-	Duo	-	-
+TODO	lexeme	pronunciation	pagbigkas	-	Duo	-	-
+TODO	lexeme	pronounce	bigkasin; binibigkas; bigkas	-	Duo	-	-
+TODO	lexeme	reread	muling binabasa; muling basahin; binasang muli	-	Duo	-	-
+TODO	lexeme	aloud	malakas	-	Duo	-	-
+TODO	lexeme	reapply	ilagay ulit; mag-apply ulit	-	Duo	-	-
+TODO	lexeme	credit	kredit; paniwalaan; utang; credit	-	Duo	-	-
+TODO	lexeme	accent	punto	-	Duo	-	-
+TODO	lexeme	doing	gumagawa; ginagawa; nagba; nagha	-	Duo	-	-
+TODO	lexeme	mustache	bigote	-	Duo	-	-
+TODO	lexeme	charming	kaakit-akit; kalugod-lugod; kahanga-hanga	-	Duo	-	-
+TODO	lexeme	lyrics	letra; mga letra	-	Duo	-	-
+TODO	lexeme	bunch	bungkos	-	Duo	-	-
+TODO	lexeme	gorgeous	napakaganda; napakarikit	-	Duo	-	-
+TODO	lexeme	improvement	pagbabago	-	Duo	-	-
+TODO	lexeme	protest	protesta	-	Duo	-	-
+TODO	lexeme	there has been	nagkaroon	-	Duo	-	-
+TODO	lexeme	decrease	binawasan; nabawasan; binabawasan	-	Duo	-	-
+TODO	lexeme	unemployment	kawalan ng trabaho	-	Duo	-	-
+TODO	lexeme	explode	pagsabog; Sumabog; sasabog	-	Duo	-	-
+TODO	lexeme	flood	baha	-	Duo	-	-
+TODO	lexeme	warning	babala	-	Duo	-	-
+TODO	lexeme	murder	pagpatay	-	Duo	-	-
+TODO	lexeme	shoot	bumaril; barilin; babarilin	-	Duo	-	-
+TODO	lexeme	recent	kamakailan	-	Duo	-	-
+TODO	lexeme	shot	binabaril; barilin; nagbabaril	-	Duo	-	-
+TODO	lexeme	involve	sangkot; kasangkot; isinasangkot	-	Duo	-	-
+TODO	lexeme	concentrate	tumutok	-	Duo	-	-
+TODO	lexeme	allow	pwedeng payagan; papayagan; pinapayagan; hahayaan; papayag; pinapayagang; pinayagan	-	Duo	-	-
+TODO	lexeme	zone	pook	-	Duo	-	-
+TODO	lexeme	seatbelt	sinturon	-	Duo	-	-
+TODO	lexeme	buckle	hibilya; hebilya	-	Duo	-	-
+TODO	lexeme	pedestrian	taong naglalakad	-	Duo	-	-
+TODO	lexeme	illegal	ilegal	-	Duo	-	-
+TODO	lexeme	cycle	turno; ikot; siklo; pagikot-ikot	-	Duo	-	-
+TODO	lexeme	allowed to	pinayagang	-	Duo	-	-
+TODO	lexeme	speed	bilis	-	Duo	-	-
+TODO	lexeme	tunnel	lagusan	-	Duo	-	-
+TODO	lexeme	ranch	kabukiran	-	Duo	-	-
+TODO	lexeme	donkey	buro; asno	-	Duo	-	-
+TODO	lexeme	calves	mga guya	-	Duo	-	-
+TODO	lexeme	calf	guya	-	Duo	-	-
+TODO	lexeme	sandy	mabuhangin	-	Duo	-	-
+TODO	lexeme	shore	baybayin	-	Duo	-	-
+TODO	lexeme	shade	lilim	-	Duo	-	-
+TODO	lexeme	farmer	magsasaka; mambubukid	-	Duo	-	-
+TODO	lexeme	blown	nahangin; nalipad	-	Duo	-	-
+TODO	lexeme	western	kanluran	-	Duo	-	-
+TODO	lexeme	eastern	silanganan	-	Duo	-	-
+TODO	lexeme	bull	toro	-	Duo	-	-
+TODO	lexeme	cattle	baka	-	Duo	-	-
+TODO	lexeme	southern	timog	-	Duo	-	-
+TODO	lexeme	northern	hilaga	-	Duo	-	-
+TODO	lexeme	landscape	tanawin	-	Duo	-	-
+TODO	lexeme	goat	kambing	-	Duo	-	-
+TODO	lexeme	flat	patag	-	Duo	-	-
+TODO	lexeme	on top of	sa ibabaw; nasa ibabaw	-	Duo	-	-
+TODO	lexeme	countryside	kabukiran	-	Duo	-	-
+TODO	lexeme	permit	pahintulot; permiso	-	Duo	-	-
+TODO	lexeme	curriculum	kurikulum	-	Duo	-	-
+TODO	lexeme	if I were	kung ako ay	-	Duo	-	-
+TODO	lexeme	if I were you	kung ako sayo	-	Duo	-	-
+TODO	lexeme	permission	[pahintulot/permiso]; ng pahintulot; pahintulot	-	Duo	-	-
+TODO	lexeme	style	estilo	-	Duo	-	-
+TODO	lexeme	foreigner	dayuhan	-	Duo	-	-
+TODO	lexeme	obviously	nang walang alinlangan	-	Duo	-	-
+TODO	lexeme	dangerously	delikado	-	Duo	-	-
+TODO	lexeme	route	ruta	-	Duo	-	-
+TODO	lexeme	clap	palakpak; palakpakan; pumapalakpak	-	Duo	-	-
+TODO	lexeme	goalkeeper	tagabantay ng goal	-	Duo	-	-
+TODO	lexeme	athletic	atlentiko	-	Duo	-	-
+TODO	lexeme	role	gampanin; papel	-	Duo	-	-
+TODO	lexeme	employment	trabaho; empleo	-	Duo	-	-
+TODO	lexeme	if I	kung ako	-	Duo	-	-
+TODO	lexeme	babysit	alagaan; inaalagaan; nag-aalaga	-	Duo	-	-
+TODO	lexeme	advantage	kalakasan; bentaha	-	Duo	-	-
+TODO	lexeme	vet	beterinaryo	-	Duo	-	-
+TODO	lexeme	hairdresser	tagapag-ayos ng buhok	-	Duo	-	-
+TODO	lexeme	talent	talento	-	Duo	-	-
+TODO	lexeme	one day	isang araw	-	Duo	-	-
+TODO	lexeme	tech	teknolohiya	-	Duo	-	-
+TODO	lexeme	go through	dumaan sa	-	Duo	-	-
+TODO	lexeme	departure	alis; pag-alis	-	Duo	-	-
+TODO	lexeme	pilot	piloto	-	Duo	-	-
+TODO	lexeme	crew	kawan	-	Duo	-	-
+TODO	lexeme	how far	gaano kalayo	-	Duo	-	-
+TODO	lexeme	massage	masahe	-	Duo	-	-
+TODO	lexeme	spectacular	kagila-gilalas	-	Duo	-	-
+TODO	lexeme	kangaroo	kanggaro	-	Duo	-	-
+TODO	lexeme	cave	kuweba	-	Duo	-	-
+TODO	lexeme	agency	ahensiya	-	Duo	-	-
+TODO	lexeme	tourism	turismo	-	Duo	-	-
+TODO	lexeme	scenery	tanawin	-	Duo	-	-
+TODO	lexeme	port	daungan	-	Duo	-	-
+TODO	lexeme	atmosphere	atmospera	-	Duo	-	-
+TODO	lexeme	in case	kung sakali	-	Duo	-	-
+TODO	lexeme	extraordinary	katangi-tangi	-	Duo	-	-
+TODO	lexeme	autograph	pirma	-	Duo	-	-
+TODO	lexeme	recording	itinatala; pagtatala; record	-	Duo	-	-
+TODO	lexeme	of all time	sa lahat ng oras	-	Duo	-	-
+TODO	lexeme	biography	talambuhay	-	Duo	-	-
+TODO	lexeme	thinking	pag-isip	-	Duo	-	-
+TODO	lexeme	sticky	malagkit	-	Duo	-	-
+TODO	lexeme	noodle	pansit	-	Duo	-	-
+TODO	lexeme	shake	yugyugin; shake	-	Duo	-	-
+TODO	lexeme	boil	kulo; kinukulo	-	Duo	-	-
+TODO	lexeme	burn	sunugin; sunog; sinusunog	-	Duo	-	-
+TODO	lexeme	raw	hilaw	-	Duo	-	-
+TODO	lexeme	pour	Ibuhos	-	Duo	-	-
+TODO	lexeme	cucumber	pipino	-	Duo	-	-
+TODO	lexeme	stir	Haluin	-	Duo	-	-
+TODO	lexeme	basket	sisdlan	-	Duo	-	-
+TODO	lexeme	organic	organiko	-	Duo	-	-
+TODO	lexeme	dozen	dosena; labindalawa	-	Duo	-	-
+TODO	lexeme	fry	magprito; prituhin; nagpi-prito	-	Duo	-	-
+TODO	lexeme	half-	kalahati	-	Duo	-	-
+TODO	lexeme	dressing	sarsa	-	Duo	-	-
+TODO	lexeme	wanted	gusto; nagustuhan; nais; ninanais; gustong; ginusto; ninais	-	Duo	-	-
+TODO	lexeme	before I forget	bago ko makalimutan	-	Duo	-	-
+TODO	lexeme	knock	kumakatok; nagkakatok; kumatok	-	Duo	-	-
+TODO	lexeme	cab	taksi	-	Duo	-	-
+TODO	lexeme	how to	kung paano	-	Duo	-	-
+TODO	lexeme	insist	ipinipilit; ipilit	-	Duo	-	-
+TODO	lexeme	label	tatak	-	Duo	-	-
+TODO	lexeme	silk	sutla	-	Duo	-	-
+TODO	lexeme	collar	kuwelyo	-	Duo	-	-
+TODO	lexeme	thick	makapal	-	Duo	-	-
+TODO	lexeme	damaged	nasira; puminsala	-	Duo	-	-
+TODO	lexeme	pattern	disenyo	-	Duo	-	-
+TODO	lexeme	stain	mantsa; minamantsahan	-	Duo	-	-
+TODO	lexeme	led	pinangunahan	-	Duo	-	-
+TODO	lexeme	previously	dati	-	Duo	-	-
+TODO	lexeme	approximately	humigit kumulang; humigit-kumulang; kumulang	-	Duo	-	-
+TODO	lexeme	approximate	humigit-kumulang	-	Duo	-	-
+TODO	lexeme	ladies and gentlemen	mga binibini at ginoo	-	Duo	-	-
+TODO	lexeme	unkind	hindi mabait	-	Duo	-	-
+TODO	lexeme	pleasure	kasiyahan	-	Duo	-	-
+TODO	lexeme	announce	ibinabalita; pinapahayag; ipinapahayag; ipinahayag	-	Duo	-	-
+TODO	lexeme	announcement	lathala	-	Duo	-	-
+TODO	lexeme	unnecessary	hindi kailangan	-	Duo	-	-
+TODO	lexeme	within	sa loob ng	-	Duo	-	-
+TODO	lexeme	gas	gasolina	-	Duo	-	-
+TODO	lexeme	inches wide	pulgada ang lapad	-	Duo	-	-
+TODO	lexeme	faucet	gripo	-	Duo	-	-
+TODO	lexeme	pipe	tubo	-	Duo	-	-
+TODO	lexeme	electrical	elektrikal	-	Duo	-	-
+TODO	lexeme	space	espasyo; kalawakan; puwang	-	Duo	-	-
+TODO	lexeme	cupboard	eskaparate	-	Duo	-	-
+TODO	lexeme	frame	kuwadro	-	Duo	-	-
+TODO	lexeme	metal	metal; na metal; bakal; na bakal	-	Duo	-	-
+TODO	lexeme	would have	sana; dapat	-	Duo	-	-
+TODO	lexeme	bucket	timba	-	Duo	-	-
+TODO	lexeme	dig	hukay; humuhukay	-	Duo	-	-
+TODO	lexeme	disappoint	dismaya; bigo	-	Duo	-	-
+TODO	lexeme	warn	babalaan; binalaan; nagbabala	-	Duo	-	-
+TODO	lexeme	stupid	tanga	-	Duo	-	-
+TODO	lexeme	would have had	nagkaroon na sana	-	Duo	-	-
+TODO	lexeme	mistaken	nagkamali	-	Duo	-	-
+TODO	lexeme	selfish	makasarili	-	Duo	-	-
+TODO	lexeme	be able to	puwedeng	-	Duo	-	-
+TODO	lexeme	guilty	nagkasala; may sala	-	Duo	-	-
+TODO	lexeme	closer	malapit	-	Duo	-	-
+TODO	lexeme	whisper	magbulong; ibubulong; ibulong	-	Duo	-	-
+TODO	lexeme	weird	Kakaiba	-	Duo	-	-
+TODO	lexeme	silence	katahimikan	-	Duo	-	-
+TODO	lexeme	risky	mapanganib; delikado	-	Duo	-	-
+TODO	lexeme	frightened	matakot; natatakot; natakot	-	Duo	-	-
+TODO	lexeme	frightening	nakasisindak	-	Duo	-	-
+TODO	lexeme	riskiest	pinakamapanganib	-	Duo	-	-
+TODO	lexeme	bite	kagatin; makagat; kumagat; nangangagat	-	Duo	-	-
+TODO	lexeme	gross	kadiri; dadiri	-	Duo	-	-
+TODO	lexeme	creature	nilalang	-	Duo	-	-
+TODO	lexeme	bit	kapiraso; kaunti	-	Duo	-	-
+TODO	lexeme	grossest	pinakamalubha	-	Duo	-	-
+TODO	lexeme	escape	pagtakas; tumatakas; takasan	-	Duo	-	-
+TODO	lexeme	sank	lumubog	-	Duo	-	-
+TODO	lexeme	bottom	ilalim; kailaliman	-	Duo	-	-
+TODO	lexeme	graphics	mga grapika	-	Duo	-	-
+TODO	lexeme	giant	dambuhala	-	Duo	-	-
+TODO	lexeme	device	aparato	-	Duo	-	-
+TODO	lexeme	browser	tagapag-browse	-	Duo	-	-
+TODO	lexeme	press	pulong balitaan; pahayagan; palimbagan; Pindutin	-	Duo	-	-
+TODO	lexeme	locate	hinahanap; hanap	-	Duo	-	-
+TODO	lexeme	user	gumagamit	-	Duo	-	-
+TODO	lexeme	take a look	tingnan	-	Duo	-	-
+TODO	lexeme	frequent	madalas	-	Duo	-	-
+TODO	lexeme	translation	pagsasalin	-	Duo	-	-
+TODO	lexeme	on the	sa	-	Duo	-	-
+TODO	lexeme	poet	makata	-	Duo	-	-
+TODO	lexeme	refreshments	mga pampalamig	-	Duo	-	-
+TODO	lexeme	intermission	pagitan ng mga tagpo	-	Duo	-	-
+TODO	lexeme	specially	lalo na	-	Duo	-	-
+TODO	lexeme	summertime	tag-araw	-	Duo	-	-
+TODO	lexeme	pumpkin	kalabasa	-	Duo	-	-
+TODO	lexeme	carve	mag-ukit; nag-uukit	-	Duo	-	-
+TODO	lexeme	harvest	ani	-	Duo	-	-
+TODO	lexeme	cider	sidra	-	Duo	-	-
+TODO	lexeme	hot cocoa	mainit na kakaw	-	Duo	-	-
+TODO	lexeme	decorations	mga dekorasyon	-	Duo	-	-
+TODO	lexeme	cleaning	sa paglilinis; paglilinis; paglinis; panlinis	-	Duo	-	-
+TODO	lexeme	springtime	Tagsibol	-	Duo	-	-
+TODO	lexeme	potluck	salu-salo	-	Duo	-	-
+TODO	lexeme	lit	sinindihan; sindi	-	Duo	-	-
+TODO	lexeme	seated	nakaupo; umupo; inupuan	-	Duo	-	-
+TODO	lexeme	dairy	pagawaan ng gatas	-	Duo	-	-
+TODO	lexeme	appetizer	pampagana	-	Duo	-	-
+TODO	lexeme	portion	bahagi	-	Duo	-	-
+TODO	lexeme	pollute	magkalat; nagdudumi; magdumi	-	Duo	-	-
+TODO	lexeme	habitat	tahanan; tahanang	-	Duo	-	-
+TODO	lexeme	turtle	pagong	-	Duo	-	-
+TODO	lexeme	universe	sandaigdigan	-	Duo	-	-
+TODO	lexeme	being	pinag; pagiging; nire	-	Duo	-	-
+TODO	lexeme	global warming	pag-iinit ng mundo	-	Duo	-	-
+TODO	lexeme	planet	planeta; planetang	-	Duo	-	-
+TODO	lexeme	steep	matatarik; matarik	-	Duo	-	-
+TODO	lexeme	adapt	umangkop; makibagay	-	Duo	-	-
+TODO	lexeme	endangered	nanganganib	-	Duo	-	-
+TODO	lexeme	species	uri ng hayop	-	Duo	-	-
+TODO	lexeme	entertainment	libangan	-	Duo	-	-
+TODO	lexeme	comic	komik	-	Duo	-	-
+TODO	lexeme	display	pangtanghal; pagpakita; ipakita	-	Duo	-	-
+TODO	lexeme	marvelous	kagila-gilalas; kahanga-hanga; kahanga	-	Duo	-	-
+TODO	lexeme	divorce	diborsyo	-	Duo	-	-
+TODO	lexeme	public	publiko	-	Duo	-	-
+TODO	lexeme	realistic	makatotohanan	-	Duo	-	-
+TODO	lexeme	trend	uso; kalakaran	-	Duo	-	-
+TODO	lexeme	circus	sirko	-	Duo	-	-
+TODO	lexeme	generally	Karaniwan; pangkalahatan	-	Duo	-	-
+TODO	lexeme	barbershop	barberya	-	Duo	-	-
+TODO	lexeme	expert	dalubhasa; eksperto	-	Duo	-	-
+TODO	lexeme	appearance	hitsura	-	Duo	-	-
+TODO	lexeme	stylish	istiloso	-	Duo	-	-
+TODO	lexeme	nail	kuko	-	Duo	-	-
+TODO	lexeme	remove	maalis; alisan; alisin; aalisin; hubarin	-	Duo	-	-
+TODO	lexeme	lip	labi	-	Duo	-	-
+TODO	lexeme	forehead	noo	-	Duo	-	-
+TODO	lexeme	powder	pulbos	-	Duo	-	-
+TODO	lexeme	pierced	Nagpa-butas; Binutasan	-	Duo	-	-
+TODO	lexeme	dye	kinukulayan; kulay	-	Duo	-	-
+TODO	lexeme	hairstyle	estilo ng buhok	-	Duo	-	-
+TODO	lexeme	tattoo	tato	-	Duo	-	-
+TODO	lexeme	piercing	pagbubutas	-	Duo	-	-
+TODO	lexeme	sale	nabebenta; benta; pagbebenta; sale	-	Duo	-	-
+TODO	lexeme	code	kodigo	-	Duo	-	-
+TODO	lexeme	reasonable	makatwiran	-	Duo	-	-
+TODO	lexeme	shipping	pagpapadala	-	Duo	-	-
+TODO	lexeme	limited	limitado; limitadong	-	Duo	-	-
+TODO	lexeme	fold	magtupi; tupi	-	Duo	-	-
+TODO	lexeme	sew	tahi; tahiin	-	Duo	-	-
+TODO	lexeme	knit	ginagantsilyo; gantsilyo	-	Duo	-	-
+TODO	lexeme	vintage	lumang disenyo	-	Duo	-	-
+TODO	lexeme	cyclist	siklista; taong nagbibisikleta	-	Duo	-	-
+TODO	lexeme	track	daan	-	Duo	-	-
+TODO	lexeme	gymnastics	himnastiko	-	Duo	-	-
+TODO	lexeme	diving	pagsisid	-	Duo	-	-
+TODO	lexeme	captain	Kapitan; kapitan	-	Duo	-	-
+TODO	lexeme	offense	paglabag	-	Duo	-	-
+TODO	lexeme	defense	depensa	-	Duo	-	-
+TODO	lexeme	hunt	mangaso; nangangaso	-	Duo	-	-
+TODO	lexeme	perfectly	perpekto; perpektong	-	Duo	-	-
+TODO	lexeme	liquid	likido	-	Duo	-	-
+TODO	lexeme	tongue	dila	-	Duo	-	-
+TODO	lexeme	good for you	mabuti para sa iyo	-	Duo	-	-
+TODO	lexeme	procedure	pamamaraan	-	Duo	-	-
+TODO	lexeme	cure	lunas; kagamutan	-	Duo	-	-
+TODO	lexeme	heart disease	sakit sa puso	-	Duo	-	-
+TODO	lexeme	blood pressure	presyon ng dugo	-	Duo	-	-
+TODO	lexeme	cancer	kanser	-	Duo	-	-
+TODO	lexeme	provide	magbigay	-	Duo	-	-
+TODO	lexeme	healthcare	pangangalagang pangkalusugan	-	Duo	-	-
+TODO	lexeme	weigh	tumitimbang na; ay tumitimbang na; tumitimbang	-	Duo	-	-
+TODO	lexeme	contract	kontrata	-	Duo	-	-
+TODO	lexeme	manage	nagawa; pinamamahalaan; kinaya; makakayanan; nagpapatakbo; makayanan	-	Duo	-	-
+TODO	lexeme	shortly	maya-maya	-	Duo	-	-
+TODO	lexeme	basically	sa madaling salita	-	Duo	-	-
+TODO	lexeme	i mean	ibig kong sabihin	-	Duo	-	-
+TODO	lexeme	financial	pangpinansyal	-	Duo	-	-
+TODO	lexeme	postpone	ipagpapaliban; ipagpaliban	-	Duo	-	-
+TODO	lexeme	urgent	apurahan; madalian	-	Duo	-	-
+TODO	lexeme	mostly	karamihan	-	Duo	-	-
+TODO	lexeme	product	produkto; produktong	-	Duo	-	-
+TODO	lexeme	challenging	mahirap	-	Duo	-	-
+TODO	lexeme	select	Piliin	-	Duo	-	-
+TODO	lexeme	fasten	kabit	-	Duo	-	-
+TODO	lexeme	ahead of time	maagang panahon	-	Duo	-	-
+TODO	lexeme	immigrant	imigrante	-	Duo	-	-
+TODO	lexeme	central	sentral	-	Duo	-	-
+TODO	lexeme	separate	bukod	-	Duo	-	-
+TODO	lexeme	self-service	paglilingkod sa sarili	-	Duo	-	-
+TODO	lexeme	travels	mga paglalakbay; nilalakbay; naglalakbay; bumibiyahe	-	Duo	-	-
+TODO	lexeme	out of order	wala sa ayos	-	Duo	-	-
+TODO	lexeme	minimum	hindi bababa sa	-	Duo	-	-
+TODO	lexeme	maximum	pinakamataas	-	Duo	-	-
+TODO	lexeme	meanwhile	samantala	-	Duo	-	-
+TODO	lexeme	likely	malamang	-	Duo	-	-
+TODO	lexeme	demand	pangangailangan; kailangan	-	Duo	-	-
+TODO	lexeme	corruption	katiwalian	-	Duo	-	-
+TODO	lexeme	official	opisyal	-	Duo	-	-
+TODO	lexeme	prove	pinapatunayan; patunayan	-	Duo	-	-
+TODO	lexeme	prisoner	bilanggo; bilanggong	-	Duo	-	-
+TODO	lexeme	secretly	palihim	-	Duo	-	-
+TODO	lexeme	partly	bahagyang	-	Duo	-	-
+TODO	lexeme	inform	ipinapaalam; ipaalam	-	Duo	-	-
+TODO	lexeme	defend	pagtatanggol; magtatanggol; ipagtanggol	-	Duo	-	-
+TODO	lexeme	jury	hurado	-	Duo	-	-
+TODO	lexeme	punish	parusahan	-	Duo	-	-
+TODO	lexeme	proof	patunay	-	Duo	-	-
+TODO	lexeme	human	tao	-	Duo	-	-
+TODO	lexeme	disappear	nawala; ngilang	-	Duo	-	-
+TODO	lexeme	civilization	sibilisasyon	-	Duo	-	-
+TODO	lexeme	settle	manirahan; pumirmi; tumira	-	Duo	-	-
+TODO	lexeme	victory	tagumpay	-	Duo	-	-
+TODO	lexeme	conquer	sakupin	-	Duo	-	-
+TODO	lexeme	despite	sa kabila ng	-	Duo	-	-
+TODO	lexeme	trade	kalakalan	-	Duo	-	-
+TODO	lexeme	immigrate	nag-imigrante	-	Duo	-	-
+TODO	lexeme	pirate	pirata	-	Duo	-	-
+TODO	lexeme	lack	kulang	-	Duo	-	-
+TODO	lexeme	technique	pamamaraan; paraan; diskarte	-	Duo	-	-
+TODO	lexeme	develop	magdevelop; gumagawa; paunlarin; mapaunlad; bumuo; binuo	-	Duo	-	-
+TODO	lexeme	exist	nandito; mayroon; nabubuhay; meron	-	Duo	-	-
+TODO	lexeme	lottery	lotto	-	Duo	-	-
+TODO	lexeme	as many	kasing dami	-	Duo	-	-
+TODO	lexeme	wish	sana; Nais; hiling; hinilingan	-	Duo	-	-
+TODO	lexeme	silly	kalokohan; kalokohang	-	Duo	-	-
+TODO	lexeme	unlikely	malabo; hindi sigurado	-	Duo	-	-
+TODO	lexeme	marry	kasalanan; pakakasalan; pakasalan; ikakasal	-	Duo	-	-
+TODO	lexeme	satisfied	nasisiyahang; nasiyahan; masiyahan	-	Duo	-	-
+TODO	lexeme	count	magbibilang; kasama; nabibilang; kabilang; nagbilang; magbilang; binibilang; bibilangin; nagbibilang	-	Duo	-	-
+TODO	lexeme	chance	pagkakataong	-	Duo	-	-
+TODO	lexeme	encourage	himukin; hikayatin	-	Duo	-	-
+TODO	lexeme	hopeful	umaasa; may pag-asa	-	Duo	-	-
+TODO	lexeme	beg	mamalimos; nagmamakaawa	-	Duo	-	-
+TODO	lexeme	curfew	oras ng pag-uwi	-	Duo	-	-
+TODO	lexeme	react	nag-react	-	Duo	-	-
+TODO	lexeme	do you think i'd be able to	sa tingin mo kaya ko	-	Duo	-	-
+TODO	lexeme	as long as	hangga't	-	Duo	-	-
+TODO	lexeme	yawn	humikab; humihikab	-	Duo	-	-
+TODO	lexeme	hip	balakang	-	Duo	-	-
+TODO	lexeme	wrist	pulso	-	Duo	-	-
+TODO	lexeme	infection	impeksyon	-	Duo	-	-
+TODO	lexeme	swollen	maga	-	Duo	-	-
+TODO	lexeme	lung	baga	-	Duo	-	-
+TODO	lexeme	heal	magpagaling; pagalingin; pagaling	-	Duo	-	-
+TODO	lexeme	enough to	sapat para	-	Duo	-	-
+TODO	lexeme	apparently	mukha; mukhang; parang	-	Duo	-	-
+TODO	lexeme	vaccine	bakuna; nagpapabakuna	-	Duo	-	-
+TODO	lexeme	muscle	kalamnan	-	Duo	-	-
+TODO	lexeme	impression	impresyon	-	Duo	-	-
+TODO	lexeme	supposedly	daw; kunwari; umano; diumano	-	Duo	-	-
+TODO	lexeme	at risk	nasa panganib	-	Duo	-	-
+TODO	lexeme	i'd	kong; ko; ako	-	Duo	-	-
+TODO	lexeme	landlord	may-ari ng bahay	-	Duo	-	-
+TODO	lexeme	attic	atik	-	Duo	-	-
+TODO	lexeme	fireplace	pang-apuyan	-	Duo	-	-
+TODO	lexeme	appliance	aparato	-	Duo	-	-
+TODO	lexeme	storage	imbakan	-	Duo	-	-
+TODO	lexeme	residential	tirahan	-	Duo	-	-
+TODO	lexeme	surrounding	pagpalibot	-	Duo	-	-
+TODO	lexeme	overwhelmed	nalulula	-	Duo	-	-
+TODO	lexeme	go with	samahan; sumama	-	Duo	-	-
+TODO	lexeme	compromise	magkompromiso; kompromiso	-	Duo	-	-
+TODO	lexeme	concerned	inalala; nag-alala; ikinabahala	-	Duo	-	-
+TODO	lexeme	temper	pasensya	-	Duo	-	-
+TODO	lexeme	emotional	emosyonal; madamdamin	-	Duo	-	-
+TODO	lexeme	ignore	binalewala	-	Duo	-	-
+TODO	lexeme	childish	parang bata	-	Duo	-	-
+TODO	lexeme	should've	dapat sana	-	Duo	-	-
+TODO	lexeme	could've	puwede sana	-	Duo	-	-
+TODO	lexeme	liar	sinungaling	-	Duo	-	-
+TODO	lexeme	offend	saktan; sinasaktan	-	Duo	-	-
+TODO	lexeme	criticize	punahin; pinupuna	-	Duo	-	-
+TODO	lexeme	misunderstanding	maling pag-unawa	-	Duo	-	-
+TODO	lexeme	aware	alam	-	Duo	-	-
+TODO	lexeme	entire	buo; buong	-	Duo	-	-
+TODO	lexeme	qualification	kalipikasyon	-	Duo	-	-
+TODO	lexeme	flexibility	kakayahang umangkop	-	Duo	-	-
+TODO	lexeme	absolutely	lubos	-	Duo	-	-
+TODO	lexeme	timing	tiyempo	-	Duo	-	-
+TODO	lexeme	without a doubt	walang duda	-	Duo	-	-
+TODO	lexeme	seed	buto	-	Duo	-	-
+TODO	lexeme	ground	lupa	-	Duo	-	-
+TODO	lexeme	bush	mga palumpong	-	Duo	-	-
+TODO	lexeme	gardener	hardinero	-	Duo	-	-
+TODO	lexeme	mow	tinatabas; tabasin	-	Duo	-	-
+TODO	lexeme	lawn	damuhan	-	Duo	-	-
+TODO	lexeme	muddy	maputik	-	Duo	-	-
+TODO	lexeme	pond	lawa	-	Duo	-	-
+TODO	lexeme	looking	tinitignan; tumingin; pagtingin; tumitingin; nakatingin	-	Duo	-	-
+TODO	lexeme	stem	tangkay	-	Duo	-	-
+TODO	lexeme	spray	Spray	-	Duo	-	-
+TODO	lexeme	soil	lupa	-	Duo	-	-
+TODO	lexeme	itinerary	itineraryo	-	Duo	-	-
+TODO	lexeme	tropical	Tropikal	-	Duo	-	-
+TODO	lexeme	not only	hindi lamang basta; basta	-	Duo	-	-
+TODO	lexeme	sunburn	nasunog ang balat	-	Duo	-	-
+TODO	lexeme	deck	baraha	-	Duo	-	-
+TODO	lexeme	stormy	mabagyo	-	Duo	-	-
+TODO	lexeme	diner	kainan	-	Duo	-	-
+TODO	lexeme	unpredictable	napakawalang-katiyakan; hindi masasabi	-	Duo	-	-
+TODO	lexeme	volcano	bulkan	-	Duo	-	-
+TODO	lexeme	outskirts	paligid	-	Duo	-	-
+TODO	lexeme	spontaneous	kusang-loob	-	Duo	-	-
+TODO	lexeme	ages	mga edad; mga gulang	-	Duo	-	-
+TODO	lexeme	influence	iniimpluwensyahan; impluwensya	-	Duo	-	-
+TODO	lexeme	back then	noon	-	Duo	-	-
+TODO	lexeme	whoever	sinuman	-	Duo	-	-
+TODO	lexeme	fluent	mahusay magsalita	-	Duo	-	-
+TODO	lexeme	bond	bigkis	-	Duo	-	-
+TODO	lexeme	related	kaugnay	-	Duo	-	-
+TODO	lexeme	opponent	kalaban	-	Duo	-	-
+TODO	lexeme	threat	banta	-	Duo	-	-
+TODO	lexeme	campaign	kampanya; nangangampanya	-	Duo	-	-
+TODO	lexeme	going to be	magiging	-	Duo	-	-
+TODO	lexeme	violence	karahasan	-	Duo	-	-
+TODO	lexeme	representative	nirerepresenta; kinatawan	-	Duo	-	-
+TODO	lexeme	elect	pinipili; pinili	-	Duo	-	-
+TODO	lexeme	will have	magkakaroon; dapat; kailangan; kakailanganin; magkakaroon ng	-	Duo	-	-
+TODO	lexeme	by then	Sa oras na iyon	-	Duo	-	-
+TODO	lexeme	furthermore	Bukod pa rito	-	Duo	-	-
+TODO	lexeme	regarding	tungkol	-	Duo	-	-
+TODO	lexeme	rainbow	bahaghari	-	Duo	-	-
+TODO	lexeme	out there	sa labas	-	Duo	-	-
+TODO	lexeme	freezing	nagyeyelo	-	Duo	-	-
+TODO	lexeme	humidity	kahalumigmigan	-	Duo	-	-
+TODO	lexeme	tornado	Ipu-ipo	-	Duo	-	-
+TODO	lexeme	shady	malilim; makulimlim	-	Duo	-	-
+TODO	lexeme	sunlight	liwanag ng araw	-	Duo	-	-
+TODO	lexeme	seasonal	pana-panahon	-	Duo	-	-
+TODO	lexeme	sledding	pagpaparagos	-	Duo	-	-
+TODO	lexeme	frost	hamog na nagyelo	-	Duo	-	-
+TODO	lexeme	from now on	simula ngayon	-	Duo	-	-
+TODO	lexeme	sharp	matalim; matulis	-	Duo	-	-
+TODO	lexeme	kill	makapatay; pumatay; patayin; papatayin	-	Duo	-	-
+TODO	lexeme	edge	gilid; talím	-	Duo	-	-
+TODO	lexeme	consequence	konsekwensiya	-	Duo	-	-
+TODO	lexeme	grounded	pinarusahan; naparusahan	-	Duo	-	-
+TODO	lexeme	risk	panganib	-	Duo	-	-
+TODO	lexeme	embarrass	ipahiya; ipapahiya	-	Duo	-	-
+TODO	lexeme	stubborn	matigas ang ulo	-	Duo	-	-
+TODO	lexeme	load	dalahing / kargang; [bigat/dalahin/karga]; kargada; dalahin	-	Duo	-	-
+TODO	lexeme	arrange	ayos; nag-ayos; Ayusin; aayos	-	Duo	-	-
+TODO	lexeme	cardboard	karton	-	Duo	-	-
+TODO	lexeme	errand	gawain	-	Duo	-	-
+TODO	lexeme	all over the place	sa buong lugar	-	Duo	-	-
+TODO	lexeme	nap	siyesta; hipig; idlip; umidlip; umiidlip	-	Duo	-	-
+TODO	lexeme	bedtime	oras ng pagtulog	-	Duo	-	-
+TODO	lexeme	allowance	baon	-	Duo	-	-
+TODO	lexeme	host	punong-abala	-	Duo	-	-
+TODO	lexeme	folks	mga kamag-anak; mga kapamilya	-	Duo	-	-
+TODO	lexeme	reputation	reputasyon	-	Duo	-	-
+TODO	lexeme	american	Amerikano; Amerikanang; Amerikana; Amerikanong	-	Duo	-	-
+TODO	lexeme	welcoming	maalaga; maalagang	-	Duo	-	-
+TODO	lexeme	myth	mito	-	Duo	-	-
+TODO	lexeme	diverse	iba't iba	-	Duo	-	-
+TODO	lexeme	conclusion	kongklusyon	-	Duo	-	-
+TODO	lexeme	assume	akalain; ipalagay; aakalahin; inaakala; sa palagay; mag-akala	-	Duo	-	-
+TODO	lexeme	cheerleader	tagapagsigaw	-	Duo	-	-
+TODO	lexeme	competitive	mapagkumpitensiya	-	Duo	-	-
+TODO	lexeme	necessarily	kinakailangan	-	Duo	-	-
+TODO	lexeme	cliché	gasgas na ideya	-	Duo	-	-
+TODO	lexeme	cowboy	koboy	-	Duo	-	-
+TODO	lexeme	unrealistic	hindi makatotohanan	-	Duo	-	-
+TODO	lexeme	after all	kung tutuusin	-	Duo	-	-
+TODO	lexeme	disagreement	hindi pagkakasundo	-	Duo	-	-
+TODO	lexeme	misunderstand	hindi maintindihan	-	Duo	-	-
+TODO	lexeme	embarrassment	kahihiyan	-	Duo	-	-
+TODO	lexeme	ambitious	mapag-adhika	-	Duo	-	-
+TODO	lexeme	respond	sasagot; sumagot; tumugon; sagutin	-	Duo	-	-
+TODO	lexeme	underestimate	maliitin; minamaliit	-	Duo	-	-
+TODO	lexeme	it turns out that	yun pala	-	Duo	-	-
+TODO	lexeme	philosophy	pilosopiya; kaisipan	-	Duo	-	-
+TODO	lexeme	thesis	disertasyon	-	Duo	-	-
+TODO	lexeme	sitting	nakaupo; pag-upo; umuupo	-	Duo	-	-
+TODO	lexeme	senior	nakatatanda	-	Duo	-	-
+TODO	lexeme	faculty	kaguruan	-	Duo	-	-
+TODO	lexeme	outline	balangkas	-	Duo	-	-
+TODO	lexeme	experiment	eksperimento	-	Duo	-	-
+TODO	lexeme	reference	sanggunian	-	Duo	-	-
+TODO	lexeme	qualified	kwalipikado; angkop	-	Duo	-	-
+TODO	lexeme	in other words	sa ibang salita	-	Duo	-	-
+TODO	lexeme	long-distance	malayong distansya	-	Duo	-	-
+TODO	lexeme	memorable	hindi malilimutan; hindi malilimot	-	Duo	-	-
+TODO	lexeme	trick	dinadaya; daya	-	Duo	-	-
+TODO	lexeme	irresponsible	iresponsable; walang pananagutan	-	Duo	-	-
+TODO	lexeme	housewarming	pagpapainit ng bahay	-	Duo	-	-
+TODO	lexeme	lovely	maganda	-	Duo	-	-
+TODO	lexeme	appealing	kaakit-akit; nakakahumaling	-	Duo	-	-
+TODO	lexeme	homemade	gawang bahay	-	Duo	-	-
+TODO	lexeme	appropriately	maayos; naaayon	-	Duo	-	-
+TODO	lexeme	impressive	kahanga-hanga	-	Duo	-	-
+TODO	lexeme	in style	uso; nauuso	-	Duo	-	-
+TODO	lexeme	unique	natatangi; walang katulad; naiibang	-	Duo	-	-
+TODO	lexeme	sounds	mga tunog	-	Duo	-	-
+TODO	lexeme	decline	tanggi	-	Duo	-	-
+TODO	lexeme	retirement	pagreretiro	-	Duo	-	-
+TODO	lexeme	unacceptable	hindi katanggap-tanggap	-	Duo	-	-
+TODO	lexeme	that reminds me	naalala ko	-	Duo	-	-
+TODO	lexeme	shift	palitan	-	Duo	-	-
+TODO	lexeme	let go	pinakawalan	-	Duo	-	-
+TODO	lexeme	unreliable	hindi maaasahan	-	Duo	-	-
+TODO	lexeme	strategy	estratehiya	-	Duo	-	-
+TODO	lexeme	cooperate	makipagtulungan; nagtutulungan; pakikipagtulungan	-	Duo	-	-
+TODO	lexeme	in the long run	sa katagalan	-	Duo	-	-
+TODO	lexeme	what if	paano kung	-	Duo	-	-
+TODO	lexeme	inquire	tanungin; magtanong; makibalita	-	Duo	-	-
+TODO	lexeme	tablecloth	mantel	-	Duo	-	-
+TODO	lexeme	interact	makipag-ugnayan	-	Duo	-	-
+TODO	lexeme	reception	pagtanggap; resepsiyon	-	Duo	-	-
+TODO	lexeme	in honor of	sa karangalan ni	-	Duo	-	-
+TODO	lexeme	bouquet	pumpon ng bulaklak; pumpon	-	Duo	-	-
+TODO	lexeme	formal	formal	-	Duo	-	-
+TODO	lexeme	itch	makati; pangangati	-	Duo	-	-
+TODO	lexeme	sweat	pawis; nagpapawis; pawisan	-	Duo	-	-
+TODO	lexeme	as though	para bang	-	Duo	-	-
+TODO	lexeme	weakness	kahinaan; panghihina	-	Duo	-	-
+TODO	lexeme	severe	malala	-	Duo	-	-
+TODO	lexeme	wrap	Balutin	-	Duo	-	-
+TODO	lexeme	suffer	maghirap; nagdudusa; magdusa	-	Duo	-	-
+TODO	lexeme	unconscious	hindi alam	-	Duo	-	-
+TODO	lexeme	vision	pangitain	-	Duo	-	-
+TODO	lexeme	recovery	paggaling	-	Duo	-	-
+TODO	lexeme	wound	sugat	-	Duo	-	-
+TODO	lexeme	cautious	napakaingat	-	Duo	-	-
+TODO	lexeme	brick	ladrilyo	-	Duo	-	-
+TODO	lexeme	leak	tagas	-	Duo	-	-
+TODO	lexeme	plumbing	pagtutubero	-	Duo	-	-
+TODO	lexeme	concerning	nakababahala; pagkabahala	-	Duo	-	-
+TODO	lexeme	maintenance	pagpapanatili	-	Duo	-	-
+TODO	lexeme	extend	palalawakin; pinapalawak; palawakin	-	Duo	-	-
+TODO	lexeme	construction	konstruksiyon	-	Duo	-	-
+TODO	lexeme	clogged	barado	-	Duo	-	-
+TODO	lexeme	crack	bitak	-	Duo	-	-
+TODO	lexeme	collapse	gumuho	-	Duo	-	-
+TODO	lexeme	damp	mamasa-masa	-	Duo	-	-
+TODO	lexeme	investment	pamumuhunan; puhunan	-	Duo	-	-
+TODO	lexeme	relieved	guminhawa; gumaan ang loob	-	Duo	-	-
+TODO	lexeme	admittedly	tinatanggap na	-	Duo	-	-
+TODO	lexeme	yell	sigawan; sigaw; sumigaw	-	Duo	-	-
+TODO	lexeme	practically	halos	-	Duo	-	-
+TODO	lexeme	a whole lot	isang buong marami	-	Duo	-	-
+TODO	lexeme	offensive	nakakainsulto; nakakasama	-	Duo	-	-
+TODO	lexeme	frustration	pagkabigo	-	Duo	-	-
+TODO	lexeme	ridiculous	katawa-tawa	-	Duo	-	-
+TODO	lexeme	understandable	maiintindihan	-	Duo	-	-
+TODO	lexeme	agreement	kasunduan; usapan; pagkakasundo	-	Duo	-	-
+TODO	lexeme	therapy	terapiya	-	Duo	-	-
+TODO	lexeme	unreasonable	hindi makatwiran	-	Duo	-	-
+TODO	lexeme	envy	naiinggit; inggit	-	Duo	-	-
+TODO	lexeme	eventually	sa katapusan	-	Duo	-	-
+TODO	lexeme	legend	alamat	-	Duo	-	-
+TODO	lexeme	journey	paglalakbay	-	Duo	-	-
+TODO	lexeme	beyond	lumalampas; lampas	-	Duo	-	-
+TODO	lexeme	mysterious	mahiwaga	-	Duo	-	-
+TODO	lexeme	approach	nilalapitan; lapitan	-	Duo	-	-
+TODO	lexeme	sword	sable; tabak; espalda	-	Duo	-	-
+TODO	lexeme	magical	mahiwaga; mahikang	-	Duo	-	-
+TODO	lexeme	arrow	pana	-	Duo	-	-
+TODO	lexeme	evil	kasamaan	-	Duo	-	-
+TODO	lexeme	fate	kapalaran	-	Duo	-	-
+TODO	lexeme	strength	kalakasan; lakas; tibay	-	Duo	-	-
+TODO	lexeme	treasure	kayamanan	-	Duo	-	-
+TODO	lexeme	instantly	agad	-	Duo	-	-
+TODO	lexeme	tale	Alamat; kuwento	-	Duo	-	-
+TODO	lexeme	bury	ilibing	-	Duo	-	-
+TODO	lexeme	nevertheless	gayunpaman	-	Duo	-	-
+TODO	lexeme	one by one	isa-isa	-	Duo	-	-
+TODO	lexeme	just as	tulad ng	-	Duo	-	-
+TODO	lexeme	pretend	magkunwaring; nagkukunwari	-	Duo	-	-
+TODO	lexeme	significant	mahalaga	-	Duo	-	-
+TODO	lexeme	initially	sa simula	-	Duo	-	-
+TODO	lexeme	period	panahon	-	Duo	-	-
+TODO	lexeme	truly	tunay	-	Duo	-	-
+TODO	lexeme	affect	nakakaapekto; makaapekto; ay nakakaapekto	-	Duo	-	-
+TODO	lexeme	maintain	mapapanatili; mapanatili	-	Duo	-	-
+TODO	lexeme	internal	panloob	-	Duo	-	-
+TODO	lexeme	rush	nagmamadali; minamadali; madalian	-	Duo	-	-
+TODO	lexeme	struggle	paghihirap	-	Duo	-	-
+TODO	lexeme	forward	pasulong	-	Duo	-	-
+TODO	lexeme	swear	sinusumpa	-	Duo	-	-
+TODO	lexeme	odd	kakaiba	-	Duo	-	-
+TODO	lexeme	claim	angkin; inaangkin; angkinin	-	Duo	-	-
+TODO	lexeme	clue	bakas	-	Duo	-	-
+TODO	lexeme	awkward	nakakahiya; masagwa	-	Duo	-	-
+TODO	lexeme	suspend	suspendihin	-	Duo	-	-
+TODO	lexeme	minor	maliit	-	Duo	-	-
+TODO	lexeme	obsession	pagkahumaling	-	Duo	-	-
+TODO	lexeme	astonished	ginulat; nagulat; gumulat	-	Duo	-	-
+TODO	lexeme	abandon	iwan	-	Duo	-	-
+TODO	lexeme	peculiar	kakaiba; kakaibang	-	Duo	-	-
+TODO	lexeme	crawl	gapang; gumagapang	-	Duo	-	-
+TODO	lexeme	sensation	sensasyon	-	Duo	-	-
+TODO	lexeme	chimney	tsimineya	-	Duo	-	-
+TODO	lexeme	panic	biglang kilos; pagkagulat; biglang takot	-	Duo	-	-
+TODO	lexeme	winding	paliku-liko; paikot-ikot	-	Duo	-	-
+TODO	lexeme	spirit	kaluluwa; espiritu	-	Duo	-	-
+TODO	lexeme	skeleton	kalansay	-	Duo	-	-
+TODO	lexeme	haunted	pinagmumultuhan	-	Duo	-	-
+TODO	lexeme	driveway	daanan	-	Duo	-	-
+TODO	lexeme	constantly	tuloy-tuloy	-	Duo	-	-
+TODO	lexeme	bizarre	kakaiba	-	Duo	-	-
+TODO	lexeme	ruin	sira; sinisira	-	Duo	-	-
+TODO	lexeme	endless	walang hanggan	-	Duo	-	-
+TODO	lexeme	privacy	pagkapribado	-	Duo	-	-
+TODO	lexeme	fire department	kagawaran ng bumbero	-	Duo	-	-
+TODO	lexeme	mailbox	kahon ng liham	-	Duo	-	-
+TODO	lexeme	frankly	deretsahan	-	Duo	-	-
+TODO	lexeme	a piece of	isang piraso	-	Duo	-	-
+TODO	lexeme	outrageous	mapangahas	-	Duo	-	-
+TODO	lexeme	upbringing	pagpapalaki; pagkabata	-	Duo	-	-
+TODO	lexeme	debt	utang; atraso	-	Duo	-	-
+TODO	lexeme	savings	mga ipon; ipon	-	Duo	-	-
+TODO	lexeme	determined	disidido; determinado	-	Duo	-	-
+TODO	lexeme	trap	bitag	-	Duo	-	-
+TODO	lexeme	impact	epekto	-	Duo	-	-
+TODO	lexeme	reflect	nagninilay; magnilay; muni; magmuni	-	Duo	-	-
+TODO	lexeme	consequently	bilang resulta; kaya naman	-	Duo	-	-
+TODO	lexeme	miserable	kahabag-habag	-	Duo	-	-
+TODO	lexeme	productive	produktibo	-	Duo	-	-
+TODO	lexeme	irritated	nairita; nainis; ininis; naiirita	-	Duo	-	-
+TODO	lexeme	patience	pasensya	-	Duo	-	-
+TODO	lexeme	living	pagtira; buhay; tinitirhan	-	Duo	-	-
+TODO	lexeme	courage	lakas ng loob	-	Duo	-	-
+TODO	lexeme	poison	lason	-	Duo	-	-
+TODO	lexeme	deceive	lokohin; niloloko	-	Duo	-	-
+TODO	lexeme	dramatic	madrama; pandula	-	Duo	-	-
+TODO	lexeme	orphan	ulila	-	Duo	-	-
+TODO	lexeme	affair	relasyon	-	Duo	-	-
+TODO	lexeme	reveal	ibunyag; ibinubunyag	-	Duo	-	-
+TODO	lexeme	villain	kontrabida	-	Duo	-	-
+TODO	lexeme	cemetery	sementeryo	-	Duo	-	-
+TODO	lexeme	anyhow	sa anumang paraan; gayumpaman	-	Duo	-	-
+TODO	lexeme	loyal	tapat	-	Duo	-	-
+TODO	lexeme	rewatch	panoorin muli; pinapanuod muli	-	Duo	-	-
+TODO	lexeme	reaction	reaksyon	-	Duo	-	-
+TODO	lexeme	threaten	nagbanta; pagbabanta	-	Duo	-	-
+TODO	lexeme	greedy	sakim	-	Duo	-	-
+TODO	lexeme	investigate	imbestigahan; iniimbestigahan	-	Duo	-	-
+TODO	lexeme	shipwreck	pagkawasak ng barko	-	Duo	-	-
+TODO	lexeme	faulty	may sira	-	Duo	-	-
+TODO	lexeme	shelter	kanlungan	-	Duo	-	-
+TODO	lexeme	crab	alimango; talangka; alimasag; alimangong	-	Duo	-	-
+TODO	lexeme	injured	sugatan	-	Duo	-	-
+TODO	lexeme	native	katutubo	-	Duo	-	-
+TODO	lexeme	concern	pangamba; pakialam	-	Duo	-	-
+TODO	lexeme	hurricane	bagyo	-	Duo	-	-
+TODO	lexeme	deadly	nakamamatay	-	Duo	-	-
+TODO	lexeme	rope	lubid	-	Duo	-	-
+TODO	lexeme	aircraft	eroplanong; eroplano	-	Duo	-	-
+TODO	lexeme	encounter	nakasalamuha; maharap; matagpuan; makatagpo	-	Duo	-	-
+TODO	lexeme	survive	mabuhay; malampasan; makaligtas	-	Duo	-	-
+TODO	lexeme	circumstance	pangyayari	-	Duo	-	-
+TODO	lexeme	suffering	nagdudurusa; pagdurusa	-	Duo	-	-
+TODO	lexeme	suspicion	hinala	-	Duo	-	-
+TODO	lexeme	propose	mungkahi; iminumungkahi; nagmumungkahi; magmungkahi	-	Duo	-	-
+TODO	lexeme	confess	pagkumpisal; pag-amin	-	Duo	-	-
+TODO	lexeme	accuse	pag-akusa	-	Duo	-	-
+TODO	lexeme	point of view	kuro; punto de-bista; tanaw; pananaw	-	Duo	-	-
+TODO	lexeme	approval	pag-aproba	-	Duo	-	-
+TODO	lexeme	doubtful	nag-aalinlangan	-	Duo	-	-
+TODO	lexeme	consideration	konsiderasyon; isaalang-alang	-	Duo	-	-
+TODO	lexeme	valid	wasto; tunay	-	Duo	-	-
+TODO	lexeme	breakup	hiwalayan	-	Duo	-	-
+TODO	lexeme	toxic	nakalalason	-	Duo	-	-
+TODO	lexeme	cheer	magsaya; galak	-	Duo	-	-
+TODO	lexeme	tray	bandeha	-	Duo	-	-
+TODO	lexeme	calculator	kalkulador; calculator	-	Duo	-	-
+TODO	lexeme	tough	mahirap	-	Duo	-	-
+TODO	lexeme	dip	sawsaw; mga sawsawan	-	Duo	-	-
+TODO	lexeme	governor	gobernador; puno ng lalawigan; tagapamahala; punong-lalawigan	-	Duo	-	-
+TODO	lexeme	insult	insulto	-	Duo	-	-
+TODO	lexeme	genuine	totoo; tapat; tunay	-	Duo	-	-
+TODO	lexeme	sorry about that	pasensya na	-	Duo	-	-
+TODO	lexeme	sensitive	madamdamin	-	Duo	-	-
+TODO	lexeme	expectation	inaasahan	-	Duo	-	-
+TODO	lexeme	negotiate	makikipag-negosyo; makikipagkasunduan	-	Duo	-	-
+TODO	lexeme	duty	tungkulin	-	Duo	-	-
+TODO	lexeme	either of	alinman sa	-	Duo	-	-
+TODO	lexeme	no worries	huwag mag-alala	-	Duo	-	-
+TODO	lexeme	contribute	mag-ambag; magbigay; mag-aambag	-	Duo	-	-
+TODO	lexeme	brief	maikli	-	Duo	-	-
+TODO	lexeme	certified	sertipikado	-	Duo	-	-
+TODO	lexeme	possibility	posibilidad	-	Duo	-	-
+TODO	lexeme	submit	Ipasa	-	Duo	-	-
+TODO	lexeme	capacity	kakayahan	-	Duo	-	-
+TODO	lexeme	management	pamamahala	-	Duo	-	-
+TODO	lexeme	vanish	nawala; nawawala	-	Duo	-	-
+TODO	lexeme	chew	ngumuya; ngumunguya; nguyain	-	Duo	-	-
+TODO	lexeme	gum	chewing gum	-	Duo	-	-
+TODO	lexeme	rip	pinunit; masisira; mapupunit	-	Duo	-	-
+TODO	lexeme	microwave	initan ng pagkain	-	Duo	-	-
+TODO	lexeme	tolerate	pagpaparaya; pagtitiis	-	Duo	-	-
+TODO	lexeme	my apologies	paumanhin ko	-	Duo	-	-
+TODO	lexeme	superhero	bayani	-	Duo	-	-
+TODO	lexeme	superpower	kapangyarihan	-	Duo	-	-
+TODO	lexeme	tail	buntot	-	Duo	-	-
+TODO	lexeme	wolf	lobo	-	Duo	-	-
+TODO	lexeme	feather	balahibo; pabong	-	Duo	-	-
+TODO	lexeme	suspicious	kahina-hinala	-	Duo	-	-
+TODO	lexeme	chase	hinahabol; habol	-	Duo	-	-
+TODO	lexeme	punch	Suntukin	-	Duo	-	-
+TODO	lexeme	violent	marahas	-	Duo	-	-
+TODO	lexeme	sequel	karugtong	-	Duo	-	-
+TODO	lexeme	wealthy	mayaman; mayamang; mayayamang	-	Duo	-	-
+TODO	lexeme	boost	palakas	-	Duo	-	-
+TODO	lexeme	nor	o	-	Duo	-	-
+TODO	lexeme	toenail	kuko	-	Duo	-	-
+TODO	lexeme	artificial	huwad	-	Duo	-	-
+TODO	lexeme	confidence	kumpiyansa	-	Duo	-	-
+TODO	lexeme	snore	naghihilik; hilik; humihilik	-	Duo	-	-
+TODO	lexeme	biggest	pinakamalaki	-	Duo	-	-
+TODO	lexeme	magic	mahika; salamangka	-	Duo	-	-
+TODO	lexeme	smelly	mabaho; namamaho; masangsang	-	Duo	-	-
+TODO	lexeme	impress	hinahanga	-	Duo	-	-
+TODO	lexeme	thermometer	termometro	-	Duo	-	-
+TODO	lexeme	purchase	bilhin; pagbili	-	Duo	-	-
+TODO	lexeme	fortune	kayamanan	-	Duo	-	-
+TODO	lexeme	otherwise	o kaya; kung hindi	-	Duo	-	-
+TODO	lexeme	functional	gumagana	-	Duo	-	-
+TODO	lexeme	might you	baka ikaw	-	Duo	-	-
+TODO	lexeme	wondering	nagtataka; pagtaka	-	Duo	-	-
+TODO	lexeme	inconvenient	nakakasagabal	-	Duo	-	-
+TODO	lexeme	would you consider	isasaalang-alang mo ba	-	Duo	-	-
+TODO	lexeme	unlock	magbukas; buksan; pakibukasan	-	Duo	-	-
+TODO	lexeme	rearrange	muling pag-ayos; ayusin; baguhin	-	Duo	-	-
+TODO	lexeme	persuade	hinikayat; hinimok; inudyukan	-	Duo	-	-
+TODO	lexeme	gardening	paghahalaman	-	Duo	-	-
+TODO	lexeme	alternatively	bilang kahalili	-	Duo	-	-
+TODO	lexeme	hesitate	mag-atubili	-	Duo	-	-
+TODO	lexeme	thoughtful	maaalalahanin	-	Duo	-	-
+TODO	lexeme	policy	patakaran	-	Duo	-	-
+TODO	lexeme	waterproof	hindi nababasa	-	Duo	-	-
+TODO	lexeme	service	serbisyo; paglilingkod; serbisyong; service	-	Duo	-	-
+TODO	lexeme	supervisor	superbisor; tagapamahala	-	Duo	-	-
+TODO	lexeme	guarantee	kasiguraduhan	-	Duo	-	-
+TODO	lexeme	defective	may mga mali	-	Duo	-	-
+TODO	lexeme	unavailable	hindi puwede; hindi makukuha	-	Duo	-	-
+TODO	lexeme	sticker	etiketa	-	Duo	-	-
+TODO	lexeme	proof of purchase	patunay ng pagbili	-	Duo	-	-
+TODO	lexeme	process	prosesong; proseso	-	Duo	-	-
+TODO	lexeme	useless	walang halaga; walang silbi	-	Duo	-	-
+TODO	lexeme	satisfaction	Kasiyahan	-	Duo	-	-
+TODO	lexeme	fascinating	kagila-gilalas	-	Duo	-	-
+TODO	lexeme	deer	usa	-	Duo	-	-
+TODO	lexeme	go away	mawala; lumayo	-	Duo	-	-
+TODO	lexeme	medal	medalya; medalyang	-	Duo	-	-
+TODO	lexeme	neighboring	kalapit	-	Duo	-	-
+TODO	lexeme	incident	insidente	-	Duo	-	-
+TODO	lexeme	lifeguard	tagasagip	-	Duo	-	-
+TODO	lexeme	bravery	tapang	-	Duo	-	-
+TODO	lexeme	lifetime	habang buhay	-	Duo	-	-
+TODO	lexeme	rhythm	ritmo	-	Duo	-	-
+TODO	lexeme	songwriter	manunulat ng awit	-	Duo	-	-
+TODO	lexeme	release	Kawalan; Ilabas	-	Duo	-	-
+TODO	lexeme	electronic	elektronikong; elektroniko	-	Duo	-	-
+TODO	lexeme	worldwide	pandaigdig	-	Duo	-	-
+TODO	lexeme	alternative	alternatibo; kahalili	-	Duo	-	-
+TODO	lexeme	in my eyes	sa paningin ko 	-	Duo	-	-
+TODO	lexeme	influential	maimpluwensiya; makapangyarihang; makapangyarihan	-	Duo	-	-
+TODO	lexeme	profit	kita	-	Duo	-	-
+TODO	lexeme	investor	mamumuhunan	-	Duo	-	-
+TODO	lexeme	data	mga datos	-	Duo	-	-
+TODO	lexeme	rise	taas	-	Duo	-	-
+TODO	lexeme	slightly	bahagya	-	Duo	-	-
+TODO	lexeme	by the end of	sa katapusan ng	-	Duo	-	-
+TODO	lexeme	steady	tatag	-	Duo	-	-
+TODO	lexeme	accessible	napapasok	-	Duo	-	-
+TODO	lexeme	vegan	Vegan	-	Duo	-	-
+TODO	lexeme	entrepreneur	negosyante	-	Duo	-	-
+TODO	lexeme	gradually	unti-unti	-	Duo	-	-
+TODO	lexeme	nationwide	pangbuong-bansa	-	Duo	-	-
+TODO	lexeme	strike	welga	-	Duo	-	-
+TODO	lexeme	union	samahan	-	Duo	-	-
+TODO	lexeme	unlike	hindi tulad; hindi katulad	-	Duo	-	-
+TODO	lexeme	gender	kasarian	-	Duo	-	-
+TODO	lexeme	equality	pagkakapantay-pantay	-	Duo	-	-
+TODO	lexeme	likewise	gayundin	-	Duo	-	-
+TODO	lexeme	in contrast	sa kaibahan	-	Duo	-	-
+TODO	lexeme	lifestyle	pamumuhay	-	Duo	-	-
+TODO	lexeme	urban	lungsod	-	Duo	-	-
+TODO	lexeme	rural	rural	-	Duo	-	-
+TODO	lexeme	prevention	pag-iwas	-	Duo	-	-
+TODO	lexeme	method	metodo; paraan; metodong	-	Duo	-	-
+TODO	lexeme	breakthrough	tagumpay	-	Duo	-	-
+TODO	lexeme	decade	dekada	-	Duo	-	-
+TODO	lexeme	nonsense	walang kuwenta	-	Duo	-	-
+TODO	lexeme	halftime	kalahating oras	-	Duo	-	-
+TODO	lexeme	cooler	palamigan	-	Duo	-	-
+TODO	lexeme	quarter	kuwarter; labinlimang minuto; sangkapat; mag-labinlimang minuto	-	Duo	-	-
+TODO	lexeme	referee	reperi	-	Duo	-	-
+TODO	lexeme	foul	labang	-	Duo	-	-
+TODO	lexeme	whistle	pito	-	Duo	-	-
+TODO	lexeme	witness	saksi	-	Duo	-	-
+TODO	lexeme	defendant	nasasakdal	-	Duo	-	-
+TODO	lexeme	judge	hukom; tagahatol; huwes	-	Duo	-	-
+TODO	lexeme	it was	itong; naging	-	Duo	-	-
+TODO	lexeme	accusation	paratang; akusasyon	-	Duo	-	-
+TODO	lexeme	evidence	ebidensiya; katibayan; patunay	-	Duo	-	-
+TODO	lexeme	alibi	palusot; dahilan	-	Duo	-	-
+TODO	lexeme	victim	biktima	-	Duo	-	-
+TODO	lexeme	client	kliyente	-	Duo	-	-
+TODO	lexeme	let's remember that	tandaan natin iyan	-	Duo	-	-
+TODO	lexeme	probation	probasyon	-	Duo	-	-
+TODO	lexeme	scam	panloloko	-	Duo	-	-
+TODO	lexeme	ban	pinagbabawal	-	Duo	-	-
+TODO	lexeme	fake	peke	-	Duo	-	-
+TODO	lexeme	misleading	nakaliligaw; nakalilitong	-	Duo	-	-
+TODO	lexeme	spam	Spam	-	Duo	-	-
+TODO	lexeme	furious	galit na galit	-	Duo	-	-
+TODO	lexeme	desperate	desperado; gipit; desperadong	-	Duo	-	-
+TODO	lexeme	dishonest	hindi tapat	-	Duo	-	-
+TODO	lexeme	gullible	mapaniwalain	-	Duo	-	-
+TODO	lexeme	considerable	malaki	-	Duo	-	-
+TODO	lexeme	pathetic	kaawa-awa; kahabag-habag	-	Duo	-	-
+TODO	lexeme	hassle	abala; gulo	-	Duo	-	-
+TODO	lexeme	unhelpful	hindi nakakatulong	-	Duo	-	-
+TODO	lexeme	so-called	kung tawagin ay	-	Duo	-	-
+TODO	lexeme	venue	lugar	-	Duo	-	-
+TODO	lexeme	committee	komite	-	Duo	-	-
+TODO	lexeme	seating	upuan	-	Duo	-	-
+TODO	lexeme	tricky	nakakalito	-	Duo	-	-
+TODO	lexeme	theme	tema	-	Duo	-	-
+TODO	lexeme	unpopular	hindi sikat	-	Duo	-	-
+TODO	lexeme	lobster	ulang	-	Duo	-	-
+TODO	lexeme	catering	pagtutustos ng pagkain	-	Duo	-	-
+TODO	lexeme	for nothing	para sa wala	-	Duo	-	-
+TODO	lexeme	in the end	sa wakas	-	Duo	-	-
+TODO	lexeme	ideal	uliran	-	Duo	-	-
+TODO	lexeme	appreciation	pagpapahalaga	-	Duo	-	-
+TODO	lexeme	motive	motibo	-	Duo	-	-
+TODO	lexeme	disguise	magbalatkayo; nagbabalatkayo; nagkukubli	-	Duo	-	-
+TODO	lexeme	fingerprint	daliri ng palad	-	Duo	-	-
+TODO	lexeme	weapon	armas; sandata	-	Duo	-	-
+TODO	lexeme	gang	barkada; samahan	-	Duo	-	-
+TODO	lexeme	suspect	pinaghihinalaan	-	Duo	-	-
+TODO	lexeme	considering	pagsasaalang-alang	-	Duo	-	-
+TODO	lexeme	bullet	bala	-	Duo	-	-
+TODO	lexeme	footprint	bakas ng paa	-	Duo	-	-
+TODO	lexeme	crucial	napakamahalaga	-	Duo	-	-
+TODO	lexeme	distract	iligaw; nagpapaligaw; malito	-	Duo	-	-
+TODO	lexeme	justice	hustisya	-	Duo	-	-
+TODO	lexeme	s'mores	s'mores	-	Duo	-	-
+TODO	lexeme	marshmallow	marshmallow	-	Duo	-	-
+TODO	lexeme	werewolf	taong lobo	-	Duo	-	-
+TODO	lexeme	darkness	kadiliman	-	Duo	-	-
+TODO	lexeme	cliffhanger	bitin	-	Duo	-	-
+TODO	lexeme	goosebumps	kinilabutan; tindig-balahibo	-	Duo	-	-
+TODO	lexeme	hanging	nakabitin	-	Duo	-	-
+TODO	lexeme	Bigfoot	malaking paa	-	Duo	-	-
+TODO	lexeme	squirrel	ardilya	-	Duo	-	-
+TODO	lexeme	racing	pagkarera	-	Duo	-	-
+TODO	lexeme	spooky	nakatatakot	-	Duo	-	-
+TODO	lexeme	values	mga saysay	-	Duo	-	-
+TODO	lexeme	agriculture	agrikultura	-	Duo	-	-
+TODO	lexeme	hardworking	masipag	-	Duo	-	-
+TODO	lexeme	conventional	nakasanayan	-	Duo	-	-
+TODO	lexeme	adjust	isaayos	-	Duo	-	-
+TODO	lexeme	laundromat	labahan	-	Duo	-	-
+TODO	lexeme	surroundings	mga kapaligiran	-	Duo	-	-
+TODO	lexeme	artistic	masining; artistiko	-	Duo	-	-
+TODO	lexeme	uncertain	alanganin	-	Duo	-	-
+TODO	lexeme	gigantic	lubhang malaki	-	Duo	-	-
+TODO	lexeme	packed	naempake; naiimpake; puno; naeempake	-	Duo	-	-
+TODO	lexeme	temporarily	panandaliang; pansamantalang	-	Duo	-	-
+TODO	lexeme	requirement	rekisito; kinakailangan; kahingian	-	Duo	-	-
+TODO	lexeme	wristband	pulseras	-	Duo	-	-
+TODO	lexeme	hail	yelong ulan	-	Duo	-	-
+TODO	lexeme	all of a sudden	sa isang iglap	-	Duo	-	-
+TODO	lexeme	behavior	pagkilos; kinikilos	-	Duo	-	-
+TODO	lexeme	plumber	tubero	-	Duo	-	-
+TODO	lexeme	divide	Hahatiin; hatiin	-	Duo	-	-
+TODO	lexeme	belongings	mga gamit	-	Duo	-	-
+TODO	lexeme	equally	pantay-pantay	-	Duo	-	-
+TODO	lexeme	audition	awdisyon; pag-awdisyon	-	Duo	-	-
+TODO	lexeme	production	produksiyon	-	Duo	-	-
+TODO	lexeme	script	iskrip	-	Duo	-	-
+TODO	lexeme	rehearsal	ensayo	-	Duo	-	-
+TODO	lexeme	impressed	humanga	-	Duo	-	-
+TODO	lexeme	highly	nang lubhang	-	Duo	-	-
+TODO	lexeme	stage fright	takot sa entablado	-	Duo	-	-
+TODO	lexeme	critic	kritiko	-	Duo	-	-
+TODO	lexeme	spotlight	tanglaw	-	Duo	-	-
+TODO	lexeme	pretty sure	sigurado	-	Duo	-	-
+TODO	lexeme	limo	limo	-	Duo	-	-
+TODO	lexeme	confirmation	kumpirmasyon	-	Duo	-	-
+TODO	lexeme	pose	Mag-pose	-	Duo	-	-
+TODO	lexeme	crown	korona	-	Duo	-	-
+TODO	lexeme	chaperone	tagabantay	-	Duo	-	-
+TODO	lexeme	stunning	nakamamangha	-	Duo	-	-
+TODO	lexeme	afterwards	pagkatapos	-	Duo	-	-
+TODO	lexeme	permanently	ng tuluyan	-	Duo	-	-
+TODO	lexeme	warmth	init	-	Duo	-	-
+TODO	lexeme	any time	anumang oras	-	Duo	-	-
+TODO	lexeme	occasionally	paminsan-minsan	-	Duo	-	-
+TODO	lexeme	passion	hilig	-	Duo	-	-
+TODO	lexeme	potentially	maaari	-	Duo	-	-
+TODO	lexeme	thinking of	Iniisip	-	Duo	-	-
+TODO	lexeme	accommodations	mga akomodasyon	-	Duo	-	-
+TODO	lexeme	in order to	nang sa gayon	-	Duo	-	-
+TODO	lexeme	considerably	masyado; lubha	-	Duo	-	-
+TODO	lexeme	alternate	kahalili; alternatibo	-	Duo	-	-
+TODO	lexeme	sensible	makatwirang; maingat; pinakamakatwirang	-	Duo	-	-
+TODO	lexeme	preference	kagustuhan	-	Duo	-	-
+TODO	lexeme	slight	bahagya	-	Duo	-	-
+TODO	lexeme	roughly	humigit-kumulang	-	Duo	-	-
+TODO	lexeme	original	orihinal	-	Duo	-	-
+TODO	lexeme	from now	mula ngayon	-	Duo	-	-
+TODO	lexeme	advertising	pagpapatalastas; pag-aanunsyo	-	Duo	-	-
+TODO	lexeme	goods	paninda	-	Duo	-	-
+TODO	lexeme	rewarding	may halaga; makabuluhan; nakakasaya	-	Duo	-	-
+TODO	lexeme	estimate	tinitiyak	-	Duo	-	-
+TODO	lexeme	for the better	para sa ikabubuti	-	Duo	-	-
+TODO	lexeme	next chapter	sunod na kabanata	-	Duo	-	-
+TODO	lexeme	specific	partikular	-	Duo	-	-
+TODO	lexeme	wants to	Gusto; Gusto niyang	-	Duo	-	-
+TODO	lexeme	dominoes	mga domino	-	Duo	-	-
+TODO	lexeme	fond of	mahilig	-	Duo	-	-
+TODO	lexeme	whichever	alinman	-	Duo	-	-
+TODO	lexeme	junk	basura	-	Duo	-	-
+TODO	lexeme	restore	ibalik; ibabalik; ibinabalik	-	Duo	-	-
+TODO	lexeme	fur	mabalahibo	-	Duo	-	-
+TODO	lexeme	lid	takip	-	Duo	-	-
+TODO	lexeme	unwanted	hindi gusto; hindi kaibig-ibig	-	Duo	-	-
+TODO	lexeme	deal	pakikitungo	-	Duo	-	-
+TODO	lexeme	a steal	isang pagnanakaw	-	Duo	-	-
+TODO	lexeme	resolution	resolusyon	-	Duo	-	-
+TODO	lexeme	weights	mga pabigat; weights	-	Duo	-	-
+TODO	lexeme	squats	nakasalampak	-	Duo	-	-
+TODO	lexeme	cardio	Kardio	-	Duo	-	-
+TODO	lexeme	injury	pinsala	-	Duo	-	-
+TODO	lexeme	session	sesyon	-	Duo	-	-
+TODO	lexeme	effective	epektibong; epektibo	-	Duo	-	-
+TODO	lexeme	gown	toga	-	Duo	-	-
+TODO	lexeme	sophisticated	sopistikado	-	Duo	-	-
+TODO	lexeme	superb	kahanga-hanga	-	Duo	-	-
+TODO	lexeme	thanks anyway	salamat pa rin	-	Duo	-	-
+TODO	lexeme	mingle	makihalubilo; nakikihalubilo	-	Duo	-	-
+TODO	lexeme	filmmaker	tagagawa ng pelikula	-	Duo	-	-
+TODO	lexeme	surely	walang alinlangan	-	Duo	-	-
+TODO	lexeme	fabulous	hindi kapani-paniwala	-	Duo	-	-
+TODO	lexeme	blinds	mga bulag	-	Duo	-	-
+TODO	lexeme	paper towels	papel na tuwalya	-	Duo	-	-
+TODO	lexeme	scrub	kuskos; kinukuskos	-	Duo	-	-
+TODO	lexeme	household	pambahay	-	Duo	-	-
+TODO	lexeme	professionally	propesyonal	-	Duo	-	-
+TODO	lexeme	in time	sa takdang panahon	-	Duo	-	-
+TODO	lexeme	all in all	Samakatuwid; Suma tutal; Lahat-lahat	-	Duo	-	-
+TODO	lexeme	good enough	sapat na	-	Duo	-	-
+TODO	lexeme	forties	apatnapu	-	Duo	-	-
+TODO	lexeme	going	punta; pagtakbo; papuntang; papunta; sasama; dinala; takbo; pupunta; tatapusin; nagbabakasyon; pumunta; magkakaroon; pumaroon; pagpunta; pumupunta; magpupunta; paparoon	-	Duo	-	-
+TODO	lexeme	things	ang mga bagay; mga bagay; ng mga bagay; bagay; mga gamit	-	Duo	-	-
+TODO	lexeme	overseas	sa ibang bansa	-	Duo	-	-
+TODO	lexeme	loving	pagmahal	-	Duo	-	-
+TODO	lexeme	kindergarten	kindergarten	-	Duo	-	-
+TODO	lexeme	expecting	umaasa; inaasahan	-	Duo	-	-
+TODO	lexeme	liking	pagkagusto	-	Duo	-	-
+TODO	lexeme	compliment	papuri	-	Duo	-	-
+TODO	lexeme	overall	sa pangkalahatan	-	Duo	-	-
+TODO	lexeme	observation	obserbasyon	-	Duo	-	-
+TODO	lexeme	potential	kakayahan	-	Duo	-	-
+TODO	lexeme	practical	praktikal	-	Duo	-	-
+TODO	lexeme	obligation	obligasyon	-	Duo	-	-
+TODO	lexeme	corporation	korporasyon	-	Duo	-	-
+TODO	lexeme	efficient	mabisa	-	Duo	-	-
+TODO	lexeme	prior	nakaraan; bago	-	Duo	-	-
+TODO	lexeme	technical	teknikal	-	Duo	-	-
+TODO	lexeme	guidelines	mga patnubay	-	Duo	-	-
+TODO	lexeme	priority	priyoridad	-	Duo	-	-
+TODO	lexeme	target	layunin; layuning	-	Duo	-	-
+TODO	lexeme	trail	ruta	-	Duo	-	-
+TODO	lexeme	canyon	kanyon	-	Duo	-	-
+TODO	lexeme	trekking	Paglalakbay sa kalikasan	-	Duo	-	-
+TODO	lexeme	rafting	pagbalsa ng kahoy	-	Duo	-	-
+TODO	lexeme	provided	binigay; nagbigay; ibinigay	-	Duo	-	-
+TODO	lexeme	attempt	tangka; pagtatangka; pagsubok; nagtangka	-	Duo	-	-
+TODO	lexeme	conditions	mga kondisyon; kalagayan	-	Duo	-	-
+TODO	lexeme	dehydrated	tuyot	-	Duo	-	-
+TODO	lexeme	daylight	madaling araw	-	Duo	-	-
+TODO	lexeme	poisonous	may lason	-	Duo	-	-
+TODO	lexeme	leopard	leopardo	-	Duo	-	-
+TODO	lexeme	summit	tuktok; ibabaw; taluktok	-	Duo	-	-
+TODO	lexeme	picturesque	magandang tanawin; napakaganda	-	Duo	-	-
+TODO	lexeme	gather	magtitipon; magtipon	-	Duo	-	-
+TODO	lexeme	olympic	olimpiko	-	Duo	-	-
+TODO	lexeme	following	sumusunod; sinusundan; susundan	-	Duo	-	-
+TODO	lexeme	anticipated	inaabangan	-	Duo	-	-
+TODO	lexeme	bronze	tanso	-	Duo	-	-
+TODO	lexeme	upcoming	paparating	-	Duo	-	-
+TODO	lexeme	brazilian	taga-Brazil	-	Duo	-	-
+TODO	lexeme	inspiring	inspirasyon; pagbigay ng inspirasyon	-	Duo	-	-
+TODO	lexeme	medalist	medalista	-	Duo	-	-
+TODO	lexeme	podium	entablado	-	Duo	-	-
+TODO	lexeme	determination	determinasyon	-	Duo	-	-
+TODO	lexeme	ultimate	panghuli	-	Duo	-	-
+TODO	lexeme	on the horizon	sa abot-tanaw	-	Duo	-	-
+TODO	lexeme	site	lugar	-	Duo	-	-
+TODO	lexeme	heritage	pamana	-	Duo	-	-
+TODO	lexeme	designed	nagdisenyo; dinisenyo	-	Duo	-	-
+TODO	lexeme	tower	tore; toreng	-	Duo	-	-
+TODO	lexeme	capture	hulihin; nagpapakita	-	Duo	-	-
+TODO	lexeme	portrait	retrato; larawan	-	Duo	-	-
+TODO	lexeme	masterpiece	obra maestra	-	Duo	-	-
+TODO	lexeme	exhibit	eksibit	-	Duo	-	-
+TODO	lexeme	pottery	palayukan	-	Duo	-	-
+TODO	lexeme	noteworthy	kapansin-pansin	-	Duo	-	-
+TODO	lexeme	charm	alindog; karisma	-	Duo	-	-
+TODO	lexeme	monument	monumento; bantayog	-	Duo	-	-
+TODO	lexeme	formerly	nakaraan; dati	-	Duo	-	-
+TODO	lexeme	pyramids	Mga piramid	-	Duo	-	-
+TODO	lexeme	alien	dayuhan	-	Duo	-	-
+TODO	lexeme	ufo	UFO	-	Duo	-	-
+TODO	lexeme	coincidence	nagkataon; pagkakataon	-	Duo	-	-
+TODO	lexeme	classified	kumpidensyal	-	Duo	-	-
+TODO	lexeme	archeologist	arkeologo	-	Duo	-	-
+TODO	lexeme	theory	teorya; paliwanag; kuru-kuro	-	Duo	-	-
+TODO	lexeme	ruins	mga guho; winawasak; sinisira	-	Duo	-	-
+TODO	lexeme	galaxy	galaksiya	-	Duo	-	-
+TODO	lexeme	suppose	ipalagay; ipagpalagay	-	Duo	-	-
+TODO	lexeme	improbable	hindi malamang	-	Duo	-	-
+TODO	lexeme	convinced	kumbinsido; kinumbinsi; nahimok	-	Duo	-	-
+TODO	lexeme	skeptical	kadudaduda	-	Duo	-	-
+TODO	lexeme	magician	mago; salamangkero	-	Duo	-	-
+TODO	lexeme	knot	buhol	-	Duo	-	-
+TODO	lexeme	untie	kalasin	-	Duo	-	-
+TODO	lexeme	gasp	hingal	-	Duo	-	-
+TODO	lexeme	incredibly	hindi kapani-paniwala	-	Duo	-	-
+TODO	lexeme	blindfolded	nakapiring	-	Duo	-	-
+TODO	lexeme	rub	kuskos; nagkikiskis; kinukuskos; kinikiskis	-	Duo	-	-
+TODO	lexeme	handkerchief	Ang panyo; panyo	-	Duo	-	-
+TODO	lexeme	suspenseful	kahalimaw; makabang; nakakakabang	-	Duo	-	-
+TODO	lexeme	precisely	eksakto	-	Duo	-	-
+TODO	lexeme	illusion	ilusyon	-	Duo	-	-
+TODO	lexeme	handcuffs	posas	-	Duo	-	-
+TODO	lexeme	scouts	Mga Scout	-	Duo	-	-
+TODO	lexeme	recess	recess	-	Duo	-	-
+TODO	lexeme	hide and seek	tagu-taguan	-	Duo	-	-
+TODO	lexeme	slide	dulas	-	Duo	-	-
+TODO	lexeme	fond	mahilig	-	Duo	-	-
+TODO	lexeme	reminisce	magbalik-tanaw	-	Duo	-	-
+TODO	lexeme	nostalgic	nagdudulot ng alaala	-	Duo	-	-
+TODO	lexeme	berries	mga berry	-	Duo	-	-
+TODO	lexeme	on my way	sa daan	-	Duo	-	-
+TODO	lexeme	sudden	biglaan	-	Duo	-	-
+TODO	lexeme	long story	mahabang kuwento	-	Duo	-	-
+TODO	lexeme	beneath	sa ilalim	-	Duo	-	-
+TODO	lexeme	dashboard	instrumentong panel	-	Duo	-	-
+TODO	lexeme	pothole	lubak	-	Duo	-	-
+TODO	lexeme	pedal	pidal	-	Duo	-	-
+TODO	lexeme	motor	makina	-	Duo	-	-
+TODO	lexeme	frustrating	nakakabigo	-	Duo	-	-
+TODO	lexeme	in a row	sunud-sunod	-	Duo	-	-
+TODO	lexeme	accomplishment	tagumpay	-	Duo	-	-
+TODO	lexeme	accomplish	tapusin; tinatapos	-	Duo	-	-
+TODO	lexeme	discouraged	pinanghinaan ng loob	-	Duo	-	-
+TODO	lexeme	willpower	katatagan	-	Duo	-	-
+TODO	lexeme	academic	akademiko	-	Duo	-	-
+TODO	lexeme	relief	kaluwagan	-	Duo	-	-
+TODO	lexeme	learner	mag-aaral	-	Duo	-	-
+TODO	lexeme	admirable	kapuri-puri	-	Duo	-	-
+TODO	lexeme	dedicated	nakatuon	-	Duo	-	-
+TODO	lexeme	dedication	dedikasyon	-	Duo	-	-
+TODO	lexeme	lifelong	panghabambuhay; habang buhay	-	Duo	-	-
