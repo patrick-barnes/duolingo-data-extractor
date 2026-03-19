@@ -1,1318 +1,1318 @@
-ID	Context	Foreign	English	Transliteration	Sources	Tip	Debug
-TODO	lexeme	차	tea	-	Duo	-	-
-TODO	lexeme	커피	coffee	-	Duo	-	-
-TODO	lexeme	안녕하세요	hello	-	Duo	-	-
-TODO	lexeme	나	I'm; or; I; me	-	Duo	-	-
-TODO	lexeme	주스	juice	-	Duo	-	-
-TODO	lexeme	랑	and; with	-	Duo	-	-
-TODO	lexeme	주세요	please; please give; please give me; I'd like please; I'd like; give me; give; I'd like it; give us; can I have some please	-	Duo	-	-
-TODO	lexeme	빙수	bingsu	-	Duo	-	-
-TODO	lexeme	케이크	cake	-	Duo	-	-
-TODO	lexeme	감사합니다	thank you	-	Duo	-	-
-TODO	lexeme	예요	is; am; are	-	Duo	-	-
-TODO	lexeme	김치	kimchi	-	Duo	-	-
-TODO	lexeme	두부	tofu	-	Duo	-	-
-TODO	lexeme	제	my	-	Duo	-	-
-TODO	lexeme	잡채	japchae	-	Duo	-	-
-TODO	lexeme	만두	dumpling	-	Duo	-	-
-TODO	lexeme	맛있는	delicious	-	Duo	-	-
-TODO	lexeme	고기	meat	-	Duo	-	-
-TODO	lexeme	찌개	stew	-	Duo	-	-
-TODO	lexeme	뜨거운	hot	-	Duo	-	-
-TODO	lexeme	핸드폰	cell phone	-	Duo	-	-
-TODO	lexeme	새	new	-	Duo	-	-
-TODO	lexeme	이에요	is; am; are	-	Duo	-	-
-TODO	lexeme	가방	bag	-	Duo	-	-
-TODO	lexeme	지갑	wallet	-	Duo	-	-
-TODO	lexeme	책	book	-	Duo	-	-
-TODO	lexeme	하얀색	white	-	Duo	-	-
-TODO	lexeme	무겁다	is heavy	-	Duo	-	-
-TODO	lexeme	볼펜	pen	-	Duo	-	-
-TODO	lexeme	카메라	camera	-	Duo	-	-
-TODO	lexeme	비싼	expensive	-	Duo	-	-
-TODO	lexeme	저	I	-	Duo	-	-
-TODO	lexeme	씨	Mr.; seed; Ms.; (form of address); ssi	-	Duo	-	-
-TODO	lexeme	민준	Minjun's; Minjun	-	Duo	-	-
-TODO	lexeme	보라	Bora; Bora's	-	Duo	-	-
-TODO	lexeme	는	is	-	Duo	-	-
-TODO	lexeme	회사원	company employee	-	Duo	-	-
-TODO	lexeme	의사	doctor	-	Duo	-	-
-TODO	lexeme	선생님	teacher	-	Duo	-	-
-TODO	lexeme	네	yes	-	Duo	-	-
-TODO	lexeme	반가워요	Nice to meet you	-	Duo	-	-
-TODO	lexeme	중국	Chinese; China	-	Duo	-	-
-TODO	lexeme	사람	person	-	Duo	-	-
-TODO	lexeme	한국	Korea	-	Duo	-	-
-TODO	lexeme	미국	USA; American; us	-	Duo	-	-
-TODO	lexeme	아니요	no	-	Duo	-	-
-TODO	lexeme	서른	thirty	-	Duo	-	-
-TODO	lexeme	살	buy; get; purchase; live; pick up	-	Duo	-	-
-TODO	lexeme	몇	a few; how many; which; what; some	-	Duo	-	-
-TODO	lexeme	친구	friend	-	Duo	-	-
-TODO	lexeme	열아홉	nineteen	-	Duo	-	-
-TODO	lexeme	야옹	Meow's; Meow	-	Duo	-	-
-TODO	lexeme	다섯	five	-	Duo	-	-
-TODO	lexeme	회색	grey	-	Duo	-	-
-TODO	lexeme	고양이	cat	-	Duo	-	-
-TODO	lexeme	은	silver; is	-	Duo	-	-
-TODO	lexeme	배고파요	hungry; are hungry	-	Duo	-	-
-TODO	lexeme	음식	food	-	Duo	-	-
-TODO	lexeme	어때요	How about	-	Duo	-	-
-TODO	lexeme	매운	spicy	-	Duo	-	-
-TODO	lexeme	사장님	boss; owner	-	Duo	-	-
-TODO	lexeme	갈비탕	galbitang	-	Duo	-	-
-TODO	lexeme	라면	ramyeon	-	Duo	-	-
-TODO	lexeme	이것	this	-	Duo	-	-
-TODO	lexeme	밥	rice	-	Duo	-	-
-TODO	lexeme	떡볶이	tteokbokki	-	Duo	-	-
-TODO	lexeme	단	sweet	-	Duo	-	-
-TODO	lexeme	이랑	and; with	-	Duo	-	-
-TODO	lexeme	버블티	bubble tea	-	Duo	-	-
-TODO	lexeme	빵	bread	-	Duo	-	-
-TODO	lexeme	생일	birthday	-	Duo	-	-
-TODO	lexeme	오늘	today	-	Duo	-	-
-TODO	lexeme	의	's; of; s'; ’s	-	Duo	-	-
-TODO	lexeme	여동생	younger sister	-	Duo	-	-
-TODO	lexeme	열다섯	fifteen	-	Duo	-	-
-TODO	lexeme	선물	gift	-	Duo	-	-
-TODO	lexeme	시계	watch	-	Duo	-	-
-TODO	lexeme	목걸이	necklace	-	Duo	-	-
-TODO	lexeme	귀여운	cute	-	Duo	-	-
-TODO	lexeme	생일 축하해요	happy birthday	-	Duo	-	-
-TODO	lexeme	와	with; wow; whoa; come; and	-	Duo	-	-
-TODO	lexeme	드릴까요	would you like; do you want	-	Duo	-	-
-TODO	lexeme	딸기	strawberry	-	Duo	-	-
-TODO	lexeme	가족	family	-	Duo	-	-
-TODO	lexeme	공항	airport	-	Duo	-	-
-TODO	lexeme	있어요	there are; are; is there; there is; is; is on; it's; do you have; is located; have; be; has; I have; is here; exist; there's; are there	-	Duo	-	-
-TODO	lexeme	에	at; on; in; e (sound); to	-	Duo	-	-
-TODO	lexeme	여기	here	-	Duo	-	-
-TODO	lexeme	여권	passport	-	Duo	-	-
-TODO	lexeme	표	ticket	-	Duo	-	-
-TODO	lexeme	화장실	bathroom	-	Duo	-	-
-TODO	lexeme	식당	restaurant	-	Duo	-	-
-TODO	lexeme	어디	where	-	Duo	-	-
-TODO	lexeme	카페	café; cafe	-	Duo	-	-
-TODO	lexeme	근처	near	-	Duo	-	-
-TODO	lexeme	게이트	gate	-	Duo	-	-
-TODO	lexeme	물	water	-	Duo	-	-
-TODO	lexeme	실례합니다	excuse me	-	Duo	-	-
-TODO	lexeme	자리	seat	-	Duo	-	-
-TODO	lexeme	운동	exercise	-	Duo	-	-
-TODO	lexeme	독서	reading	-	Duo	-	-
-TODO	lexeme	뭐	what	-	Duo	-	-
-TODO	lexeme	취미	hobby	-	Duo	-	-
-TODO	lexeme	도	even; degrees; do (sound); too; also; as	-	Duo	-	-
-TODO	lexeme	재즈	jazz	-	Duo	-	-
-TODO	lexeme	케이팝	K-pop	-	Duo	-	-
-TODO	lexeme	팬	fan	-	Duo	-	-
-TODO	lexeme	태권도	taekwondo	-	Duo	-	-
-TODO	lexeme	선수	player	-	Duo	-	-
-TODO	lexeme	축구	soccer	-	Duo	-	-
-TODO	lexeme	이	this; these; 2; two	-	Duo	-	-
-TODO	lexeme	유명한	famous	-	Duo	-	-
-TODO	lexeme	웃긴	funny	-	Duo	-	-
-TODO	lexeme	작가	author	-	Duo	-	-
-TODO	lexeme	배우	actor	-	Duo	-	-
-TODO	lexeme	멜로	melodrama	-	Duo	-	-
-TODO	lexeme	드라마	drama	-	Duo	-	-
-TODO	lexeme	내일	tomorrow	-	Duo	-	-
-TODO	lexeme	경기	game	-	Duo	-	-
-TODO	lexeme	야구	baseball	-	Duo	-	-
-TODO	lexeme	크다	big; is big; large; huge; bigger; are big	-	Duo	-	-
-TODO	lexeme	저기	there	-	Duo	-	-
-TODO	lexeme	경기장	stadium	-	Duo	-	-
-TODO	lexeme	좋은	good	-	Duo	-	-
-TODO	lexeme	공	ball	-	Duo	-	-
-TODO	lexeme	화이팅	go on; fighting; good luck	-	Duo	-	-
-TODO	lexeme	우리	we	-	Duo	-	-
-TODO	lexeme	맥주	beer	-	Duo	-	-
-TODO	lexeme	치킨	fried chicken	-	Duo	-	-
-TODO	lexeme	가게	store	-	Duo	-	-
-TODO	lexeme	팝콘	popcorn	-	Duo	-	-
-TODO	lexeme	출구	exit	-	Duo	-	-
-TODO	lexeme	잘 가요	take care	-	Duo	-	-
-TODO	lexeme	팀	team	-	Duo	-	-
-TODO	lexeme	버스	bus	-	Duo	-	-
-TODO	lexeme	아니다	n't; not; isn't	-	Duo	-	-
-TODO	lexeme	학생증	student ID	-	Duo	-	-
-TODO	lexeme	돈	money	-	Duo	-	-
-TODO	lexeme	정류장	stop	-	Duo	-	-
-TODO	lexeme	우체국	post office	-	Duo	-	-
-TODO	lexeme	지도	map	-	Duo	-	-
-TODO	lexeme	가	go to; goes; do fly; do get; go; does go; do go; do you go; come; street; to	-	Duo	-	-
-TODO	lexeme	특별한	special	-	Duo	-	-
-TODO	lexeme	저것	that	-	Duo	-	-
-TODO	lexeme	싼	cheap	-	Duo	-	-
-TODO	lexeme	엽서	postcard	-	Duo	-	-
-TODO	lexeme	제주도	Jeju Island	-	Duo	-	-
-TODO	lexeme	여행사	travel agency	-	Duo	-	-
-TODO	lexeme	잔	cup	-	Duo	-	-
-TODO	lexeme	수첩	notebook	-	Duo	-	-
-TODO	lexeme	귤	tangerine	-	Duo	-	-
-TODO	lexeme	부산	Busan; of Busan; in Busan	-	Duo	-	-
-TODO	lexeme	고향	hometown	-	Duo	-	-
-TODO	lexeme	부모님	parents	-	Duo	-	-
-TODO	lexeme	예쁜	pretty	-	Duo	-	-
-TODO	lexeme	강아지	puppy	-	Duo	-	-
-TODO	lexeme	여섯	six	-	Duo	-	-
-TODO	lexeme	에어컨	air conditioner	-	Duo	-	-
-TODO	lexeme	환영해요	welcome	-	Duo	-	-
-TODO	lexeme	이분	this person	-	Duo	-	-
-TODO	lexeme	형	older brother	-	Duo	-	-
-TODO	lexeme	친한	close	-	Duo	-	-
-TODO	lexeme	사촌	cousin	-	Duo	-	-
-TODO	lexeme	화려하다	fanciest	-	Duo	-	-
-TODO	lexeme	정말요	really	-	Duo	-	-
-TODO	lexeme	도시	city	-	Duo	-	-
-TODO	lexeme	아빠	dad	-	Duo	-	-
-TODO	lexeme	서울	Seoul; in Seoul; of Seoul	-	Duo	-	-
-TODO	lexeme	교수	professor	-	Duo	-	-
-TODO	lexeme	변호사	lawyer	-	Duo	-	-
-TODO	lexeme	학생	student	-	Duo	-	-
-TODO	lexeme	높다	tall; is tall	-	Duo	-	-
-TODO	lexeme	캠핑	camp	-	Duo	-	-
-TODO	lexeme	금요일	Friday	-	Duo	-	-
-TODO	lexeme	날씨	weather	-	Duo	-	-
-TODO	lexeme	산	mountain	-	Duo	-	-
-TODO	lexeme	달다	sweet; is sweet	-	Duo	-	-
-TODO	lexeme	작다	small; little; is small	-	Duo	-	-
-TODO	lexeme	비싸다	expensive; are expensive	-	Duo	-	-
-TODO	lexeme	텐트	tent	-	Duo	-	-
-TODO	lexeme	사과	apple	-	Duo	-	-
-TODO	lexeme	맑다	clear; is clear	-	Duo	-	-
-TODO	lexeme	좋다	good; like; is great; great; nice; is nice; are in good	-	Duo	-	-
-TODO	lexeme	기온	temperature	-	Duo	-	-
-TODO	lexeme	호수	lake	-	Duo	-	-
-TODO	lexeme	그런데	however	-	Duo	-	-
-TODO	lexeme	된장찌개	doenjang jjigae	-	Duo	-	-
-TODO	lexeme	과자	snack	-	Duo	-	-
-TODO	lexeme	많다	many; lots; there are many	-	Duo	-	-
-TODO	lexeme	나무	tree	-	Duo	-	-
-TODO	lexeme	아침	morning	-	Duo	-	-
-TODO	lexeme	모기	mosquito	-	Duo	-	-
-TODO	lexeme	필요하다	necessary; need; needing	-	Duo	-	-
-TODO	lexeme	한가하다	available	-	Duo	-	-
-TODO	lexeme	집	house	-	Duo	-	-
-TODO	lexeme	조용하다	Quiet	-	Duo	-	-
-TODO	lexeme	친절하다	is kind	-	Duo	-	-
-TODO	lexeme	이웃	neighbor	-	Duo	-	-
-TODO	lexeme	동네	neighborhood	-	Duo	-	-
-TODO	lexeme	깨끗하다	clean	-	Duo	-	-
-TODO	lexeme	아파트	apartment	-	Duo	-	-
-TODO	lexeme	특별하다	special	-	Duo	-	-
-TODO	lexeme	크기	size	-	Duo	-	-
-TODO	lexeme	창문	window	-	Duo	-	-
-TODO	lexeme	방	room	-	Duo	-	-
-TODO	lexeme	피곤하다	tired; I'm tired	-	Duo	-	-
-TODO	lexeme	괜찮다	fine	-	Duo	-	-
-TODO	lexeme	이제	now	-	Duo	-	-
-TODO	lexeme	가격	price	-	Duo	-	-
-TODO	lexeme	멋있다	cool	-	Duo	-	-
-TODO	lexeme	재미있다	to be interesting; is interesting; funny	-	Duo	-	-
-TODO	lexeme	정말	really	-	Duo	-	-
-TODO	lexeme	소개팅	blind date	-	Duo	-	-
-TODO	lexeme	예쁘다	is pretty; pretty	-	Duo	-	-
-TODO	lexeme	미소	smile	-	Duo	-	-
-TODO	lexeme	안나	Anna	-	Duo	-	-
-TODO	lexeme	토요일	Saturday	-	Duo	-	-
-TODO	lexeme	춥다	cold; is cold	-	Duo	-	-
-TODO	lexeme	가깝다	near; close; near by	-	Duo	-	-
-TODO	lexeme	맵다	spicy	-	Duo	-	-
-TODO	lexeme	피터	Peter	-	Duo	-	-
-TODO	lexeme	파스타	pasta	-	Duo	-	-
-TODO	lexeme	싸다	cheap; packs; is cheap	-	Duo	-	-
-TODO	lexeme	유명하다	is/are famous; famous	-	Duo	-	-
-TODO	lexeme	뜨겁다	hot	-	Duo	-	-
-TODO	lexeme	맛있다	is delicious; are delicious; yum	-	Duo	-	-
-TODO	lexeme	조심해요	be careful	-	Duo	-	-
-TODO	lexeme	이상하다	weird; unusual; strange; (is) weird/strange	-	Duo	-	-
-TODO	lexeme	고맙다	be thankful; thank	-	Duo	-	-
-TODO	lexeme	소개	introduction	-	Duo	-	-
-TODO	lexeme	조금	little	-	Duo	-	-
-TODO	lexeme	아름답다	are beautiful; is beautiful; beautiful	-	Duo	-	-
-TODO	lexeme	가다	To go; going; gone; go	-	Duo	-	-
-TODO	lexeme	인천	incheon	-	Duo	-	-
-TODO	lexeme	노래방	karaoke room	-	Duo	-	-
-TODO	lexeme	맛집	famous restaurant	-	Duo	-	-
-TODO	lexeme	어떤	which	-	Duo	-	-
-TODO	lexeme	시내	downtown	-	Duo	-	-
-TODO	lexeme	서점	bookstore	-	Duo	-	-
-TODO	lexeme	에서	at; from; in; to	-	Duo	-	-
-TODO	lexeme	수영하다	swim	-	Duo	-	-
-TODO	lexeme	바다	sea; ocean	-	Duo	-	-
-TODO	lexeme	인사하다	greet; greets	-	Duo	-	-
-TODO	lexeme	전철역	subway station	-	Duo	-	-
-TODO	lexeme	부엌	kitchen	-	Duo	-	-
-TODO	lexeme	열심히	diligently	-	Duo	-	-
-TODO	lexeme	냉장고	refrigerator	-	Duo	-	-
-TODO	lexeme	거실	living room	-	Duo	-	-
-TODO	lexeme	소파	couch	-	Duo	-	-
-TODO	lexeme	텔레비전	television	-	Duo	-	-
-TODO	lexeme	엄마	mom	-	Duo	-	-
-TODO	lexeme	공부하다	studies; studying	-	Duo	-	-
-TODO	lexeme	청소하다	clean	-	Duo	-	-
-TODO	lexeme	다른	different	-	Duo	-	-
-TODO	lexeme	책상	desk	-	Duo	-	-
-TODO	lexeme	침실	bedroom	-	Duo	-	-
-TODO	lexeme	가끔	sometimes	-	Duo	-	-
-TODO	lexeme	수건	towel	-	Duo	-	-
-TODO	lexeme	운동하다	exercise	-	Duo	-	-
-TODO	lexeme	자주	often	-	Duo	-	-
-TODO	lexeme	누나	older sister	-	Duo	-	-
-TODO	lexeme	마당	yard	-	Duo	-	-
-TODO	lexeme	좋아하다	like; liking	-	Duo	-	-
-TODO	lexeme	화요일	Tuesday	-	Duo	-	-
-TODO	lexeme	파티	party	-	Duo	-	-
-TODO	lexeme	크리스마스	Christmas	-	Duo	-	-
-TODO	lexeme	음	hmm	-	Duo	-	-
-TODO	lexeme	운동화	sneaker	-	Duo	-	-
-TODO	lexeme	빨간색	red	-	Duo	-	-
-TODO	lexeme	꽃	flower	-	Duo	-	-
-TODO	lexeme	장난감	toy	-	Duo	-	-
-TODO	lexeme	쓰다	bitter; write	-	Duo	-	-
-TODO	lexeme	아이스크림	ice cream	-	Duo	-	-
-TODO	lexeme	과일	fruit	-	Duo	-	-
-TODO	lexeme	초콜릿	chocolate	-	Duo	-	-
-TODO	lexeme	아	Oh	-	Duo	-	-
-TODO	lexeme	눈	snow	-	Duo	-	-
-TODO	lexeme	메리 크리스마스	Merry Christmas	-	Duo	-	-
-TODO	lexeme	게임	game	-	Duo	-	-
-TODO	lexeme	하다	do	-	Duo	-	-
-TODO	lexeme	같이	together	-	Duo	-	-
-TODO	lexeme	콘서트	concert	-	Duo	-	-
-TODO	lexeme	걸그룹	girl group	-	Duo	-	-
-TODO	lexeme	인터넷	internet	-	Duo	-	-
-TODO	lexeme	가수	singer	-	Duo	-	-
-TODO	lexeme	노래	song	-	Duo	-	-
-TODO	lexeme	주문하다	ordered	-	Duo	-	-
-TODO	lexeme	멀다	far	-	Duo	-	-
-TODO	lexeme	무대	stage	-	Duo	-	-
-TODO	lexeme	잘하네요	are good at	-	Duo	-	-
-TODO	lexeme	말	horse; the horse; horses; language; word; talk; words; of horse	-	Duo	-	-
-TODO	lexeme	한국어	Korean	-	Duo	-	-
-TODO	lexeme	랩	rap	-	Duo	-	-
-TODO	lexeme	구경	look around	-	Duo	-	-
-TODO	lexeme	검은색	black	-	Duo	-	-
-TODO	lexeme	진짜	really	-	Duo	-	-
-TODO	lexeme	티셔츠	T-shirt	-	Duo	-	-
-TODO	lexeme	마음에 들어요	like	-	Duo	-	-
-TODO	lexeme	들어가다	enter	-	Duo	-	-
-TODO	lexeme	가까운	nearby	-	Duo	-	-
-TODO	lexeme	영화관	cinema	-	Duo	-	-
-TODO	lexeme	팔다	sell	-	Duo	-	-
-TODO	lexeme	사다	buy; is a four	-	Duo	-	-
-TODO	lexeme	사탕	candy	-	Duo	-	-
-TODO	lexeme	간식	snack	-	Duo	-	-
-TODO	lexeme	싫어하다	hate; dislike	-	Duo	-	-
-TODO	lexeme	영화	movie	-	Duo	-	-
-TODO	lexeme	액션	action	-	Duo	-	-
-TODO	lexeme	무섭다	is scary	-	Duo	-	-
-TODO	lexeme	기억하다	remember	-	Duo	-	-
-TODO	lexeme	번호	number	-	Duo	-	-
-TODO	lexeme	정리하다	tidy; organize; clear	-	Duo	-	-
-TODO	lexeme	또 봐요	see you again	-	Duo	-	-
-TODO	lexeme	쓰레기통	trash can	-	Duo	-	-
-TODO	lexeme	만나다	father; encounter; encountering; met; seeing; encounters	-	Duo	-	-
-TODO	lexeme	빌리다	borrow; borrows; rent; borrowing	-	Duo	-	-
-TODO	lexeme	러	Reo (sound)	-	Duo	-	-
-TODO	lexeme	도서관	library	-	Duo	-	-
-TODO	lexeme	읽다	read; reads	-	Duo	-	-
-TODO	lexeme	찾다	locate; discover; searches; seek	-	Duo	-	-
-TODO	lexeme	오다	comes; coming; come	-	Duo	-	-
-TODO	lexeme	으러	go; to	-	Duo	-	-
-TODO	lexeme	사전	dictionary	-	Duo	-	-
-TODO	lexeme	교과서	textbook	-	Duo	-	-
-TODO	lexeme	보다	watch; seen; sees; looking; watches; than	-	Duo	-	-
-TODO	lexeme	매주	weekly	-	Duo	-	-
-TODO	lexeme	영어	English	-	Duo	-	-
-TODO	lexeme	곳	place	-	Duo	-	-
-TODO	lexeme	컴퓨터	computer	-	Duo	-	-
-TODO	lexeme	매일	every day	-	Duo	-	-
-TODO	lexeme	잡지	magazine	-	Duo	-	-
-TODO	lexeme	만화	comic	-	Duo	-	-
-TODO	lexeme	신문	newspaper	-	Duo	-	-
-TODO	lexeme	항상	always	-	Duo	-	-
-TODO	lexeme	복사기	copier	-	Duo	-	-
-TODO	lexeme	느리다	slow	-	Duo	-	-
-TODO	lexeme	익숙하다	familiar	-	Duo	-	-
-TODO	lexeme	자전거	bike	-	Duo	-	-
-TODO	lexeme	카드	card	-	Duo	-	-
-TODO	lexeme	타다	taking	-	Duo	-	-
-TODO	lexeme	자동차	car	-	Duo	-	-
-TODO	lexeme	주차	park	-	Duo	-	-
-TODO	lexeme	복잡하다	crowded; intricate	-	Duo	-	-
-TODO	lexeme	헬멧	helmet	-	Duo	-	-
-TODO	lexeme	운전	drive	-	Duo	-	-
-TODO	lexeme	길	road	-	Duo	-	-
-TODO	lexeme	계단	stair	-	Duo	-	-
-TODO	lexeme	역	station	-	Duo	-	-
-TODO	lexeme	지하철	subway	-	Duo	-	-
-TODO	lexeme	강남	Gangnam	-	Duo	-	-
-TODO	lexeme	앉다	sit	-	Duo	-	-
-TODO	lexeme	터미널	terminal	-	Duo	-	-
-TODO	lexeme	이런	oh no	-	Duo	-	-
-TODO	lexeme	교통	transportation	-	Duo	-	-
-TODO	lexeme	신선하다	is fresh	-	Duo	-	-
-TODO	lexeme	마트	mart	-	Duo	-	-
-TODO	lexeme	쇼핑	shop	-	Duo	-	-
-TODO	lexeme	물건	goods	-	Duo	-	-
-TODO	lexeme	갈비	galbi; grilled ribs; rib; ribs	-	Duo	-	-
-TODO	lexeme	얼마	how much	-	Duo	-	-
-TODO	lexeme	냉면	naengmyeon	-	Duo	-	-
-TODO	lexeme	되다	gotten	-	Duo	-	-
-TODO	lexeme	콜라	cola	-	Duo	-	-
-TODO	lexeme	할인	discount	-	Duo	-	-
-TODO	lexeme	음료수	drink	-	Duo	-	-
-TODO	lexeme	바나나	banana	-	Duo	-	-
-TODO	lexeme	포도	grape	-	Duo	-	-
-TODO	lexeme	초록색	green	-	Duo	-	-
-TODO	lexeme	직원	employee	-	Duo	-	-
-TODO	lexeme	어렵다	hard; harder; it is difficult to	-	Duo	-	-
-TODO	lexeme	손님	customer	-	Duo	-	-
-TODO	lexeme	또 오세요	Please come again	-	Duo	-	-
-TODO	lexeme	우와	wow	-	Duo	-	-
-TODO	lexeme	봉투	bag	-	Duo	-	-
-TODO	lexeme	부르다	calls; called	-	Duo	-	-
-TODO	lexeme	간호사	nurse	-	Duo	-	-
-TODO	lexeme	병원	hospital	-	Duo	-	-
-TODO	lexeme	아이	child	-	Duo	-	-
-TODO	lexeme	아프다	ache; sick; ill; hurt; aching	-	Duo	-	-
-TODO	lexeme	다리	leg	-	Duo	-	-
-TODO	lexeme	머리	head	-	Duo	-	-
-TODO	lexeme	배	stomach; a boat; pear; ship; pears; times; boat; bae (sound); belly	-	Duo	-	-
-TODO	lexeme	알다	know—i	-	Duo	-	-
-TODO	lexeme	증상	symptom	-	Duo	-	-
-TODO	lexeme	약	medicine	-	Duo	-	-
-TODO	lexeme	치료하다	heals	-	Duo	-	-
-TODO	lexeme	병	illness	-	Duo	-	-
-TODO	lexeme	상처	wound	-	Duo	-	-
-TODO	lexeme	적다	less; write	-	Duo	-	-
-TODO	lexeme	먹다	eats; eaten; eating; eat; taken; grabbing	-	Duo	-	-
-TODO	lexeme	약국	pharmacy	-	Duo	-	-
-TODO	lexeme	약사	pharmacist	-	Duo	-	-
-TODO	lexeme	있다	is; there are; have; has; are; there is; there's	-	Duo	-	-
-TODO	lexeme	대학생	college student	-	Duo	-	-
-TODO	lexeme	딸	daughter	-	Duo	-	-
-TODO	lexeme	음악	music	-	Duo	-	-
-TODO	lexeme	테니스	tennis	-	Duo	-	-
-TODO	lexeme	동아리	club	-	Duo	-	-
-TODO	lexeme	많이	many	-	Duo	-	-
-TODO	lexeme	학교	school	-	Duo	-	-
-TODO	lexeme	없다	I have no; there is no; doesn't have; there is not any; isn't; never; has no	-	Duo	-	-
-TODO	lexeme	전공	major	-	Duo	-	-
-TODO	lexeme	숙제	homework	-	Duo	-	-
-TODO	lexeme	수업	class	-	Duo	-	-
-TODO	lexeme	시간	time	-	Duo	-	-
-TODO	lexeme	남자 친구	boyfriend	-	Duo	-	-
-TODO	lexeme	운동장	playground	-	Duo	-	-
-TODO	lexeme	데이트	date	-	Duo	-	-
-TODO	lexeme	편의점	convenience store	-	Duo	-	-
-TODO	lexeme	세탁기	washing machine	-	Duo	-	-
-TODO	lexeme	기숙사	dormitory	-	Duo	-	-
-TODO	lexeme	또	again	-	Duo	-	-
-TODO	lexeme	별로	very much; ugly; very	-	Duo	-	-
-TODO	lexeme	옷	clothes	-	Duo	-	-
-TODO	lexeme	모자	hat	-	Duo	-	-
-TODO	lexeme	백화점	department store	-	Duo	-	-
-TODO	lexeme	특별히	especially	-	Duo	-	-
-TODO	lexeme	간단히	briefly	-	Duo	-	-
-TODO	lexeme	어울리다	mingling	-	Duo	-	-
-TODO	lexeme	잘	well	-	Duo	-	-
-TODO	lexeme	친절히	kindly	-	Duo	-	-
-TODO	lexeme	바지	pants	-	Duo	-	-
-TODO	lexeme	침대	bed	-	Duo	-	-
-TODO	lexeme	테이블	table	-	Duo	-	-
-TODO	lexeme	보통	usually	-	Duo	-	-
-TODO	lexeme	노트북	laptop	-	Duo	-	-
-TODO	lexeme	바로	immediately	-	Duo	-	-
-TODO	lexeme	꼭	definitely	-	Duo	-	-
-TODO	lexeme	너무	too	-	Duo	-	-
-TODO	lexeme	편하게	comfortable	-	Duo	-	-
-TODO	lexeme	덥다	hot	-	Duo	-	-
-TODO	lexeme	운전하다	drive	-	Duo	-	-
-TODO	lexeme	주다	giving; gives; presents; present; given; give	-	Duo	-	-
-TODO	lexeme	할아버지	grandfather	-	Duo	-	-
-TODO	lexeme	수영장	swimming pool	-	Duo	-	-
-TODO	lexeme	깨끗이	clean	-	Duo	-	-
-TODO	lexeme	비누	soap	-	Duo	-	-
-TODO	lexeme	먼저	first	-	Duo	-	-
-TODO	lexeme	넣다	put; add; loading	-	Duo	-	-
-TODO	lexeme	닫다	shut; close; closed	-	Duo	-	-
-TODO	lexeme	열쇠	key	-	Duo	-	-
-TODO	lexeme	문	door	-	Duo	-	-
-TODO	lexeme	걷다	walking; walk; rolling	-	Duo	-	-
-TODO	lexeme	천천히	slowly	-	Duo	-	-
-TODO	lexeme	이쪽	here	-	Duo	-	-
-TODO	lexeme	따뜻하게	warm	-	Duo	-	-
-TODO	lexeme	보내다	sent	-	Duo	-	-
-TODO	lexeme	주소	address	-	Duo	-	-
-TODO	lexeme	회사	company	-	Duo	-	-
-TODO	lexeme	메시지	message	-	Duo	-	-
-TODO	lexeme	로	with; as; toward; to; by; via	-	Duo	-	-
-TODO	lexeme	찍다	Shoot	-	Duo	-	-
-TODO	lexeme	이름	name	-	Duo	-	-
-TODO	lexeme	사진	photo	-	Duo	-	-
-TODO	lexeme	으로	with; toward; to; by	-	Duo	-	-
-TODO	lexeme	올라가다	Ascend	-	Duo	-	-
-TODO	lexeme	부장님	manager	-	Duo	-	-
-TODO	lexeme	사무실	office	-	Duo	-	-
-TODO	lexeme	위	up	-	Duo	-	-
-TODO	lexeme	밖	outside	-	Duo	-	-
-TODO	lexeme	삼	three	-	Duo	-	-
-TODO	lexeme	오른쪽	right	-	Duo	-	-
-TODO	lexeme	층	floor	-	Duo	-	-
-TODO	lexeme	확인하다	confirm; check; checking	-	Duo	-	-
-TODO	lexeme	수고하셨습니다	Thank you for your work!	-	Duo	-	-
-TODO	lexeme	서류	document	-	Duo	-	-
-TODO	lexeme	저쪽	there	-	Duo	-	-
-TODO	lexeme	할머니	grandmother	-	Duo	-	-
-TODO	lexeme	주	week	-	Duo	-	-
-TODO	lexeme	다음	next	-	Duo	-	-
-TODO	lexeme	언제	when	-	Duo	-	-
-TODO	lexeme	추석	Chuseok	-	Duo	-	-
-TODO	lexeme	댁	home	-	Duo	-	-
-TODO	lexeme	받다	get; gets; receive; receiving; got; received; receives; gotten	-	Duo	-	-
-TODO	lexeme	한복	hanbok	-	Duo	-	-
-TODO	lexeme	언니	older sister	-	Duo	-	-
-TODO	lexeme	날	day	-	Duo	-	-
-TODO	lexeme	만들다	makes; making	-	Duo	-	-
-TODO	lexeme	시장	market	-	Duo	-	-
-TODO	lexeme	떡	rice cake	-	Duo	-	-
-TODO	lexeme	수요일	Wednesday	-	Duo	-	-
-TODO	lexeme	늦었어요	too late	-	Duo	-	-
-TODO	lexeme	윷놀이	yutnori	-	Duo	-	-
-TODO	lexeme	기차	train	-	Duo	-	-
-TODO	lexeme	밤	night	-	Duo	-	-
-TODO	lexeme	달	month	-	Duo	-	-
-TODO	lexeme	생신	birthday	-	Duo	-	-
-TODO	lexeme	삼월	March	-	Duo	-	-
-TODO	lexeme	고치다	correcting; fixes; fix; corrects	-	Duo	-	-
-TODO	lexeme	누가	who	-	Duo	-	-
-TODO	lexeme	오빠	oppa	-	Duo	-	-
-TODO	lexeme	포장하다	wrap	-	Duo	-	-
-TODO	lexeme	김밥	kimbap	-	Duo	-	-
-TODO	lexeme	단무지	pickled radish	-	Duo	-	-
-TODO	lexeme	그리다	to draw; paints	-	Duo	-	-
-TODO	lexeme	그림	picture	-	Duo	-	-
-TODO	lexeme	누구	who	-	Duo	-	-
-TODO	lexeme	닦다	dry	-	Duo	-	-
-TODO	lexeme	칠판	chalkboard	-	Duo	-	-
-TODO	lexeme	선풍기	fan	-	Duo	-	-
-TODO	lexeme	바닥	floor	-	Duo	-	-
-TODO	lexeme	고장났어요	break	-	Duo	-	-
-TODO	lexeme	교실	classroom	-	Duo	-	-
-TODO	lexeme	열다	unlock; unlocks	-	Duo	-	-
-TODO	lexeme	소설책	novel	-	Duo	-	-
-TODO	lexeme	과학	science	-	Duo	-	-
-TODO	lexeme	마시다	drink; drinks; drunk; drinking	-	Duo	-	-
-TODO	lexeme	우유	milk	-	Duo	-	-
-TODO	lexeme	아들	son	-	Duo	-	-
-TODO	lexeme	안	don't	-	Duo	-	-
-TODO	lexeme	그러면	then	-	Duo	-	-
-TODO	lexeme	파란색	blue	-	Duo	-	-
-TODO	lexeme	치마	skirt	-	Duo	-	-
-TODO	lexeme	구두	dress shoes	-	Duo	-	-
-TODO	lexeme	치다	flashes; play	-	Duo	-	-
-TODO	lexeme	못	can't; I can't; have not; you can't; not be able; I cannot; didn't; cannot; can not; can’t	-	Duo	-	-
-TODO	lexeme	공원	park	-	Duo	-	-
-TODO	lexeme	소풍	picnic	-	Duo	-	-
-TODO	lexeme	아기	baby	-	Duo	-	-
-TODO	lexeme	글	text	-	Duo	-	-
-TODO	lexeme	아직	still	-	Duo	-	-
-TODO	lexeme	조용히	quietly	-	Duo	-	-
-TODO	lexeme	드럼	drum	-	Duo	-	-
-TODO	lexeme	귀	ear	-	Duo	-	-
-TODO	lexeme	피아노	piano	-	Duo	-	-
-TODO	lexeme	서	stand; west; in	-	Duo	-	-
-TODO	lexeme	비	rain	-	Duo	-	-
-TODO	lexeme	여행	trip	-	Duo	-	-
-TODO	lexeme	죄송해요	sorry	-	Duo	-	-
-TODO	lexeme	택시	taxi	-	Duo	-	-
-TODO	lexeme	태국	Thailand	-	Duo	-	-
-TODO	lexeme	박물관	museum	-	Duo	-	-
-TODO	lexeme	등산	hike	-	Duo	-	-
-TODO	lexeme	약속	appointment; promises; your promise; promise; appointments	-	Duo	-	-
-TODO	lexeme	잠	sleep	-	Duo	-	-
-TODO	lexeme	몸	body	-	Duo	-	-
-TODO	lexeme	장소	venue	-	Duo	-	-
-TODO	lexeme	게으르다	lazier	-	Duo	-	-
-TODO	lexeme	고장나다	break	-	Duo	-	-
-TODO	lexeme	회의	meeting	-	Duo	-	-
-TODO	lexeme	엘리베이터	elevator	-	Duo	-	-
-TODO	lexeme	때	time	-	Duo	-	-
-TODO	lexeme	초등학교	elementary school	-	Duo	-	-
-TODO	lexeme	한식당	Korean restaurant	-	Duo	-	-
-TODO	lexeme	오랜만	long time	-	Duo	-	-
-TODO	lexeme	방금	just now	-	Duo	-	-
-TODO	lexeme	메뉴판	menu	-	Duo	-	-
-TODO	lexeme	비빔밥	bibimbap	-	Duo	-	-
-TODO	lexeme	시키다	ordering	-	Duo	-	-
-TODO	lexeme	김치찌개	kimchi stew	-	Duo	-	-
-TODO	lexeme	잘 먹겠습니다	will eat well	-	Duo	-	-
-TODO	lexeme	아까	a little while ago	-	Duo	-	-
-TODO	lexeme	드리다	prepared	-	Duo	-	-
-TODO	lexeme	영수증	receipt	-	Duo	-	-
-TODO	lexeme	젓가락	chopsticks	-	Duo	-	-
-TODO	lexeme	이다	is; am; are; was	-	Duo	-	-
-TODO	lexeme	잘 먹었습니다	thank you for the meal	-	Duo	-	-
-TODO	lexeme	디저트	dessert	-	Duo	-	-
-TODO	lexeme	빨리	quickly	-	Duo	-	-
-TODO	lexeme	조심하다	beware	-	Duo	-	-
-TODO	lexeme	아주머니	aunt	-	Duo	-	-
-TODO	lexeme	어떡해요	Oh no	-	Duo	-	-
-TODO	lexeme	전화하다	calls; dialed	-	Duo	-	-
-TODO	lexeme	이메일	email	-	Duo	-	-
-TODO	lexeme	남동생	younger brother	-	Duo	-	-
-TODO	lexeme	넘어지다	to fall	-	Duo	-	-
-TODO	lexeme	손	hand	-	Duo	-	-
-TODO	lexeme	반창고	bandage; aids	-	Duo	-	-
-TODO	lexeme	설명하다	explains; explained; describe	-	Duo	-	-
-TODO	lexeme	걱정하다	concerns	-	Duo	-	-
-TODO	lexeme	문자	text message	-	Duo	-	-
-TODO	lexeme	발	foot	-	Duo	-	-
-TODO	lexeme	낫다	get better; heals	-	Duo	-	-
-TODO	lexeme	다	all	-	Duo	-	-
-TODO	lexeme	걱정	worry	-	Duo	-	-
-TODO	lexeme	필요 없어요	unnecessary	-	Duo	-	-
-TODO	lexeme	생기다	arise	-	Duo	-	-
-TODO	lexeme	피씨방	PC bang	-	Duo	-	-
-TODO	lexeme	벌써	already	-	Duo	-	-
-TODO	lexeme	숟가락	spoon	-	Duo	-	-
-TODO	lexeme	짜장면	jajangmyeon	-	Duo	-	-
-TODO	lexeme	서비스	service	-	Duo	-	-
-TODO	lexeme	기쁘다	happy	-	Duo	-	-
-TODO	lexeme	이기다	beat; wins; beats; defeating	-	Duo	-	-
-TODO	lexeme	레벨	level	-	Duo	-	-
-TODO	lexeme	세다	count; counting	-	Duo	-	-
-TODO	lexeme	고르다	picks; picking; choosing	-	Duo	-	-
-TODO	lexeme	바꾸다	switching; change; switch	-	Duo	-	-
-TODO	lexeme	캐릭터	character	-	Duo	-	-
-TODO	lexeme	끄다	extinguish; put out	-	Duo	-	-
-TODO	lexeme	이모	aunt	-	Duo	-	-
-TODO	lexeme	불	light	-	Duo	-	-
-TODO	lexeme	시	time; si (sound); si; at; poetry; o'clock; city; poems	-	Duo	-	-
-TODO	lexeme	올림픽	Olympics	-	Duo	-	-
-TODO	lexeme	이번	this time	-	Duo	-	-
-TODO	lexeme	프랑스	French; France	-	Duo	-	-
-TODO	lexeme	빠르다	fast; is fast	-	Duo	-	-
-TODO	lexeme	열	ten	-	Duo	-	-
-TODO	lexeme	지금	now	-	Duo	-	-
-TODO	lexeme	반	thirty	-	Duo	-	-
-TODO	lexeme	달리기	run	-	Duo	-	-
-TODO	lexeme	둘	two	-	Duo	-	-
-TODO	lexeme	연습	practice	-	Duo	-	-
-TODO	lexeme	농구	basketball	-	Duo	-	-
-TODO	lexeme	일본	Japan	-	Duo	-	-
-TODO	lexeme	열둘	twelve	-	Duo	-	-
-TODO	lexeme	탁구	table tennis	-	Duo	-	-
-TODO	lexeme	인도네시아	Indonesia	-	Duo	-	-
-TODO	lexeme	넷	four	-	Duo	-	-
-TODO	lexeme	끝나다	ends; finished; finish	-	Duo	-	-
-TODO	lexeme	출발	departure	-	Duo	-	-
-TODO	lexeme	체크인	check in	-	Duo	-	-
-TODO	lexeme	시험	exam	-	Duo	-	-
-TODO	lexeme	어느	which	-	Duo	-	-
-TODO	lexeme	외국어	foreign language	-	Duo	-	-
-TODO	lexeme	색	color	-	Duo	-	-
-TODO	lexeme	공책	notebook	-	Duo	-	-
-TODO	lexeme	말하다	spoken; speaks; speak; talks; saying; say; speaking; telling	-	Duo	-	-
-TODO	lexeme	일	first	-	Duo	-	-
-TODO	lexeme	의자	chair	-	Duo	-	-
-TODO	lexeme	건물	building	-	Duo	-	-
-TODO	lexeme	것	thing	-	Duo	-	-
-TODO	lexeme	안경	glasses	-	Duo	-	-
-TODO	lexeme	필통	pencil case	-	Duo	-	-
-TODO	lexeme	연필	pencil	-	Duo	-	-
-TODO	lexeme	단어	word	-	Duo	-	-
-TODO	lexeme	더	more	-	Duo	-	-
-TODO	lexeme	어제	yesterday	-	Duo	-	-
-TODO	lexeme	삼계탕	samgyetang	-	Duo	-	-
-TODO	lexeme	불다	to blow	-	Duo	-	-
-TODO	lexeme	올해	this year	-	Duo	-	-
-TODO	lexeme	바람	wind	-	Duo	-	-
-TODO	lexeme	우산	umbrella	-	Duo	-	-
-TODO	lexeme	오후	afternoon	-	Duo	-	-
-TODO	lexeme	가을	autumn	-	Duo	-	-
-TODO	lexeme	덜	less	-	Duo	-	-
-TODO	lexeme	작년	last year	-	Duo	-	-
-TODO	lexeme	보이다	looks	-	Duo	-	-
-TODO	lexeme	동물	animal	-	Duo	-	-
-TODO	lexeme	겨울	winter	-	Duo	-	-
-TODO	lexeme	요즘	these days	-	Duo	-	-
-TODO	lexeme	감기	cold	-	Duo	-	-
-TODO	lexeme	하늘	sky	-	Duo	-	-
-TODO	lexeme	길다	long; is long	-	Duo	-	-
-TODO	lexeme	남대문	Namdaemun	-	Duo	-	-
-TODO	lexeme	제일	most	-	Duo	-	-
-TODO	lexeme	요리사	chef	-	Duo	-	-
-TODO	lexeme	그	that	-	Duo	-	-
-TODO	lexeme	불고기	bulgogi	-	Duo	-	-
-TODO	lexeme	어리다	young	-	Duo	-	-
-TODO	lexeme	중에	through; among; over; during; on	-	Duo	-	-
-TODO	lexeme	고등학생	high school student	-	Duo	-	-
-TODO	lexeme	스키	ski	-	Duo	-	-
-TODO	lexeme	여자 배우	actress	-	Duo	-	-
-TODO	lexeme	캐나다	Canada; Canadian	-	Duo	-	-
-TODO	lexeme	연극	play	-	Duo	-	-
-TODO	lexeme	외국인	foreigner	-	Duo	-	-
-TODO	lexeme	그럼요	Of course	-	Duo	-	-
-TODO	lexeme	여름	summer	-	Duo	-	-
-TODO	lexeme	계절	season	-	Duo	-	-
-TODO	lexeme	수박	watermelon	-	Duo	-	-
-TODO	lexeme	아이스	ice	-	Duo	-	-
-TODO	lexeme	아메리카노	Americano	-	Duo	-	-
-TODO	lexeme	도시락	lunchbox	-	Duo	-	-
-TODO	lexeme	새벽	dawn	-	Duo	-	-
-TODO	lexeme	야식	late-night snack	-	Duo	-	-
-TODO	lexeme	계란	egg	-	Duo	-	-
-TODO	lexeme	삼각 김밥	triangle kimbap	-	Duo	-	-
-TODO	lexeme	포크	fork	-	Duo	-	-
-TODO	lexeme	소시지	sausage	-	Duo	-	-
-TODO	lexeme	전자레인지	microwave	-	Duo	-	-
-TODO	lexeme	섞다	mix; mixing	-	Duo	-	-
-TODO	lexeme	바나나 우유	banana milk	-	Duo	-	-
-TODO	lexeme	빨대	straw	-	Duo	-	-
-TODO	lexeme	벤치	bench	-	Duo	-	-
-TODO	lexeme	감자칩	potato chips	-	Duo	-	-
-TODO	lexeme	크림빵	cream bread	-	Duo	-	-
-TODO	lexeme	플라스틱	plastic	-	Duo	-	-
-TODO	lexeme	요구르트	yogurt	-	Duo	-	-
-TODO	lexeme	앞	front	-	Duo	-	-
-TODO	lexeme	택배	package	-	Duo	-	-
-TODO	lexeme	중요하다	is important; important; are important	-	Duo	-	-
-TODO	lexeme	뒤	behind	-	Duo	-	-
-TODO	lexeme	동물원	zoo	-	Duo	-	-
-TODO	lexeme	전화번호	phone number	-	Duo	-	-
-TODO	lexeme	카운터	counter	-	Duo	-	-
-TODO	lexeme	성함	name	-	Duo	-	-
-TODO	lexeme	어떻게 되세요	what is; What is; what is your	-	Duo	-	-
-TODO	lexeme	트럭	truck	-	Duo	-	-
-TODO	lexeme	옆	next to	-	Duo	-	-
-TODO	lexeme	추적 번호	tracking number	-	Duo	-	-
-TODO	lexeme	위치	location	-	Duo	-	-
-TODO	lexeme	연락하다	contact; contacting	-	Duo	-	-
-TODO	lexeme	도착하다	arrive; arrived; arriving	-	Duo	-	-
-TODO	lexeme	드디어	finally	-	Duo	-	-
-TODO	lexeme	남편	husband	-	Duo	-	-
-TODO	lexeme	식탁	dining table	-	Duo	-	-
-TODO	lexeme	싱크대	sink	-	Duo	-	-
-TODO	lexeme	쉬다	rest	-	Duo	-	-
-TODO	lexeme	푹	completely	-	Duo	-	-
-TODO	lexeme	꽃병	vase	-	Duo	-	-
-TODO	lexeme	정원	garden	-	Duo	-	-
-TODO	lexeme	생선	fish	-	Duo	-	-
-TODO	lexeme	일기	diary	-	Duo	-	-
-TODO	lexeme	뉴스	news	-	Duo	-	-
-TODO	lexeme	아내	wife	-	Duo	-	-
-TODO	lexeme	춤추다	dancing	-	Duo	-	-
-TODO	lexeme	함께	together	-	Duo	-	-
-TODO	lexeme	즐겁게	happily	-	Duo	-	-
-TODO	lexeme	팔	arm	-	Duo	-	-
-TODO	lexeme	주로	mainly	-	Duo	-	-
-TODO	lexeme	똑같이	equally	-	Duo	-	-
-TODO	lexeme	일요일	Sunday	-	Duo	-	-
-TODO	lexeme	낮잠을 자요	take a nap	-	Duo	-	-
-TODO	lexeme	불금	Friday night	-	Duo	-	-
-TODO	lexeme	주말	weekend	-	Duo	-	-
-TODO	lexeme	완전히	completely	-	Duo	-	-
-TODO	lexeme	노래하다	sing	-	Duo	-	-
-TODO	lexeme	갈래요	like	-	Duo	-	-
-TODO	lexeme	밴드	band	-	Duo	-	-
-TODO	lexeme	얻다	gets; won; gain; gotten	-	Duo	-	-
-TODO	lexeme	듣다	to listen; listen	-	Duo	-	-
-TODO	lexeme	기타	guitar	-	Duo	-	-
-TODO	lexeme	소리	sound	-	Duo	-	-
-TODO	lexeme	스피커	speaker	-	Duo	-	-
-TODO	lexeme	밝다	bright	-	Duo	-	-
-TODO	lexeme	훌륭하다	excellent; great	-	Duo	-	-
-TODO	lexeme	거리	street	-	Duo	-	-
-TODO	lexeme	한강	Han River	-	Duo	-	-
-TODO	lexeme	여자 친구	girlfriend	-	Duo	-	-
-TODO	lexeme	별	star	-	Duo	-	-
-TODO	lexeme	배부르다	be full	-	Duo	-	-
-TODO	lexeme	역시	indeed	-	Duo	-	-
-TODO	lexeme	쿠폰	coupon	-	Duo	-	-
-TODO	lexeme	횟집	sashimi restaurant	-	Duo	-	-
-TODO	lexeme	이야기	word; story; stories; tale	-	Duo	-	-
-TODO	lexeme	하고	and; with; play; do; have; doing; throw; having	-	Duo	-	-
-TODO	lexeme	예전	in the past	-	Duo	-	-
-TODO	lexeme	처음	first	-	Duo	-	-
-TODO	lexeme	서로	each other	-	Duo	-	-
-TODO	lexeme	다르다	different; is different	-	Duo	-	-
-TODO	lexeme	결혼식	wedding	-	Duo	-	-
-TODO	lexeme	갈색	brown	-	Duo	-	-
-TODO	lexeme	양복	suit	-	Duo	-	-
-TODO	lexeme	살다	lives; lived	-	Duo	-	-
-TODO	lexeme	행복하다	happy; is happy	-	Duo	-	-
-TODO	lexeme	벌다	earned; earn; earns	-	Duo	-	-
-TODO	lexeme	키우다	grows; raise; raising	-	Duo	-	-
-TODO	lexeme	개	dog	-	Duo	-	-
-TODO	lexeme	소중하다	is special; precious	-	Duo	-	-
-TODO	lexeme	믿다	believes; believe; believing	-	Duo	-	-
-TODO	lexeme	첫사랑	first love	-	Duo	-	-
-TODO	lexeme	팔찌	bracelet	-	Duo	-	-
-TODO	lexeme	드레스	dress	-	Duo	-	-
-TODO	lexeme	오래	long	-	Duo	-	-
-TODO	lexeme	갈다	change; to change	-	Duo	-	-
-TODO	lexeme	부끄럽다	ashamed	-	Duo	-	-
-TODO	lexeme	꾸준히	consistently	-	Duo	-	-
-TODO	lexeme	편지	letter	-	Duo	-	-
-TODO	lexeme	부케	bouquet	-	Duo	-	-
-TODO	lexeme	모으다	collects; collect	-	Duo	-	-
-TODO	lexeme	모두	everyone	-	Duo	-	-
-TODO	lexeme	집안일	housework	-	Duo	-	-
-TODO	lexeme	복습하다	Review	-	Duo	-	-
-TODO	lexeme	준비하다	prepared	-	Duo	-	-
-TODO	lexeme	지우개	eraser	-	Duo	-	-
-TODO	lexeme	역사	history	-	Duo	-	-
-TODO	lexeme	폴더	folder	-	Duo	-	-
-TODO	lexeme	걸레	rag	-	Duo	-	-
-TODO	lexeme	빗자루	broom	-	Duo	-	-
-TODO	lexeme	깔끔하게	neat	-	Duo	-	-
-TODO	lexeme	고무 장갑	rubber gloves	-	Duo	-	-
-TODO	lexeme	쌀	rice	-	Duo	-	-
-TODO	lexeme	반찬	side dish	-	Duo	-	-
-TODO	lexeme	차갑다	cold	-	Duo	-	-
-TODO	lexeme	소다	soda	-	Duo	-	-
-TODO	lexeme	얼음	ice	-	Duo	-	-
-TODO	lexeme	대박	awesome	-	Duo	-	-
-TODO	lexeme	자꾸	repeatedly	-	Duo	-	-
-TODO	lexeme	일찍	early	-	Duo	-	-
-TODO	lexeme	일곱	seven	-	Duo	-	-
-TODO	lexeme	요가	yoga	-	Duo	-	-
-TODO	lexeme	아홉	nine	-	Duo	-	-
-TODO	lexeme	오전	morning	-	Duo	-	-
-TODO	lexeme	수학	math	-	Duo	-	-
-TODO	lexeme	곧	soon	-	Duo	-	-
-TODO	lexeme	점심	lunch	-	Duo	-	-
-TODO	lexeme	잠깐만요	Wait a minute	-	Duo	-	-
-TODO	lexeme	한	one	-	Duo	-	-
-TODO	lexeme	모임	meeting	-	Duo	-	-
-TODO	lexeme	놓치다	miss; missed	-	Duo	-	-
-TODO	lexeme	이미	already	-	Duo	-	-
-TODO	lexeme	세	three	-	Duo	-	-
-TODO	lexeme	마지막	last	-	Duo	-	-
-TODO	lexeme	공연	performance	-	Duo	-	-
-TODO	lexeme	여덟	eight	-	Duo	-	-
-TODO	lexeme	저녁	evening	-	Duo	-	-
-TODO	lexeme	도착	arrive	-	Duo	-	-
-TODO	lexeme	십	ten	-	Duo	-	-
-TODO	lexeme	분	minute	-	Duo	-	-
-TODO	lexeme	출근	commute	-	Duo	-	-
-TODO	lexeme	이십	twenty	-	Duo	-	-
-TODO	lexeme	하루	day	-	Duo	-	-
-TODO	lexeme	낮	day; daytime	-	Duo	-	-
-TODO	lexeme	발표	presentation	-	Duo	-	-
-TODO	lexeme	맞다	fits	-	Duo	-	-
-TODO	lexeme	내용	content	-	Duo	-	-
-TODO	lexeme	다시	again	-	Duo	-	-
-TODO	lexeme	오	five	-	Duo	-	-
-TODO	lexeme	후	after	-	Duo	-	-
-TODO	lexeme	지각	late	-	Duo	-	-
-TODO	lexeme	갑자기	suddenly	-	Duo	-	-
-TODO	lexeme	오십	fifty	-	Duo	-	-
-TODO	lexeme	준비	preparation	-	Duo	-	-
-TODO	lexeme	내다	make	-	Duo	-	-
-TODO	lexeme	퇴근	end of work	-	Duo	-	-
-TODO	lexeme	사십	forty	-	Duo	-	-
-TODO	lexeme	수고	work	-	Duo	-	-
-TODO	lexeme	중미	Central America	-	Duo	-	-
-TODO	lexeme	부터	from	-	Duo	-	-
-TODO	lexeme	년	years; the year; year; years of work experience	-	Duo	-	-
-TODO	lexeme	배우다	studies; learn	-	Duo	-	-
-TODO	lexeme	파나마	Panama	-	Duo	-	-
-TODO	lexeme	나라	country	-	Duo	-	-
-TODO	lexeme	스페인어	Spanish	-	Duo	-	-
-TODO	lexeme	까지	until; to; by; till	-	Duo	-	-
-TODO	lexeme	시작하다	begins; begin	-	Duo	-	-
-TODO	lexeme	언어	language	-	Duo	-	-
-TODO	lexeme	팔월	August	-	Duo	-	-
-TODO	lexeme	월	month	-	Duo	-	-
-TODO	lexeme	선택하다	choose; chosen; select; choosing	-	Duo	-	-
-TODO	lexeme	칠월	July	-	Duo	-	-
-TODO	lexeme	방학	vacation	-	Duo	-	-
-TODO	lexeme	칠	seven	-	Duo	-	-
-TODO	lexeme	내년	next year	-	Duo	-	-
-TODO	lexeme	짐	luggage	-	Duo	-	-
-TODO	lexeme	돕다	helps; help	-	Duo	-	-
-TODO	lexeme	안방	master bedroom	-	Duo	-	-
-TODO	lexeme	정리	tidy	-	Duo	-	-
-TODO	lexeme	옷장	wardrobe	-	Duo	-	-
-TODO	lexeme	눕다	lying; lay	-	Duo	-	-
-TODO	lexeme	줍다	collects	-	Duo	-	-
-TODO	lexeme	쓰레기	trash	-	Duo	-	-
-TODO	lexeme	곱다	beautiful; is beautiful	-	Duo	-	-
-TODO	lexeme	버리다	abandon	-	Duo	-	-
-TODO	lexeme	원피스	dress	-	Duo	-	-
-TODO	lexeme	색깔	color	-	Duo	-	-
-TODO	lexeme	귀엽다	cute; is cute; pretty; are cute	-	Duo	-	-
-TODO	lexeme	물어보다	ask	-	Duo	-	-
-TODO	lexeme	노란색	yellow	-	Duo	-	-
-TODO	lexeme	사	four	-	Duo	-	-
-TODO	lexeme	엄청	extremely	-	Duo	-	-
-TODO	lexeme	더럽다	dirty; not clean	-	Duo	-	-
-TODO	lexeme	아무것	anything	-	Duo	-	-
-TODO	lexeme	계산	calculate	-	Duo	-	-
-TODO	lexeme	심하다	severe	-	Duo	-	-
-TODO	lexeme	상품	product	-	Duo	-	-
-TODO	lexeme	무슨	which; what; what's	-	Duo	-	-
-TODO	lexeme	문제	problem	-	Duo	-	-
-TODO	lexeme	블라우스	blouse	-	Duo	-	-
-TODO	lexeme	모양	shape	-	Duo	-	-
-TODO	lexeme	단추	button	-	Duo	-	-
-TODO	lexeme	자세히	thoroughly	-	Duo	-	-
-TODO	lexeme	얼마나	how	-	Duo	-	-
-TODO	lexeme	새롭다	is new; new	-	Duo	-	-
-TODO	lexeme	교환하다	Exchange	-	Duo	-	-
-TODO	lexeme	쇼핑몰	shopping mall	-	Duo	-	-
-TODO	lexeme	짧다	short	-	Duo	-	-
-TODO	lexeme	원하다	wishing	-	Duo	-	-
-TODO	lexeme	분홍색	pink	-	Duo	-	-
-TODO	lexeme	사이즈	size	-	Duo	-	-
-TODO	lexeme	그냥	just	-	Duo	-	-
-TODO	lexeme	참	very	-	Duo	-	-
-TODO	lexeme	다행이에요	what a relief	-	Duo	-	-
-TODO	lexeme	무료	free	-	Duo	-	-
-TODO	lexeme	잡다	grabbing	-	Duo	-	-
-TODO	lexeme	혹시	possibly	-	Duo	-	-
-TODO	lexeme	기사님	driver	-	Duo	-	-
-TODO	lexeme	잃다	lost	-	Duo	-	-
-TODO	lexeme	구경하다	sightseeing	-	Duo	-	-
-TODO	lexeme	시청	city hall	-	Duo	-	-
-TODO	lexeme	저기요	excuse me	-	Duo	-	-
-TODO	lexeme	십오	fifteen	-	Duo	-	-
-TODO	lexeme	육	six	-	Duo	-	-
-TODO	lexeme	이따가	later	-	Duo	-	-
-TODO	lexeme	극장	theater	-	Duo	-	-
-TODO	lexeme	매표소	ticket booth	-	Duo	-	-
-TODO	lexeme	굽다	grill; bake; grilling	-	Duo	-	-
-TODO	lexeme	쯤	about; About	-	Duo	-	-
-TODO	lexeme	고깃집	restaurant	-	Duo	-	-
-TODO	lexeme	늦다	late	-	Duo	-	-
-TODO	lexeme	삼십	thirty	-	Duo	-	-
-TODO	lexeme	호텔	hotel	-	Duo	-	-
-TODO	lexeme	좀	a bit	-	Duo	-	-
-TODO	lexeme	슬프다	sad	-	Duo	-	-
-TODO	lexeme	이유	reason	-	Duo	-	-
-TODO	lexeme	실수	mistake	-	Duo	-	-
-TODO	lexeme	왜	why	-	Duo	-	-
-TODO	lexeme	떠나다	leaves	-	Duo	-	-
-TODO	lexeme	지나가다	pass; passed	-	Duo	-	-
-TODO	lexeme	급하게	hurry	-	Duo	-	-
-TODO	lexeme	뒤쪽	back	-	Duo	-	-
-TODO	lexeme	서요	stand	-	Duo	-	-
-TODO	lexeme	기다리다	waiting; wait	-	Duo	-	-
-TODO	lexeme	따로	separate	-	Duo	-	-
-TODO	lexeme	인형	doll	-	Duo	-	-
-TODO	lexeme	미안하다	sorry	-	Duo	-	-
-TODO	lexeme	그립다	miss	-	Duo	-	-
-TODO	lexeme	기분	mood	-	Duo	-	-
-TODO	lexeme	코끼리	elephant	-	Duo	-	-
-TODO	lexeme	칭찬하다	compliment	-	Duo	-	-
-TODO	lexeme	풀다	untying; untie; unwrap	-	Duo	-	-
-TODO	lexeme	왜요	why	-	Duo	-	-
-TODO	lexeme	오해	misunderstanding	-	Duo	-	-
-TODO	lexeme	보라색	purple	-	Duo	-	-
-TODO	lexeme	나중	later	-	Duo	-	-
-TODO	lexeme	한테	to	-	Duo	-	-
-TODO	lexeme	중학교	middle school	-	Duo	-	-
-TODO	lexeme	동생	younger sibling	-	Duo	-	-
-TODO	lexeme	신발	shoe	-	Duo	-	-
-TODO	lexeme	운동복	sportswear	-	Duo	-	-
-TODO	lexeme	키	height	-	Duo	-	-
-TODO	lexeme	후배	junior	-	Duo	-	-
-TODO	lexeme	주황색	orange	-	Duo	-	-
-TODO	lexeme	신다	Wear	-	Duo	-	-
-TODO	lexeme	한테서	from	-	Duo	-	-
-TODO	lexeme	양말	sock	-	Duo	-	-
-TODO	lexeme	반지	ring	-	Duo	-	-
-TODO	lexeme	자르다	cut; cuts	-	Duo	-	-
-TODO	lexeme	미용실	salon	-	Duo	-	-
-TODO	lexeme	추천	recommendation	-	Duo	-	-
-TODO	lexeme	규칙	rule	-	Duo	-	-
-TODO	lexeme	미술	art	-	Duo	-	-
-TODO	lexeme	첫	first	-	Duo	-	-
-TODO	lexeme	시간표	schedule	-	Duo	-	-
-TODO	lexeme	가위	scissors	-	Duo	-	-
-TODO	lexeme	나다	occur/break out	-	Duo	-	-
-TODO	lexeme	기침	cough	-	Duo	-	-
-TODO	lexeme	께	to	-	Duo	-	-
-TODO	lexeme	소식	news	-	Duo	-	-
-TODO	lexeme	유자차	citron tea	-	Duo	-	-
-TODO	lexeme	목	throat	-	Duo	-	-
-TODO	lexeme	부탁	favor	-	Duo	-	-
-TODO	lexeme	전화	telephone; phone; call; telephones	-	Duo	-	-
-TODO	lexeme	말씀	word	-	Duo	-	-
-TODO	lexeme	재채기	sneeze	-	Duo	-	-
-TODO	lexeme	마스크	mask	-	Duo	-	-
-TODO	lexeme	설명	explanation	-	Duo	-	-
-TODO	lexeme	목캔디	cough drops	-	Duo	-	-
-TODO	lexeme	예약	reservation	-	Duo	-	-
-TODO	lexeme	목소리	voice	-	Duo	-	-
-TODO	lexeme	그만	stop	-	Duo	-	-
-TODO	lexeme	어플	app	-	Duo	-	-
-TODO	lexeme	자기소개	self-introduction	-	Duo	-	-
-TODO	lexeme	경험	experience	-	Duo	-	-
-TODO	lexeme	간단하다	simple; are simple	-	Duo	-	-
-TODO	lexeme	자랑	boast	-	Duo	-	-
-TODO	lexeme	농담	joke	-	Duo	-	-
-TODO	lexeme	뜨개질	knitting	-	Duo	-	-
-TODO	lexeme	프로필	profile	-	Duo	-	-
-TODO	lexeme	젊다	young; is young	-	Duo	-	-
-TODO	lexeme	훨씬	much	-	Duo	-	-
-TODO	lexeme	모습	appearance	-	Duo	-	-
-TODO	lexeme	인기	popular	-	Duo	-	-
-TODO	lexeme	희망	hope	-	Duo	-	-
-TODO	lexeme	어서	quickly	-	Duo	-	-
-TODO	lexeme	계획	plan	-	Duo	-	-
-TODO	lexeme	답장	reply	-	Duo	-	-
-TODO	lexeme	행복하게	happy	-	Duo	-	-
-TODO	lexeme	잘 될거예요	everything will be okay	-	Duo	-	-
-TODO	lexeme	레스토랑	restaurant	-	Duo	-	-
-TODO	lexeme	얘기	conversation	-	Duo	-	-
-TODO	lexeme	스테이크	steak	-	Duo	-	-
-TODO	lexeme	점심시간	lunchtime	-	Duo	-	-
-TODO	lexeme	분위기	atmosphere	-	Duo	-	-
-TODO	lexeme	지훈	Jihoon	-	Duo	-	-
-TODO	lexeme	노력	effort	-	Duo	-	-
-TODO	lexeme	광고	advertise	-	Duo	-	-
-TODO	lexeme	블로거	blogger	-	Duo	-	-
-TODO	lexeme	거짓말	lie	-	Duo	-	-
-TODO	lexeme	브이로그	vlog	-	Duo	-	-
-TODO	lexeme	방송	broadcast	-	Duo	-	-
-TODO	lexeme	파리	Paris	-	Duo	-	-
-TODO	lexeme	비디오	video	-	Duo	-	-
-TODO	lexeme	샴페인	champagne	-	Duo	-	-
-TODO	lexeme	불어	French	-	Duo	-	-
-TODO	lexeme	대답	answer	-	Duo	-	-
-TODO	lexeme	도쿄	Tokyo; in Tokyo	-	Duo	-	-
-TODO	lexeme	생활	live	-	Duo	-	-
-TODO	lexeme	언제나	always	-	Duo	-	-
-TODO	lexeme	미리	in advance	-	Duo	-	-
-TODO	lexeme	당연하지	of course	-	Duo	-	-
-TODO	lexeme	일본어	Japanese	-	Duo	-	-
-TODO	lexeme	고민	worry	-	Duo	-	-
-TODO	lexeme	비교	comparison	-	Duo	-	-
-TODO	lexeme	뉴욕	New York; in New York	-	Duo	-	-
-TODO	lexeme	매년	every year	-	Duo	-	-
-TODO	lexeme	뮤지컬	musical	-	Duo	-	-
-TODO	lexeme	좁다	narrow; be narrow	-	Duo	-	-
-TODO	lexeme	도로	road	-	Duo	-	-
-TODO	lexeme	로마	rome	-	Duo	-	-
-TODO	lexeme	숲	forest	-	Duo	-	-
-TODO	lexeme	혼자	alone	-	Duo	-	-
-TODO	lexeme	마음	mind	-	Duo	-	-
-TODO	lexeme	불안	anxious	-	Duo	-	-
-TODO	lexeme	고	go (sound)	-	Duo	-	-
-TODO	lexeme	건강	health	-	Duo	-	-
-TODO	lexeme	고프다	hungry	-	Duo	-	-
-TODO	lexeme	나쁘다	bad	-	Duo	-	-
-TODO	lexeme	요리	dish	-	Duo	-	-
-TODO	lexeme	허리	waist; back; hips	-	Duo	-	-
-TODO	lexeme	닭고기	chicken	-	Duo	-	-
-TODO	lexeme	쥐	mouse	-	Duo	-	-
-TODO	lexeme	털	hair	-	Duo	-	-
-TODO	lexeme	상자	box	-	Duo	-	-
-TODO	lexeme	주사	injection	-	Duo	-	-
-TODO	lexeme	만	ten thousand; only	-	Duo	-	-
-TODO	lexeme	참다	put up with; tolerate	-	Duo	-	-
-TODO	lexeme	수의사	veterinarian	-	Duo	-	-
-TODO	lexeme	동물병원	animal hospital	-	Duo	-	-
-TODO	lexeme	잠시	for a moment	-	Duo	-	-
-TODO	lexeme	줄	line	-	Duo	-	-
-TODO	lexeme	계속	continuously	-	Duo	-	-
-TODO	lexeme	치약	toothpaste	-	Duo	-	-
-TODO	lexeme	발바닥	sole; paw; paws	-	Duo	-	-
-TODO	lexeme	양치질	tooth brushing	-	Duo	-	-
-TODO	lexeme	입	mouth	-	Duo	-	-
-TODO	lexeme	와인	wine	-	Duo	-	-
-TODO	lexeme	연말	end of the year	-	Duo	-	-
-TODO	lexeme	십이월	December	-	Duo	-	-
-TODO	lexeme	초대하다	invite	-	Duo	-	-
-TODO	lexeme	주방	kitchen	-	Duo	-	-
-TODO	lexeme	재료	ingredient	-	Duo	-	-
-TODO	lexeme	빵집	bakery	-	Duo	-	-
-TODO	lexeme	풍선	balloon	-	Duo	-	-
-TODO	lexeme	조카	niece	-	Duo	-	-
-TODO	lexeme	튀기다	fry	-	Duo	-	-
-TODO	lexeme	마르다	dries	-	Duo	-	-
-TODO	lexeme	수프	soup	-	Duo	-	-
-TODO	lexeme	감자	potato	-	Duo	-	-
-TODO	lexeme	그릇	bowl	-	Duo	-	-
-TODO	lexeme	보드 게임	board game	-	Duo	-	-
-TODO	lexeme	망고	mango	-	Duo	-	-
-TODO	lexeme	쿠키	cookie	-	Duo	-	-
-TODO	lexeme	얼다	freeze	-	Duo	-	-
-TODO	lexeme	자다	Sleep	-	Duo	-	-
-TODO	lexeme	이불	blanket	-	Duo	-	-
-TODO	lexeme	춤	dance	-	Duo	-	-
-TODO	lexeme	새해	new year	-	Duo	-	-
-TODO	lexeme	고모	aunt	-	Duo	-	-
-TODO	lexeme	꽃다발	bouquet	-	Duo	-	-
-TODO	lexeme	결혼	marriage; marriages	-	Duo	-	-
-TODO	lexeme	장미	rose	-	Duo	-	-
-TODO	lexeme	을까요	Shall; shall	-	Duo	-	-
-TODO	lexeme	기념일	anniversary	-	Duo	-	-
-TODO	lexeme	주년	anniversary	-	Duo	-	-
-TODO	lexeme	까요	should	-	Duo	-	-
-TODO	lexeme	스카프	scarf	-	Duo	-	-
-TODO	lexeme	보석	jewel	-	Duo	-	-
-TODO	lexeme	꽃집	flower shop	-	Duo	-	-
-TODO	lexeme	귀걸이	earring	-	Duo	-	-
-TODO	lexeme	아주	very	-	Duo	-	-
-TODO	lexeme	맛	taste	-	Duo	-	-
-TODO	lexeme	초	candle	-	Duo	-	-
-TODO	lexeme	랍스터	lobster	-	Duo	-	-
-TODO	lexeme	스튜디오	studio	-	Duo	-	-
-TODO	lexeme	화가	artist	-	Duo	-	-
-TODO	lexeme	커플	couple	-	Duo	-	-
-TODO	lexeme	붓	brush	-	Duo	-	-
-TODO	lexeme	충분하다	is enough	-	Duo	-	-
-TODO	lexeme	액자	frame	-	Duo	-	-
-TODO	lexeme	점점	gradually	-	Duo	-	-
-TODO	lexeme	책장	bookshelf	-	Duo	-	-
-TODO	lexeme	벽	wall	-	Duo	-	-
-TODO	lexeme	선배	senior	-	Duo	-	-
-TODO	lexeme	월요일	Monday	-	Duo	-	-
-TODO	lexeme	을래요	will	-	Duo	-	-
-TODO	lexeme	초대장	invitation	-	Duo	-	-
-TODO	lexeme	행사	event	-	Duo	-	-
-TODO	lexeme	매다	fasten; fastened	-	Duo	-	-
-TODO	lexeme	청바지	jeans	-	Duo	-	-
-TODO	lexeme	넥타이	tie	-	Duo	-	-
-TODO	lexeme	래요	would like to	-	Duo	-	-
-TODO	lexeme	디제이	DJ	-	Duo	-	-
-TODO	lexeme	팝	pop	-	Duo	-	-
-TODO	lexeme	모이다	gather	-	Duo	-	-
-TODO	lexeme	즐기다	enjoy; enjoying	-	Duo	-	-
-TODO	lexeme	흔들다	shakes	-	Duo	-	-
-TODO	lexeme	중간	middle	-	Duo	-	-
-TODO	lexeme	거절하다	decline	-	Duo	-	-
-TODO	lexeme	힘들다	demanding; hard; difficult	-	Duo	-	-
-TODO	lexeme	전혀	never	-	Duo	-	-
-TODO	lexeme	초대	invitation	-	Duo	-	-
-TODO	lexeme	저곳	there	-	Duo	-	-
-TODO	lexeme	바라다	wish; hopes	-	Duo	-	-
-TODO	lexeme	입학	admission	-	Duo	-	-
-TODO	lexeme	수능	CSAT	-	Duo	-	-
-TODO	lexeme	대학교	university	-	Duo	-	-
-TODO	lexeme	그저께	the day before yesterday	-	Duo	-	-
-TODO	lexeme	공부	study	-	Duo	-	-
-TODO	lexeme	과목	subject	-	Duo	-	-
-TODO	lexeme	자신	confidence	-	Duo	-	-
-TODO	lexeme	고등학교	high school	-	Duo	-	-
-TODO	lexeme	독서실	study room	-	Duo	-	-
-TODO	lexeme	시험장	exam hall	-	Duo	-	-
-TODO	lexeme	국어	Korean	-	Duo	-	-
-TODO	lexeme	히터	heater	-	Duo	-	-
-TODO	lexeme	집중	concentration	-	Duo	-	-
-TODO	lexeme	떨리다	trembling	-	Duo	-	-
-TODO	lexeme	못하다	fail	-	Duo	-	-
-TODO	lexeme	특히	especially	-	Duo	-	-
-TODO	lexeme	질문	question	-	Duo	-	-
-TODO	lexeme	평소	usual	-	Duo	-	-
-TODO	lexeme	죄송하다	sorry	-	Duo	-	-
-TODO	lexeme	눈물	tear	-	Duo	-	-
-TODO	lexeme	답	answer	-	Duo	-	-
-TODO	lexeme	가장	the most	-	Duo	-	-
-TODO	lexeme	생각	think	-	Duo	-	-
-TODO	lexeme	옛날	past	-	Duo	-	-
-TODO	lexeme	이틀	two days	-	Duo	-	-
-TODO	lexeme	동안	for	-	Duo	-	-
-TODO	lexeme	조리원	postnatal care center	-	Duo	-	-
-TODO	lexeme	대문	gate	-	Duo	-	-
-TODO	lexeme	출입	enter	-	Duo	-	-
-TODO	lexeme	일주일	week	-	Duo	-	-
-TODO	lexeme	미역국	seaweed soup	-	Duo	-	-
-TODO	lexeme	며칠	how many days	-	Duo	-	-
-TODO	lexeme	백일	hundredth day	-	Duo	-	-
-TODO	lexeme	마다	every	-	Duo	-	-
-TODO	lexeme	어떻게	how	-	Duo	-	-
-TODO	lexeme	젖병	baby bottle	-	Duo	-	-
-TODO	lexeme	잔치	party	-	Duo	-	-
-TODO	lexeme	닮다	look	-	Duo	-	-
-TODO	lexeme	웃다	laugh; smiles	-	Duo	-	-
-TODO	lexeme	백설기	baeksulgi; baekseolgi	-	Duo	-	-
-TODO	lexeme	성격	personality	-	Duo	-	-
-TODO	lexeme	코	nose	-	Duo	-	-
-TODO	lexeme	졸리다	sleepy; feel sleepy; I am sleepy; I feel sleepy; is sleepy	-	Duo	-	-
-TODO	lexeme	비비다	rub; rubbing	-	Duo	-	-
-TODO	lexeme	포대기	baby quilt	-	Duo	-	-
-TODO	lexeme	고 싶다	want	-	Duo	-	-
-TODO	lexeme	직업	job	-	Duo	-	-
-TODO	lexeme	아나운서	announcer	-	Duo	-	-
-TODO	lexeme	공무원	civil servant	-	Duo	-	-
-TODO	lexeme	성공하다	succeeds; succeed; succeeding	-	Duo	-	-
-TODO	lexeme	결정하다	decides; decide; deciding	-	Duo	-	-
-TODO	lexeme	매형	brother-in-law	-	Duo	-	-
-TODO	lexeme	프로그램	program	-	Duo	-	-
-TODO	lexeme	꿈	dream	-	Duo	-	-
-TODO	lexeme	여러 가지	various	-	Duo	-	-
-TODO	lexeme	묻다	asked; ask; asks; asking	-	Duo	-	-
-TODO	lexeme	목표	goal	-	Duo	-	-
-TODO	lexeme	일자리	job opening	-	Duo	-	-
-TODO	lexeme	이끌다	led; lead	-	Duo	-	-
-TODO	lexeme	결과	result	-	Duo	-	-
-TODO	lexeme	구월	September	-	Duo	-	-
-TODO	lexeme	능력	ability	-	Duo	-	-
-TODO	lexeme	직장	workplace	-	Duo	-	-
-TODO	lexeme	그만두다	quits	-	Duo	-	-
-TODO	lexeme	취직	gaining employment; getting a job	-	Duo	-	-
-TODO	lexeme	쏠게요	treat	-	Duo	-	-
-TODO	lexeme	회식	company dinner	-	Duo	-	-
-TODO	lexeme	제대로	properly	-	Duo	-	-
-TODO	lexeme	날짜	date	-	Duo	-	-
-TODO	lexeme	멀리	far	-	Duo	-	-
-TODO	lexeme	저희	we	-	Duo	-	-
-TODO	lexeme	반려견	dog	-	Duo	-	-
-TODO	lexeme	전체	whole	-	Duo	-	-
-TODO	lexeme	반드시	definitely	-	Duo	-	-
-TODO	lexeme	펜션	pension	-	Duo	-	-
-TODO	lexeme	잠깐	moment	-	Duo	-	-
-TODO	lexeme	싣다	loading	-	Duo	-	-
-TODO	lexeme	전철	subway	-	Duo	-	-
-TODO	lexeme	관광객	tourist	-	Duo	-	-
-TODO	lexeme	명	person	-	Duo	-	-
-TODO	lexeme	해외	foreign	-	Duo	-	-
-TODO	lexeme	서둘러요	hurry	-	Duo	-	-
-TODO	lexeme	오토바이	motorcycle	-	Duo	-	-
-TODO	lexeme	미니밴	minivan	-	Duo	-	-
-TODO	lexeme	기름	gasoline	-	Duo	-	-
-TODO	lexeme	지내다	spend	-	Duo	-	-
-TODO	lexeme	잠그다	lock	-	Duo	-	-
-TODO	lexeme	베개	pillow	-	Duo	-	-
-TODO	lexeme	약간	slightly	-	Duo	-	-
-TODO	lexeme	뒤집다	flip	-	Duo	-	-
-TODO	lexeme	개월	month	-	Duo	-	-
-TODO	lexeme	오월	May	-	Duo	-	-
-TODO	lexeme	기다	crawling	-	Duo	-	-
-TODO	lexeme	수 있다	able to ...	-	Duo	-	-
-TODO	lexeme	낮잠	nap	-	Duo	-	-
-TODO	lexeme	번	time	-	Duo	-	-
-TODO	lexeme	십일월	November	-	Duo	-	-
-TODO	lexeme	어린이집	daycare center	-	Duo	-	-
-TODO	lexeme	꿀	honey	-	Duo	-	-
-TODO	lexeme	돌	first birthday	-	Duo	-	-
-TODO	lexeme	이월	February	-	Duo	-	-
-TODO	lexeme	당근	carrot	-	Duo	-	-
-TODO	lexeme	컵	cup	-	Duo	-	-
-TODO	lexeme	박수	clap	-	Duo	-	-
-TODO	lexeme	킥보드	scooter	-	Duo	-	-
-TODO	lexeme	유월	June	-	Duo	-	-
-TODO	lexeme	유럽	Europe	-	Duo	-	-
-TODO	lexeme	요일	day	-	Duo	-	-
-TODO	lexeme	아버지	father	-	Duo	-	-
-TODO	lexeme	휴가	leave	-	Duo	-	-
-TODO	lexeme	비행기	plane	-	Duo	-	-
-TODO	lexeme	올리다	raise	-	Duo	-	-
-TODO	lexeme	술	alcohol	-	Duo	-	-
-TODO	lexeme	가운데	middle	-	Duo	-	-
-TODO	lexeme	사이다	soda	-	Duo	-	-
-TODO	lexeme	벨트	belt	-	Duo	-	-
-TODO	lexeme	놓다	put; puts	-	Duo	-	-
-TODO	lexeme	감다	shut; wraps	-	Duo	-	-
-TODO	lexeme	복도	hallway	-	Duo	-	-
-TODO	lexeme	사이	between	-	Duo	-	-
-TODO	lexeme	갈아타다	transfer	-	Duo	-	-
-TODO	lexeme	다행히	luckily	-	Duo	-	-
-TODO	lexeme	건너편	across	-	Duo	-	-
-TODO	lexeme	거기	there	-	Duo	-	-
-TODO	lexeme	사용	use	-	Duo	-	-
-TODO	lexeme	궁전	palace	-	Duo	-	-
-TODO	lexeme	영국	UK	-	Duo	-	-
-TODO	lexeme	렌터카	rental car	-	Duo	-	-
-TODO	lexeme	잘못	mistake	-	Duo	-	-
-TODO	lexeme	왼쪽	left	-	Duo	-	-
-TODO	lexeme	늦게	late	-	Duo	-	-
-TODO	lexeme	앞치마	apron	-	Duo	-	-
-TODO	lexeme	커피콩	coffee bean	-	Duo	-	-
-TODO	lexeme	기회	opportunity	-	Duo	-	-
-TODO	lexeme	인쇄하다	prints	-	Duo	-	-
-TODO	lexeme	반복하다	repeat; repeats	-	Duo	-	-
-TODO	lexeme	분명하다	to be clear	-	Duo	-	-
-TODO	lexeme	종이	paper	-	Duo	-	-
-TODO	lexeme	순서	order	-	Duo	-	-
-TODO	lexeme	긴장	nervousness	-	Duo	-	-
-TODO	lexeme	잊다	forget; forgets	-	Duo	-	-
-TODO	lexeme	주문	order	-	Duo	-	-
-TODO	lexeme	라떼	latte	-	Duo	-	-
-TODO	lexeme	두유	soy milk	-	Duo	-	-
-TODO	lexeme	설탕	sugar	-	Duo	-	-
-TODO	lexeme	뛰다	jump; jumps	-	Duo	-	-
-TODO	lexeme	흘리다	shed	-	Duo	-	-
-TODO	lexeme	저런	such	-	Duo	-	-
-TODO	lexeme	현금	cash	-	Duo	-	-
-TODO	lexeme	그곳	there	-	Duo	-	-
-TODO	lexeme	직접	personally	-	Duo	-	-
-TODO	lexeme	정문	main gate	-	Duo	-	-
-TODO	lexeme	기계	machine	-	Duo	-	-
-TODO	lexeme	오랫동안	for a long time; ages	-	Duo	-	-
-TODO	lexeme	걸어가다	Walk	-	Duo	-	-
-TODO	lexeme	들	field; carry	-	Duo	-	-
-TODO	lexeme	횡단보도	crosswalk	-	Duo	-	-
-TODO	lexeme	간판	sign	-	Duo	-	-
-TODO	lexeme	밟다	step	-	Duo	-	-
-TODO	lexeme	걸음	walk	-	Duo	-	-
-TODO	lexeme	공휴일	public holiday	-	Duo	-	-
-TODO	lexeme	고속버스	express bus	-	Duo	-	-
-TODO	lexeme	늘	always	-	Duo	-	-
-TODO	lexeme	만지다	touching; touches	-	Duo	-	-
-TODO	lexeme	관리하다	managed	-	Duo	-	-
-TODO	lexeme	저분	that person	-	Duo	-	-
-TODO	lexeme	호랑이	tiger	-	Duo	-	-
-TODO	lexeme	햄버거	hamburger	-	Duo	-	-
-TODO	lexeme	카레	curry	-	Duo	-	-
-TODO	lexeme	모든	all	-	Duo	-	-
-TODO	lexeme	쟁반	tray	-	Duo	-	-
-TODO	lexeme	날다	fly	-	Duo	-	-
-TODO	lexeme	정보	information	-	Duo	-	-
-TODO	lexeme	수족관	aquarium	-	Duo	-	-
-TODO	lexeme	한번	once	-	Duo	-	-
-TODO	lexeme	조심히	carefully	-	Duo	-	-
-TODO	lexeme	거	something	-	Duo	-	-
-TODO	lexeme	카트	cart	-	Duo	-	-
-TODO	lexeme	마리	marie	-	Duo	-	-
-TODO	lexeme	오징어	squid	-	Duo	-	-
-TODO	lexeme	마늘	garlic	-	Duo	-	-
-TODO	lexeme	단순하다	simple	-	Duo	-	-
-TODO	lexeme	소금	salt	-	Duo	-	-
-TODO	lexeme	돈가스	pork cutlet	-	Duo	-	-
-TODO	lexeme	그럼	then	-	Duo	-	-
-TODO	lexeme	오븐	oven	-	Duo	-	-
-TODO	lexeme	하루토	Haruto	-	Duo	-	-
-TODO	lexeme	금방	soon	-	Duo	-	-
-TODO	lexeme	냄비	pot	-	Duo	-	-
-TODO	lexeme	굉장히	extremely	-	Duo	-	-
-TODO	lexeme	칼	knife	-	Duo	-	-
-TODO	lexeme	조금씩	little by little	-	Duo	-	-
-TODO	lexeme	꽃무늬	floral	-	Duo	-	-
-TODO	lexeme	프라이팬	frying pan	-	Duo	-	-
-TODO	lexeme	냅킨	napkin	-	Duo	-	-
-TODO	lexeme	접시	plate	-	Duo	-	-
-TODO	lexeme	그대로	as it is	-	Duo	-	-
-TODO	lexeme	깎다	mowing; carves; mow; mows	-	Duo	-	-
-TODO	lexeme	홍차	black tea	-	Duo	-	-
-TODO	lexeme	골고루	equally	-	Duo	-	-
-TODO	lexeme	가지다	takes; having; have	-	Duo	-	-
-TODO	lexeme	삼촌	uncle	-	Duo	-	-
-TODO	lexeme	사진가	photographer	-	Duo	-	-
-TODO	lexeme	으려고	in order to	-	Duo	-	-
-TODO	lexeme	사월	April	-	Duo	-	-
-TODO	lexeme	유명	famous	-	Duo	-	-
-TODO	lexeme	글쎄요	well	-	Duo	-	-
-TODO	lexeme	려고	to	-	Duo	-	-
-TODO	lexeme	촬영	photography	-	Duo	-	-
-TODO	lexeme	모델	model	-	Duo	-	-
-TODO	lexeme	은행	bank	-	Duo	-	-
-TODO	lexeme	봄	spring	-	Duo	-	-
-TODO	lexeme	여자	woman	-	Duo	-	-
-TODO	lexeme	영화배우	actor	-	Duo	-	-
-TODO	lexeme	원	won	-	Duo	-	-
-TODO	lexeme	화장품	cosmetic	-	Duo	-	-
-TODO	lexeme	얼굴	face	-	Duo	-	-
-TODO	lexeme	십만	one hundred thousand	-	Duo	-	-
-TODO	lexeme	값	price	-	Duo	-	-
-TODO	lexeme	햇빛	sunlight	-	Duo	-	-
-TODO	lexeme	오렌지	orange	-	Duo	-	-
-TODO	lexeme	가구	furniture	-	Duo	-	-
+English	Foreign	Transliteration	Context
+tea	차	-	
+coffee	커피	-	
+hello	안녕하세요	-	
+I'm; or; I; me	나	-	
+juice	주스	-	
+and; with	랑	-	
+please; please give; please give me; I'd like please; I'd like; give me; give; I'd like it; give us; can I have some please	주세요	-	
+bingsu	빙수	-	
+cake	케이크	-	
+thank you	감사합니다	-	
+is; am; are	예요	-	
+kimchi	김치	-	
+tofu	두부	-	
+my	제	-	
+japchae	잡채	-	
+dumpling	만두	-	
+delicious	맛있는	-	
+meat	고기	-	
+stew	찌개	-	
+hot	뜨거운	-	
+cell phone	핸드폰	-	
+new	새	-	
+is; am; are	이에요	-	
+bag	가방	-	
+wallet	지갑	-	
+book	책	-	
+white	하얀색	-	
+is heavy	무겁다	-	
+pen	볼펜	-	
+camera	카메라	-	
+expensive	비싼	-	
+I	저	-	
+Mr.; seed; Ms.; (form of address); ssi	씨	-	
+Minjun's; Minjun	민준	-	
+Bora; Bora's	보라	-	
+is	는	-	
+company employee	회사원	-	
+doctor	의사	-	
+teacher	선생님	-	
+yes	네	-	
+Nice to meet you	반가워요	-	
+Chinese; China	중국	-	
+person	사람	-	
+Korea	한국	-	
+USA; American; us	미국	-	
+no	아니요	-	
+thirty	서른	-	
+buy; get; purchase; live; pick up	살	-	
+a few; how many; which; what; some	몇	-	
+friend	친구	-	
+nineteen	열아홉	-	
+Meow's; Meow	야옹	-	
+five	다섯	-	
+grey	회색	-	
+cat	고양이	-	
+silver; is	은	-	
+hungry; are hungry	배고파요	-	
+food	음식	-	
+How about	어때요	-	
+spicy	매운	-	
+boss; owner	사장님	-	
+galbitang	갈비탕	-	
+ramyeon	라면	-	
+this	이것	-	
+rice	밥	-	
+tteokbokki	떡볶이	-	
+sweet	단	-	
+and; with	이랑	-	
+bubble tea	버블티	-	
+bread	빵	-	
+birthday	생일	-	
+today	오늘	-	
+'s; of; s'; ’s	의	-	
+younger sister	여동생	-	
+fifteen	열다섯	-	
+gift	선물	-	
+watch	시계	-	
+necklace	목걸이	-	
+cute	귀여운	-	
+happy birthday	생일 축하해요	-	
+with; wow; whoa; come; and	와	-	
+would you like; do you want	드릴까요	-	
+strawberry	딸기	-	
+family	가족	-	
+airport	공항	-	
+there are; are; is there; there is; is; is on; it's; do you have; is located; have; be; has; I have; is here; exist; there's; are there	있어요	-	
+at; on; in; e (sound); to	에	-	
+here	여기	-	
+passport	여권	-	
+ticket	표	-	
+bathroom	화장실	-	
+restaurant	식당	-	
+where	어디	-	
+café; cafe	카페	-	
+near	근처	-	
+gate	게이트	-	
+water	물	-	
+excuse me	실례합니다	-	
+seat	자리	-	
+exercise	운동	-	
+reading	독서	-	
+what	뭐	-	
+hobby	취미	-	
+even; degrees; do (sound); too; also; as	도	-	
+jazz	재즈	-	
+K-pop	케이팝	-	
+fan	팬	-	
+taekwondo	태권도	-	
+player	선수	-	
+soccer	축구	-	
+this; these; 2; two	이	-	
+famous	유명한	-	
+funny	웃긴	-	
+author	작가	-	
+actor	배우	-	
+melodrama	멜로	-	
+drama	드라마	-	
+tomorrow	내일	-	
+game	경기	-	
+baseball	야구	-	
+big; is big; large; huge; bigger; are big	크다	-	
+there	저기	-	
+stadium	경기장	-	
+good	좋은	-	
+ball	공	-	
+go on; fighting; good luck	화이팅	-	
+we	우리	-	
+beer	맥주	-	
+fried chicken	치킨	-	
+store	가게	-	
+popcorn	팝콘	-	
+exit	출구	-	
+take care	잘 가요	-	
+team	팀	-	
+bus	버스	-	
+n't; not; isn't	아니다	-	
+student ID	학생증	-	
+money	돈	-	
+stop	정류장	-	
+post office	우체국	-	
+map	지도	-	
+go to; goes; do fly; do get; go; does go; do go; do you go; come; street; to	가	-	
+special	특별한	-	
+that	저것	-	
+cheap	싼	-	
+postcard	엽서	-	
+Jeju Island	제주도	-	
+travel agency	여행사	-	
+cup	잔	-	
+notebook	수첩	-	
+tangerine	귤	-	
+Busan; of Busan; in Busan	부산	-	
+hometown	고향	-	
+parents	부모님	-	
+pretty	예쁜	-	
+puppy	강아지	-	
+six	여섯	-	
+air conditioner	에어컨	-	
+welcome	환영해요	-	
+this person	이분	-	
+older brother	형	-	
+close	친한	-	
+cousin	사촌	-	
+fanciest	화려하다	-	
+really	정말요	-	
+city	도시	-	
+dad	아빠	-	
+Seoul; in Seoul; of Seoul	서울	-	
+professor	교수	-	
+lawyer	변호사	-	
+student	학생	-	
+tall; is tall	높다	-	
+camp	캠핑	-	
+Friday	금요일	-	
+weather	날씨	-	
+mountain	산	-	
+sweet; is sweet	달다	-	
+small; little; is small	작다	-	
+expensive; are expensive	비싸다	-	
+tent	텐트	-	
+apple	사과	-	
+clear; is clear	맑다	-	
+good; like; is great; great; nice; is nice; are in good	좋다	-	
+temperature	기온	-	
+lake	호수	-	
+however	그런데	-	
+doenjang jjigae	된장찌개	-	
+snack	과자	-	
+many; lots; there are many	많다	-	
+tree	나무	-	
+morning	아침	-	
+mosquito	모기	-	
+necessary; need; needing	필요하다	-	
+available	한가하다	-	
+house	집	-	
+Quiet	조용하다	-	
+is kind	친절하다	-	
+neighbor	이웃	-	
+neighborhood	동네	-	
+clean	깨끗하다	-	
+apartment	아파트	-	
+special	특별하다	-	
+size	크기	-	
+window	창문	-	
+room	방	-	
+tired; I'm tired	피곤하다	-	
+fine	괜찮다	-	
+now	이제	-	
+price	가격	-	
+cool	멋있다	-	
+to be interesting; is interesting; funny	재미있다	-	
+really	정말	-	
+blind date	소개팅	-	
+is pretty; pretty	예쁘다	-	
+smile	미소	-	
+Anna	안나	-	
+Saturday	토요일	-	
+cold; is cold	춥다	-	
+near; close; near by	가깝다	-	
+spicy	맵다	-	
+Peter	피터	-	
+pasta	파스타	-	
+cheap; packs; is cheap	싸다	-	
+is/are famous; famous	유명하다	-	
+hot	뜨겁다	-	
+is delicious; are delicious; yum	맛있다	-	
+be careful	조심해요	-	
+weird; unusual; strange; (is) weird/strange	이상하다	-	
+be thankful; thank	고맙다	-	
+introduction	소개	-	
+little	조금	-	
+are beautiful; is beautiful; beautiful	아름답다	-	
+To go; going; gone; go	가다	-	
+incheon	인천	-	
+karaoke room	노래방	-	
+famous restaurant	맛집	-	
+which	어떤	-	
+downtown	시내	-	
+bookstore	서점	-	
+at; from; in; to	에서	-	
+swim	수영하다	-	
+sea; ocean	바다	-	
+greet; greets	인사하다	-	
+subway station	전철역	-	
+kitchen	부엌	-	
+diligently	열심히	-	
+refrigerator	냉장고	-	
+living room	거실	-	
+couch	소파	-	
+television	텔레비전	-	
+mom	엄마	-	
+studies; studying	공부하다	-	
+clean	청소하다	-	
+different	다른	-	
+desk	책상	-	
+bedroom	침실	-	
+sometimes	가끔	-	
+towel	수건	-	
+exercise	운동하다	-	
+often	자주	-	
+older sister	누나	-	
+yard	마당	-	
+like; liking	좋아하다	-	
+Tuesday	화요일	-	
+party	파티	-	
+Christmas	크리스마스	-	
+hmm	음	-	
+sneaker	운동화	-	
+red	빨간색	-	
+flower	꽃	-	
+toy	장난감	-	
+bitter; write	쓰다	-	
+ice cream	아이스크림	-	
+fruit	과일	-	
+chocolate	초콜릿	-	
+Oh	아	-	
+snow	눈	-	
+Merry Christmas	메리 크리스마스	-	
+game	게임	-	
+do	하다	-	
+together	같이	-	
+concert	콘서트	-	
+girl group	걸그룹	-	
+internet	인터넷	-	
+singer	가수	-	
+song	노래	-	
+ordered	주문하다	-	
+far	멀다	-	
+stage	무대	-	
+are good at	잘하네요	-	
+horse; the horse; horses; language; word; talk; words; of horse	말	-	
+Korean	한국어	-	
+rap	랩	-	
+look around	구경	-	
+black	검은색	-	
+really	진짜	-	
+T-shirt	티셔츠	-	
+like	마음에 들어요	-	
+enter	들어가다	-	
+nearby	가까운	-	
+cinema	영화관	-	
+sell	팔다	-	
+buy; is a four	사다	-	
+candy	사탕	-	
+snack	간식	-	
+hate; dislike	싫어하다	-	
+movie	영화	-	
+action	액션	-	
+is scary	무섭다	-	
+remember	기억하다	-	
+number	번호	-	
+tidy; organize; clear	정리하다	-	
+see you again	또 봐요	-	
+trash can	쓰레기통	-	
+father; encounter; encountering; met; seeing; encounters	만나다	-	
+borrow; borrows; rent; borrowing	빌리다	-	
+Reo (sound)	러	-	
+library	도서관	-	
+read; reads	읽다	-	
+locate; discover; searches; seek	찾다	-	
+comes; coming; come	오다	-	
+go; to	으러	-	
+dictionary	사전	-	
+textbook	교과서	-	
+watch; seen; sees; looking; watches; than	보다	-	
+weekly	매주	-	
+English	영어	-	
+place	곳	-	
+computer	컴퓨터	-	
+every day	매일	-	
+magazine	잡지	-	
+comic	만화	-	
+newspaper	신문	-	
+always	항상	-	
+copier	복사기	-	
+slow	느리다	-	
+familiar	익숙하다	-	
+bike	자전거	-	
+card	카드	-	
+taking	타다	-	
+car	자동차	-	
+park	주차	-	
+crowded; intricate	복잡하다	-	
+helmet	헬멧	-	
+drive	운전	-	
+road	길	-	
+stair	계단	-	
+station	역	-	
+subway	지하철	-	
+Gangnam	강남	-	
+sit	앉다	-	
+terminal	터미널	-	
+oh no	이런	-	
+transportation	교통	-	
+is fresh	신선하다	-	
+mart	마트	-	
+shop	쇼핑	-	
+goods	물건	-	
+galbi; grilled ribs; rib; ribs	갈비	-	
+how much	얼마	-	
+naengmyeon	냉면	-	
+gotten	되다	-	
+cola	콜라	-	
+discount	할인	-	
+drink	음료수	-	
+banana	바나나	-	
+grape	포도	-	
+green	초록색	-	
+employee	직원	-	
+hard; harder; it is difficult to	어렵다	-	
+customer	손님	-	
+Please come again	또 오세요	-	
+wow	우와	-	
+bag	봉투	-	
+calls; called	부르다	-	
+nurse	간호사	-	
+hospital	병원	-	
+child	아이	-	
+ache; sick; ill; hurt; aching	아프다	-	
+leg	다리	-	
+head	머리	-	
+stomach; a boat; pear; ship; pears; times; boat; bae (sound); belly	배	-	
+know—i	알다	-	
+symptom	증상	-	
+medicine	약	-	
+heals	치료하다	-	
+illness	병	-	
+wound	상처	-	
+less; write	적다	-	
+eats; eaten; eating; eat; taken; grabbing	먹다	-	
+pharmacy	약국	-	
+pharmacist	약사	-	
+is; there are; have; has; are; there is; there's	있다	-	
+college student	대학생	-	
+daughter	딸	-	
+music	음악	-	
+tennis	테니스	-	
+club	동아리	-	
+many	많이	-	
+school	학교	-	
+I have no; there is no; doesn't have; there is not any; isn't; never; has no	없다	-	
+major	전공	-	
+homework	숙제	-	
+class	수업	-	
+time	시간	-	
+boyfriend	남자 친구	-	
+playground	운동장	-	
+date	데이트	-	
+convenience store	편의점	-	
+washing machine	세탁기	-	
+dormitory	기숙사	-	
+again	또	-	
+very much; ugly; very	별로	-	
+clothes	옷	-	
+hat	모자	-	
+department store	백화점	-	
+especially	특별히	-	
+briefly	간단히	-	
+mingling	어울리다	-	
+well	잘	-	
+kindly	친절히	-	
+pants	바지	-	
+bed	침대	-	
+table	테이블	-	
+usually	보통	-	
+laptop	노트북	-	
+immediately	바로	-	
+definitely	꼭	-	
+too	너무	-	
+comfortable	편하게	-	
+hot	덥다	-	
+drive	운전하다	-	
+giving; gives; presents; present; given; give	주다	-	
+grandfather	할아버지	-	
+swimming pool	수영장	-	
+clean	깨끗이	-	
+soap	비누	-	
+first	먼저	-	
+put; add; loading	넣다	-	
+shut; close; closed	닫다	-	
+key	열쇠	-	
+door	문	-	
+walking; walk; rolling	걷다	-	
+slowly	천천히	-	
+here	이쪽	-	
+warm	따뜻하게	-	
+sent	보내다	-	
+address	주소	-	
+company	회사	-	
+message	메시지	-	
+with; as; toward; to; by; via	로	-	
+Shoot	찍다	-	
+name	이름	-	
+photo	사진	-	
+with; toward; to; by	으로	-	
+Ascend	올라가다	-	
+manager	부장님	-	
+office	사무실	-	
+up	위	-	
+outside	밖	-	
+three	삼	-	
+right	오른쪽	-	
+floor	층	-	
+confirm; check; checking	확인하다	-	
+Thank you for your work!	수고하셨습니다	-	
+document	서류	-	
+there	저쪽	-	
+grandmother	할머니	-	
+week	주	-	
+next	다음	-	
+when	언제	-	
+Chuseok	추석	-	
+home	댁	-	
+get; gets; receive; receiving; got; received; receives; gotten	받다	-	
+hanbok	한복	-	
+older sister	언니	-	
+day	날	-	
+makes; making	만들다	-	
+market	시장	-	
+rice cake	떡	-	
+Wednesday	수요일	-	
+too late	늦었어요	-	
+yutnori	윷놀이	-	
+train	기차	-	
+night	밤	-	
+month	달	-	
+birthday	생신	-	
+March	삼월	-	
+correcting; fixes; fix; corrects	고치다	-	
+who	누가	-	
+oppa	오빠	-	
+wrap	포장하다	-	
+kimbap	김밥	-	
+pickled radish	단무지	-	
+to draw; paints	그리다	-	
+picture	그림	-	
+who	누구	-	
+dry	닦다	-	
+chalkboard	칠판	-	
+fan	선풍기	-	
+floor	바닥	-	
+break	고장났어요	-	
+classroom	교실	-	
+unlock; unlocks	열다	-	
+novel	소설책	-	
+science	과학	-	
+drink; drinks; drunk; drinking	마시다	-	
+milk	우유	-	
+son	아들	-	
+don't	안	-	
+then	그러면	-	
+blue	파란색	-	
+skirt	치마	-	
+dress shoes	구두	-	
+flashes; play	치다	-	
+can't; I can't; have not; you can't; not be able; I cannot; didn't; cannot; can not; can’t	못	-	
+park	공원	-	
+picnic	소풍	-	
+baby	아기	-	
+text	글	-	
+still	아직	-	
+quietly	조용히	-	
+drum	드럼	-	
+ear	귀	-	
+piano	피아노	-	
+stand; west; in	서	-	
+rain	비	-	
+trip	여행	-	
+sorry	죄송해요	-	
+taxi	택시	-	
+Thailand	태국	-	
+museum	박물관	-	
+hike	등산	-	
+appointment; promises; your promise; promise; appointments	약속	-	
+sleep	잠	-	
+body	몸	-	
+venue	장소	-	
+lazier	게으르다	-	
+break	고장나다	-	
+meeting	회의	-	
+elevator	엘리베이터	-	
+time	때	-	
+elementary school	초등학교	-	
+Korean restaurant	한식당	-	
+long time	오랜만	-	
+just now	방금	-	
+menu	메뉴판	-	
+bibimbap	비빔밥	-	
+ordering	시키다	-	
+kimchi stew	김치찌개	-	
+will eat well	잘 먹겠습니다	-	
+a little while ago	아까	-	
+prepared	드리다	-	
+receipt	영수증	-	
+chopsticks	젓가락	-	
+is; am; are; was	이다	-	
+thank you for the meal	잘 먹었습니다	-	
+dessert	디저트	-	
+quickly	빨리	-	
+beware	조심하다	-	
+aunt	아주머니	-	
+Oh no	어떡해요	-	
+calls; dialed	전화하다	-	
+email	이메일	-	
+younger brother	남동생	-	
+to fall	넘어지다	-	
+hand	손	-	
+bandage; aids	반창고	-	
+explains; explained; describe	설명하다	-	
+concerns	걱정하다	-	
+text message	문자	-	
+foot	발	-	
+get better; heals	낫다	-	
+all	다	-	
+worry	걱정	-	
+unnecessary	필요 없어요	-	
+arise	생기다	-	
+PC bang	피씨방	-	
+already	벌써	-	
+spoon	숟가락	-	
+jajangmyeon	짜장면	-	
+service	서비스	-	
+happy	기쁘다	-	
+beat; wins; beats; defeating	이기다	-	
+level	레벨	-	
+count; counting	세다	-	
+picks; picking; choosing	고르다	-	
+switching; change; switch	바꾸다	-	
+character	캐릭터	-	
+extinguish; put out	끄다	-	
+aunt	이모	-	
+light	불	-	
+time; si (sound); si; at; poetry; o'clock; city; poems	시	-	
+Olympics	올림픽	-	
+this time	이번	-	
+French; France	프랑스	-	
+fast; is fast	빠르다	-	
+ten	열	-	
+now	지금	-	
+thirty	반	-	
+run	달리기	-	
+two	둘	-	
+practice	연습	-	
+basketball	농구	-	
+Japan	일본	-	
+twelve	열둘	-	
+table tennis	탁구	-	
+Indonesia	인도네시아	-	
+four	넷	-	
+ends; finished; finish	끝나다	-	
+departure	출발	-	
+check in	체크인	-	
+exam	시험	-	
+which	어느	-	
+foreign language	외국어	-	
+color	색	-	
+notebook	공책	-	
+spoken; speaks; speak; talks; saying; say; speaking; telling	말하다	-	
+first	일	-	
+chair	의자	-	
+building	건물	-	
+thing	것	-	
+glasses	안경	-	
+pencil case	필통	-	
+pencil	연필	-	
+word	단어	-	
+more	더	-	
+yesterday	어제	-	
+samgyetang	삼계탕	-	
+to blow	불다	-	
+this year	올해	-	
+wind	바람	-	
+umbrella	우산	-	
+afternoon	오후	-	
+autumn	가을	-	
+less	덜	-	
+last year	작년	-	
+looks	보이다	-	
+animal	동물	-	
+winter	겨울	-	
+these days	요즘	-	
+cold	감기	-	
+sky	하늘	-	
+long; is long	길다	-	
+Namdaemun	남대문	-	
+most	제일	-	
+chef	요리사	-	
+that	그	-	
+bulgogi	불고기	-	
+young	어리다	-	
+through; among; over; during; on	중에	-	
+high school student	고등학생	-	
+ski	스키	-	
+actress	여자 배우	-	
+Canada; Canadian	캐나다	-	
+play	연극	-	
+foreigner	외국인	-	
+Of course	그럼요	-	
+summer	여름	-	
+season	계절	-	
+watermelon	수박	-	
+ice	아이스	-	
+Americano	아메리카노	-	
+lunchbox	도시락	-	
+dawn	새벽	-	
+late-night snack	야식	-	
+egg	계란	-	
+triangle kimbap	삼각 김밥	-	
+fork	포크	-	
+sausage	소시지	-	
+microwave	전자레인지	-	
+mix; mixing	섞다	-	
+banana milk	바나나 우유	-	
+straw	빨대	-	
+bench	벤치	-	
+potato chips	감자칩	-	
+cream bread	크림빵	-	
+plastic	플라스틱	-	
+yogurt	요구르트	-	
+front	앞	-	
+package	택배	-	
+is important; important; are important	중요하다	-	
+behind	뒤	-	
+zoo	동물원	-	
+phone number	전화번호	-	
+counter	카운터	-	
+name	성함	-	
+what is; What is; what is your	어떻게 되세요	-	
+truck	트럭	-	
+next to	옆	-	
+tracking number	추적 번호	-	
+location	위치	-	
+contact; contacting	연락하다	-	
+arrive; arrived; arriving	도착하다	-	
+finally	드디어	-	
+husband	남편	-	
+dining table	식탁	-	
+sink	싱크대	-	
+rest	쉬다	-	
+completely	푹	-	
+vase	꽃병	-	
+garden	정원	-	
+fish	생선	-	
+diary	일기	-	
+news	뉴스	-	
+wife	아내	-	
+dancing	춤추다	-	
+together	함께	-	
+happily	즐겁게	-	
+arm	팔	-	
+mainly	주로	-	
+equally	똑같이	-	
+Sunday	일요일	-	
+take a nap	낮잠을 자요	-	
+Friday night	불금	-	
+weekend	주말	-	
+completely	완전히	-	
+sing	노래하다	-	
+like	갈래요	-	
+band	밴드	-	
+gets; won; gain; gotten	얻다	-	
+to listen; listen	듣다	-	
+guitar	기타	-	
+sound	소리	-	
+speaker	스피커	-	
+bright	밝다	-	
+excellent; great	훌륭하다	-	
+street	거리	-	
+Han River	한강	-	
+girlfriend	여자 친구	-	
+star	별	-	
+be full	배부르다	-	
+indeed	역시	-	
+coupon	쿠폰	-	
+sashimi restaurant	횟집	-	
+word; story; stories; tale	이야기	-	
+and; with; play; do; have; doing; throw; having	하고	-	
+in the past	예전	-	
+first	처음	-	
+each other	서로	-	
+different; is different	다르다	-	
+wedding	결혼식	-	
+brown	갈색	-	
+suit	양복	-	
+lives; lived	살다	-	
+happy; is happy	행복하다	-	
+earned; earn; earns	벌다	-	
+grows; raise; raising	키우다	-	
+dog	개	-	
+is special; precious	소중하다	-	
+believes; believe; believing	믿다	-	
+first love	첫사랑	-	
+bracelet	팔찌	-	
+dress	드레스	-	
+long	오래	-	
+change; to change	갈다	-	
+ashamed	부끄럽다	-	
+consistently	꾸준히	-	
+letter	편지	-	
+bouquet	부케	-	
+collects; collect	모으다	-	
+everyone	모두	-	
+housework	집안일	-	
+Review	복습하다	-	
+prepared	준비하다	-	
+eraser	지우개	-	
+history	역사	-	
+folder	폴더	-	
+rag	걸레	-	
+broom	빗자루	-	
+neat	깔끔하게	-	
+rubber gloves	고무 장갑	-	
+rice	쌀	-	
+side dish	반찬	-	
+cold	차갑다	-	
+soda	소다	-	
+ice	얼음	-	
+awesome	대박	-	
+repeatedly	자꾸	-	
+early	일찍	-	
+seven	일곱	-	
+yoga	요가	-	
+nine	아홉	-	
+morning	오전	-	
+math	수학	-	
+soon	곧	-	
+lunch	점심	-	
+Wait a minute	잠깐만요	-	
+one	한	-	
+meeting	모임	-	
+miss; missed	놓치다	-	
+already	이미	-	
+three	세	-	
+last	마지막	-	
+performance	공연	-	
+eight	여덟	-	
+evening	저녁	-	
+arrive	도착	-	
+ten	십	-	
+minute	분	-	
+commute	출근	-	
+twenty	이십	-	
+day	하루	-	
+day; daytime	낮	-	
+presentation	발표	-	
+fits	맞다	-	
+content	내용	-	
+again	다시	-	
+five	오	-	
+after	후	-	
+late	지각	-	
+suddenly	갑자기	-	
+fifty	오십	-	
+preparation	준비	-	
+make	내다	-	
+end of work	퇴근	-	
+forty	사십	-	
+work	수고	-	
+Central America	중미	-	
+from	부터	-	
+years; the year; year; years of work experience	년	-	
+studies; learn	배우다	-	
+Panama	파나마	-	
+country	나라	-	
+Spanish	스페인어	-	
+until; to; by; till	까지	-	
+begins; begin	시작하다	-	
+language	언어	-	
+August	팔월	-	
+month	월	-	
+choose; chosen; select; choosing	선택하다	-	
+July	칠월	-	
+vacation	방학	-	
+seven	칠	-	
+next year	내년	-	
+luggage	짐	-	
+helps; help	돕다	-	
+master bedroom	안방	-	
+tidy	정리	-	
+wardrobe	옷장	-	
+lying; lay	눕다	-	
+collects	줍다	-	
+trash	쓰레기	-	
+beautiful; is beautiful	곱다	-	
+abandon	버리다	-	
+dress	원피스	-	
+color	색깔	-	
+cute; is cute; pretty; are cute	귀엽다	-	
+ask	물어보다	-	
+yellow	노란색	-	
+four	사	-	
+extremely	엄청	-	
+dirty; not clean	더럽다	-	
+anything	아무것	-	
+calculate	계산	-	
+severe	심하다	-	
+product	상품	-	
+which; what; what's	무슨	-	
+problem	문제	-	
+blouse	블라우스	-	
+shape	모양	-	
+button	단추	-	
+thoroughly	자세히	-	
+how	얼마나	-	
+is new; new	새롭다	-	
+Exchange	교환하다	-	
+shopping mall	쇼핑몰	-	
+short	짧다	-	
+wishing	원하다	-	
+pink	분홍색	-	
+size	사이즈	-	
+just	그냥	-	
+very	참	-	
+what a relief	다행이에요	-	
+free	무료	-	
+grabbing	잡다	-	
+possibly	혹시	-	
+driver	기사님	-	
+lost	잃다	-	
+sightseeing	구경하다	-	
+city hall	시청	-	
+excuse me	저기요	-	
+fifteen	십오	-	
+six	육	-	
+later	이따가	-	
+theater	극장	-	
+ticket booth	매표소	-	
+grill; bake; grilling	굽다	-	
+about; About	쯤	-	
+restaurant	고깃집	-	
+late	늦다	-	
+thirty	삼십	-	
+hotel	호텔	-	
+a bit	좀	-	
+sad	슬프다	-	
+reason	이유	-	
+mistake	실수	-	
+why	왜	-	
+leaves	떠나다	-	
+pass; passed	지나가다	-	
+hurry	급하게	-	
+back	뒤쪽	-	
+stand	서요	-	
+waiting; wait	기다리다	-	
+separate	따로	-	
+doll	인형	-	
+sorry	미안하다	-	
+miss	그립다	-	
+mood	기분	-	
+elephant	코끼리	-	
+compliment	칭찬하다	-	
+untying; untie; unwrap	풀다	-	
+why	왜요	-	
+misunderstanding	오해	-	
+purple	보라색	-	
+later	나중	-	
+to	한테	-	
+middle school	중학교	-	
+younger sibling	동생	-	
+shoe	신발	-	
+sportswear	운동복	-	
+height	키	-	
+junior	후배	-	
+orange	주황색	-	
+Wear	신다	-	
+from	한테서	-	
+sock	양말	-	
+ring	반지	-	
+cut; cuts	자르다	-	
+salon	미용실	-	
+recommendation	추천	-	
+rule	규칙	-	
+art	미술	-	
+first	첫	-	
+schedule	시간표	-	
+scissors	가위	-	
+occur/break out	나다	-	
+cough	기침	-	
+to	께	-	
+news	소식	-	
+citron tea	유자차	-	
+throat	목	-	
+favor	부탁	-	
+telephone; phone; call; telephones	전화	-	
+word	말씀	-	
+sneeze	재채기	-	
+mask	마스크	-	
+explanation	설명	-	
+cough drops	목캔디	-	
+reservation	예약	-	
+voice	목소리	-	
+stop	그만	-	
+app	어플	-	
+self-introduction	자기소개	-	
+experience	경험	-	
+simple; are simple	간단하다	-	
+boast	자랑	-	
+joke	농담	-	
+knitting	뜨개질	-	
+profile	프로필	-	
+young; is young	젊다	-	
+much	훨씬	-	
+appearance	모습	-	
+popular	인기	-	
+hope	희망	-	
+quickly	어서	-	
+plan	계획	-	
+reply	답장	-	
+happy	행복하게	-	
+everything will be okay	잘 될거예요	-	
+restaurant	레스토랑	-	
+conversation	얘기	-	
+steak	스테이크	-	
+lunchtime	점심시간	-	
+atmosphere	분위기	-	
+Jihoon	지훈	-	
+effort	노력	-	
+advertise	광고	-	
+blogger	블로거	-	
+lie	거짓말	-	
+vlog	브이로그	-	
+broadcast	방송	-	
+Paris	파리	-	
+video	비디오	-	
+champagne	샴페인	-	
+French	불어	-	
+answer	대답	-	
+Tokyo; in Tokyo	도쿄	-	
+live	생활	-	
+always	언제나	-	
+in advance	미리	-	
+of course	당연하지	-	
+Japanese	일본어	-	
+worry	고민	-	
+comparison	비교	-	
+New York; in New York	뉴욕	-	
+every year	매년	-	
+musical	뮤지컬	-	
+narrow; be narrow	좁다	-	
+road	도로	-	
+rome	로마	-	
+forest	숲	-	
+alone	혼자	-	
+mind	마음	-	
+anxious	불안	-	
+go (sound)	고	-	
+health	건강	-	
+hungry	고프다	-	
+bad	나쁘다	-	
+dish	요리	-	
+waist; back; hips	허리	-	
+chicken	닭고기	-	
+mouse	쥐	-	
+hair	털	-	
+box	상자	-	
+injection	주사	-	
+ten thousand; only	만	-	
+put up with; tolerate	참다	-	
+veterinarian	수의사	-	
+animal hospital	동물병원	-	
+for a moment	잠시	-	
+line	줄	-	
+continuously	계속	-	
+toothpaste	치약	-	
+sole; paw; paws	발바닥	-	
+tooth brushing	양치질	-	
+mouth	입	-	
+wine	와인	-	
+end of the year	연말	-	
+December	십이월	-	
+invite	초대하다	-	
+kitchen	주방	-	
+ingredient	재료	-	
+bakery	빵집	-	
+balloon	풍선	-	
+niece	조카	-	
+fry	튀기다	-	
+dries	마르다	-	
+soup	수프	-	
+potato	감자	-	
+bowl	그릇	-	
+board game	보드 게임	-	
+mango	망고	-	
+cookie	쿠키	-	
+freeze	얼다	-	
+Sleep	자다	-	
+blanket	이불	-	
+dance	춤	-	
+new year	새해	-	
+aunt	고모	-	
+bouquet	꽃다발	-	
+marriage; marriages	결혼	-	
+rose	장미	-	
+Shall; shall	을까요	-	
+anniversary	기념일	-	
+anniversary	주년	-	
+should	까요	-	
+scarf	스카프	-	
+jewel	보석	-	
+flower shop	꽃집	-	
+earring	귀걸이	-	
+very	아주	-	
+taste	맛	-	
+candle	초	-	
+lobster	랍스터	-	
+studio	스튜디오	-	
+artist	화가	-	
+couple	커플	-	
+brush	붓	-	
+is enough	충분하다	-	
+frame	액자	-	
+gradually	점점	-	
+bookshelf	책장	-	
+wall	벽	-	
+senior	선배	-	
+Monday	월요일	-	
+will	을래요	-	
+invitation	초대장	-	
+event	행사	-	
+fasten; fastened	매다	-	
+jeans	청바지	-	
+tie	넥타이	-	
+would like to	래요	-	
+DJ	디제이	-	
+pop	팝	-	
+gather	모이다	-	
+enjoy; enjoying	즐기다	-	
+shakes	흔들다	-	
+middle	중간	-	
+decline	거절하다	-	
+demanding; hard; difficult	힘들다	-	
+never	전혀	-	
+invitation	초대	-	
+there	저곳	-	
+wish; hopes	바라다	-	
+admission	입학	-	
+CSAT	수능	-	
+university	대학교	-	
+the day before yesterday	그저께	-	
+study	공부	-	
+subject	과목	-	
+confidence	자신	-	
+high school	고등학교	-	
+study room	독서실	-	
+exam hall	시험장	-	
+Korean	국어	-	
+heater	히터	-	
+concentration	집중	-	
+trembling	떨리다	-	
+fail	못하다	-	
+especially	특히	-	
+question	질문	-	
+usual	평소	-	
+sorry	죄송하다	-	
+tear	눈물	-	
+answer	답	-	
+the most	가장	-	
+think	생각	-	
+past	옛날	-	
+two days	이틀	-	
+for	동안	-	
+postnatal care center	조리원	-	
+gate	대문	-	
+enter	출입	-	
+week	일주일	-	
+seaweed soup	미역국	-	
+how many days	며칠	-	
+hundredth day	백일	-	
+every	마다	-	
+how	어떻게	-	
+baby bottle	젖병	-	
+party	잔치	-	
+look	닮다	-	
+laugh; smiles	웃다	-	
+baeksulgi; baekseolgi	백설기	-	
+personality	성격	-	
+nose	코	-	
+sleepy; feel sleepy; I am sleepy; I feel sleepy; is sleepy	졸리다	-	
+rub; rubbing	비비다	-	
+baby quilt	포대기	-	
+want	고 싶다	-	
+job	직업	-	
+announcer	아나운서	-	
+civil servant	공무원	-	
+succeeds; succeed; succeeding	성공하다	-	
+decides; decide; deciding	결정하다	-	
+brother-in-law	매형	-	
+program	프로그램	-	
+dream	꿈	-	
+various	여러 가지	-	
+asked; ask; asks; asking	묻다	-	
+goal	목표	-	
+job opening	일자리	-	
+led; lead	이끌다	-	
+result	결과	-	
+September	구월	-	
+ability	능력	-	
+workplace	직장	-	
+quits	그만두다	-	
+gaining employment; getting a job	취직	-	
+treat	쏠게요	-	
+company dinner	회식	-	
+properly	제대로	-	
+date	날짜	-	
+far	멀리	-	
+we	저희	-	
+dog	반려견	-	
+whole	전체	-	
+definitely	반드시	-	
+pension	펜션	-	
+moment	잠깐	-	
+loading	싣다	-	
+subway	전철	-	
+tourist	관광객	-	
+person	명	-	
+foreign	해외	-	
+hurry	서둘러요	-	
+motorcycle	오토바이	-	
+minivan	미니밴	-	
+gasoline	기름	-	
+spend	지내다	-	
+lock	잠그다	-	
+pillow	베개	-	
+slightly	약간	-	
+flip	뒤집다	-	
+month	개월	-	
+May	오월	-	
+crawling	기다	-	
+able to ...	수 있다	-	
+nap	낮잠	-	
+time	번	-	
+November	십일월	-	
+daycare center	어린이집	-	
+honey	꿀	-	
+first birthday	돌	-	
+February	이월	-	
+carrot	당근	-	
+cup	컵	-	
+clap	박수	-	
+scooter	킥보드	-	
+June	유월	-	
+Europe	유럽	-	
+day	요일	-	
+father	아버지	-	
+leave	휴가	-	
+plane	비행기	-	
+raise	올리다	-	
+alcohol	술	-	
+middle	가운데	-	
+soda	사이다	-	
+belt	벨트	-	
+put; puts	놓다	-	
+shut; wraps	감다	-	
+hallway	복도	-	
+between	사이	-	
+transfer	갈아타다	-	
+luckily	다행히	-	
+across	건너편	-	
+there	거기	-	
+use	사용	-	
+palace	궁전	-	
+UK	영국	-	
+rental car	렌터카	-	
+mistake	잘못	-	
+left	왼쪽	-	
+late	늦게	-	
+apron	앞치마	-	
+coffee bean	커피콩	-	
+opportunity	기회	-	
+prints	인쇄하다	-	
+repeat; repeats	반복하다	-	
+to be clear	분명하다	-	
+paper	종이	-	
+order	순서	-	
+nervousness	긴장	-	
+forget; forgets	잊다	-	
+order	주문	-	
+latte	라떼	-	
+soy milk	두유	-	
+sugar	설탕	-	
+jump; jumps	뛰다	-	
+shed	흘리다	-	
+such	저런	-	
+cash	현금	-	
+there	그곳	-	
+personally	직접	-	
+main gate	정문	-	
+machine	기계	-	
+for a long time; ages	오랫동안	-	
+Walk	걸어가다	-	
+field; carry	들	-	
+crosswalk	횡단보도	-	
+sign	간판	-	
+step	밟다	-	
+walk	걸음	-	
+public holiday	공휴일	-	
+express bus	고속버스	-	
+always	늘	-	
+touching; touches	만지다	-	
+managed	관리하다	-	
+that person	저분	-	
+tiger	호랑이	-	
+hamburger	햄버거	-	
+curry	카레	-	
+all	모든	-	
+tray	쟁반	-	
+fly	날다	-	
+information	정보	-	
+aquarium	수족관	-	
+once	한번	-	
+carefully	조심히	-	
+something	거	-	
+cart	카트	-	
+marie	마리	-	
+squid	오징어	-	
+garlic	마늘	-	
+simple	단순하다	-	
+salt	소금	-	
+pork cutlet	돈가스	-	
+then	그럼	-	
+oven	오븐	-	
+Haruto	하루토	-	
+soon	금방	-	
+pot	냄비	-	
+extremely	굉장히	-	
+knife	칼	-	
+little by little	조금씩	-	
+floral	꽃무늬	-	
+frying pan	프라이팬	-	
+napkin	냅킨	-	
+plate	접시	-	
+as it is	그대로	-	
+mowing; carves; mow; mows	깎다	-	
+black tea	홍차	-	
+equally	골고루	-	
+takes; having; have	가지다	-	
+uncle	삼촌	-	
+photographer	사진가	-	
+in order to	으려고	-	
+April	사월	-	
+famous	유명	-	
+well	글쎄요	-	
+to	려고	-	
+photography	촬영	-	
+model	모델	-	
+bank	은행	-	
+spring	봄	-	
+woman	여자	-	
+actor	영화배우	-	
+won	원	-	
+cosmetic	화장품	-	
+face	얼굴	-	
+one hundred thousand	십만	-	
+price	값	-	
+sunlight	햇빛	-	
+orange	오렌지	-	
+furniture	가구	-	

@@ -1,739 +1,739 @@
-English	Context	Foreign	Transliteration	Tip	Sources	Debug
-George and Rawad	Identify names	جورج وَرَواد	-	-	Duo	type=translate:tap
-Carrie and Rosa	Identify names	كَري وَروزا	-	-	Duo	type=translate:tap
-Bob and Judy	Identify names	بوب وَجودي	-	-	Duo	type=translate:tap
-George and Rosa	Identify names	جورج وَروزا	-	-	Duo	type=translate:tap
-Bob and Rosa	Identify names	بوب وَروزا	-	-	Duo	type=translate:tap
-Rawad and Carrie	Identify names	رَواد وَكَري	-	-	Duo	type=translate:reverse_tap
-Judy and George	Identify names	جودي وَجورج	-	-	Duo	type=translate:reverse_tap
-Judy and Bob	Identify names	جودي وَبوب	-	-	Duo	type=translate:reverse_tap
-Rosa	Identify names	روزا	-	-	Duo	type=translate:reverse_tap
-Rawad and George	Identify names	رَواد وَجورج	-	-	Duo	type=translate:tap
-Cuba and Peru	Refer to places	كوبا وَبيرو	-	-	Duo	type=translate:tap
-Juba and Baku	Refer to places	جوبا وَباكو	-	-	Duo	type=translate:tap
-Korea and Peru	Refer to places	كوريا وَبيرو	-	-	Duo	type=translate:tap
-Cuba and Korea	Refer to places	كوبا وَكوريا	-	-	Duo	type=translate:tap
-Peru and Korea	Refer to places	بيرو وَكوريا	-	-	Duo	type=translate:tap
-Baku and Dakar	Refer to places	باكو وَداكار	-	-	Duo	type=translate:tap
-Peru and Cuba	Refer to places	بيرو وَكوبا	-	-	Duo	type=translate:tap
-Baku and Riga	Refer to places	باكو وَريجا	-	-	Duo	type=translate:tap
-Juba and Riga	Refer to places	جوبا وَريجا	-	-	Duo	type=translate:reverse_tap
-Cuba	Refer to places	كوبا	-	-	Duo	type=translate:reverse_tap
-Peru	Refer to places	بيرو	-	-	Duo	type=translate:reverse_tap
-Juba and Dakar	Refer to places	جوبا وَداكار	-	-	Duo	type=translate:reverse_tap
-house	Talk about your house	بَيت	-	-	Duo	type=select:name_example
-an amazing house	Talk about your house	بَيت مُمتاز	-	-	Duo	type=translate:tap
-a new door	Talk about your house	باب جَديد	-	-	Duo	type=translate:tap
-a new jacket	Talk about your house	جاكيت جَديد	-	-	Duo	type=translate:tap
-jacket	Talk about your house	جاكيت	-	-	Duo	type=select:name_example
-an amazing door	Talk about your house	باب مُمتاز	-	-	Duo	type=translate:tap
-an amazing garage	Talk about your house	كَراج مُمتاز	-	-	Duo	type=translate:reverse_tap
-a big jacket	Talk about your house	جاكيت كَبير	-	-	Duo	type=translate:reverse_tap
-a big garage	Talk about your house	كَراج كَبير	-	-	Duo	type=translate:reverse_tap
-an amazing jacket	Talk about your house	جاكيت مُمتاز	-	-	Duo	type=translate:reverse_tap
-a new garage	Talk about your house	كَراج جَديد	-	-	Duo	type=translate:tap
-a big door	Talk about your house	باب كَبير	-	-	Duo	type=translate:reverse_tap
-a new neighbor	Describe things	جار جَديد	-	-	Duo	type=translate:tap
-fish	Describe things	سَمَك	-	-	Duo	type=select:name_example
-cold	Describe things	بارِد	-	-	Duo	type=select:name_example
-a regular jacket	Describe things	جاكيت عادي	-	-	Duo	type=translate:tap
-a generous husband	Describe things	زَوج كَريم	-	-	Duo	type=translate:tap
-chicken	Describe things	دَجاج	-	-	Duo	type=select:name_example
-new fish	Describe things	سَمَك جَديد	-	-	Duo	type=translate:reverse_tap
-a generous neighbor	Describe things	جار كَريم	-	-	Duo	type=translate:tap
-a regular house	Describe things	بَيت عادي	-	-	Duo	type=translate:reverse_tap
-a cold house	Describe things	بَيت بارِد	-	-	Duo	type=translate:tap
-a new husband	Describe things	زَوج جَديد	-	-	Duo	type=translate:reverse_tap
-cold chicken	Describe things	دَجاج بارِد	-	-	Duo	type=translate:reverse_tap
-Zayd is amazing.	Describe people	زَيد مُمتاز.	-	-	Duo	type=translate:tap
-Sam is new.	Describe people	سام جَديد.	-	-	Duo	type=translate:tap
-Rawad is happy.	Describe people	رَواد سَعيد.	-	-	Duo	type=translate:tap
-David is smart.	Describe people	دَوود ذَكِيّ.	-	-	Duo	type=translate:reverse_tap
-David is fast.	Describe people	دَوود سَريع.	-	-	Duo	type=translate:reverse_tap
-David is fun.	Describe people	دَوود مُمتِع.	-	-	Duo	type=translate:reverse_tap
-Sam is a translator.	Describe people	سام مُتَرجِم.	-	-	Duo	type=translate:tap
-Omar is fast.	Describe people	عُمَر سَريع.	-	-	Duo	type=translate:tap
-Omar is a fast translator.	Describe people	عُمَر مُتَرجِم سَريع.	-	-	Duo	type=translate:tap
-Rosa is from Syria.	Say where you are from	روزا مِن سوريا.	-	-	Duo	type=translate:tap
-Sam is from Tunisia.	Say where you are from	سام مِن تونِس.	-	-	Duo	type=translate:tap
-Zayd and Sam are from Oman.	Say where you are from	زَيد وَسام مِن عُمان.	-	-	Duo	type=translate:tap
-George and Rosa are from Lebanon.	Say where you are from	جورج وَروزا مِن لُبنان.	-	-	Duo	type=translate:tap
-Omar is from Tunisia.	Say where you are from	عُمَر مِن تونِس.	-	-	Duo	type=translate:tap
-Omar is from Syria.	Say where you are from	عُمَر مِن سوريا.	-	-	Duo	type=translate:reverse_tap
-Sam is from America.	Say where you are from	سام مِن أَمريكا.	-	-	Duo	type=translate:reverse_tap
-I am from America.	Say where you are from	أَنا مِن أَمريكا.	-	-	Duo	type=translate:reverse_tap
-from Syria	Say where you are from	مِن سوريا	-	-	Duo	type=translate:reverse_tap
-I am from Lebanon.	Say where you are from	أَنا مِن لُبنان.	-	-	Duo	type=translate:tap
-a pretty jacket	Describe possessions	جاكيت جَميل	-	-	Duo	type=translate:tap
-George has a house.	Describe possessions	عِنْد جورْج بَيْت.	-	-	Duo	type=translate:tap
-Omar has a new door.	Describe possessions	عِنْد عُمَر باب جَديد.	-	-	Duo	type=translate:tap
-Shadi is a Syrian doctor.	Describe possessions	شادي دُكتور سورِيّ.	-	-	Duo	type=translate:tap
-Seth is an American translator.	Describe possessions	سيث مُتَرجِم أَمريكِيّ.	-	-	Duo	type=translate:tap
-Rosa has fish.	Describe possessions	عِنْد روزا سَمَك.	-	-	Duo	type=translate:reverse_tap
-Judy has a pretty jacket.	Describe possessions	عِنْد جودي جاكيت جَميل.	-	-	Duo	type=translate:reverse_tap
-George has a pretty door.	Describe possessions	عِنْد جورْج باب جَميل.	-	-	Duo	type=translate:reverse_tap
-Seth is Lebanese.	Describe possessions	سيث لُبنانِيّ.	-	-	Duo	type=translate:tap
-Omar is Omani American.	Describe possessions	عُمَر أَمريكِيّ عُمانِيّ.	-	-	Duo	type=translate:tap
-Seth is Lebanese American.	Describe possessions	سيث أَمريكِيّ لُبنانِيّ.	-	-	Duo	type=translate:tap
-Zayd is Scottish.	Talk about countries	زَيْد إِسْكُتْلَنْدِيّ.	-	-	Duo	type=translate:tap
-David and Carrie are from Holland.	Talk about countries	دَوود وَكَري مِن هولَنْدا.	-	-	Duo	type=translate:tap
-Zayd and Tamer are from Canada.	Talk about countries	زَيْد وَتامِر مِن كَنَدا.	-	-	Duo	type=translate:tap
-Canada and America	Talk about countries	كَنَدا وَأَمْريكا	-	-	Duo	type=translate:tap
-Rawad is from England.	Talk about countries	رَواد مِن إِنْجِلْتِرا.	-	-	Duo	type=translate:reverse_tap
-Rawad is Canadian and English.	Talk about countries	رَواد كَنَدِيّ وَإِنْجِليزِيّ.	-	-	Duo	type=translate:reverse_tap
-Bob is from England.	Talk about countries	بوب مِن إِنْجِلْتِرا.	-	-	Duo	type=translate:reverse_tap
-David is Scottish Canadian.	Talk about countries	دَوود كَنَدِيّ إِسْكُتْلَنْدِيّ.	-	-	Duo	type=translate:reverse_tap
-Tamer and Rawad are from England.	Talk about countries	تامِر وَرَواد مِن إِنْجِلْتِرا.	-	-	Duo	type=translate:tap
-Judy is from Scotland.	Talk about countries	جودي مِن إِسْكُتْلَنْدا.	-	-	Duo	type=translate:reverse_tap
-You're welcome, Judy.	Use basic phrases	عَفْواً يا جودي.	-	-	Duo	type=translate:tap
-You are from France, Sam.	Use basic phrases	أَنْتَ مِن فَرَنْسا يا سام.	-	-	Duo	type=translate:tap
-You're welcome, Maha.	Use basic phrases	عَفْواً يا مَها.	-	-	Duo	type=translate:tap
-Where are you from, Carrie?	Use basic phrases	مِن أَيْن أَنْتِ يا كَري؟	-	-	Duo	type=translate:reverse_tap
-Where is George, Bob?	Use basic phrases	أَيْن جورْج يا بوب؟	-	-	Duo	type=translate:reverse_tap
-Where are you from, David?	Use basic phrases	مِن أَيْن أَنْتَ يا دَوود؟	-	-	Duo	type=translate:reverse_tap
-You are from France, Rosa.	Use basic phrases	أَنْتِ مِن فَرَنْسا يا روزا.	-	-	Duo	type=translate:reverse_tap
-Rosa is from Australia.	Use basic phrases	روزا مِن أُسْتُرالْيا.	-	-	Duo	type=translate:reverse_tap
-Thank you, Farid.	Use basic phrases	شُكْراً يا فَريد.	-	-	Duo	type=translate:reverse_tap
-Absolutely, Farid.	Use basic phrases	تَماماً يا فَريد.	-	-	Duo	type=translate:reverse_tap
-hello	Use basic phrases	مرحبًا	-	-	Duo	type=translate:reverse_tap
-Where is Omar?	Use basic phrases	أَيْن عُمَر؟	-	-	Duo	type=translate:reverse_tap
-You are from Germany, David.	Use basic phrases	أَنْتَ مِن أَلْمانْيا يا دَوود.	-	-	Duo	type=translate:reverse_tap
-You are Rosa.	Use basic phrases	أَنْتِ روزا.	-	-	Duo	type=translate:reverse_tap
-boy	Form feminine adjectives	وَلَد	-	-	Duo	type=select:name_example
-man	Form feminine adjectives	رَجُل	-	-	Duo	type=select:name_example
-Rosa is an amazing Syrian doctor.	Form feminine adjectives	روزا دُكْتورة سورِيّة مُمْتازة.	-	-	Duo	type=translate:tap
-a Syrian man	Form feminine adjectives	رَجُل سورِيّ	-	-	Duo	type=translate:tap
-woman	Form feminine adjectives	اِمْرَأة	-	-	Duo	type=select:name_example
-a smart woman and a smart man	Form feminine adjectives	اِمْرَأة ذَكِيّة وَرَجُل ذَكِيّ	-	-	Duo	type=translate:tap
-Samia is a smart Arab girl.	Form feminine adjectives	سامْية بِنْت عَرَبِيّة ذَكِيّة.	-	-	Duo	type=translate:reverse_tap
-Rania is a smart Arab woman.	Form feminine adjectives	رانْيا امْرَأة عَرَبِيّة ذَكِيّة.	-	-	Duo	type=translate:reverse_tap
-a smart Arab American girl	Form feminine adjectives	بِنْت أَمْريكِيّة عَرَبِيّة ذَكِيّة	-	-	Duo	type=translate:reverse_tap
-an American man	Form feminine adjectives	رَجُل أَمْريكِيّ	-	-	Duo	type=translate:tap
-a smart Arab American woman	Form feminine adjectives	اِمْرَأة أَمْريكِيّة عَرَبِيّة ذَكِيّة	-	-	Duo	type=translate:reverse_tap
-Samia is a good Tunisian translator.	Form feminine adjectives	سامْية مُتَرْجِمة تونِسِيّة جَيِّدة.	-	-	Duo	type=translate:reverse_tap
-Samia is a good doctor.	Form feminine adjectives	سامْية دُكْتورة جَيِّدة.	-	-	Duo	type=translate:tap
-Samia is a smart girl.	Form feminine adjectives	سامْية بِنْت ذَكِيّة.	-	-	Duo	type=translate:reverse_tap
-Rosa is a Syrian American girl.	Form feminine adjectives	روزا بِنْت أَمْريكِيّة سورِيّة.	-	-	Duo	type=translate:reverse_tap
-Judy is a Tunisian woman.	Form feminine adjectives	جودي امْرَأة تونِسِيّة.	-	-	Duo	type=translate:reverse_tap
-Rania is an American woman.	Form feminine adjectives	رانْيا امْرَأة أَمْريكِيّة.	-	-	Duo	type=translate:reverse_tap
-Carrie is an American professor.	Form feminine adjectives	كَري أُسْتاذة أَمْريكِيّة.	-	-	Duo	type=translate:reverse_tap
-Ali is a man.	Form feminine adjectives	عَلي رَجُل.	-	-	Duo	type=translate:tap
-a good doctor	Form feminine adjectives	دُكْتورة جَيِّدة	-	-	Duo	type=translate:reverse_tap
-teacher	Identify professions	مُعَلِّم	-	-	Duo	type=select:name_example
-He is a French man.	Identify professions	هُوَّ رَجُل فَرَنْسِيّ.	-	-	Duo	type=translate:tap
-Is Lama an engineer?	Identify professions	هَل لَمى مُهَنْدِسة؟	-	-	Duo	type=translate:tap
-She is a professor from Paris.	Identify professions	هِيَّ أُسْتاذة مِن باريس.	-	-	Duo	type=translate:tap
-Is she a good translator?	Identify professions	هَل هِيَّ مُتَرْجِمة جَيِّدة؟	-	-	Duo	type=translate:reverse_tap
-You are very weird, David.	Identify professions	أَنْتَ غَريب جِدّاً يا دَوود.	-	-	Duo	type=translate:reverse_tap
-He is a French man from Paris.	Identify professions	هُوَّ رَجُل فَرَنْسِيّ مِن باريس.	-	-	Duo	type=translate:reverse_tap
-Arwa is a weird engineer.	Identify professions	أَرْوى مُهَنْدِسة غَريبة.	-	-	Duo	type=translate:tap
-Is Lama an Arab French engineer?	Identify professions	هَل لَمى مُهَنْدِسة فَرَنْسِيّة عَرَبِيّة؟	-	-	Duo	type=translate:reverse_tap
-I am Rosa and I am hungry.	Identify professions	أَنا روزا وَأَنا جَوْعانة.	-	-	Duo	type=translate:tap
-You are a weird man, Mike.	Identify professions	أَنْتَ رَجُل غَريب يا مايْك.	-	-	Duo	type=translate:reverse_tap
-You are hungry, Professor Samia.	Identify professions	أَنْتِ جَوْعانة يا أُسْتاذة سامْية.	-	-	Duo	type=translate:reverse_tap
-You are very weird, Carrie.	Identify professions	أَنْتِ غَريبة جِدّاً يا كَري.	-	-	Duo	type=translate:reverse_tap
-He is a Dutch doctor.	Identify professions	هُوَّ دُكْتور هولَنْدِيّ.	-	-	Duo	type=translate:reverse_tap
-Lama is Arab French.	Identify professions	لَمى فَرَنْسِيّة عَرَبِيّة.	-	-	Duo	type=translate:reverse_tap
-Is Judy a new doctor?	Identify professions	هَل جودي دُكْتورة جَديدة؟	-	-	Duo	type=translate:reverse_tap
-Bob is a French teacher.	Identify professions	بوب مُعَلِّم فَرَنْسِيّ.	-	-	Duo	type=translate:reverse_tap
-Is Arwa an engineer?	Identify professions	هَل أَرْوى مُهَنْدِسة؟	-	-	Duo	type=translate:reverse_tap
-Lama is an engineer.	Identify professions	لَمى مُهَنْدِسة.	-	-	Duo	type=translate:reverse_tap
-door	Describe universities	باب	-	-	Duo	type=select:name_example
-a spacious car	Describe universities	سَيّارة واسِعة	-	-	Duo	type=translate:tap
-a big house and a big car	Describe universities	بَيْت كَبير وَسَيّارة كَبيرة	-	-	Duo	type=translate:tap
-New York is a crowded city.	Describe universities	نْيويورْك مَدينة مُزْدَحِمة.	-	-	Duo	type=translate:tap
-Al-Azhar is an important Islamic university.	Describe universities	اَلْأَزْهَر جامِعة إِسْلامِيّة مُهِمّة.	-	-	Duo	type=translate:reverse_tap
-Paris is a very famous city.	Describe universities	باريس مَدينة مَشْهورة جِدّاً.	-	-	Duo	type=translate:reverse_tap
-Harvard is a very famous American university.	Describe universities	هارْفارْد جامِعة أَمْريكِيّة مَشْهورة جِدّاً.	-	-	Duo	type=translate:reverse_tap
-Al-Azhar is an Islamic university.	Describe universities	اَلْأَزْهَر جامِعة إِسْلامِيّة.	-	-	Duo	type=translate:tap
-a big car	Describe universities	سَيّارة كَبيرة	-	-	Duo	type=translate:tap
-Paris is a crowded French city.	Describe universities	باريس مَدينة فَرَنْسِيّة مُزْدَحِمة.	-	-	Duo	type=translate:reverse_tap
-Al-Azhar is a very famous Islamic university.	Describe universities	اَلْأَزْهَر جامِعة إِسْلامِيّة مَشْهورة جِدّاً.	-	-	Duo	type=translate:reverse_tap
-a big thing	Describe universities	شَيْء كَبير	-	-	Duo	type=translate:tap
-an important university	Describe universities	جامِعة مُهِمّة	-	-	Duo	type=translate:reverse_tap
-Berlin is a spacious city.	Describe universities	بَرْلين مَدينة واسِعة.	-	-	Duo	type=translate:reverse_tap
-a very famous university	Describe universities	جامِعة مَشْهورة جِدّاً	-	-	Duo	type=translate:reverse_tap
-an easy language and an easy teacher	Describe universities	لُغة سَهْلة وَمُعَلِّم سَهْل	-	-	Duo	type=translate:tap
-The teacher is a teacher.	Form questions	اَلْمُعَلِّم مُعَلِّم.	-	-	Duo	type=translate:tap
-a tall neighbor	Form questions	جار طَويل	-	-	Duo	type=translate:tap
-Are you Jordanian, Reem?	Form questions	هَل أَنْتِ أُرْدُنِيّة يا ريم؟	-	-	Duo	type=translate:tap
-The engineer is a new engineer.	Form questions	اَلْمُهَنْدِسة مُهَنْدِسة جَديدة.	-	-	Duo	type=translate:tap
-You are in Cuba, Reem.	Form questions	أَنْتِ في كوبا يا ريم.	-	-	Duo	type=translate:tap
-Are you a Jordanian teacher, Reem?	Form questions	هَل أَنْتِ مُعَلِّمة أُرْدُنِيّة يا ريم؟	-	-	Duo	type=translate:reverse_tap
-Are you in Beirut, Samia?	Form questions	هَل أَنْتِ في بَيْروت يا سامْية؟	-	-	Duo	type=translate:reverse_tap
-You are a translator, Professor Reem.	Form questions	أَنْتِ مُتَرْجِمة يا أُسْتاذة ريم.	-	-	Duo	type=translate:reverse_tap
-The university is a crowded university.	Form questions	اَلْجامِعة جامِعة مُزْدَحِمة.	-	-	Duo	type=translate:tap
-The lawyer is in Germany.	Form questions	اَلْمُحامي في أَلْمانْيا.	-	-	Duo	type=translate:reverse_tap
-The city is a famous city.	Form questions	اَلْمَدينة مَدينة مَشْهورة.	-	-	Duo	type=translate:reverse_tap
-The translator is a fast translator.	Form questions	اَلْمُتَرْجِم مُتَرْجِم سَريع.	-	-	Duo	type=translate:reverse_tap
-Are you a Jordanian doctor, Samia?	Form questions	هَل أَنْتِ دُكْتورة أُرْدُنِيّة يا سامْية؟	-	-	Duo	type=translate:tap
-The university is an easy university.	Form questions	اَلْجامِعة جامِعة سَهْلة.	-	-	Duo	type=translate:tap
-The teacher is in Beirut.	Form questions	اَلْمُعَلِّمة في بَيْروت.	-	-	Duo	type=translate:tap
-father	Describe your family	أَب	-	-	Duo	type=select:name_example
-my daughter	Describe your family	بِنْتي	-	-	Duo	type=translate:tap
-a happy dog	Describe your family	كَلْب سَعيد	-	-	Duo	type=translate:tap
-my teacher George and my neighbor Sam	Describe your family	مُعَلِّمي جورْج وَجاري سام	-	-	Duo	type=translate:tap
-My mother is a fast translator.	Describe your family	أُمّي مُتَرْجِمة سَريعة.	-	-	Duo	type=translate:tap
-my brother and my father	Describe your family	أَخي وَأَبي	-	-	Duo	type=translate:tap
-an amazing and pretty dog	Describe your family	كَلْب مُمْتاز وَجَميل	-	-	Duo	type=translate:reverse_tap
-My teacher George is French.	Describe your family	مُعَلِّمي جورْج فَرَنْسِيّ.	-	-	Duo	type=translate:reverse_tap
-My daughter is an amazing accountant.	Describe your family	بِنْتي مُحاسِبة مُمْتازة.	-	-	Duo	type=translate:reverse_tap
-a hungry mother	Describe your family	أُمّ جَوْعانة	-	-	Duo	type=translate:tap
-My brother is amazing.	Describe your family	أَخي مُمْتاز.	-	-	Duo	type=translate:reverse_tap
-My husband is fun.	Describe your family	زَوْجي مُمْتِع.	-	-	Duo	type=translate:tap
-my son and my daughter	Describe your family	اِبْني وَبِنْتي	-	-	Duo	type=translate:reverse_tap
-a brother	Describe your family	أَخ	-	-	Duo	type=translate:reverse_tap
-a weird brother	Describe your family	أَخ غَريب	-	-	Duo	type=translate:tap
-He is your son, Bob.	Introduce yourself	هُوَّ ابْنَك يا بوب.	-	-	Duo	type=translate:tap
-Your daughter is smart, Samia.	Introduce yourself	بِنْتِك ذَكِيّة يا سامْية.	-	-	Duo	type=translate:tap
-a pretty name	Introduce yourself	اِسْم جَميل	-	-	Duo	type=translate:tap
-Your garage is cold and your house is pretty, Sam.	Introduce yourself	كَراجَك بارِد وَبَيْتَك جَميل يا سام.	-	-	Duo	type=translate:reverse_tap
-He is your son and he is very weird, Sam.	Introduce yourself	هُوَّ ابْنَك وَهُوَّ غَريب جِدّاً يا سام.	-	-	Duo	type=translate:reverse_tap
-He is your dog and he is happy, Carrie.	Introduce yourself	هُوَّ كَلْبِك وَهُوَّ سَعيد يا كَري.	-	-	Duo	type=translate:reverse_tap
-Your husband is weird, Lama.	Introduce yourself	زَوْجِك غَريب يا لَمى.	-	-	Duo	type=translate:tap
-Your house is new, Carrie.	Introduce yourself	بَيْتِك جَديد يا كَري.	-	-	Duo	type=translate:tap
-Your house is very weird, Samia.	Introduce yourself	بَيْتِك غَريب جِدّاً يا سامْية.	-	-	Duo	type=translate:tap
-Are you an accountant, sir?	Introduce yourself	هَل أَنْتَ مُحاسِب يا أُسْتاذ؟	-	-	Duo	type=translate:tap
-He is generous and he is your husband, Judy.	Introduce yourself	هُوَّ كَريم وَهُوَّ زَوْجِك يا جودي.	-	-	Duo	type=translate:reverse_tap
-Is your name Bob?	Introduce yourself	هَل اِسْمَك بوب؟	-	-	Duo	type=translate:reverse_tap
-My house is your house, Samia.	Introduce yourself	بَيْتي بَيْتِك يا سامْية.	-	-	Duo	type=translate:reverse_tap
-Your garage is amazing, Samia.	Introduce yourself	كَراجِك مُمْتاز يا سامْية.	-	-	Duo	type=translate:tap
-Your jacket is amazing, Sam.	Introduce yourself	جاكيتَك مُمْتاز يا سام.	-	-	Duo	type=translate:tap
-He is your dog and he is happy, Omar.	Introduce yourself	هُوَّ كَلْبَك وَهُوَّ سَعيد يا عُمَر.	-	-	Duo	type=translate:tap
-My name is Maha.	Introduce yourself	اِسْمي مَها.	-	-	Duo	type=translate:reverse_tap
-Your garage is cold, Sam.	Introduce yourself	كَراجَك بارِد يا سام.	-	-	Duo	type=translate:tap
-Your neighbor Omar is a fast translator, Mike.	Introduce yourself	جارَك عُمَر مُتَرْجِم سَريع يا مايْك.	-	-	Duo	type=translate:reverse_tap
-grandfather	Talk about your family	جَدّ	-	-	Duo	type=select:name_example
-grandmother	Talk about your family	جَدّة	-	-	Duo	type=select:name_example
-Is your city Paris, Samia?	Talk about your family	هَل مَدينَتِك باريس يا سامْية؟	-	-	Duo	type=translate:tap
-your teacher Judy	Talk about your family	مُعَلِّمَتَك جودي	-	-	Duo	type=translate:tap
-my neighbor Mike and my neighbor Judy	Talk about your family	جاري مايْك وَجارَتي جودي	-	-	Duo	type=translate:tap
-your teacher Judy	Talk about your family	مُعَلِّمَتِك جودي	-	-	Duo	type=translate:tap
-My wife is tired.	Talk about your family	زَوْجَتي تَعْبانة.	-	-	Duo	type=translate:tap
-my husband Mahmoud	Talk about your family	زَوْجي مَحْمود	-	-	Duo	type=translate:tap
-my daughter and my wife	Talk about your family	بِنْتي وَزَوْجَتي	-	-	Duo	type=translate:tap
-Mike, is Rania your grandmother?	Talk about your family	يا مايْك هَل رانْيا جَدَّتَك؟	-	-	Duo	type=translate:reverse_tap
-Are you happy in your city, George?	Talk about your family	هَل أَنْتَ سَعيد في مَدينَتَك يا جورْج؟	-	-	Duo	type=translate:reverse_tap
-Carrie, is your wife Judy an accountant?	Talk about your family	يا كَري هَل زَوْجَتِك جودي مُحاسِبة؟	-	-	Duo	type=translate:reverse_tap
-a kind grandmother	Talk about your family	جَدّة لَطيفة	-	-	Duo	type=translate:tap
-a grandfather and a grandmother	Talk about your family	جَدّ وَجَدّة	-	-	Duo	type=translate:tap
-My husband Mahmoud is a fast accountant.	Talk about your family	زَوْجي مَحْمود مُحاسِب سَريع.	-	-	Duo	type=translate:reverse_tap
-Your teacher Judy is smart, Samia.	Talk about your family	مُعَلِّمَتِك جودي ذَكِيّة يا سامْية.	-	-	Duo	type=translate:reverse_tap
-a kind and amazing grandmother	Talk about your family	جَدّة لَطيفة وَمُمْتازة	-	-	Duo	type=translate:reverse_tap
-Is your wife French, Sam?	Talk about your family	هَل زَوْجَتَك فَرَنْسِيّة يا سام؟	-	-	Duo	type=translate:reverse_tap
-my neighbor Sam and my neighbor Ibrahim	Talk about your family	جاري سام وَجاري إِبْراهيم	-	-	Duo	type=translate:tap
-my husband Zayd and my grandfather Mahmoud	Talk about your family	زَوْجي زَيْد وَجَدّي مَحْمود	-	-	Duo	type=translate:tap
-Arwa has a cat.	Talk about your family	عِنْد أَرْوى قِطّة.	-	-	Duo	type=translate:reverse_tap
-brown	Discuss clothing	بُنِّيّ	-	-	Duo	type=select:name_example
-a skirt and a t-shirt	Discuss clothing	تَنّورة وَتي شيرْت	-	-	Duo	type=translate:tap
-You have a white blouse, Rania.	Discuss clothing	عِنْدِك بَلوزة بَيْضاء يا رانْيا.	-	-	Duo	type=translate:tap
-Seth does not have a skirt.	Discuss clothing	لَيْسَ عِنْد سيث تَنّورة.	-	-	Duo	type=translate:tap
-scarf	Discuss clothing	وِشاح	-	-	Duo	type=select:name_example
-Does Reem have a coat?	Discuss clothing	هَل عِنْد ريم مِعْطَف؟	-	-	Duo	type=translate:reverse_tap
-You do not have a white blouse, Bob.	Discuss clothing	لَيْسَ عِنْدَك بَلوزة بَيْضاء يا بوب.	-	-	Duo	type=translate:reverse_tap
-Judy does not have a brown and blue coat.	Discuss clothing	لَيْسَ عِنْد جودي مِعْطَف بُنِّيّ وَأَزْرَق.	-	-	Duo	type=translate:reverse_tap
-Seth has a skirt.	Discuss clothing	عِنْد سيث تَنّورة.	-	-	Duo	type=translate:tap
-You have a t-shirt, Sam.	Discuss clothing	عِنْدَك تي شيرْت يا سام.	-	-	Duo	type=translate:tap
-a blue hat	Discuss clothing	قُبَّعة زَرْقاء	-	-	Duo	type=translate:tap
-Do you have a t-shirt and a scarf, Sam?	Discuss clothing	هَل عِنْدَك تي شيرْت وَوِشاح يا سام؟	-	-	Duo	type=translate:reverse_tap
-I have a t-shirt.	Discuss clothing	عِنْدي تي شيرْت.	-	-	Duo	type=translate:reverse_tap
-I do not have a scarf.	Discuss clothing	لَيْسَ عِنْدي وِشاح.	-	-	Duo	type=translate:reverse_tap
-I do not have a hat.	Discuss clothing	لَيْسَ عِنْدي قُبَّعة.	-	-	Duo	type=translate:reverse_tap
-You have a blue skirt, George.	Discuss clothing	عِنْدَك تَنّورة زَرْقاء يا جورْج.	-	-	Duo	type=translate:reverse_tap
-Do you have a t-shirt, Sam?	Discuss clothing	هَل عِنْدَك تي شيرْت يا سام؟	-	-	Duo	type=translate:reverse_tap
-This is a table.	Describe your house	هٰذِهِ طاوِلة.	-	-	Duo	type=translate:tap
-This is spacious.	Describe your house	هٰذا واسِع.	-	-	Duo	type=translate:tap
-This is my teacher Mohamed.	Describe your house	هٰذا مُعَلِّمي مُحَمَّد.	-	-	Duo	type=translate:tap
-This is a pretty, old garden.	Describe your house	هٰذِهِ حَديقة قَديمة جَميلة.	-	-	Duo	type=translate:reverse_tap
-This is a spacious kitchen, praise be to God!	Describe your house	هٰذا مَطْبَخ واسِع اَلْحَمْدُ لِله!	-	-	Duo	type=translate:reverse_tap
-Is this your rent, Rosa?	Describe your house	هَل هٰذا إيجارِك يا روزا؟	-	-	Duo	type=translate:reverse_tap
-an expensive city	Describe your house	مَدينة غالْية	-	-	Duo	type=translate:tap
-This is my neighbor Mohamed.	Describe your house	هٰذا جاري مُحَمَّد.	-	-	Duo	type=translate:tap
-This is my neighbor Sam.	Describe your house	هٰذا جاري سام.	-	-	Duo	type=translate:tap
-garden	Describe your house	حَديقة	-	-	Duo	type=select:name_example
-an expensive house	Describe your house	بَيْت غالي	-	-	Duo	type=translate:tap
-This is a pretty building.	Describe your house	هٰذِهِ بِناية جَميلة.	-	-	Duo	type=translate:tap
-This is an old city.	Describe your house	هٰذِهِ مَدينة قَديمة.	-	-	Duo	type=translate:tap
-This is a garden.	Describe your house	هٰذِهِ حَديقة.	-	-	Duo	type=translate:tap
-This is an expensive living room.	Describe your house	هٰذا صالون غالي.	-	-	Duo	type=translate:reverse_tap
-This is a spacious house.	Describe your house	هٰذا بَيْت واسِع.	-	-	Duo	type=translate:reverse_tap
-This is a weird kitchen.	Describe your house	هٰذا مَطْبَخ غَريب.	-	-	Duo	type=translate:reverse_tap
-The dog is hungry.	Describe your house	اَلْكَلْب جَوْعان.	-	-	Duo	type=translate:tap
-This is a building.	Describe your house	هٰذِهِ بِناية.	-	-	Duo	type=translate:reverse_tap
-This is a living room.	Describe your house	هٰذا صالون.	-	-	Duo	type=translate:tap
-The room is big, praise be to God.	Describe your house	اَلْغُرْفة كَبيرة اَلْحَمْدُ لِله.	-	-	Duo	type=translate:tap
-This is a bathroom.	Describe your house	هٰذا حَمّام.	-	-	Duo	type=translate:tap
-wallet	Name personal items	مَحْفَظة	-	-	Duo	type=select:name_example
-key	Name personal items	مِفْتاح	-	-	Duo	type=select:name_example
-There is no drink.	Name personal items	لَيْسَ هُناك مَشْروب.	-	-	Duo	type=translate:tap
-The university is there.	Name personal items	اَلْجامِعة هُناك.	-	-	Duo	type=translate:tap
-There is a hat in your bag, Bob.	Name personal items	هُناك قُبَّعة في شَنْطَتَك يا بوب.	-	-	Duo	type=translate:tap
-The dog is there.	Name personal items	اَلْكَلْب هُناك.	-	-	Duo	type=translate:tap
-an expensive bag	Name personal items	شَنْطة غالْية	-	-	Duo	type=translate:tap
-There is no pen.	Name personal items	لَيْسَ هُناك قَلَم.	-	-	Duo	type=translate:tap
-There is a wallet.	Name personal items	هُناك مَحْفَظة.	-	-	Duo	type=translate:reverse_tap
-My bag is there.	Name personal items	شَنْطَتي هُناك.	-	-	Duo	type=translate:tap
-There is no drink in your bag, Seth.	Name personal items	لَيْسَ هُناك مَشْروب في شَنْطَتَك يا سيث.	-	-	Duo	type=translate:reverse_tap
-There is no notebook in my bag.	Name personal items	لَيْسَ هُناك دَفْتَر في شَنْطَتي.	-	-	Duo	type=translate:reverse_tap
-There is a book and a scarf in my bag.	Name personal items	هُناك كِتاب وَوِشاح في شَنْطَتي.	-	-	Duo	type=translate:tap
-There is no cheap notebook.	Name personal items	لَيْسَ هُناك دَفْتَر رَخيص.	-	-	Duo	type=translate:tap
-There is no notebook.	Name personal items	لَيْسَ هُناك دَفْتَر.	-	-	Duo	type=translate:tap
-There is no cash in my house.	Name personal items	لَيْسَ هُناك نُقود في بَيْتي.	-	-	Duo	type=translate:tap
-There is a book in my bag.	Name personal items	هُناك كِتاب في شَنْطَتي.	-	-	Duo	type=translate:tap
-the engineer's newspaper	Describe an office	صَحيفة اَلْمُهَنْدِس	-	-	Duo	type=translate:tap
-Your computer is fast, praise be to God!	Describe an office	حاسوبِك سَريع اَلْحَمْدُ لِله!	-	-	Duo	type=translate:tap
-The professor's office is spacious.	Describe an office	مَكْتَب اَلْأُسْتاذ واسِع.	-	-	Duo	type=translate:tap
-The cat's room is very big.	Describe an office	غُرْفة اَلْقِطّة كَبيرة جِدّاً.	-	-	Duo	type=translate:tap
-The cat's room is pretty.	Describe an office	غُرْفة اَلْقِطّة جَميلة.	-	-	Duo	type=translate:tap
-The cat's chair is white.	Describe an office	كُرْسي الْقِطّة أَبْيَض.	-	-	Duo	type=translate:tap
-The professor's office is in my house.	Describe an office	مَكْتَب اَلْأُسْتاذ في بَيْتي.	-	-	Duo	type=translate:reverse_tap
-The cat's room is old.	Describe an office	غُرْفة اَلْقِطّة قَديمة.	-	-	Duo	type=translate:reverse_tap
-This is an office.	Describe an office	هٰذا مَكْتَب.	-	-	Duo	type=translate:reverse_tap
-The professor's office is big and pretty.	Describe an office	مَكْتَب اَلْأُسْتاذ كَبير وَجَميل.	-	-	Duo	type=translate:tap
-The professor's pen is brown.	Describe an office	قَلَم اَلْأُسْتاذة بُنِّيّ.	-	-	Duo	type=translate:tap
-the professor's office	Describe an office	مَكْتَب اَلْأُسْتاذة	-	-	Duo	type=translate:tap
-Where is the newspaper?	Describe an office	أَيْن اَلْصَّحيفة؟	-	-	Duo	type=translate:reverse_tap
-The cat's chair is in my house.	Describe an office	كُرْسي الْقِطّة في بَيْتي.	-	-	Duo	type=translate:reverse_tap
-The professor's pen is expensive.	Describe an office	قَلَم اَلْأُسْتاذة غالي.	-	-	Duo	type=translate:tap
-The professor's newspaper is in my house.	Describe an office	صَحيفة اَلْأُسْتاذ في بَيْتي.	-	-	Duo	type=translate:tap
-milk	Refer to food	حَليب	-	-	Duo	type=select:name_example
-water	Refer to food	ماء	-	-	Duo	type=select:name_example
-Mohamed's restaurant is good.	Refer to food	مَطْعَم مُحَمَّد طَيِّب.	-	-	Duo	type=translate:tap
-This is your coffee, Samia.	Refer to food	هٰذِهِ قَهْوَتِك يا سامْية.	-	-	Duo	type=translate:tap
-restaurant	Refer to food	مَطْعَم	-	-	Duo	type=select:name_example
-This is your rice, Tamer.	Refer to food	هٰذا رُزَّك يا تامِر.	-	-	Duo	type=translate:tap
-Mohamed's restaurant is expensive but good.	Refer to food	مَطْعَم مُحَمَّد غالي لٰكِنّ طَيِّب.	-	-	Duo	type=translate:reverse_tap
-The food in Mohamed's restaurant is good but expensive.	Refer to food	اَلْأَكْل في مَطْعَم مُحَمَّد طَيِّب لٰكِنّ غالي.	-	-	Duo	type=translate:reverse_tap
-The food there is good but expensive.	Refer to food	اَلْأَكْل هُناك طَيِّب لٰكِنّ غالي.	-	-	Duo	type=translate:reverse_tap
-Arabic food	Refer to food	أَكْل عَرَبِيّ	-	-	Duo	type=translate:tap
-There is a new Syrian restaurant in Beirut.	Refer to food	هُناك مَطْعَم سورِيّ جَديد في بَيْروت.	-	-	Duo	type=translate:reverse_tap
-My rice is good.	Refer to food	رُزّي طَيِّب.	-	-	Duo	type=translate:tap
-Your coffee is from Syria, Rania.	Refer to food	قَهْوَتِك مِن سورْيا يا رانْيا.	-	-	Duo	type=translate:tap
-Your coffee is there, Bob.	Refer to food	قَهْوَتَك هُناك يا بوب.	-	-	Duo	type=translate:tap
-Moroccan food	Refer to food	أَكْل مَغْرِبِيّ	-	-	Duo	type=translate:reverse_tap
-Seth's coffee	Refer to food	قَهْوَة سيث	-	-	Duo	type=translate:reverse_tap
-The food there is good.	Refer to food	اَلْأَكْل هُناك طَيِّب.	-	-	Duo	type=translate:reverse_tap
-My work is fun.	Describe a picture	عَمَلي مُمْتِع.	-	-	Duo	type=translate:tap
-Her house is pretty.	Describe a picture	بَيْتها جَميل.	-	-	Duo	type=translate:tap
-my son and his neighbor Rosa	Describe a picture	اِبْني وَجارَتهُ روزا	-	-	Duo	type=translate:tap
-my brother and his friend Bob	Describe a picture	أَخي وَصَديقهُ بوب	-	-	Duo	type=translate:tap
-I know her friend Rania.	Describe a picture	أَعْرِف صَديقَتها رانْيا.	-	-	Duo	type=translate:tap
-In this picture, there is my mother and her friend Bob.	Describe a picture	في هٰذِهِ الْصّورة هُناك أُمّي وَصَديقها بوب.	-	-	Duo	type=translate:reverse_tap
-Her friend Bob is close to her house.	Describe a picture	صَديقها بوب قَريب مِن بَيْتها.	-	-	Duo	type=translate:reverse_tap
-In this picture, there is my father and his friend Bob.	Describe a picture	في هٰذِهِ الْصّورة هُناك أَبي وَصَديقهُ بوب.	-	-	Duo	type=translate:reverse_tap
-Samia is an amazing friend.	Describe a picture	سامْية صَديقة مُمْتازة.	-	-	Duo	type=translate:tap
-His work is easy.	Describe a picture	عَمَلهُ سَهْل.	-	-	Duo	type=translate:tap
-Her work is important.	Describe a picture	عَمَلها مُهِمّ.	-	-	Duo	type=translate:reverse_tap
-I do not know his neighbor Maha.	Describe a picture	لا أَعْرِف جارَتهُ مَها.	-	-	Duo	type=translate:reverse_tap
-Reem is a difficult friend.	Describe a picture	ريم صَديقة صَعْبة.	-	-	Duo	type=translate:reverse_tap
-I do not know his name.	Describe a picture	لا أَعْرِف اِسْمهُ.	-	-	Duo	type=translate:reverse_tap
-I do not know his friend Bob.	Describe a picture	لا أَعْرِف صَديقهُ بوب.	-	-	Duo	type=translate:reverse_tap
-I know his neighbor Rosa.	Describe a picture	أَعْرِف جارَتهُ روزا.	-	-	Duo	type=translate:reverse_tap
-her neighbor Rosa	Describe a picture	جارَتها روزا	-	-	Duo	type=translate:reverse_tap
-Rania is a weird friend.	Describe a picture	رانْيا صَديقة غَريبة.	-	-	Duo	type=translate:reverse_tap
-his friend Samia	Describe a picture	صَديقَتهُ سامْية	-	-	Duo	type=translate:reverse_tap
-I do not know!	Describe a picture	لا أَعْرِف!	-	-	Duo	type=translate:tap
-His work is very important.	Describe a picture	عَمَلهُ مُهِمّ جِدّاً.	-	-	Duo	type=translate:reverse_tap
-I like photography a lot.	Talk about your hobbies	أُحِبّ اَلْتَّصْوير كَثيراً.	-	-	Duo	type=translate:tap
-I do not like this restaurant.	Talk about your hobbies	لا أُحِبّ هٰذا الْمَطْعَم.	-	-	Duo	type=translate:tap
-I do not like swimming a lot.	Talk about your hobbies	لا أُحِبّ اَلْسِّباحة كَثيراً.	-	-	Duo	type=translate:tap
-reading and writing	Talk about your hobbies	اَلْقِراءة وَالْكِتابة	-	-	Duo	type=translate:tap
-talking with my father in the afternoon	Talk about your hobbies	اَلْكَلام مَعَ أَبي بَعْد اَلْظُّهْر	-	-	Duo	type=translate:reverse_tap
-I like reading in the morning and in the evening.	Talk about your hobbies	أُحِبّ اَلْقِراءة صَباحاً وَمَساءً.	-	-	Duo	type=translate:reverse_tap
-I like talking with my father in the afternoon.	Talk about your hobbies	أُحِبّ اَلْكَلام مَعَ أَبي بَعْد اَلْظُّهْر.	-	-	Duo	type=translate:reverse_tap
-I like talking with my father.	Talk about your hobbies	أُحِبّ اَلْكَلام مَعَ أَبي.	-	-	Duo	type=translate:tap
-I do not like my bag.	Talk about your hobbies	لا أُحِبّ شَنْطَتي.	-	-	Duo	type=translate:tap
-talking with my father	Talk about your hobbies	اَلْكَلام مَعَ أَبي	-	-	Duo	type=translate:reverse_tap
-I like reading a lot.	Talk about your hobbies	أُحِبّ اَلْقِراءة كَثيراً.	-	-	Duo	type=translate:reverse_tap
-I like sleeping in the afternoon.	Talk about your hobbies	أُحِبّ اَلْنَّوْم بَعْد اَلْظُّهْر.	-	-	Duo	type=translate:tap
-I like traveling to Germany.	Talk about your hobbies	أُحِبّ اَلْسَّفَر إِلى أَلْمانْيا.	-	-	Duo	type=translate:reverse_tap
-Running is good.	Talk about your hobbies	اَلْجَري جَيِّد.	-	-	Duo	type=translate:reverse_tap
-I like running and eating also.	Talk about your hobbies	أُحِبّ اَلْجَري وَالْأَكْل أَيْضاً.	-	-	Duo	type=translate:tap
-I like swimming in the evening.	Talk about your hobbies	أُحِبّ اَلْسِّباحة مَساءً.	-	-	Duo	type=translate:tap
-I do not like eating.	Talk about your hobbies	لا أُحِبّ اَلْأَكْل.	-	-	Duo	type=translate:reverse_tap
-I like writing and reading also.	Talk about your hobbies	أُحِبّ اَلْكِتابة وَالْقِراءة أَيْضاً.	-	-	Duo	type=translate:reverse_tap
-The spring is pretty now.	Identify the weather	اَلْرَّبيع جَميل اَلآن.	-	-	Duo	type=translate:tap
-winter	Identify the weather	شِتاء	-	-	Duo	type=select:name_example
-I do not like cold weather.	Identify the weather	لا أُحِبّ اَلْطَّقْس اَلْبارِد.	-	-	Duo	type=translate:tap
-rain	Identify the weather	مَطَر	-	-	Duo	type=select:name_example
-a rainy summer	Identify the weather	صَيْف مُمْطِر	-	-	Duo	type=translate:tap
-spring	Identify the weather	رَبيع	-	-	Duo	type=select:name_example
-The spring is rainy now.	Identify the weather	اَلْرَّبيع مُمْطِر اَلآن.	-	-	Duo	type=translate:tap
-Today is a hot day.	Identify the weather	اَلْيَوْم يَوْم حارّ.	-	-	Duo	type=translate:tap
-The weather is very rainy today.	Identify the weather	اَلْطَّقْس مُمْطِر جِدّاً اَلْيَوْم.	-	-	Duo	type=translate:reverse_tap
-The rainy spring is a pretty thing.	Identify the weather	اَلْرَّبيع اَلْمُمْطِر شَيْء جَميل.	-	-	Duo	type=translate:reverse_tap
-a rainy and hot summer	Identify the weather	صَيْف مُمْطِر وَحارّ	-	-	Duo	type=translate:reverse_tap
- high humidity	Identify the weather	رُطوبة عالْية	-	-	Duo	type=translate:tap
-I do not like hot weather.	Identify the weather	لا أُحِبّ اَلْطَّقْس اَلْحارّ.	-	-	Duo	type=translate:tap
-Today is a cold day.	Identify the weather	اَلْيَوْم يَوْم بارِد.	-	-	Duo	type=translate:tap
-fall	Identify the weather	خَريف	-	-	Duo	type=select:name_example
-a cold spring	Identify the weather	رَبيع بارِد	-	-	Duo	type=translate:tap
-The big moon is pretty.	Identify the weather	اَلْقَمَر اَلْكَبير جَميل.	-	-	Duo	type=translate:reverse_tap
-cold weather	Identify the weather	طَقْس بارِد	-	-	Duo	type=translate:tap
-the pretty weather	Identify the weather	اَلْطَّقْس اَلْجَميل	-	-	Duo	type=translate:reverse_tap
-a long winter	Identify the weather	شِتاء طَويل	-	-	Duo	type=translate:tap
-This is a hot day.	Identify the weather	هٰذا يَوْم حارّ.	-	-	Duo	type=translate:reverse_tap
-The moon is small now.	Identify the weather	اَلْقَمَر صَغير اَلآن.	-	-	Duo	type=translate:tap
-a cold and long winter	Identify the weather	شِتاء بارِد وَطَويل	-	-	Duo	type=translate:reverse_tap
-weird weather	Identify the weather	طَقْس غَريب	-	-	Duo	type=translate:tap
-China	Discuss geography	اَلْصّين	-	-	Duo	type=select:name_example
-Khartoum	Discuss geography	اَلْخَرطوم	-	-	Duo	type=translate:tap
-Cairo	Discuss geography	اَلْقاهِرة	-	-	Duo	type=translate:tap
-Baghdad is old.	Discuss geography	بَغْداد قَديمة.	-	-	Duo	type=translate:tap
-mountain	Discuss geography	جَبَل	-	-	Duo	type=select:name_example
-Iraq is famous.	Discuss geography	اَلْعِراق مَشْهور.	-	-	Duo	type=translate:tap
-Baghdad is in Iraq.	Discuss geography	بَغْداد في الْعِراق.	-	-	Duo	type=translate:tap
-Cairo is a historic capital.	Discuss geography	اَلْقاهِرة عاصِمة تاريخِيّة.	-	-	Duo	type=translate:reverse_tap
-Palestine is a diverse and historic place.	Discuss geography	فِلَسْطين مَكان مُتَنَوِّع وَتاريخِيّ.	-	-	Duo	type=translate:reverse_tap
-the coast	Discuss geography	اَلْسّاحِل	-	-	Duo	type=translate:tap
-Iraq is a country close to Syria.	Discuss geography	اَلْعِراق بَلَد قَريب مِن سورْيا.	-	-	Duo	type=translate:reverse_tap
-Baghdad is the capital of Iraq.	Discuss geography	بَغْداد عاصِمة اَلْعِراق.	-	-	Duo	type=translate:reverse_tap
-The coast in Syria is pretty.	Discuss geography	اَلْسّاحِل في سورْيا جَميل.	-	-	Duo	type=translate:reverse_tap
-Do I love my father?	Use prepositions	هَل أُحِبّ أَبي؟	-	-	Duo	type=translate:tap
-I do not know this lion.	Use prepositions	لا أَعْرِف هٰذا الْأَسَد.	-	-	Duo	type=translate:tap
-Are you wearing a hat, Seth?	Use prepositions	هَل أَنْتَ لابِس قُبَّعة يا سيث؟	-	-	Duo	type=translate:tap
-There is a dog in a car behind the office.	Use prepositions	خَلْف اَلْمَكْتَب كَلْب في سَيّارة.	-	-	Duo	type=translate:reverse_tap
-There is a man in a car behind the building.	Use prepositions	خَلْف اَلْبِناية رَجُل في سَيّارة.	-	-	Duo	type=translate:reverse_tap
-There is your wife with a man behind the restaurant.	Use prepositions	خَلْف اَلْمَطْعَم زَوْجَتَك مَعَ رَجُل.	-	-	Duo	type=translate:reverse_tap
-My friend Tamer is very rich.	Use prepositions	صَديقي تامِر غَنِيّ جِدّاً.	-	-	Duo	type=translate:tap
-There is a funny man in the background.	Use prepositions	في الْخَلْفِيّة رَجُل مُضْحِك.	-	-	Duo	type=translate:tap
-There is a very funny boy in this picture.	Use prepositions	في هٰذِهِ الْصّورة وَلَد مُضْحِك جِدّاً.	-	-	Duo	type=translate:reverse_tap
-There is your wife in the background, Seth.	Use prepositions	في الْخَلْفِيّة زَوْجَتَك يا سيث.	-	-	Duo	type=translate:reverse_tap
-And here in the background there is a funny man.	Use prepositions	وَهُنا في الْخَلْفِيّة رَجُل مُضْحِك.	-	-	Duo	type=translate:reverse_tap
-He does not have a house.	Use prepositions	لَيْسَ عِنْدهُ بَيْت.	-	-	Duo	type=translate:tap
-in front of the university	Use prepositions	أَمام اَلْجامِعة	-	-	Duo	type=translate:tap
-My friend Farid has a lion.	Use prepositions	صَديقي فَريد عِنْدهُ أَسَد.	-	-	Duo	type=translate:tap
-next to	Use prepositions	بِجانِب	-	-	Duo	type=translate:tap
-I love this picture.	Use prepositions	أُحِبّ هٰذِهِ الْصّورة.	-	-	Duo	type=translate:reverse_tap
-His friend Samia is wearing a skirt.	Use prepositions	صَديقَتهُ سامْية لابِسة تَنّورة.	-	-	Duo	type=translate:reverse_tap
-Who is he?	Use prepositions	من هو؟	-	-	Duo	type=translate:reverse_tap
-This is my friend Tamer and he is rich.	Use prepositions	هٰذا صَديقي تامِر وَهُوَّ غَنِيّ.	-	-	Duo	type=translate:tap
-My brother Bashir is busy.	Use prepositions	أَخي بَشير مَشْغول.	-	-	Duo	type=translate:tap
-bed	Express a problem	سَرير	-	-	Duo	type=select:name_example
-television	Express a problem	تِلْفاز	-	-	Duo	type=select:name_example
-I live on the second floor.	Express a problem	أَسْكُن في ٱلْطّابِق اَلْثّاني.	-	-	Duo	type=translate:tap
-The window in the kitchen is very big.	Express a problem	اَلْشُّبّاك في ٱلْمَطْبَخ كَبير جِدّاً.	-	-	Duo	type=translate:tap
-I sleep in a broken bed.	Express a problem	أَنام في سَرير مَكْسور.	-	-	Duo	type=translate:tap
-There is something broken in the kitchen.	Express a problem	هُناك شَيْء مَكْسور في ٱلْمَطْبَخ.	-	-	Duo	type=translate:reverse_tap
-I do not sleep a lot in this house.	Express a problem	لا أَنام كَثيراً في هٰذا ٱلْبَيْت.	-	-	Duo	type=translate:reverse_tap
-There is a bedroom on the first floor.	Express a problem	في ٱلْطّابِق اَلْأَوَّل غُرْفة نَوْم.	-	-	Duo	type=translate:tap
-There is a weird noise.	Express a problem	هُناك صَوْت غَريب.	-	-	Duo	type=translate:tap
-The faucet is broken.	Express a problem	اَلْحَنَفِيّة مَكْسورة.	-	-	Duo	type=translate:tap
-I do not sleep because of the weird noise.	Express a problem	لا أَنام بِسَبَب اَلْصَّوْت اَلْغَريب.	-	-	Duo	type=translate:tap
-There is a problem with the television.	Express a problem	هُناك مُشْكِلة مَعَ ٱلْتِّلْفاز.	-	-	Duo	type=translate:tap
-on the faucet	Express a problem	عَلى ٱلْحَنَفِيّة	-	-	Duo	type=translate:reverse_tap
-something broken	Express a problem	شَيْء مَكْسور	-	-	Duo	type=translate:reverse_tap
-I open the window.	Express a problem	أَفْتَح اَلْشُّبّاك.	-	-	Duo	type=translate:tap
-I sleep in my bedroom.	Express a problem	أَنام في غُرْفة نَوْمي.	-	-	Duo	type=translate:tap
-I do not sleep in the morning.	Express a problem	لا أَنام صَباحاً.	-	-	Duo	type=translate:tap
-Is there a television?	Express a problem	هَل هُناك تِلْفاز؟	-	-	Duo	type=translate:tap
-3	Count from 0 to 10	٣	-	-	Duo	type=select:name_example
-4	Count from 0 to 10	٤	-	-	Duo	type=select:name_example
-7	Count from 0 to 10	٧	-	-	Duo	type=select:name_example
-number 1	Count from 0 to 10	رَقَم ١	-	-	Duo	type=translate:tap
-Do you know everything, Maha?	Count from 0 to 10	هَل تَعْرِفين كُلّ شَيْء يا مَها؟	-	-	Duo	type=translate:tap
-How do you count from 1 to 5, Mike?	Count from 0 to 10	كَيْف تَعُدّ مِن ١ إِلى ٥ يا مايْك؟	-	-	Duo	type=translate:tap
-How do you count from 1 to 6 in Arabic, Rosa?	Count from 0 to 10	كَيْف تَعُدّين مِن ١ إِلى ٦ بِٱلْلُّغة ٱلْعَرَبِيّة يا روزا؟	-	-	Duo	type=translate:reverse_tap
-I know all the numbers from 0 to 10 in Arabic.	Count from 0 to 10	أَعْرِف كُلّ اَلْأَعْداد مِن ٠ إِلى ١٠ بِٱلْلُّغة ٱلْعَرَبِيّة.	-	-	Duo	type=translate:reverse_tap
-I do not know everything in Arabic but I know all the numbers from 0 to 10.	Count from 0 to 10	لا أَعْرِف كُلّ شَيْء بِٱلْلُّغة ٱلْعَرَبِيّة لٰكِنّ أَعْرِف كُلّ اَلْأَعْداد مِن ٠ إِلى ١٠.	-	-	Duo	type=translate:reverse_tap
-10	Count from 0 to 10	١٠	-	-	Duo	type=select:name_example
-6	Count from 0 to 10	٦	-	-	Duo	type=select:name_example
-I do not know everything in Arabic.	Count from 0 to 10	لا أَعْرِف كُلّ شَيْء بِٱلْلُّغة ٱلْعَرَبِيّة.	-	-	Duo	type=translate:tap
-Do you know everything, Bob?	Count from 0 to 10	هَل تَعْرِف كُلّ شَيْء يا بوب؟	-	-	Duo	type=translate:reverse_tap
-from 0 to 3	Count from 0 to 10	مِن ٠ إِلى ٣	-	-	Duo	type=translate:reverse_tap
-Do you know all the numbers, Judy?	Count from 0 to 10	هَل تَعْرِفين كُلّ اَلْأَعْداد يا جودي؟	-	-	Duo	type=translate:reverse_tap
-island	Discuss geography	جَزيرة	-	-	Duo	type=select:name_example
-Do you live in a coastal city, Mohamed?	Discuss geography	هَل تَسْكُن في مَدينة ساحِلِيّة يا مُحَمَّد؟	-	-	Duo	type=translate:tap
-My father lives on an island.	Discuss geography	أَبي يَسْكُن في جَزيرة.	-	-	Duo	type=translate:tap
-I am from the city of Los Angeles in America.	Discuss geography	أَنا مِن مَدينة لوس أَنْجِلِس في أَمْريكا.	-	-	Duo	type=translate:tap
-The city of Savannah is a coastal city.	Discuss geography	مَدينة سافانا مَدينة ساحِلِيّة.	-	-	Duo	type=translate:tap
-Unfortunately, my city is very crowded.	Discuss geography	لِلْأَسَف مَدينَتي مُزْدَحِمة جِدّاً.	-	-	Duo	type=translate:tap
-I like swimming in the sea.	Discuss geography	أُحِبّ اَلْسِّباحة في ٱلْبَحْر.	-	-	Duo	type=translate:tap
-Carrie does not live in the mountains.	Discuss geography	كَري لا تَسْكُن في ٱلْجَبَل.	-	-	Duo	type=translate:tap
-I like reading in nature.	Discuss geography	أُحِبّ اَلْقِراءة في ٱلْطَّبيعة.	-	-	Duo	type=translate:reverse_tap
-Alexandria is a coastal city in Egypt.	Discuss geography	اَلْإِسْكَنْدَرِيّة مَدينة ساحِلِيّة في مِصْر.	-	-	Duo	type=translate:reverse_tap
-I am from a small island in the Mediterranean Sea.	Discuss geography	أَنا مِن جَزيرة صَغيرة في ٱلْبَحْر اَلْأَبْيَض اَلْمُتَوَسِّط.	-	-	Duo	type=translate:tap
-family	Greet people	عائِلة	-	-	Duo	type=select:name_example
-sick	Greet people	مَريض	-	-	Duo	type=select:name_example
-sad	Greet people	حَزين	-	-	Duo	type=select:name_example
-I am OK, praise be to God!	Greet people	أَنا تَمام اَلْحَمْدُ لِله!	-	-	Duo	type=translate:tap
-It's a pleasure to meet you.	Greet people	تَشَرَّفْنا.	-	-	Duo	type=translate:tap
-Peace be upon you, Sarah!	Greet people	اَلْسَّلامُ عَلَيْكُم يا سارة!	-	-	Duo	type=translate:tap
-Good morning, Shadi.	Greet people	صَباح اَلْخَيْر يا شادي.	-	-	Duo	type=translate:reverse_tap
-Are you from the city of Damascus, Mahmoud?	Greet people	هَل أَنْتَ مِن مَدينة دِمَشْق يا مَحْمود؟	-	-	Duo	type=translate:reverse_tap
-Hello Judy, my name is Mohamed.	Greet people	مَرْحَباً يا جودي أَنا ٱسْمي مُحَمَّد.	-	-	Duo	type=translate:reverse_tap
-How are you, Samia?	Greet people	كَيْف حالِك يا سامْية؟	-	-	Duo	type=translate:reverse_tap
-Good evening, what is your name?	Greet people	مَساء اَلْخَيْر، ما ٱسْمَك؟	-	-	Duo	type=translate:reverse_tap
-Good morning, Lama.	Greet people	صَباح اَلْخَيْر يا لَمى.	-	-	Duo	type=translate:tap
-Have a nice day, Sarah!	Greet people	يَوْم سَعيد يا سارة!	-	-	Duo	type=translate:tap
-Peace be upon you, Samia!	Greet people	اَلْسَّلامُ عَلَيْكُم يا سامْية!	-	-	Duo	type=translate:tap
-I study at the university now.	Talk about what you do	أَدْرُس في ٱلْجامِعة ٱلْآن.	-	-	Duo	type=translate:tap
-What do you study, Rania?	Talk about what you do	ماذا تَدْرُسين يا رانْيا؟	-	-	Duo	type=translate:tap
-Where do you work, Tamer?	Talk about what you do	أَيْن تَعْمَل يا تامِر؟	-	-	Duo	type=translate:tap
-I like to meet new people.	Talk about what you do	أُحِبّ اَلْتَّعَرُّف عَلى ناس جُدَد.	-	-	Duo	type=translate:reverse_tap
-I like to meet people.	Talk about what you do	أُحِبّ اَلْتَّعَرُّف عَلى ٱلْنّاس.	-	-	Duo	type=translate:reverse_tap
-Do you want to meet my family, Maha?	Talk about what you do	هَل تُريدين اَلْتَّعَرُّف عَلى عائِلَتي يا مَها؟	-	-	Duo	type=translate:reverse_tap
-Do you want to travel to Palestine, Maha?	Talk about what you do	هَل تُريدين اَلْسَّفَر إِلى فِلَسْطين يا مَها؟	-	-	Duo	type=translate:tap
-Do you study computer science, Arwa?	Talk about what you do	هَل تَدْرُسين عِلْم اَلْحاسوب يا أَرْوى؟	-	-	Duo	type=translate:reverse_tap
-I want to travel to my country with new people.	Talk about what you do	أُريد اَلْسَّفَر إِلى بَلَدي مَعَ ناس جُدَد.	-	-	Duo	type=translate:reverse_tap
-I do not study science.	Talk about what you do	لا أَدْرُس اَلْعُلوم.	-	-	Duo	type=translate:tap
-Do you work in tourism, Lama?	Talk about what you do	هَل تَعْمَلين في ٱلْسِّياحة يا لَمى؟	-	-	Duo	type=translate:tap
-He wants to meet a new friend.	Talk about what you do	يُريد اَلْتَّعَرُّف عَلى صَديق جَديد.	-	-	Duo	type=translate:reverse_tap
-Do you want to learn, Samia?	Talk about what you do	هَل تُريدين اَلْتَّعَلُّم يا سامْية؟	-	-	Duo	type=translate:tap
-I work in my cat's company and I am always busy.	Talk about what you do	أَعْمَل في شَرِكة قِطَّتي وَأَنا مَشْغولة دائِماً.	-	-	Duo	type=translate:reverse_tap
-My new company is amazing, praise be to God!	Talk about what you do	شَرِكَتي ٱلْجَديدة مُمْتازة ٱلْحَمْدُ لِله!	-	-	Duo	type=translate:reverse_tap
-I work in my sister's company.	Talk about what you do	أَعْمَل في شَرِكة أُخْتي.	-	-	Duo	type=translate:reverse_tap
-I do not work with my sister.	Talk about what you do	لا أَعْمَل مَعَ أُخْتي.	-	-	Duo	type=translate:tap
-Samia wants today's newspaper.	Talk about what you do	سامْية تُريد صَحيفة اَلْيَوْم.	-	-	Duo	type=translate:reverse_tap
-My name is Rosa and I am a student.	Talk about what you do	أَنا ٱسْمي روزا وَأَنا طالِبة.	-	-	Duo	type=translate:reverse_tap
-Judy is a good photographer.	Talk about what you do	جودي مُصَوِّرة جَيِّدة.	-	-	Duo	type=translate:reverse_tap
-My mother is an amazing homemaker.	Talk about what you do	أُمّي رَبّة بَيْت مُمْتازة.	-	-	Duo	type=translate:reverse_tap
-Do you study science, Mohamed?	Talk about what you do	هَل تَدْرُس اَلْعُلوم يا مُحَمَّد؟	-	-	Duo	type=translate:tap
-I do not have anything after three o'clock.	Tell time	لَيْسَ عِنْدي شَيْء بَعْد اَلْسّاعة ٱلْثّالِثة.	-	-	Duo	type=translate:tap
-What time is it? Ten o'clock.	Tell time	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْعاشِرة.	-	-	Duo	type=translate:tap
-He has something at one o'clock.	Tell time	عِنْدهُ شَيْء في ٱلْسّاعة ٱلْواحِدة.	-	-	Duo	type=translate:tap
-one o'clock in the morning	Tell time	اَلْسّاعة ٱلْواحِدة صَباحاً	-	-	Duo	type=translate:tap
-ten o'clock in the evening	Tell time	اَلْسّاعة ٱلْعاشِرة مَساءً	-	-	Duo	type=translate:tap
-I go to work.	Tell time	أَذْهَب إِلى ٱلْعَمَل.	-	-	Duo	type=translate:tap
-Do you have time before twelve o'clock?	Tell time	هَل عِنْدِك وَقْت قَبْل اَلْسّاعة ٱلْثّانْية عَشْرة؟	-	-	Duo	type=translate:reverse_tap
-Are you free after two thirty?	Tell time	هَل أَنْتَ مُتَفَرِّغ بَعْد اَلْسّاعة ٱلْثّانْية وَٱلْنُّصْف؟	-	-	Duo	type=translate:reverse_tap
-What time is it? One o'clock.	Tell time	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْواحِدة.	-	-	Duo	type=translate:tap
-She is free before nine o'clock.	Tell time	هِيَّ مُتَفَرِّغة قَبْل اَلْسّاعة ٱلْتّاسِعة.	-	-	Duo	type=translate:tap
-I do not like eating after one o'clock.	Tell time	لا أُحِبّ اَلْأَكْل بَعْد اَلْسّاعة ٱلْواحِدة.	-	-	Duo	type=translate:reverse_tap
-What time is it? Seven o'clock.	Tell time	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْسّابِعة.	-	-	Duo	type=translate:tap
-When do you go to France, George?	Tell time	مَتى تَذْهَب إِلى فَرَنْسا يا جورْج؟	-	-	Duo	type=translate:reverse_tap
-I like swimming before sleeping.	Tell time	أُحِبّ اَلْسِّباحة قَبْل اَلْنَّوْم.	-	-	Duo	type=translate:reverse_tap
-I am free after five o'clock.	Tell time	أَنا مُتَفَرِّغة بَعْد اَلْسّاعة ٱلْخامِسة.	-	-	Duo	type=translate:tap
-I must speak Arabic.	Tell time	يَجِب أَنْ أَتَكَلَّم اَلْلُّغة ٱلْعَرَبِيّة.	-	-	Duo	type=translate:reverse_tap
-My wife is free after three o'clock.	Tell time	زَوْجَتي مُتَفَرِّغة بَعْد اَلْسّاعة ٱلْثّالِثة.	-	-	Duo	type=translate:tap
-I do not speak in the morning.	Tell time	لا أَتَكَلَّم صَباحاً.	-	-	Duo	type=translate:reverse_tap
-Are you free before the appointment?	Tell time	هَل أَنْتَ مُتَفَرِّغ قَبْل اَلْمَوْعِد؟	-	-	Duo	type=translate:tap
-letter	Describe your hobbies	رِسالة	-	-	Duo	type=select:name_example
-soccer	Describe your hobbies	كُرة اَلْقَدَم	-	-	Duo	type=select:name_example
-movie	Describe your hobbies	فيلْم	-	-	Duo	type=select:name_example
-My wife loves languages.	Describe your hobbies	زَوْجَتي تُحِبّ اَلْلُّغات.	-	-	Duo	type=translate:tap
-Bob likes to read before sleeping.	Describe your hobbies	بوب يُحِبّ اَلْقِراءة قَبْل اَلْنَّوْم.	-	-	Duo	type=translate:tap
-I do not have friends.	Describe your hobbies	لَيْسَ عِنْدي أَصْدِقاء.	-	-	Duo	type=translate:tap
-Do you like to write letters to your relatives?	Describe your hobbies	هَل تُحِبّ كِتابة رَسائِل لِأَقارِبَك؟	-	-	Duo	type=translate:reverse_tap
-He likes to sleep but he also likes his lessons.	Describe your hobbies	يُحِبّ اَلْنَّوْم لٰكِنّ يُحِبّ دُروسهُ أَيْضاً.	-	-	Duo	type=translate:reverse_tap
-My sister does not like to watch movies with her friends.	Describe your hobbies	أُخْتي لا تُحِبّ مُشاهَدة اَلْأَفْلام مَعَ أَصْدِقائها.	-	-	Duo	type=translate:reverse_tap
-Do you want this movie, Sam?	Describe your hobbies	هَل تُريد هٰذا ٱلْفيلْم يا سام؟	-	-	Duo	type=translate:tap
-I must go to my lesson.	Describe your hobbies	يَجِب أَنْ أَذْهَب إِلى دَرْسي.	-	-	Duo	type=translate:reverse_tap
-He likes to write letters and I like to read letters, praise be to God!	Describe your hobbies	هُوَّ يُحِبّ كِتابة اَلْرَّسائِل وَأَنا أُحِبّ قِراءة اَلْرَّسائِل اَلْحَمْدُ لِله!	-	-	Duo	type=translate:reverse_tap
-Do you like this film, Samia?	Describe your hobbies	هَل تُحِبّين هٰذا ٱلْفيلْم يا سامْية؟	-	-	Duo	type=translate:tap
-I do not like to play.	Describe your hobbies	لا أُحِبّ اَلْلَّعْب.	-	-	Duo	type=translate:tap
-I must talk with my neighbor Mahmoud about this movie.	Describe your hobbies	يَجِب أَنْ أَتَكَلَّم مَعَ جاري مَحْمود عَن هٰذا ٱلْفيلْم.	-	-	Duo	type=translate:reverse_tap
-Do you like to go out of the house on the weekend?	Describe your hobbies	هَل تُحِبّين اَلْخُروج مِن اَلْبَيْت في نِهاية اَلْأُسْبوع؟	-	-	Duo	type=translate:reverse_tap
-Reem visits Jordan a lot.	Describe your hobbies	ريم تَزور اَلْأُرْدُن كَثيراً.	-	-	Duo	type=translate:reverse_tap
-And you, Samia, what do you like?	Describe your hobbies	وَأَنْتِ يا سامْية ماذا تُحِبّين؟	-	-	Duo	type=translate:reverse_tap
-Learning languages is very fun.	Describe your hobbies	تَعَلُّم اَلْلُّغات مُمْتِع جِدّاً.	-	-	Duo	type=translate:reverse_tap
-I visit my father all the time.	Describe your hobbies	أَزور أَبي كُلّ اَلْوَقْت.	-	-	Duo	type=translate:tap
-I want to travel with my friends.	Describe your hobbies	أُريد اَلْسَّفَر مَعَ أَصْدِقائي.	-	-	Duo	type=translate:tap
-meat	Express food preferences	لَحْم	-	-	Duo	type=select:name_example
-soup	Express food preferences	شورْبة	-	-	Duo	type=select:name_example
-bread	Express food preferences	خُبْز	-	-	Duo	type=select:name_example
-Omar, do you like juice and do you want juice?	Express food preferences	يا عُمَر هَل تُحِبّ اَلْعَصير وَهَل تُريد عَصيراً؟	-	-	Duo	type=translate:tap
-Sam wants tabbouleh.	Express food preferences	سام يُريد تَبّولة.	-	-	Duo	type=translate:tap
-What is this dish?	Express food preferences	ما هٰذا ٱلْطَّبَق؟	-	-	Duo	type=translate:tap
-Rania does not like meat, correct?	Express food preferences	رانْيا لا تُحِبّ اَلْلَّحْم صَحيح؟	-	-	Duo	type=translate:tap
-salad	Express food preferences	سَلَطة	-	-	Duo	type=select:name_example
-He drinks milk in the morning.	Express food preferences	يَشْرَب اَلْحَليب صَباحاً.	-	-	Duo	type=translate:tap
-Yes, he wants good kebab.	Express food preferences	نَعَم يُريد كَباباً طَيِّباً.	-	-	Duo	type=translate:tap
-Do you like appetizers, Bob?	Express food preferences	هَل تُحِبّ اَلْمُقَبِّلات يا بوب؟	-	-	Duo	type=translate:reverse_tap
-Bob does not want hummus, correct?	Express food preferences	بوب لا يُريد حُمُّصاً صَحيح؟	-	-	Duo	type=translate:reverse_tap
-There is no falafel.	Express food preferences	لَيْسَ هُناك فَلافِل.	-	-	Duo	type=translate:reverse_tap
-I do not want soup, thank you.	Express food preferences	لا أُريد شورْبة شُكْراً.	-	-	Duo	type=translate:tap
-This dish is very good.	Express food preferences	هٰذا ٱلْطَّبَق طَيِّب جِدّاً.	-	-	Duo	type=translate:reverse_tap
-My daughter likes meat in the evening.	Express food preferences	بِنْتي تُحِبّ اَلْلَّحْم مَساءً.	-	-	Duo	type=translate:reverse_tap
-train	Find a bus station	قِطار	-	-	Duo	type=select:name_example
-bus	Find a bus station	باص	-	-	Duo	type=select:name_example
-They always take the train.	Find a bus station	يَأْخُذون اَلْقِطار دائِماً.	-	-	Duo	type=translate:tap
-The train station is very close.	Find a bus station	مَحَطّة اَلْقِطار قَريبة جِدّاً.	-	-	Duo	type=translate:tap
-I leave at three o'clock.	Find a bus station	أَنْطَلِق في ٱلْسّاعة ٱلْثّالِثة.	-	-	Duo	type=translate:tap
-At what time does the train leave?	Find a bus station	في أَيّة ساعة يَنْطَلِق اَلْقِطار؟	-	-	Duo	type=translate:reverse_tap
-Which station are we at?	Find a bus station	نَحْنُ في أَيّة مَحَطّة؟	-	-	Duo	type=translate:reverse_tap
-They do not know what time I leave at.	Find a bus station	لا يَعْرِفون في أَيّة ساعة أَنْطَلِق.	-	-	Duo	type=translate:reverse_tap
-I do not want to go with my grandmother.	Find a bus station	لا أُريد اَلْذَّهاب مَعَ جَدَّتي.	-	-	Duo	type=translate:tap
-Where do you all want to travel to?	Find a bus station	إِلى أَيْن تُريدون اَلْسَّفَر؟	-	-	Duo	type=translate:reverse_tap
-Where do you all want to go?	Find a bus station	إِلى أَيْن تُريدون اَلْذَّهاب؟	-	-	Duo	type=translate:reverse_tap
-The city is far from the university.	Find a bus station	اَلْمَدينة بَعيدة عَن اَلْجامِعة.	-	-	Duo	type=translate:tap
-Do they know the time?	Find a bus station	هَل يَعْرِفون اَلْسّاعة؟	-	-	Duo	type=translate:reverse_tap
-Every day he takes her car.	Find a bus station	كُلّ يَوْم يَأْخُذ سَيّارَتها.	-	-	Duo	type=translate:reverse_tap
-Do you all take the car?	Find a bus station	هَل تَأْخُذون اَلْسَّيّارة؟	-	-	Duo	type=translate:reverse_tap
-Please Maha, where is the bus?	Find a bus station	مِن فَضْلِك يا مَها أَيْن اَلْباص؟	-	-	Duo	type=translate:reverse_tap
-On which day does he like to travel?	Find a bus station	في أَيّ يَوْم يُحِبّ اَلْسَّفَر؟	-	-	Duo	type=translate:reverse_tap
-You all want to travel to Paris?	Find a bus station	تُريدون اَلْسَّفَر إِلى باريس؟	-	-	Duo	type=translate:tap
-vegetables	Talk about a market	خُضْراوات	-	-	Duo	type=select:name_example
-fruit	Talk about a market	فاكِهة	-	-	Duo	type=select:name_example
-Lebanese okra is very good.	Talk about a market	اَلْبامْيا ٱلْلُّبْنانِيّة طَيِّبة جِدّاً.	-	-	Duo	type=translate:tap
-You buy this coffee because it is healthy.	Talk about a market	تَشْتَرين هٰذِهِ ٱلْقَهْوة لِأَنَّها صِحِّيّة.	-	-	Duo	type=translate:tap
-I buy everything from the same place.	Talk about a market	أَشْتَري كُلّ شَيْء مِن نَفْس اَلْمَكان.	-	-	Duo	type=translate:tap
-I do not want the same food.	Talk about a market	لا أُريد نَفْس اَلْأَكْل.	-	-	Duo	type=translate:reverse_tap
-Why do I not buy a little coffee?	Talk about a market	لِماذا لا أَشْتَري اَلْقَليل مِن اَلْقَهْوة؟	-	-	Duo	type=translate:reverse_tap
-George always buys the same thing.	Talk about a market	جورْج يَشْتَري نَفْس اَلْشَّيْء دائِماً.	-	-	Duo	type=translate:reverse_tap
-Because she always buys the same thing.	Talk about a market	لِأَنَّها تَشْتَري نَفْس اَلْشَّيْء دائِماً.	-	-	Duo	type=translate:reverse_tap
-I want a little cake.	Talk about a market	أُريد اَلْقَليل مِن اَلْكَعْك.	-	-	Duo	type=translate:reverse_tap
-I do not usually like cake.	Talk about a market	عادةً لا أُحِبّ اَلْكَعْك.	-	-	Duo	type=translate:reverse_tap
-What do you buy, Omar?	Talk about a market	ماذا تَشْتَري يا عُمَر؟	-	-	Duo	type=translate:tap
-Where is the fresh zucchini?	Talk about a market	أَيْن اَلْكوسا ٱلْطّازِجة؟	-	-	Duo	type=translate:reverse_tap
-I do not go to the market a lot.	Talk about a market	لا أَذْهَب إِلى ٱلْسّوق كَثيراً.	-	-	Duo	type=translate:reverse_tap
-I do not usually go to the market.	Talk about a market	لا أَذْهَب إِلى ٱلْسّوق عادةً.	-	-	Duo	type=translate:reverse_tap
-Because she does not like the market.	Talk about a market	لِأَنَّها لا تُحِبّ اَلْسّوق.	-	-	Duo	type=translate:tap
-Does he have fresh milk?	Talk about a market	هَل عِنْدهُ حَليب طازِج؟	-	-	Duo	type=translate:reverse_tap
-Why do I not like carrots?	Talk about a market	لِماذا لا أُحِبّ اَلْجَزَر؟	-	-	Duo	type=translate:reverse_tap
-Because the restaurant is expensive.	Talk about a market	لِأَنَّ ٱلْمَطْعَم غالي.	-	-	Duo	type=translate:reverse_tap
-Lama wants coffee because she is tired.	Talk about a market	لَمى تُريد قَهْوة لِأَنَّها تَعْبانة.	-	-	Duo	type=translate:reverse_tap
-You are healthy because you like vegetables, Maha.	Talk about a market	أَنْتِ صِحِّيّة لِأَنِّك تُحِبّين اَلْخُضْراوات يا مَها.	-	-	Duo	type=translate:reverse_tap
-Why does he buy old fruit?	Talk about a market	لِماذا يَشْتَري فاكِهة قَديمة؟	-	-	Duo	type=translate:reverse_tap
-Will you go to the university soon?	Talk on the phone	هَل سَتَذْهَب إِلى ٱلْجامِعة قَريباً؟	-	-	Duo	type=translate:tap
-Lama is not here.	Talk on the phone	لَمى لَيْسَت مَوْجودة.	-	-	Duo	type=translate:tap
-We return in the evening.	Talk on the phone	نَعود في ٱلْمَساء.	-	-	Duo	type=translate:tap
-Is he there this week?	Talk on the phone	هَل هُوَّ مَوْجود هٰذا ٱلْأُسْبوع؟	-	-	Duo	type=translate:reverse_tap
-Can you call next week, Mohamed?	Talk on the phone	هَل مِن اَلْمُمْكِن أَنْ تَتَّصِل اَلْأُسْبوع اَلْمُقْبِل يا مُحَمَّد؟	-	-	Duo	type=translate:reverse_tap
-I will call next week.	Talk on the phone	سَأَتَّصِل اَلْأُسْبوع اَلْمُقْبِل.	-	-	Duo	type=translate:reverse_tap
-Do you speak on the phone a lot?	Talk on the phone	هَل تَتَكَلَّم بِٱلْهاتِف كَثيراً؟	-	-	Duo	type=translate:tap
-We will go to the market soon.	Talk on the phone	سَنَذْهَب إِلى ٱلْسّوق قَريباً.	-	-	Duo	type=translate:tap
-She is not here. Can you call later?	Talk on the phone	هِيَّ لَيْسَت مَوْجودة. هَل مِن اَلْمُمْكِن أَنْ تَتَّصِل لاحِقاً؟	-	-	Duo	type=translate:reverse_tap
-One moment... no, she is not here.	Talk on the phone	لَحْظة... لا، هِيَّ لَيْسَت مَوْجودة.	-	-	Duo	type=translate:reverse_tap
-Can I speak with him?	Talk on the phone	هَل مِن اَلْمُمْكِن أَنْ أَتَكَلَّم مَعَهُ؟	-	-	Duo	type=translate:reverse_tap
-You must not speak on the phone in class, Mohamed.	Talk on the phone	لا يَجِب أَنْ تَتَكَلَّم بِٱلْهاتِف في ٱلْصَّفّ يا مُحَمَّد.	-	-	Duo	type=translate:reverse_tap
-Will you all speak on the phone today?	Talk on the phone	هَل سَتَتَكَلَّمون بِٱلْهاتِف اَلْيَوْم؟	-	-	Duo	type=translate:reverse_tap
-Bob, why must you speak with me now?	Talk on the phone	يا بوب لِماذا يَجِب أَنْ تَتَكَلَّم مَعي ٱلْآن؟	-	-	Duo	type=translate:reverse_tap
-Is Bashir there?	Talk on the phone	هَل بَشير مَوْجود؟	-	-	Duo	type=translate:reverse_tap
-They usually return in the afternoon.	Talk on the phone	يَعودون بَعْد اَلْظُّهْر عادةً.	-	-	Duo	type=translate:reverse_tap
-Wrong number.	Talk on the phone	اَلْرَّقَم غَلَط.	-	-	Duo	type=translate:reverse_tap
-I must speak with you.	Talk on the phone	يَجِب أَنْ أَتَكَلَّم مَعَك.	-	-	Duo	type=translate:tap
-My  cousin is divorced.	Describe personalities	اِبْن عَمّي مُطَلَّق.	-	-	Duo	type=translate:tap
-My hair is like my mother's hair.	Describe personalities	شَعْري مِثْل شَعْر أُمّي.	-	-	Duo	type=translate:tap
-My cousin is a soldier.	Describe personalities	اِبْن عَمّي جُنْدِيّ.	-	-	Duo	type=translate:tap
-Bob's brother does not hate you at all.	Describe personalities	أَخو بوب لا يَكْرَهَك أَبَداً.	-	-	Duo	type=translate:reverse_tap
-My cousin's name is Sam.	Describe personalities	اِبْن عَمّي اِسْمهُ سام.	-	-	Duo	type=translate:reverse_tap
-I am a homemaker and my work is difficult like the work of a soldier.	Describe personalities	أَنا رَبّة بَيْت وَعَمَلي صَعْب مِثْل عَمَل اَلْجُنْدِيّ.	-	-	Duo	type=translate:reverse_tap
-Rania, her cousin, is Mahmoud's sister.	Describe personalities	رانْيا بِنْت عَمّها هِيَّ أُخْت مَحْمود.	-	-	Duo	type=translate:reverse_tap
-Your cousin is amazing.	Describe personalities	بِنْت عَمَّك مُمْتازة.	-	-	Duo	type=translate:tap
-The paternal uncle is the father's brother.	Describe personalities	اَلْعَمّ هُوَّ أَخو ٱلْأَب.	-	-	Duo	type=translate:reverse_tap
-Why do you not like traveling at all?	Describe personalities	لِماذا لا تُحِبّ اَلْسَّفَر أَبَداً؟	-	-	Duo	type=translate:reverse_tap
-I do not hate you.	Describe personalities	لا أَكْرَهَك.	-	-	Duo	type=translate:reverse_tap
-"Her maternal aunt" means "her mother's sister".	Describe personalities	خالَتها يَعْني أُخْت أُمّها.	-	-	Duo	type=translate:reverse_tap
-Who is ugly in your family?	Describe personalities	مَن قَبيح في عائِلَتَك؟	-	-	Duo	type=translate:tap
-My paternal uncle is ugly.	Describe personalities	عَمّي قَبيح.	-	-	Duo	type=translate:tap
-Is his paternal uncle married?	Describe personalities	هَل عَمّهُ مُتَزَوِّج؟	-	-	Duo	type=translate:tap
-No one is ugly.	Describe personalities	لا أَحَد قَبيح.	-	-	Duo	type=translate:tap
-hotel	Check into a hotel	فُنْدُق	-	-	Duo	type=select:name_example
-mouse	Check into a hotel	فَأْر	-	-	Duo	type=select:name_example
-swimming pool	Check into a hotel	مَسْبَح	-	-	Duo	type=select:name_example
-Do they have a reservation?	Check into a hotel	هَل عِنْدهُم حَجْز؟	-	-	Duo	type=translate:tap
-We will return in a year.	Check into a hotel	سَنَعود بَعْد سَنة.	-	-	Duo	type=translate:tap
-I sleep well here.	Check into a hotel	أَنام جَيِّداً هُنا.	-	-	Duo	type=translate:tap
-Is the swimming pool on the first floor?	Check into a hotel	هَل اَلْمَسْبَح في ٱلْطّابِق اَلْأَوَّل؟	-	-	Duo	type=translate:tap
-Everything in this hotel is very clean.	Check into a hotel	كُلّ شَيْء في هٰذا ٱلْفُنْدُق نَظيف جِدّاً.	-	-	Duo	type=translate:reverse_tap
-No, in this hotel there is no mouse.	Check into a hotel	لا، في هٰذا ٱلْفُنْدُق لَيْسَ هُناك فَأْر.	-	-	Duo	type=translate:reverse_tap
-This is their hotel.	Check into a hotel	هٰذا هُوَّ فُنْدُقهُم.	-	-	Duo	type=translate:reverse_tap
-Where are the sheets?	Check into a hotel	أَيْن اَلْمُلاءات؟	-	-	Duo	type=translate:tap
-Their hotel is amazing but very expensive.	Check into a hotel	فُنْدُقهُم مُمْتاز لٰكِنّ غالي جِدّاً.	-	-	Duo	type=translate:reverse_tap
-Do they sleep here?	Check into a hotel	هَل يَنامون هُنا؟	-	-	Duo	type=translate:reverse_tap
-Is there a balcony in your room?	Check into a hotel	هَل هُناك شُرْفة في غُرْفَتكُم؟	-	-	Duo	type=translate:reverse_tap
-You only want sheets?	Check into a hotel	تُريدون مُلاءات فَقَط؟	-	-	Duo	type=translate:reverse_tap
-foot	Describe symptoms	رِجْل	-	-	Duo	type=select:name_example
-hand	Describe symptoms	يَد	-	-	Duo	type=select:name_example
-How do you all feel today?	Describe symptoms	كَيْف تَشْعُرون اَلْيَوْم؟	-	-	Duo	type=translate:tap
-My eye is warm.	Describe symptoms	عَيْني ساخِنة.	-	-	Duo	type=translate:tap
-mouth	Describe symptoms	فَم	-	-	Duo	type=select:name_example
-Do you all prefer to rest?	Describe symptoms	هَل تُفَضِّلون أَنْ تَرْتاحوا؟	-	-	Duo	type=translate:tap
-There is no problem, we like to sleep.	Describe symptoms	لَيْسَ هُناك مُشْكِلة، نُحِبّ أَنْ نَنام.	-	-	Duo	type=translate:reverse_tap
-Do they prefer to rest now?	Describe symptoms	هَل يُفَضِّلون أَنْ يَرْتاحوا ٱلْآن؟	-	-	Duo	type=translate:reverse_tap
-Do you want to go to the doctor?	Describe symptoms	هَل تُريد أَنْ تَذْهَب إِلى ٱلْطَّبيب؟	-	-	Duo	type=translate:tap
-Who does not want a break?	Describe symptoms	مَن لا يُريد اِسْتِراحة؟	-	-	Duo	type=translate:tap
-Do you want to take a break?	Describe symptoms	هَل تُريد أَنْ تَأْخُذ اِسْتِراحة؟	-	-	Duo	type=translate:reverse_tap
-Do you feel pain in your mouth?	Describe symptoms	هَل تَشْعُرين بِأَلَم في ٱلْفَم؟	-	-	Duo	type=translate:reverse_tap
-I want to take a break.	Describe symptoms	أُريد أَنْ آخُذ اِسْتِراحة.	-	-	Duo	type=translate:reverse_tap
-Do you like to rest, Rania?	Describe symptoms	هَل تُحِبّين أَنْ تَرْتاحي يا رانْيا؟	-	-	Duo	type=translate:tap
-Do they want to rest?	Describe symptoms	هَل يُريدون أَنْ يَرْتاحوا؟	-	-	Duo	type=translate:tap
-They do not like to rest.	Describe symptoms	لا يُحِبّون أَنْ يَرْتاحوا.	-	-	Duo	type=translate:reverse_tap
-She has had a fever since yesterday.	Describe symptoms	عِنْدها حَرارة مُنْذُ أَمْس.	-	-	Duo	type=translate:reverse_tap
-Is the pain strong?	Describe symptoms	هَل اَلْأَلَم قَوِيّ؟	-	-	Duo	type=translate:reverse_tap
-Does your hand hurt?	Describe symptoms	هل يدك تؤلمك؟	-	-	Duo	type=translate:reverse_tap
-We must take a break.	Describe symptoms	يَجِب أَنْ نَأْخُذ اِسْتِراحة.	-	-	Duo	type=translate:reverse_tap
-soap	Buy food	صابون	-	-	Duo	type=select:name_example
-Give me some okra, Samia.	Buy food	أَعْطيني بامْيا يا سامْية.	-	-	Duo	type=translate:tap
-Give me the meat, guys!	Buy food	أَعْطوني ٱلْلَّحْم يا شَباب!	-	-	Duo	type=translate:tap
-Where is the toothpaste?	Buy food	أَيْن مَعْجون اَلْأَسْنان؟	-	-	Duo	type=translate:tap
-Where is the smell of soap coming from?	Buy food	مِن أَيْن تَجيء رائِحة اَلْصّابون؟	-	-	Duo	type=translate:reverse_tap
-This vendor always gives me a good price.	Buy food	هٰذا ٱلْبائِع دائِماً يُعْطيني سِعْراً جَيِّداً.	-	-	Duo	type=translate:reverse_tap
-I do not like the smell of this vendor's soap.	Buy food	لا أُحِبّ رائِحة صابون هٰذا ٱلْبائِع.	-	-	Duo	type=translate:reverse_tap
-They want one toothbrush.	Buy food	يُريدون فُرْشاة أَسْنان واحِدة.	-	-	Duo	type=translate:tap
-Give me fresh toothpaste this time.	Buy food	أَعْطيني مَعْجون أَسْنان طازِجاً هٰذِهِ ٱلْمَرّة.	-	-	Duo	type=translate:reverse_tap
-We will return in only an hour.	Buy food	سَنَعود بَعْد ساعة واحِدة فَقَط.	-	-	Duo	type=translate:reverse_tap
-Give me the same thing again, Rania.	Buy food	أَعْطيني نَفْس اَلْشَّيْء مَرّة أُخْرى يا رانْيا.	-	-	Duo	type=translate:reverse_tap
-I want a toothbrush.	Buy food	أُريد فُرْشاة أَسْنان.	-	-	Duo	type=translate:reverse_tap
-This is a good price!	Buy food	هٰذا سِعْر جَيِّد!	-	-	Duo	type=translate:reverse_tap
-Do you give the cash now, Judy?	Buy food	هَل تُعْطين اَلْنُّقود اَلْآن يا جودي؟	-	-	Duo	type=translate:reverse_tap
-Do you all have 10 dinar, guys?	Buy food	هَل عِنْدكُم ١٠ دَنانير يا شَباب؟	-	-	Duo	type=translate:reverse_tap
-Here you go, Rania!	Buy food	تَفَضَّلي يا رانْيا!	-	-	Duo	type=translate:tap
-Do you have 5 dinar for the tomatoes?	Buy food	هَل عِنْدَك ٥ دَنانير لِلْبَنَدورة؟	-	-	Duo	type=translate:tap
-We will become richer, God willing.	Describe your ideal job	سَنُصْبِح أَغْنى إِنْ شاءَ ٱلله.	-	-	Duo	type=translate:tap
-What do you all want to be, guys?	Describe your ideal job	ماذا تُريدون أَنْ تَكونوا يا شَباب؟	-	-	Duo	type=translate:tap
-The work is good but I want another salary.	Describe your ideal job	اَلْعَمَل جَيِّد لٰكِنّ أُريد راتِباً آخَر.	-	-	Duo	type=translate:tap
-I want to be richer than my father.	Describe your ideal job	أُريد أَنْ أَكون أَغْنى مِن أَبي.	-	-	Duo	type=translate:reverse_tap
-There is more cash in the other office.	Describe your ideal job	هُناك نُقود أَكْثَر في ٱلْمَكْتَب اَلْآخَر.	-	-	Duo	type=translate:reverse_tap
-I will be richer in a richer economy, God willing.	Describe your ideal job	سَأَكون أَغْنى في ٱقْتِصاد أَغْنى إِنْ شاءَ ٱلله.	-	-	Duo	type=translate:reverse_tap
-No, I do not want to immigrate.	Describe your ideal job	لا، لا أُريد اَلْهِجْرة.	-	-	Duo	type=translate:tap
-Because the salary is high.	Describe your ideal job	لِأَنَّ ٱلْرّاتِب عالي.	-	-	Duo	type=translate:tap
-We like our salary, praise be to God.	Describe your ideal job	نُحِبّ راتِبنا اَلْحَمْدُ لِله.	-	-	Duo	type=translate:reverse_tap
-Do you prefer the other office?	Describe your ideal job	هَل تُفَضِّل اَلْمَكْتَب اَلْآخَر؟	-	-	Duo	type=translate:reverse_tap
-She is not poor.	Describe your ideal job	هِيَّ لَيْسَت فَقيرة.	-	-	Duo	type=translate:tap
-You want to be a professor, correct?	Describe your ideal job	تُريدين أَنْ تَكوني أُسْتاذة صَحيح؟	-	-	Duo	type=translate:tap
-music	Talk about daily life	موسيقى	-	-	Duo	type=select:name_example
-She brushes her teeth sometimes.	Talk about daily life	تُفَرِّش أَسْنانها أَحْياناً.	-	-	Duo	type=translate:tap
-I go to sleep or I read.	Talk about daily life	أَنام أَو أَقْرَأ.	-	-	Duo	type=translate:tap
-My son likes to wake up late.	Talk about daily life	اِبْني يُحِبّ أَنْ يَصْحو في ساعة مُتَأَخِّرة.	-	-	Duo	type=translate:tap
-I want to wake up late every day.	Talk about daily life	أُريد أَنْ أَصْحو في ساعة مُتَأَخِّرة كُلّ يَوْم.	-	-	Duo	type=translate:reverse_tap
-We eat a light dinner late.	Talk about daily life	نَتَناوَل عَشاء خَفيفاً في ساعة مُتَأَخِّرة.	-	-	Duo	type=translate:reverse_tap
-They brush their teeth sometimes.	Talk about daily life	يُفَرِّشون أَسْنانهُم أَحْياناً.	-	-	Duo	type=translate:tap
-What do you do after that?	Talk about daily life	ماذا تَفْعَلين بَعْد ذٰلِك؟	-	-	Duo	type=translate:tap
-We shower every day in the summer.	Talk about daily life	نَسْتَحِمّ كُلّ يَوْم في ٱلْصَّيْف.	-	-	Duo	type=translate:tap
-I do not like to wake up early on the weekend.	Talk about daily life	لا أُحِبّ أَنْ أَصْحو مُبَكِّراً في نِهاية اَلْأُسْبوع.	-	-	Duo	type=translate:reverse_tap
-We wake up early every morning.	Talk about daily life	نَحْنُ نَصْحو مُبَكِّراً كُلّ صَباح.	-	-	Duo	type=translate:reverse_tap
-In the evening, I watch TV or I go to sleep early.	Talk about daily life	في ٱلْمَساء أُشاهِد اَلْتِّلْفاز أَو أَنام مُبَكِّراً.	-	-	Duo	type=translate:reverse_tap
-We can eat together.	Talk about daily life	مِن اَلْمُمْكِن أَنْ نَأْكُل مَعاً.	-	-	Duo	type=translate:tap
-I do not eat quickly because eating takes time.	Talk about daily life	لا آكُل بِسُرْعة لِأَنَّ اَلْأَكْل يَأْخُذ وَقْتاً.	-	-	Duo	type=translate:reverse_tap
-after that, we eat breakfast together.	Talk about daily life	بَعْد ذٰلِك نَتَناوَل اَلْفُطور مَعاً.	-	-	Duo	type=translate:reverse_tap
-We cannot eat together.	Talk about daily life	لَيْسَ مِن اَلْمُمْكِن أَنْ نَأْكُل مَعاً.	-	-	Duo	type=translate:reverse_tap
-He usually showers before sleep.	Talk about daily life	يَسْتَحِمّ قَبْل اَلْنَّوْم عادةً.	-	-	Duo	type=translate:reverse_tap
-I work quickly.	Talk about daily life	أَعْمَل بِسُرْعة.	-	-	Duo	type=translate:reverse_tap
-Are you ready?	Talk about daily life	هل أنت جاهز؟	-	-	Duo	type=translate:reverse_tap
-You are not ready now, correct?	Talk about daily life	لَسْتَ جاهِزاً اَلْآن صَحيح؟	-	-	Duo	type=translate:reverse_tap
-We want a pretty scarf for Laila.	Discuss clothing	نُريد وِشاحاً جَميلاً لِلَيْلى.	-	-	Duo	type=translate:tap
-gloves	Discuss clothing	قُفّازات	-	-	Duo	type=select:name_example
-My husband needs a new suit.	Discuss clothing	زَوْجي يَحْتاج إِلى بَدْلة جَديدة.	-	-	Duo	type=translate:tap
-shoes	Discuss clothing	حِذاء	-	-	Duo	type=select:name_example
-Can you help me?	Discuss clothing	هَل مِن اَلْمُمْكِن أَنْ تُساعِدني؟	-	-	Duo	type=translate:tap
-shirts	Discuss clothing	قُمْصان	-	-	Duo	type=select:name_example
-Excuse me, can you help me?	Discuss clothing	عَفْواً هَل مِن اَلْمُمْكِن أَنْ تُساعِدني؟	-	-	Duo	type=translate:reverse_tap
-Do you have wool socks?	Discuss clothing	هَل عِنْدِك جَوارِب مِن اَلْصّوف؟	-	-	Duo	type=translate:reverse_tap
-Can you help me?	Discuss clothing	هل يمكنك أن تساعدني؟	-	-	Duo	type=translate:reverse_tap
-Do you prefer these hats?	Discuss clothing	هَل تُفَضِّل هٰذِهِ ٱلْقُبَّعات؟	-	-	Duo	type=translate:tap
-You do not need a new dress.	Discuss clothing	لا تَحْتاجين إِلى فُسْتان جَديد.	-	-	Duo	type=translate:tap
-No one needs all these hats.	Discuss clothing	لا أَحَد يَحْتاج إِلى كُلّ هٰذِهِ ٱلْقُبَّعات.	-	-	Duo	type=translate:reverse_tap
-No one needs all these suits.	Discuss clothing	لا أَحَد يَحْتاج إِلى كُلّ هٰذِهِ ٱلْبَدَلات.	-	-	Duo	type=translate:reverse_tap
-Do you have cheap coats?	Discuss clothing	هَل عِنْدكُم مَعاطِف رَخيصة؟	-	-	Duo	type=translate:tap
-They have expensive suits.	Discuss clothing	عِنْدهُم بَدَلات غالْية.	-	-	Duo	type=translate:reverse_tap
-Is there a blouse with long sleeves?	Discuss clothing	هَل هُناك بَلوزة بِكُمّ طَويل؟	-	-	Duo	type=translate:reverse_tap
-These gloves are small.	Discuss clothing	هٰذِهِ ٱلْقُفّازات صَغيرة.	-	-	Duo	type=translate:reverse_tap
-airplane	Plan activities	طَيّارة	-	-	Duo	type=select:name_example
-passport	Plan activities	جَواز سَفَر	-	-	Duo	type=select:name_example
-This activity will be good for my father.	Plan activities	هٰذا ٱلْنَّشاط سَيَكون جَيِّداً لِأَبي.	-	-	Duo	type=translate:tap
-We will rent a big apartment together.	Plan activities	سَنَسْتَأْجِر شَقّة كَبيرة مَعاً.	-	-	Duo	type=translate:tap
-This site is very famous.	Plan activities	هٰذا ٱلْمَوْقِع مَشْهور جِدّاً.	-	-	Duo	type=translate:tap
-Where do you want to go?	Plan activities	إِلى أَيْن تُريدين أَنْ تَذْهَبي؟	-	-	Duo	type=translate:tap
-Are there other countries?	Plan activities	هَل هُناك بِلاد أُخْرى؟	-	-	Duo	type=translate:tap
-How do you obtain cash in Cuba?	Plan activities	كَيْف تَحْصُلين عَلى ٱلْنُّقود في كوبا؟	-	-	Duo	type=translate:reverse_tap
-In the world there are a lot of stunning countries, my son.	Plan activities	في ٱلْعالَم بِلاد رائِعة كَثيرة يا ٱبْني.	-	-	Duo	type=translate:reverse_tap
-I will not travel to a lot of countries this year.	Plan activities	لَنْ أُسافِر إِلى بِلاد كَثيرة هٰذِهِ ٱلْسَّنة.	-	-	Duo	type=translate:reverse_tap
-I do not want a short trip.	Plan activities	لا أُريد رِحْلة قَصيرة.	-	-	Duo	type=translate:tap
-Do you want to take the plane?	Plan activities	هَل تُريدون أَنْ تَأْخُذوا ٱلْطَّيّارة؟	-	-	Duo	type=translate:tap
-He wants to travel to more countries.	Plan activities	يُريد اَلْسَّفَر إِلى بِلاد أَكْثَر.	-	-	Duo	type=translate:reverse_tap
-In Egypt, there are stunning views.	Plan activities	في مِصْر مَناظِر رائِعة.	-	-	Duo	type=translate:reverse_tap
-We will see.	Plan activities	سَنَرى.	-	-	Duo	type=translate:reverse_tap
-We do not want to rent a car.	Plan activities	لا نُريد أَنْ نَسْتَأْجِر سَيّارة.	-	-	Duo	type=translate:reverse_tap
-There are other activities.	Plan activities	هُناك أَنْشِطة أُخْرى.	-	-	Duo	type=translate:reverse_tap
+English	Foreign	Transliteration	Context
+George and Rawad	جورج وَرَواد	-	Identify names
+Carrie and Rosa	كَري وَروزا	-	Identify names
+Bob and Judy	بوب وَجودي	-	Identify names
+George and Rosa	جورج وَروزا	-	Identify names
+Bob and Rosa	بوب وَروزا	-	Identify names
+Rawad and Carrie	رَواد وَكَري	-	Identify names
+Judy and George	جودي وَجورج	-	Identify names
+Judy and Bob	جودي وَبوب	-	Identify names
+Rosa	روزا	-	Identify names
+Rawad and George	رَواد وَجورج	-	Identify names
+Cuba and Peru	كوبا وَبيرو	-	Refer to places
+Juba and Baku	جوبا وَباكو	-	Refer to places
+Korea and Peru	كوريا وَبيرو	-	Refer to places
+Cuba and Korea	كوبا وَكوريا	-	Refer to places
+Peru and Korea	بيرو وَكوريا	-	Refer to places
+Baku and Dakar	باكو وَداكار	-	Refer to places
+Peru and Cuba	بيرو وَكوبا	-	Refer to places
+Baku and Riga	باكو وَريجا	-	Refer to places
+Juba and Riga	جوبا وَريجا	-	Refer to places
+Cuba	كوبا	-	Refer to places
+Peru	بيرو	-	Refer to places
+Juba and Dakar	جوبا وَداكار	-	Refer to places
+house	بَيت	-	Talk about your house
+an amazing house	بَيت مُمتاز	-	Talk about your house
+a new door	باب جَديد	-	Talk about your house
+a new jacket	جاكيت جَديد	-	Talk about your house
+jacket	جاكيت	-	Talk about your house
+an amazing door	باب مُمتاز	-	Talk about your house
+an amazing garage	كَراج مُمتاز	-	Talk about your house
+a big jacket	جاكيت كَبير	-	Talk about your house
+a big garage	كَراج كَبير	-	Talk about your house
+an amazing jacket	جاكيت مُمتاز	-	Talk about your house
+a new garage	كَراج جَديد	-	Talk about your house
+a big door	باب كَبير	-	Talk about your house
+a new neighbor	جار جَديد	-	Describe things
+fish	سَمَك	-	Describe things
+cold	بارِد	-	Describe things
+a regular jacket	جاكيت عادي	-	Describe things
+a generous husband	زَوج كَريم	-	Describe things
+chicken	دَجاج	-	Describe things
+new fish	سَمَك جَديد	-	Describe things
+a generous neighbor	جار كَريم	-	Describe things
+a regular house	بَيت عادي	-	Describe things
+a cold house	بَيت بارِد	-	Describe things
+a new husband	زَوج جَديد	-	Describe things
+cold chicken	دَجاج بارِد	-	Describe things
+Zayd is amazing.	زَيد مُمتاز.	-	Describe people
+Sam is new.	سام جَديد.	-	Describe people
+Rawad is happy.	رَواد سَعيد.	-	Describe people
+David is smart.	دَوود ذَكِيّ.	-	Describe people
+David is fast.	دَوود سَريع.	-	Describe people
+David is fun.	دَوود مُمتِع.	-	Describe people
+Sam is a translator.	سام مُتَرجِم.	-	Describe people
+Omar is fast.	عُمَر سَريع.	-	Describe people
+Omar is a fast translator.	عُمَر مُتَرجِم سَريع.	-	Describe people
+Rosa is from Syria.	روزا مِن سوريا.	-	Say where you are from
+Sam is from Tunisia.	سام مِن تونِس.	-	Say where you are from
+Zayd and Sam are from Oman.	زَيد وَسام مِن عُمان.	-	Say where you are from
+George and Rosa are from Lebanon.	جورج وَروزا مِن لُبنان.	-	Say where you are from
+Omar is from Tunisia.	عُمَر مِن تونِس.	-	Say where you are from
+Omar is from Syria.	عُمَر مِن سوريا.	-	Say where you are from
+Sam is from America.	سام مِن أَمريكا.	-	Say where you are from
+I am from America.	أَنا مِن أَمريكا.	-	Say where you are from
+from Syria	مِن سوريا	-	Say where you are from
+I am from Lebanon.	أَنا مِن لُبنان.	-	Say where you are from
+a pretty jacket	جاكيت جَميل	-	Describe possessions
+George has a house.	عِنْد جورْج بَيْت.	-	Describe possessions
+Omar has a new door.	عِنْد عُمَر باب جَديد.	-	Describe possessions
+Shadi is a Syrian doctor.	شادي دُكتور سورِيّ.	-	Describe possessions
+Seth is an American translator.	سيث مُتَرجِم أَمريكِيّ.	-	Describe possessions
+Rosa has fish.	عِنْد روزا سَمَك.	-	Describe possessions
+Judy has a pretty jacket.	عِنْد جودي جاكيت جَميل.	-	Describe possessions
+George has a pretty door.	عِنْد جورْج باب جَميل.	-	Describe possessions
+Seth is Lebanese.	سيث لُبنانِيّ.	-	Describe possessions
+Omar is Omani American.	عُمَر أَمريكِيّ عُمانِيّ.	-	Describe possessions
+Seth is Lebanese American.	سيث أَمريكِيّ لُبنانِيّ.	-	Describe possessions
+Zayd is Scottish.	زَيْد إِسْكُتْلَنْدِيّ.	-	Talk about countries
+David and Carrie are from Holland.	دَوود وَكَري مِن هولَنْدا.	-	Talk about countries
+Zayd and Tamer are from Canada.	زَيْد وَتامِر مِن كَنَدا.	-	Talk about countries
+Canada and America	كَنَدا وَأَمْريكا	-	Talk about countries
+Rawad is from England.	رَواد مِن إِنْجِلْتِرا.	-	Talk about countries
+Rawad is Canadian and English.	رَواد كَنَدِيّ وَإِنْجِليزِيّ.	-	Talk about countries
+Bob is from England.	بوب مِن إِنْجِلْتِرا.	-	Talk about countries
+David is Scottish Canadian.	دَوود كَنَدِيّ إِسْكُتْلَنْدِيّ.	-	Talk about countries
+Tamer and Rawad are from England.	تامِر وَرَواد مِن إِنْجِلْتِرا.	-	Talk about countries
+Judy is from Scotland.	جودي مِن إِسْكُتْلَنْدا.	-	Talk about countries
+You're welcome, Judy.	عَفْواً يا جودي.	-	Use basic phrases
+You are from France, Sam.	أَنْتَ مِن فَرَنْسا يا سام.	-	Use basic phrases
+You're welcome, Maha.	عَفْواً يا مَها.	-	Use basic phrases
+Where are you from, Carrie?	مِن أَيْن أَنْتِ يا كَري؟	-	Use basic phrases
+Where is George, Bob?	أَيْن جورْج يا بوب؟	-	Use basic phrases
+Where are you from, David?	مِن أَيْن أَنْتَ يا دَوود؟	-	Use basic phrases
+You are from France, Rosa.	أَنْتِ مِن فَرَنْسا يا روزا.	-	Use basic phrases
+Rosa is from Australia.	روزا مِن أُسْتُرالْيا.	-	Use basic phrases
+Thank you, Farid.	شُكْراً يا فَريد.	-	Use basic phrases
+Absolutely, Farid.	تَماماً يا فَريد.	-	Use basic phrases
+hello	مرحبًا	-	Use basic phrases
+Where is Omar?	أَيْن عُمَر؟	-	Use basic phrases
+You are from Germany, David.	أَنْتَ مِن أَلْمانْيا يا دَوود.	-	Use basic phrases
+You are Rosa.	أَنْتِ روزا.	-	Use basic phrases
+boy	وَلَد	-	Form feminine adjectives
+man	رَجُل	-	Form feminine adjectives
+Rosa is an amazing Syrian doctor.	روزا دُكْتورة سورِيّة مُمْتازة.	-	Form feminine adjectives
+a Syrian man	رَجُل سورِيّ	-	Form feminine adjectives
+woman	اِمْرَأة	-	Form feminine adjectives
+a smart woman and a smart man	اِمْرَأة ذَكِيّة وَرَجُل ذَكِيّ	-	Form feminine adjectives
+Samia is a smart Arab girl.	سامْية بِنْت عَرَبِيّة ذَكِيّة.	-	Form feminine adjectives
+Rania is a smart Arab woman.	رانْيا امْرَأة عَرَبِيّة ذَكِيّة.	-	Form feminine adjectives
+a smart Arab American girl	بِنْت أَمْريكِيّة عَرَبِيّة ذَكِيّة	-	Form feminine adjectives
+an American man	رَجُل أَمْريكِيّ	-	Form feminine adjectives
+a smart Arab American woman	اِمْرَأة أَمْريكِيّة عَرَبِيّة ذَكِيّة	-	Form feminine adjectives
+Samia is a good Tunisian translator.	سامْية مُتَرْجِمة تونِسِيّة جَيِّدة.	-	Form feminine adjectives
+Samia is a good doctor.	سامْية دُكْتورة جَيِّدة.	-	Form feminine adjectives
+Samia is a smart girl.	سامْية بِنْت ذَكِيّة.	-	Form feminine adjectives
+Rosa is a Syrian American girl.	روزا بِنْت أَمْريكِيّة سورِيّة.	-	Form feminine adjectives
+Judy is a Tunisian woman.	جودي امْرَأة تونِسِيّة.	-	Form feminine adjectives
+Rania is an American woman.	رانْيا امْرَأة أَمْريكِيّة.	-	Form feminine adjectives
+Carrie is an American professor.	كَري أُسْتاذة أَمْريكِيّة.	-	Form feminine adjectives
+Ali is a man.	عَلي رَجُل.	-	Form feminine adjectives
+a good doctor	دُكْتورة جَيِّدة	-	Form feminine adjectives
+teacher	مُعَلِّم	-	Identify professions
+He is a French man.	هُوَّ رَجُل فَرَنْسِيّ.	-	Identify professions
+Is Lama an engineer?	هَل لَمى مُهَنْدِسة؟	-	Identify professions
+She is a professor from Paris.	هِيَّ أُسْتاذة مِن باريس.	-	Identify professions
+Is she a good translator?	هَل هِيَّ مُتَرْجِمة جَيِّدة؟	-	Identify professions
+You are very weird, David.	أَنْتَ غَريب جِدّاً يا دَوود.	-	Identify professions
+He is a French man from Paris.	هُوَّ رَجُل فَرَنْسِيّ مِن باريس.	-	Identify professions
+Arwa is a weird engineer.	أَرْوى مُهَنْدِسة غَريبة.	-	Identify professions
+Is Lama an Arab French engineer?	هَل لَمى مُهَنْدِسة فَرَنْسِيّة عَرَبِيّة؟	-	Identify professions
+I am Rosa and I am hungry.	أَنا روزا وَأَنا جَوْعانة.	-	Identify professions
+You are a weird man, Mike.	أَنْتَ رَجُل غَريب يا مايْك.	-	Identify professions
+You are hungry, Professor Samia.	أَنْتِ جَوْعانة يا أُسْتاذة سامْية.	-	Identify professions
+You are very weird, Carrie.	أَنْتِ غَريبة جِدّاً يا كَري.	-	Identify professions
+He is a Dutch doctor.	هُوَّ دُكْتور هولَنْدِيّ.	-	Identify professions
+Lama is Arab French.	لَمى فَرَنْسِيّة عَرَبِيّة.	-	Identify professions
+Is Judy a new doctor?	هَل جودي دُكْتورة جَديدة؟	-	Identify professions
+Bob is a French teacher.	بوب مُعَلِّم فَرَنْسِيّ.	-	Identify professions
+Is Arwa an engineer?	هَل أَرْوى مُهَنْدِسة؟	-	Identify professions
+Lama is an engineer.	لَمى مُهَنْدِسة.	-	Identify professions
+door	باب	-	Describe universities
+a spacious car	سَيّارة واسِعة	-	Describe universities
+a big house and a big car	بَيْت كَبير وَسَيّارة كَبيرة	-	Describe universities
+New York is a crowded city.	نْيويورْك مَدينة مُزْدَحِمة.	-	Describe universities
+Al-Azhar is an important Islamic university.	اَلْأَزْهَر جامِعة إِسْلامِيّة مُهِمّة.	-	Describe universities
+Paris is a very famous city.	باريس مَدينة مَشْهورة جِدّاً.	-	Describe universities
+Harvard is a very famous American university.	هارْفارْد جامِعة أَمْريكِيّة مَشْهورة جِدّاً.	-	Describe universities
+Al-Azhar is an Islamic university.	اَلْأَزْهَر جامِعة إِسْلامِيّة.	-	Describe universities
+a big car	سَيّارة كَبيرة	-	Describe universities
+Paris is a crowded French city.	باريس مَدينة فَرَنْسِيّة مُزْدَحِمة.	-	Describe universities
+Al-Azhar is a very famous Islamic university.	اَلْأَزْهَر جامِعة إِسْلامِيّة مَشْهورة جِدّاً.	-	Describe universities
+a big thing	شَيْء كَبير	-	Describe universities
+an important university	جامِعة مُهِمّة	-	Describe universities
+Berlin is a spacious city.	بَرْلين مَدينة واسِعة.	-	Describe universities
+a very famous university	جامِعة مَشْهورة جِدّاً	-	Describe universities
+an easy language and an easy teacher	لُغة سَهْلة وَمُعَلِّم سَهْل	-	Describe universities
+The teacher is a teacher.	اَلْمُعَلِّم مُعَلِّم.	-	Form questions
+a tall neighbor	جار طَويل	-	Form questions
+Are you Jordanian, Reem?	هَل أَنْتِ أُرْدُنِيّة يا ريم؟	-	Form questions
+The engineer is a new engineer.	اَلْمُهَنْدِسة مُهَنْدِسة جَديدة.	-	Form questions
+You are in Cuba, Reem.	أَنْتِ في كوبا يا ريم.	-	Form questions
+Are you a Jordanian teacher, Reem?	هَل أَنْتِ مُعَلِّمة أُرْدُنِيّة يا ريم؟	-	Form questions
+Are you in Beirut, Samia?	هَل أَنْتِ في بَيْروت يا سامْية؟	-	Form questions
+You are a translator, Professor Reem.	أَنْتِ مُتَرْجِمة يا أُسْتاذة ريم.	-	Form questions
+The university is a crowded university.	اَلْجامِعة جامِعة مُزْدَحِمة.	-	Form questions
+The lawyer is in Germany.	اَلْمُحامي في أَلْمانْيا.	-	Form questions
+The city is a famous city.	اَلْمَدينة مَدينة مَشْهورة.	-	Form questions
+The translator is a fast translator.	اَلْمُتَرْجِم مُتَرْجِم سَريع.	-	Form questions
+Are you a Jordanian doctor, Samia?	هَل أَنْتِ دُكْتورة أُرْدُنِيّة يا سامْية؟	-	Form questions
+The university is an easy university.	اَلْجامِعة جامِعة سَهْلة.	-	Form questions
+The teacher is in Beirut.	اَلْمُعَلِّمة في بَيْروت.	-	Form questions
+father	أَب	-	Describe your family
+my daughter	بِنْتي	-	Describe your family
+a happy dog	كَلْب سَعيد	-	Describe your family
+my teacher George and my neighbor Sam	مُعَلِّمي جورْج وَجاري سام	-	Describe your family
+My mother is a fast translator.	أُمّي مُتَرْجِمة سَريعة.	-	Describe your family
+my brother and my father	أَخي وَأَبي	-	Describe your family
+an amazing and pretty dog	كَلْب مُمْتاز وَجَميل	-	Describe your family
+My teacher George is French.	مُعَلِّمي جورْج فَرَنْسِيّ.	-	Describe your family
+My daughter is an amazing accountant.	بِنْتي مُحاسِبة مُمْتازة.	-	Describe your family
+a hungry mother	أُمّ جَوْعانة	-	Describe your family
+My brother is amazing.	أَخي مُمْتاز.	-	Describe your family
+My husband is fun.	زَوْجي مُمْتِع.	-	Describe your family
+my son and my daughter	اِبْني وَبِنْتي	-	Describe your family
+a brother	أَخ	-	Describe your family
+a weird brother	أَخ غَريب	-	Describe your family
+He is your son, Bob.	هُوَّ ابْنَك يا بوب.	-	Introduce yourself
+Your daughter is smart, Samia.	بِنْتِك ذَكِيّة يا سامْية.	-	Introduce yourself
+a pretty name	اِسْم جَميل	-	Introduce yourself
+Your garage is cold and your house is pretty, Sam.	كَراجَك بارِد وَبَيْتَك جَميل يا سام.	-	Introduce yourself
+He is your son and he is very weird, Sam.	هُوَّ ابْنَك وَهُوَّ غَريب جِدّاً يا سام.	-	Introduce yourself
+He is your dog and he is happy, Carrie.	هُوَّ كَلْبِك وَهُوَّ سَعيد يا كَري.	-	Introduce yourself
+Your husband is weird, Lama.	زَوْجِك غَريب يا لَمى.	-	Introduce yourself
+Your house is new, Carrie.	بَيْتِك جَديد يا كَري.	-	Introduce yourself
+Your house is very weird, Samia.	بَيْتِك غَريب جِدّاً يا سامْية.	-	Introduce yourself
+Are you an accountant, sir?	هَل أَنْتَ مُحاسِب يا أُسْتاذ؟	-	Introduce yourself
+He is generous and he is your husband, Judy.	هُوَّ كَريم وَهُوَّ زَوْجِك يا جودي.	-	Introduce yourself
+Is your name Bob?	هَل اِسْمَك بوب؟	-	Introduce yourself
+My house is your house, Samia.	بَيْتي بَيْتِك يا سامْية.	-	Introduce yourself
+Your garage is amazing, Samia.	كَراجِك مُمْتاز يا سامْية.	-	Introduce yourself
+Your jacket is amazing, Sam.	جاكيتَك مُمْتاز يا سام.	-	Introduce yourself
+He is your dog and he is happy, Omar.	هُوَّ كَلْبَك وَهُوَّ سَعيد يا عُمَر.	-	Introduce yourself
+My name is Maha.	اِسْمي مَها.	-	Introduce yourself
+Your garage is cold, Sam.	كَراجَك بارِد يا سام.	-	Introduce yourself
+Your neighbor Omar is a fast translator, Mike.	جارَك عُمَر مُتَرْجِم سَريع يا مايْك.	-	Introduce yourself
+grandfather	جَدّ	-	Talk about your family
+grandmother	جَدّة	-	Talk about your family
+Is your city Paris, Samia?	هَل مَدينَتِك باريس يا سامْية؟	-	Talk about your family
+your teacher Judy	مُعَلِّمَتَك جودي	-	Talk about your family
+my neighbor Mike and my neighbor Judy	جاري مايْك وَجارَتي جودي	-	Talk about your family
+your teacher Judy	مُعَلِّمَتِك جودي	-	Talk about your family
+My wife is tired.	زَوْجَتي تَعْبانة.	-	Talk about your family
+my husband Mahmoud	زَوْجي مَحْمود	-	Talk about your family
+my daughter and my wife	بِنْتي وَزَوْجَتي	-	Talk about your family
+Mike, is Rania your grandmother?	يا مايْك هَل رانْيا جَدَّتَك؟	-	Talk about your family
+Are you happy in your city, George?	هَل أَنْتَ سَعيد في مَدينَتَك يا جورْج؟	-	Talk about your family
+Carrie, is your wife Judy an accountant?	يا كَري هَل زَوْجَتِك جودي مُحاسِبة؟	-	Talk about your family
+a kind grandmother	جَدّة لَطيفة	-	Talk about your family
+a grandfather and a grandmother	جَدّ وَجَدّة	-	Talk about your family
+My husband Mahmoud is a fast accountant.	زَوْجي مَحْمود مُحاسِب سَريع.	-	Talk about your family
+Your teacher Judy is smart, Samia.	مُعَلِّمَتِك جودي ذَكِيّة يا سامْية.	-	Talk about your family
+a kind and amazing grandmother	جَدّة لَطيفة وَمُمْتازة	-	Talk about your family
+Is your wife French, Sam?	هَل زَوْجَتَك فَرَنْسِيّة يا سام؟	-	Talk about your family
+my neighbor Sam and my neighbor Ibrahim	جاري سام وَجاري إِبْراهيم	-	Talk about your family
+my husband Zayd and my grandfather Mahmoud	زَوْجي زَيْد وَجَدّي مَحْمود	-	Talk about your family
+Arwa has a cat.	عِنْد أَرْوى قِطّة.	-	Talk about your family
+brown	بُنِّيّ	-	Discuss clothing
+a skirt and a t-shirt	تَنّورة وَتي شيرْت	-	Discuss clothing
+You have a white blouse, Rania.	عِنْدِك بَلوزة بَيْضاء يا رانْيا.	-	Discuss clothing
+Seth does not have a skirt.	لَيْسَ عِنْد سيث تَنّورة.	-	Discuss clothing
+scarf	وِشاح	-	Discuss clothing
+Does Reem have a coat?	هَل عِنْد ريم مِعْطَف؟	-	Discuss clothing
+You do not have a white blouse, Bob.	لَيْسَ عِنْدَك بَلوزة بَيْضاء يا بوب.	-	Discuss clothing
+Judy does not have a brown and blue coat.	لَيْسَ عِنْد جودي مِعْطَف بُنِّيّ وَأَزْرَق.	-	Discuss clothing
+Seth has a skirt.	عِنْد سيث تَنّورة.	-	Discuss clothing
+You have a t-shirt, Sam.	عِنْدَك تي شيرْت يا سام.	-	Discuss clothing
+a blue hat	قُبَّعة زَرْقاء	-	Discuss clothing
+Do you have a t-shirt and a scarf, Sam?	هَل عِنْدَك تي شيرْت وَوِشاح يا سام؟	-	Discuss clothing
+I have a t-shirt.	عِنْدي تي شيرْت.	-	Discuss clothing
+I do not have a scarf.	لَيْسَ عِنْدي وِشاح.	-	Discuss clothing
+I do not have a hat.	لَيْسَ عِنْدي قُبَّعة.	-	Discuss clothing
+You have a blue skirt, George.	عِنْدَك تَنّورة زَرْقاء يا جورْج.	-	Discuss clothing
+Do you have a t-shirt, Sam?	هَل عِنْدَك تي شيرْت يا سام؟	-	Discuss clothing
+This is a table.	هٰذِهِ طاوِلة.	-	Describe your house
+This is spacious.	هٰذا واسِع.	-	Describe your house
+This is my teacher Mohamed.	هٰذا مُعَلِّمي مُحَمَّد.	-	Describe your house
+This is a pretty, old garden.	هٰذِهِ حَديقة قَديمة جَميلة.	-	Describe your house
+This is a spacious kitchen, praise be to God!	هٰذا مَطْبَخ واسِع اَلْحَمْدُ لِله!	-	Describe your house
+Is this your rent, Rosa?	هَل هٰذا إيجارِك يا روزا؟	-	Describe your house
+an expensive city	مَدينة غالْية	-	Describe your house
+This is my neighbor Mohamed.	هٰذا جاري مُحَمَّد.	-	Describe your house
+This is my neighbor Sam.	هٰذا جاري سام.	-	Describe your house
+garden	حَديقة	-	Describe your house
+an expensive house	بَيْت غالي	-	Describe your house
+This is a pretty building.	هٰذِهِ بِناية جَميلة.	-	Describe your house
+This is an old city.	هٰذِهِ مَدينة قَديمة.	-	Describe your house
+This is a garden.	هٰذِهِ حَديقة.	-	Describe your house
+This is an expensive living room.	هٰذا صالون غالي.	-	Describe your house
+This is a spacious house.	هٰذا بَيْت واسِع.	-	Describe your house
+This is a weird kitchen.	هٰذا مَطْبَخ غَريب.	-	Describe your house
+The dog is hungry.	اَلْكَلْب جَوْعان.	-	Describe your house
+This is a building.	هٰذِهِ بِناية.	-	Describe your house
+This is a living room.	هٰذا صالون.	-	Describe your house
+The room is big, praise be to God.	اَلْغُرْفة كَبيرة اَلْحَمْدُ لِله.	-	Describe your house
+This is a bathroom.	هٰذا حَمّام.	-	Describe your house
+wallet	مَحْفَظة	-	Name personal items
+key	مِفْتاح	-	Name personal items
+There is no drink.	لَيْسَ هُناك مَشْروب.	-	Name personal items
+The university is there.	اَلْجامِعة هُناك.	-	Name personal items
+There is a hat in your bag, Bob.	هُناك قُبَّعة في شَنْطَتَك يا بوب.	-	Name personal items
+The dog is there.	اَلْكَلْب هُناك.	-	Name personal items
+an expensive bag	شَنْطة غالْية	-	Name personal items
+There is no pen.	لَيْسَ هُناك قَلَم.	-	Name personal items
+There is a wallet.	هُناك مَحْفَظة.	-	Name personal items
+My bag is there.	شَنْطَتي هُناك.	-	Name personal items
+There is no drink in your bag, Seth.	لَيْسَ هُناك مَشْروب في شَنْطَتَك يا سيث.	-	Name personal items
+There is no notebook in my bag.	لَيْسَ هُناك دَفْتَر في شَنْطَتي.	-	Name personal items
+There is a book and a scarf in my bag.	هُناك كِتاب وَوِشاح في شَنْطَتي.	-	Name personal items
+There is no cheap notebook.	لَيْسَ هُناك دَفْتَر رَخيص.	-	Name personal items
+There is no notebook.	لَيْسَ هُناك دَفْتَر.	-	Name personal items
+There is no cash in my house.	لَيْسَ هُناك نُقود في بَيْتي.	-	Name personal items
+There is a book in my bag.	هُناك كِتاب في شَنْطَتي.	-	Name personal items
+the engineer's newspaper	صَحيفة اَلْمُهَنْدِس	-	Describe an office
+Your computer is fast, praise be to God!	حاسوبِك سَريع اَلْحَمْدُ لِله!	-	Describe an office
+The professor's office is spacious.	مَكْتَب اَلْأُسْتاذ واسِع.	-	Describe an office
+The cat's room is very big.	غُرْفة اَلْقِطّة كَبيرة جِدّاً.	-	Describe an office
+The cat's room is pretty.	غُرْفة اَلْقِطّة جَميلة.	-	Describe an office
+The cat's chair is white.	كُرْسي الْقِطّة أَبْيَض.	-	Describe an office
+The professor's office is in my house.	مَكْتَب اَلْأُسْتاذ في بَيْتي.	-	Describe an office
+The cat's room is old.	غُرْفة اَلْقِطّة قَديمة.	-	Describe an office
+This is an office.	هٰذا مَكْتَب.	-	Describe an office
+The professor's office is big and pretty.	مَكْتَب اَلْأُسْتاذ كَبير وَجَميل.	-	Describe an office
+The professor's pen is brown.	قَلَم اَلْأُسْتاذة بُنِّيّ.	-	Describe an office
+the professor's office	مَكْتَب اَلْأُسْتاذة	-	Describe an office
+Where is the newspaper?	أَيْن اَلْصَّحيفة؟	-	Describe an office
+The cat's chair is in my house.	كُرْسي الْقِطّة في بَيْتي.	-	Describe an office
+The professor's pen is expensive.	قَلَم اَلْأُسْتاذة غالي.	-	Describe an office
+The professor's newspaper is in my house.	صَحيفة اَلْأُسْتاذ في بَيْتي.	-	Describe an office
+milk	حَليب	-	Refer to food
+water	ماء	-	Refer to food
+Mohamed's restaurant is good.	مَطْعَم مُحَمَّد طَيِّب.	-	Refer to food
+This is your coffee, Samia.	هٰذِهِ قَهْوَتِك يا سامْية.	-	Refer to food
+restaurant	مَطْعَم	-	Refer to food
+This is your rice, Tamer.	هٰذا رُزَّك يا تامِر.	-	Refer to food
+Mohamed's restaurant is expensive but good.	مَطْعَم مُحَمَّد غالي لٰكِنّ طَيِّب.	-	Refer to food
+The food in Mohamed's restaurant is good but expensive.	اَلْأَكْل في مَطْعَم مُحَمَّد طَيِّب لٰكِنّ غالي.	-	Refer to food
+The food there is good but expensive.	اَلْأَكْل هُناك طَيِّب لٰكِنّ غالي.	-	Refer to food
+Arabic food	أَكْل عَرَبِيّ	-	Refer to food
+There is a new Syrian restaurant in Beirut.	هُناك مَطْعَم سورِيّ جَديد في بَيْروت.	-	Refer to food
+My rice is good.	رُزّي طَيِّب.	-	Refer to food
+Your coffee is from Syria, Rania.	قَهْوَتِك مِن سورْيا يا رانْيا.	-	Refer to food
+Your coffee is there, Bob.	قَهْوَتَك هُناك يا بوب.	-	Refer to food
+Moroccan food	أَكْل مَغْرِبِيّ	-	Refer to food
+Seth's coffee	قَهْوَة سيث	-	Refer to food
+The food there is good.	اَلْأَكْل هُناك طَيِّب.	-	Refer to food
+My work is fun.	عَمَلي مُمْتِع.	-	Describe a picture
+Her house is pretty.	بَيْتها جَميل.	-	Describe a picture
+my son and his neighbor Rosa	اِبْني وَجارَتهُ روزا	-	Describe a picture
+my brother and his friend Bob	أَخي وَصَديقهُ بوب	-	Describe a picture
+I know her friend Rania.	أَعْرِف صَديقَتها رانْيا.	-	Describe a picture
+In this picture, there is my mother and her friend Bob.	في هٰذِهِ الْصّورة هُناك أُمّي وَصَديقها بوب.	-	Describe a picture
+Her friend Bob is close to her house.	صَديقها بوب قَريب مِن بَيْتها.	-	Describe a picture
+In this picture, there is my father and his friend Bob.	في هٰذِهِ الْصّورة هُناك أَبي وَصَديقهُ بوب.	-	Describe a picture
+Samia is an amazing friend.	سامْية صَديقة مُمْتازة.	-	Describe a picture
+His work is easy.	عَمَلهُ سَهْل.	-	Describe a picture
+Her work is important.	عَمَلها مُهِمّ.	-	Describe a picture
+I do not know his neighbor Maha.	لا أَعْرِف جارَتهُ مَها.	-	Describe a picture
+Reem is a difficult friend.	ريم صَديقة صَعْبة.	-	Describe a picture
+I do not know his name.	لا أَعْرِف اِسْمهُ.	-	Describe a picture
+I do not know his friend Bob.	لا أَعْرِف صَديقهُ بوب.	-	Describe a picture
+I know his neighbor Rosa.	أَعْرِف جارَتهُ روزا.	-	Describe a picture
+her neighbor Rosa	جارَتها روزا	-	Describe a picture
+Rania is a weird friend.	رانْيا صَديقة غَريبة.	-	Describe a picture
+his friend Samia	صَديقَتهُ سامْية	-	Describe a picture
+I do not know!	لا أَعْرِف!	-	Describe a picture
+His work is very important.	عَمَلهُ مُهِمّ جِدّاً.	-	Describe a picture
+I like photography a lot.	أُحِبّ اَلْتَّصْوير كَثيراً.	-	Talk about your hobbies
+I do not like this restaurant.	لا أُحِبّ هٰذا الْمَطْعَم.	-	Talk about your hobbies
+I do not like swimming a lot.	لا أُحِبّ اَلْسِّباحة كَثيراً.	-	Talk about your hobbies
+reading and writing	اَلْقِراءة وَالْكِتابة	-	Talk about your hobbies
+talking with my father in the afternoon	اَلْكَلام مَعَ أَبي بَعْد اَلْظُّهْر	-	Talk about your hobbies
+I like reading in the morning and in the evening.	أُحِبّ اَلْقِراءة صَباحاً وَمَساءً.	-	Talk about your hobbies
+I like talking with my father in the afternoon.	أُحِبّ اَلْكَلام مَعَ أَبي بَعْد اَلْظُّهْر.	-	Talk about your hobbies
+I like talking with my father.	أُحِبّ اَلْكَلام مَعَ أَبي.	-	Talk about your hobbies
+I do not like my bag.	لا أُحِبّ شَنْطَتي.	-	Talk about your hobbies
+talking with my father	اَلْكَلام مَعَ أَبي	-	Talk about your hobbies
+I like reading a lot.	أُحِبّ اَلْقِراءة كَثيراً.	-	Talk about your hobbies
+I like sleeping in the afternoon.	أُحِبّ اَلْنَّوْم بَعْد اَلْظُّهْر.	-	Talk about your hobbies
+I like traveling to Germany.	أُحِبّ اَلْسَّفَر إِلى أَلْمانْيا.	-	Talk about your hobbies
+Running is good.	اَلْجَري جَيِّد.	-	Talk about your hobbies
+I like running and eating also.	أُحِبّ اَلْجَري وَالْأَكْل أَيْضاً.	-	Talk about your hobbies
+I like swimming in the evening.	أُحِبّ اَلْسِّباحة مَساءً.	-	Talk about your hobbies
+I do not like eating.	لا أُحِبّ اَلْأَكْل.	-	Talk about your hobbies
+I like writing and reading also.	أُحِبّ اَلْكِتابة وَالْقِراءة أَيْضاً.	-	Talk about your hobbies
+The spring is pretty now.	اَلْرَّبيع جَميل اَلآن.	-	Identify the weather
+winter	شِتاء	-	Identify the weather
+I do not like cold weather.	لا أُحِبّ اَلْطَّقْس اَلْبارِد.	-	Identify the weather
+rain	مَطَر	-	Identify the weather
+a rainy summer	صَيْف مُمْطِر	-	Identify the weather
+spring	رَبيع	-	Identify the weather
+The spring is rainy now.	اَلْرَّبيع مُمْطِر اَلآن.	-	Identify the weather
+Today is a hot day.	اَلْيَوْم يَوْم حارّ.	-	Identify the weather
+The weather is very rainy today.	اَلْطَّقْس مُمْطِر جِدّاً اَلْيَوْم.	-	Identify the weather
+The rainy spring is a pretty thing.	اَلْرَّبيع اَلْمُمْطِر شَيْء جَميل.	-	Identify the weather
+a rainy and hot summer	صَيْف مُمْطِر وَحارّ	-	Identify the weather
+ high humidity	رُطوبة عالْية	-	Identify the weather
+I do not like hot weather.	لا أُحِبّ اَلْطَّقْس اَلْحارّ.	-	Identify the weather
+Today is a cold day.	اَلْيَوْم يَوْم بارِد.	-	Identify the weather
+fall	خَريف	-	Identify the weather
+a cold spring	رَبيع بارِد	-	Identify the weather
+The big moon is pretty.	اَلْقَمَر اَلْكَبير جَميل.	-	Identify the weather
+cold weather	طَقْس بارِد	-	Identify the weather
+the pretty weather	اَلْطَّقْس اَلْجَميل	-	Identify the weather
+a long winter	شِتاء طَويل	-	Identify the weather
+This is a hot day.	هٰذا يَوْم حارّ.	-	Identify the weather
+The moon is small now.	اَلْقَمَر صَغير اَلآن.	-	Identify the weather
+a cold and long winter	شِتاء بارِد وَطَويل	-	Identify the weather
+weird weather	طَقْس غَريب	-	Identify the weather
+China	اَلْصّين	-	Discuss geography
+Khartoum	اَلْخَرطوم	-	Discuss geography
+Cairo	اَلْقاهِرة	-	Discuss geography
+Baghdad is old.	بَغْداد قَديمة.	-	Discuss geography
+mountain	جَبَل	-	Discuss geography
+Iraq is famous.	اَلْعِراق مَشْهور.	-	Discuss geography
+Baghdad is in Iraq.	بَغْداد في الْعِراق.	-	Discuss geography
+Cairo is a historic capital.	اَلْقاهِرة عاصِمة تاريخِيّة.	-	Discuss geography
+Palestine is a diverse and historic place.	فِلَسْطين مَكان مُتَنَوِّع وَتاريخِيّ.	-	Discuss geography
+the coast	اَلْسّاحِل	-	Discuss geography
+Iraq is a country close to Syria.	اَلْعِراق بَلَد قَريب مِن سورْيا.	-	Discuss geography
+Baghdad is the capital of Iraq.	بَغْداد عاصِمة اَلْعِراق.	-	Discuss geography
+The coast in Syria is pretty.	اَلْسّاحِل في سورْيا جَميل.	-	Discuss geography
+Do I love my father?	هَل أُحِبّ أَبي؟	-	Use prepositions
+I do not know this lion.	لا أَعْرِف هٰذا الْأَسَد.	-	Use prepositions
+Are you wearing a hat, Seth?	هَل أَنْتَ لابِس قُبَّعة يا سيث؟	-	Use prepositions
+There is a dog in a car behind the office.	خَلْف اَلْمَكْتَب كَلْب في سَيّارة.	-	Use prepositions
+There is a man in a car behind the building.	خَلْف اَلْبِناية رَجُل في سَيّارة.	-	Use prepositions
+There is your wife with a man behind the restaurant.	خَلْف اَلْمَطْعَم زَوْجَتَك مَعَ رَجُل.	-	Use prepositions
+My friend Tamer is very rich.	صَديقي تامِر غَنِيّ جِدّاً.	-	Use prepositions
+There is a funny man in the background.	في الْخَلْفِيّة رَجُل مُضْحِك.	-	Use prepositions
+There is a very funny boy in this picture.	في هٰذِهِ الْصّورة وَلَد مُضْحِك جِدّاً.	-	Use prepositions
+There is your wife in the background, Seth.	في الْخَلْفِيّة زَوْجَتَك يا سيث.	-	Use prepositions
+And here in the background there is a funny man.	وَهُنا في الْخَلْفِيّة رَجُل مُضْحِك.	-	Use prepositions
+He does not have a house.	لَيْسَ عِنْدهُ بَيْت.	-	Use prepositions
+in front of the university	أَمام اَلْجامِعة	-	Use prepositions
+My friend Farid has a lion.	صَديقي فَريد عِنْدهُ أَسَد.	-	Use prepositions
+next to	بِجانِب	-	Use prepositions
+I love this picture.	أُحِبّ هٰذِهِ الْصّورة.	-	Use prepositions
+His friend Samia is wearing a skirt.	صَديقَتهُ سامْية لابِسة تَنّورة.	-	Use prepositions
+Who is he?	من هو؟	-	Use prepositions
+This is my friend Tamer and he is rich.	هٰذا صَديقي تامِر وَهُوَّ غَنِيّ.	-	Use prepositions
+My brother Bashir is busy.	أَخي بَشير مَشْغول.	-	Use prepositions
+bed	سَرير	-	Express a problem
+television	تِلْفاز	-	Express a problem
+I live on the second floor.	أَسْكُن في ٱلْطّابِق اَلْثّاني.	-	Express a problem
+The window in the kitchen is very big.	اَلْشُّبّاك في ٱلْمَطْبَخ كَبير جِدّاً.	-	Express a problem
+I sleep in a broken bed.	أَنام في سَرير مَكْسور.	-	Express a problem
+There is something broken in the kitchen.	هُناك شَيْء مَكْسور في ٱلْمَطْبَخ.	-	Express a problem
+I do not sleep a lot in this house.	لا أَنام كَثيراً في هٰذا ٱلْبَيْت.	-	Express a problem
+There is a bedroom on the first floor.	في ٱلْطّابِق اَلْأَوَّل غُرْفة نَوْم.	-	Express a problem
+There is a weird noise.	هُناك صَوْت غَريب.	-	Express a problem
+The faucet is broken.	اَلْحَنَفِيّة مَكْسورة.	-	Express a problem
+I do not sleep because of the weird noise.	لا أَنام بِسَبَب اَلْصَّوْت اَلْغَريب.	-	Express a problem
+There is a problem with the television.	هُناك مُشْكِلة مَعَ ٱلْتِّلْفاز.	-	Express a problem
+on the faucet	عَلى ٱلْحَنَفِيّة	-	Express a problem
+something broken	شَيْء مَكْسور	-	Express a problem
+I open the window.	أَفْتَح اَلْشُّبّاك.	-	Express a problem
+I sleep in my bedroom.	أَنام في غُرْفة نَوْمي.	-	Express a problem
+I do not sleep in the morning.	لا أَنام صَباحاً.	-	Express a problem
+Is there a television?	هَل هُناك تِلْفاز؟	-	Express a problem
+3	٣	-	Count from 0 to 10
+4	٤	-	Count from 0 to 10
+7	٧	-	Count from 0 to 10
+number 1	رَقَم ١	-	Count from 0 to 10
+Do you know everything, Maha?	هَل تَعْرِفين كُلّ شَيْء يا مَها؟	-	Count from 0 to 10
+How do you count from 1 to 5, Mike?	كَيْف تَعُدّ مِن ١ إِلى ٥ يا مايْك؟	-	Count from 0 to 10
+How do you count from 1 to 6 in Arabic, Rosa?	كَيْف تَعُدّين مِن ١ إِلى ٦ بِٱلْلُّغة ٱلْعَرَبِيّة يا روزا؟	-	Count from 0 to 10
+I know all the numbers from 0 to 10 in Arabic.	أَعْرِف كُلّ اَلْأَعْداد مِن ٠ إِلى ١٠ بِٱلْلُّغة ٱلْعَرَبِيّة.	-	Count from 0 to 10
+I do not know everything in Arabic but I know all the numbers from 0 to 10.	لا أَعْرِف كُلّ شَيْء بِٱلْلُّغة ٱلْعَرَبِيّة لٰكِنّ أَعْرِف كُلّ اَلْأَعْداد مِن ٠ إِلى ١٠.	-	Count from 0 to 10
+10	١٠	-	Count from 0 to 10
+6	٦	-	Count from 0 to 10
+I do not know everything in Arabic.	لا أَعْرِف كُلّ شَيْء بِٱلْلُّغة ٱلْعَرَبِيّة.	-	Count from 0 to 10
+Do you know everything, Bob?	هَل تَعْرِف كُلّ شَيْء يا بوب؟	-	Count from 0 to 10
+from 0 to 3	مِن ٠ إِلى ٣	-	Count from 0 to 10
+Do you know all the numbers, Judy?	هَل تَعْرِفين كُلّ اَلْأَعْداد يا جودي؟	-	Count from 0 to 10
+island	جَزيرة	-	Discuss geography
+Do you live in a coastal city, Mohamed?	هَل تَسْكُن في مَدينة ساحِلِيّة يا مُحَمَّد؟	-	Discuss geography
+My father lives on an island.	أَبي يَسْكُن في جَزيرة.	-	Discuss geography
+I am from the city of Los Angeles in America.	أَنا مِن مَدينة لوس أَنْجِلِس في أَمْريكا.	-	Discuss geography
+The city of Savannah is a coastal city.	مَدينة سافانا مَدينة ساحِلِيّة.	-	Discuss geography
+Unfortunately, my city is very crowded.	لِلْأَسَف مَدينَتي مُزْدَحِمة جِدّاً.	-	Discuss geography
+I like swimming in the sea.	أُحِبّ اَلْسِّباحة في ٱلْبَحْر.	-	Discuss geography
+Carrie does not live in the mountains.	كَري لا تَسْكُن في ٱلْجَبَل.	-	Discuss geography
+I like reading in nature.	أُحِبّ اَلْقِراءة في ٱلْطَّبيعة.	-	Discuss geography
+Alexandria is a coastal city in Egypt.	اَلْإِسْكَنْدَرِيّة مَدينة ساحِلِيّة في مِصْر.	-	Discuss geography
+I am from a small island in the Mediterranean Sea.	أَنا مِن جَزيرة صَغيرة في ٱلْبَحْر اَلْأَبْيَض اَلْمُتَوَسِّط.	-	Discuss geography
+family	عائِلة	-	Greet people
+sick	مَريض	-	Greet people
+sad	حَزين	-	Greet people
+I am OK, praise be to God!	أَنا تَمام اَلْحَمْدُ لِله!	-	Greet people
+It's a pleasure to meet you.	تَشَرَّفْنا.	-	Greet people
+Peace be upon you, Sarah!	اَلْسَّلامُ عَلَيْكُم يا سارة!	-	Greet people
+Good morning, Shadi.	صَباح اَلْخَيْر يا شادي.	-	Greet people
+Are you from the city of Damascus, Mahmoud?	هَل أَنْتَ مِن مَدينة دِمَشْق يا مَحْمود؟	-	Greet people
+Hello Judy, my name is Mohamed.	مَرْحَباً يا جودي أَنا ٱسْمي مُحَمَّد.	-	Greet people
+How are you, Samia?	كَيْف حالِك يا سامْية؟	-	Greet people
+Good evening, what is your name?	مَساء اَلْخَيْر، ما ٱسْمَك؟	-	Greet people
+Good morning, Lama.	صَباح اَلْخَيْر يا لَمى.	-	Greet people
+Have a nice day, Sarah!	يَوْم سَعيد يا سارة!	-	Greet people
+Peace be upon you, Samia!	اَلْسَّلامُ عَلَيْكُم يا سامْية!	-	Greet people
+I study at the university now.	أَدْرُس في ٱلْجامِعة ٱلْآن.	-	Talk about what you do
+What do you study, Rania?	ماذا تَدْرُسين يا رانْيا؟	-	Talk about what you do
+Where do you work, Tamer?	أَيْن تَعْمَل يا تامِر؟	-	Talk about what you do
+I like to meet new people.	أُحِبّ اَلْتَّعَرُّف عَلى ناس جُدَد.	-	Talk about what you do
+I like to meet people.	أُحِبّ اَلْتَّعَرُّف عَلى ٱلْنّاس.	-	Talk about what you do
+Do you want to meet my family, Maha?	هَل تُريدين اَلْتَّعَرُّف عَلى عائِلَتي يا مَها؟	-	Talk about what you do
+Do you want to travel to Palestine, Maha?	هَل تُريدين اَلْسَّفَر إِلى فِلَسْطين يا مَها؟	-	Talk about what you do
+Do you study computer science, Arwa?	هَل تَدْرُسين عِلْم اَلْحاسوب يا أَرْوى؟	-	Talk about what you do
+I want to travel to my country with new people.	أُريد اَلْسَّفَر إِلى بَلَدي مَعَ ناس جُدَد.	-	Talk about what you do
+I do not study science.	لا أَدْرُس اَلْعُلوم.	-	Talk about what you do
+Do you work in tourism, Lama?	هَل تَعْمَلين في ٱلْسِّياحة يا لَمى؟	-	Talk about what you do
+He wants to meet a new friend.	يُريد اَلْتَّعَرُّف عَلى صَديق جَديد.	-	Talk about what you do
+Do you want to learn, Samia?	هَل تُريدين اَلْتَّعَلُّم يا سامْية؟	-	Talk about what you do
+I work in my cat's company and I am always busy.	أَعْمَل في شَرِكة قِطَّتي وَأَنا مَشْغولة دائِماً.	-	Talk about what you do
+My new company is amazing, praise be to God!	شَرِكَتي ٱلْجَديدة مُمْتازة ٱلْحَمْدُ لِله!	-	Talk about what you do
+I work in my sister's company.	أَعْمَل في شَرِكة أُخْتي.	-	Talk about what you do
+I do not work with my sister.	لا أَعْمَل مَعَ أُخْتي.	-	Talk about what you do
+Samia wants today's newspaper.	سامْية تُريد صَحيفة اَلْيَوْم.	-	Talk about what you do
+My name is Rosa and I am a student.	أَنا ٱسْمي روزا وَأَنا طالِبة.	-	Talk about what you do
+Judy is a good photographer.	جودي مُصَوِّرة جَيِّدة.	-	Talk about what you do
+My mother is an amazing homemaker.	أُمّي رَبّة بَيْت مُمْتازة.	-	Talk about what you do
+Do you study science, Mohamed?	هَل تَدْرُس اَلْعُلوم يا مُحَمَّد؟	-	Talk about what you do
+I do not have anything after three o'clock.	لَيْسَ عِنْدي شَيْء بَعْد اَلْسّاعة ٱلْثّالِثة.	-	Tell time
+What time is it? Ten o'clock.	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْعاشِرة.	-	Tell time
+He has something at one o'clock.	عِنْدهُ شَيْء في ٱلْسّاعة ٱلْواحِدة.	-	Tell time
+one o'clock in the morning	اَلْسّاعة ٱلْواحِدة صَباحاً	-	Tell time
+ten o'clock in the evening	اَلْسّاعة ٱلْعاشِرة مَساءً	-	Tell time
+I go to work.	أَذْهَب إِلى ٱلْعَمَل.	-	Tell time
+Do you have time before twelve o'clock?	هَل عِنْدِك وَقْت قَبْل اَلْسّاعة ٱلْثّانْية عَشْرة؟	-	Tell time
+Are you free after two thirty?	هَل أَنْتَ مُتَفَرِّغ بَعْد اَلْسّاعة ٱلْثّانْية وَٱلْنُّصْف؟	-	Tell time
+What time is it? One o'clock.	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْواحِدة.	-	Tell time
+She is free before nine o'clock.	هِيَّ مُتَفَرِّغة قَبْل اَلْسّاعة ٱلْتّاسِعة.	-	Tell time
+I do not like eating after one o'clock.	لا أُحِبّ اَلْأَكْل بَعْد اَلْسّاعة ٱلْواحِدة.	-	Tell time
+What time is it? Seven o'clock.	كَم اَلْسّاعة؟ اَلْسّاعة ٱلْسّابِعة.	-	Tell time
+When do you go to France, George?	مَتى تَذْهَب إِلى فَرَنْسا يا جورْج؟	-	Tell time
+I like swimming before sleeping.	أُحِبّ اَلْسِّباحة قَبْل اَلْنَّوْم.	-	Tell time
+I am free after five o'clock.	أَنا مُتَفَرِّغة بَعْد اَلْسّاعة ٱلْخامِسة.	-	Tell time
+I must speak Arabic.	يَجِب أَنْ أَتَكَلَّم اَلْلُّغة ٱلْعَرَبِيّة.	-	Tell time
+My wife is free after three o'clock.	زَوْجَتي مُتَفَرِّغة بَعْد اَلْسّاعة ٱلْثّالِثة.	-	Tell time
+I do not speak in the morning.	لا أَتَكَلَّم صَباحاً.	-	Tell time
+Are you free before the appointment?	هَل أَنْتَ مُتَفَرِّغ قَبْل اَلْمَوْعِد؟	-	Tell time
+letter	رِسالة	-	Describe your hobbies
+soccer	كُرة اَلْقَدَم	-	Describe your hobbies
+movie	فيلْم	-	Describe your hobbies
+My wife loves languages.	زَوْجَتي تُحِبّ اَلْلُّغات.	-	Describe your hobbies
+Bob likes to read before sleeping.	بوب يُحِبّ اَلْقِراءة قَبْل اَلْنَّوْم.	-	Describe your hobbies
+I do not have friends.	لَيْسَ عِنْدي أَصْدِقاء.	-	Describe your hobbies
+Do you like to write letters to your relatives?	هَل تُحِبّ كِتابة رَسائِل لِأَقارِبَك؟	-	Describe your hobbies
+He likes to sleep but he also likes his lessons.	يُحِبّ اَلْنَّوْم لٰكِنّ يُحِبّ دُروسهُ أَيْضاً.	-	Describe your hobbies
+My sister does not like to watch movies with her friends.	أُخْتي لا تُحِبّ مُشاهَدة اَلْأَفْلام مَعَ أَصْدِقائها.	-	Describe your hobbies
+Do you want this movie, Sam?	هَل تُريد هٰذا ٱلْفيلْم يا سام؟	-	Describe your hobbies
+I must go to my lesson.	يَجِب أَنْ أَذْهَب إِلى دَرْسي.	-	Describe your hobbies
+He likes to write letters and I like to read letters, praise be to God!	هُوَّ يُحِبّ كِتابة اَلْرَّسائِل وَأَنا أُحِبّ قِراءة اَلْرَّسائِل اَلْحَمْدُ لِله!	-	Describe your hobbies
+Do you like this film, Samia?	هَل تُحِبّين هٰذا ٱلْفيلْم يا سامْية؟	-	Describe your hobbies
+I do not like to play.	لا أُحِبّ اَلْلَّعْب.	-	Describe your hobbies
+I must talk with my neighbor Mahmoud about this movie.	يَجِب أَنْ أَتَكَلَّم مَعَ جاري مَحْمود عَن هٰذا ٱلْفيلْم.	-	Describe your hobbies
+Do you like to go out of the house on the weekend?	هَل تُحِبّين اَلْخُروج مِن اَلْبَيْت في نِهاية اَلْأُسْبوع؟	-	Describe your hobbies
+Reem visits Jordan a lot.	ريم تَزور اَلْأُرْدُن كَثيراً.	-	Describe your hobbies
+And you, Samia, what do you like?	وَأَنْتِ يا سامْية ماذا تُحِبّين؟	-	Describe your hobbies
+Learning languages is very fun.	تَعَلُّم اَلْلُّغات مُمْتِع جِدّاً.	-	Describe your hobbies
+I visit my father all the time.	أَزور أَبي كُلّ اَلْوَقْت.	-	Describe your hobbies
+I want to travel with my friends.	أُريد اَلْسَّفَر مَعَ أَصْدِقائي.	-	Describe your hobbies
+meat	لَحْم	-	Express food preferences
+soup	شورْبة	-	Express food preferences
+bread	خُبْز	-	Express food preferences
+Omar, do you like juice and do you want juice?	يا عُمَر هَل تُحِبّ اَلْعَصير وَهَل تُريد عَصيراً؟	-	Express food preferences
+Sam wants tabbouleh.	سام يُريد تَبّولة.	-	Express food preferences
+What is this dish?	ما هٰذا ٱلْطَّبَق؟	-	Express food preferences
+Rania does not like meat, correct?	رانْيا لا تُحِبّ اَلْلَّحْم صَحيح؟	-	Express food preferences
+salad	سَلَطة	-	Express food preferences
+He drinks milk in the morning.	يَشْرَب اَلْحَليب صَباحاً.	-	Express food preferences
+Yes, he wants good kebab.	نَعَم يُريد كَباباً طَيِّباً.	-	Express food preferences
+Do you like appetizers, Bob?	هَل تُحِبّ اَلْمُقَبِّلات يا بوب؟	-	Express food preferences
+Bob does not want hummus, correct?	بوب لا يُريد حُمُّصاً صَحيح؟	-	Express food preferences
+There is no falafel.	لَيْسَ هُناك فَلافِل.	-	Express food preferences
+I do not want soup, thank you.	لا أُريد شورْبة شُكْراً.	-	Express food preferences
+This dish is very good.	هٰذا ٱلْطَّبَق طَيِّب جِدّاً.	-	Express food preferences
+My daughter likes meat in the evening.	بِنْتي تُحِبّ اَلْلَّحْم مَساءً.	-	Express food preferences
+train	قِطار	-	Find a bus station
+bus	باص	-	Find a bus station
+They always take the train.	يَأْخُذون اَلْقِطار دائِماً.	-	Find a bus station
+The train station is very close.	مَحَطّة اَلْقِطار قَريبة جِدّاً.	-	Find a bus station
+I leave at three o'clock.	أَنْطَلِق في ٱلْسّاعة ٱلْثّالِثة.	-	Find a bus station
+At what time does the train leave?	في أَيّة ساعة يَنْطَلِق اَلْقِطار؟	-	Find a bus station
+Which station are we at?	نَحْنُ في أَيّة مَحَطّة؟	-	Find a bus station
+They do not know what time I leave at.	لا يَعْرِفون في أَيّة ساعة أَنْطَلِق.	-	Find a bus station
+I do not want to go with my grandmother.	لا أُريد اَلْذَّهاب مَعَ جَدَّتي.	-	Find a bus station
+Where do you all want to travel to?	إِلى أَيْن تُريدون اَلْسَّفَر؟	-	Find a bus station
+Where do you all want to go?	إِلى أَيْن تُريدون اَلْذَّهاب؟	-	Find a bus station
+The city is far from the university.	اَلْمَدينة بَعيدة عَن اَلْجامِعة.	-	Find a bus station
+Do they know the time?	هَل يَعْرِفون اَلْسّاعة؟	-	Find a bus station
+Every day he takes her car.	كُلّ يَوْم يَأْخُذ سَيّارَتها.	-	Find a bus station
+Do you all take the car?	هَل تَأْخُذون اَلْسَّيّارة؟	-	Find a bus station
+Please Maha, where is the bus?	مِن فَضْلِك يا مَها أَيْن اَلْباص؟	-	Find a bus station
+On which day does he like to travel?	في أَيّ يَوْم يُحِبّ اَلْسَّفَر؟	-	Find a bus station
+You all want to travel to Paris?	تُريدون اَلْسَّفَر إِلى باريس؟	-	Find a bus station
+vegetables	خُضْراوات	-	Talk about a market
+fruit	فاكِهة	-	Talk about a market
+Lebanese okra is very good.	اَلْبامْيا ٱلْلُّبْنانِيّة طَيِّبة جِدّاً.	-	Talk about a market
+You buy this coffee because it is healthy.	تَشْتَرين هٰذِهِ ٱلْقَهْوة لِأَنَّها صِحِّيّة.	-	Talk about a market
+I buy everything from the same place.	أَشْتَري كُلّ شَيْء مِن نَفْس اَلْمَكان.	-	Talk about a market
+I do not want the same food.	لا أُريد نَفْس اَلْأَكْل.	-	Talk about a market
+Why do I not buy a little coffee?	لِماذا لا أَشْتَري اَلْقَليل مِن اَلْقَهْوة؟	-	Talk about a market
+George always buys the same thing.	جورْج يَشْتَري نَفْس اَلْشَّيْء دائِماً.	-	Talk about a market
+Because she always buys the same thing.	لِأَنَّها تَشْتَري نَفْس اَلْشَّيْء دائِماً.	-	Talk about a market
+I want a little cake.	أُريد اَلْقَليل مِن اَلْكَعْك.	-	Talk about a market
+I do not usually like cake.	عادةً لا أُحِبّ اَلْكَعْك.	-	Talk about a market
+What do you buy, Omar?	ماذا تَشْتَري يا عُمَر؟	-	Talk about a market
+Where is the fresh zucchini?	أَيْن اَلْكوسا ٱلْطّازِجة؟	-	Talk about a market
+I do not go to the market a lot.	لا أَذْهَب إِلى ٱلْسّوق كَثيراً.	-	Talk about a market
+I do not usually go to the market.	لا أَذْهَب إِلى ٱلْسّوق عادةً.	-	Talk about a market
+Because she does not like the market.	لِأَنَّها لا تُحِبّ اَلْسّوق.	-	Talk about a market
+Does he have fresh milk?	هَل عِنْدهُ حَليب طازِج؟	-	Talk about a market
+Why do I not like carrots?	لِماذا لا أُحِبّ اَلْجَزَر؟	-	Talk about a market
+Because the restaurant is expensive.	لِأَنَّ ٱلْمَطْعَم غالي.	-	Talk about a market
+Lama wants coffee because she is tired.	لَمى تُريد قَهْوة لِأَنَّها تَعْبانة.	-	Talk about a market
+You are healthy because you like vegetables, Maha.	أَنْتِ صِحِّيّة لِأَنِّك تُحِبّين اَلْخُضْراوات يا مَها.	-	Talk about a market
+Why does he buy old fruit?	لِماذا يَشْتَري فاكِهة قَديمة؟	-	Talk about a market
+Will you go to the university soon?	هَل سَتَذْهَب إِلى ٱلْجامِعة قَريباً؟	-	Talk on the phone
+Lama is not here.	لَمى لَيْسَت مَوْجودة.	-	Talk on the phone
+We return in the evening.	نَعود في ٱلْمَساء.	-	Talk on the phone
+Is he there this week?	هَل هُوَّ مَوْجود هٰذا ٱلْأُسْبوع؟	-	Talk on the phone
+Can you call next week, Mohamed?	هَل مِن اَلْمُمْكِن أَنْ تَتَّصِل اَلْأُسْبوع اَلْمُقْبِل يا مُحَمَّد؟	-	Talk on the phone
+I will call next week.	سَأَتَّصِل اَلْأُسْبوع اَلْمُقْبِل.	-	Talk on the phone
+Do you speak on the phone a lot?	هَل تَتَكَلَّم بِٱلْهاتِف كَثيراً؟	-	Talk on the phone
+We will go to the market soon.	سَنَذْهَب إِلى ٱلْسّوق قَريباً.	-	Talk on the phone
+She is not here. Can you call later?	هِيَّ لَيْسَت مَوْجودة. هَل مِن اَلْمُمْكِن أَنْ تَتَّصِل لاحِقاً؟	-	Talk on the phone
+One moment... no, she is not here.	لَحْظة... لا، هِيَّ لَيْسَت مَوْجودة.	-	Talk on the phone
+Can I speak with him?	هَل مِن اَلْمُمْكِن أَنْ أَتَكَلَّم مَعَهُ؟	-	Talk on the phone
+You must not speak on the phone in class, Mohamed.	لا يَجِب أَنْ تَتَكَلَّم بِٱلْهاتِف في ٱلْصَّفّ يا مُحَمَّد.	-	Talk on the phone
+Will you all speak on the phone today?	هَل سَتَتَكَلَّمون بِٱلْهاتِف اَلْيَوْم؟	-	Talk on the phone
+Bob, why must you speak with me now?	يا بوب لِماذا يَجِب أَنْ تَتَكَلَّم مَعي ٱلْآن؟	-	Talk on the phone
+Is Bashir there?	هَل بَشير مَوْجود؟	-	Talk on the phone
+They usually return in the afternoon.	يَعودون بَعْد اَلْظُّهْر عادةً.	-	Talk on the phone
+Wrong number.	اَلْرَّقَم غَلَط.	-	Talk on the phone
+I must speak with you.	يَجِب أَنْ أَتَكَلَّم مَعَك.	-	Talk on the phone
+My  cousin is divorced.	اِبْن عَمّي مُطَلَّق.	-	Describe personalities
+My hair is like my mother's hair.	شَعْري مِثْل شَعْر أُمّي.	-	Describe personalities
+My cousin is a soldier.	اِبْن عَمّي جُنْدِيّ.	-	Describe personalities
+Bob's brother does not hate you at all.	أَخو بوب لا يَكْرَهَك أَبَداً.	-	Describe personalities
+My cousin's name is Sam.	اِبْن عَمّي اِسْمهُ سام.	-	Describe personalities
+I am a homemaker and my work is difficult like the work of a soldier.	أَنا رَبّة بَيْت وَعَمَلي صَعْب مِثْل عَمَل اَلْجُنْدِيّ.	-	Describe personalities
+Rania, her cousin, is Mahmoud's sister.	رانْيا بِنْت عَمّها هِيَّ أُخْت مَحْمود.	-	Describe personalities
+Your cousin is amazing.	بِنْت عَمَّك مُمْتازة.	-	Describe personalities
+The paternal uncle is the father's brother.	اَلْعَمّ هُوَّ أَخو ٱلْأَب.	-	Describe personalities
+Why do you not like traveling at all?	لِماذا لا تُحِبّ اَلْسَّفَر أَبَداً؟	-	Describe personalities
+I do not hate you.	لا أَكْرَهَك.	-	Describe personalities
+"Her maternal aunt" means "her mother's sister".	خالَتها يَعْني أُخْت أُمّها.	-	Describe personalities
+Who is ugly in your family?	مَن قَبيح في عائِلَتَك؟	-	Describe personalities
+My paternal uncle is ugly.	عَمّي قَبيح.	-	Describe personalities
+Is his paternal uncle married?	هَل عَمّهُ مُتَزَوِّج؟	-	Describe personalities
+No one is ugly.	لا أَحَد قَبيح.	-	Describe personalities
+hotel	فُنْدُق	-	Check into a hotel
+mouse	فَأْر	-	Check into a hotel
+swimming pool	مَسْبَح	-	Check into a hotel
+Do they have a reservation?	هَل عِنْدهُم حَجْز؟	-	Check into a hotel
+We will return in a year.	سَنَعود بَعْد سَنة.	-	Check into a hotel
+I sleep well here.	أَنام جَيِّداً هُنا.	-	Check into a hotel
+Is the swimming pool on the first floor?	هَل اَلْمَسْبَح في ٱلْطّابِق اَلْأَوَّل؟	-	Check into a hotel
+Everything in this hotel is very clean.	كُلّ شَيْء في هٰذا ٱلْفُنْدُق نَظيف جِدّاً.	-	Check into a hotel
+No, in this hotel there is no mouse.	لا، في هٰذا ٱلْفُنْدُق لَيْسَ هُناك فَأْر.	-	Check into a hotel
+This is their hotel.	هٰذا هُوَّ فُنْدُقهُم.	-	Check into a hotel
+Where are the sheets?	أَيْن اَلْمُلاءات؟	-	Check into a hotel
+Their hotel is amazing but very expensive.	فُنْدُقهُم مُمْتاز لٰكِنّ غالي جِدّاً.	-	Check into a hotel
+Do they sleep here?	هَل يَنامون هُنا؟	-	Check into a hotel
+Is there a balcony in your room?	هَل هُناك شُرْفة في غُرْفَتكُم؟	-	Check into a hotel
+You only want sheets?	تُريدون مُلاءات فَقَط؟	-	Check into a hotel
+foot	رِجْل	-	Describe symptoms
+hand	يَد	-	Describe symptoms
+How do you all feel today?	كَيْف تَشْعُرون اَلْيَوْم؟	-	Describe symptoms
+My eye is warm.	عَيْني ساخِنة.	-	Describe symptoms
+mouth	فَم	-	Describe symptoms
+Do you all prefer to rest?	هَل تُفَضِّلون أَنْ تَرْتاحوا؟	-	Describe symptoms
+There is no problem, we like to sleep.	لَيْسَ هُناك مُشْكِلة، نُحِبّ أَنْ نَنام.	-	Describe symptoms
+Do they prefer to rest now?	هَل يُفَضِّلون أَنْ يَرْتاحوا ٱلْآن؟	-	Describe symptoms
+Do you want to go to the doctor?	هَل تُريد أَنْ تَذْهَب إِلى ٱلْطَّبيب؟	-	Describe symptoms
+Who does not want a break?	مَن لا يُريد اِسْتِراحة؟	-	Describe symptoms
+Do you want to take a break?	هَل تُريد أَنْ تَأْخُذ اِسْتِراحة؟	-	Describe symptoms
+Do you feel pain in your mouth?	هَل تَشْعُرين بِأَلَم في ٱلْفَم؟	-	Describe symptoms
+I want to take a break.	أُريد أَنْ آخُذ اِسْتِراحة.	-	Describe symptoms
+Do you like to rest, Rania?	هَل تُحِبّين أَنْ تَرْتاحي يا رانْيا؟	-	Describe symptoms
+Do they want to rest?	هَل يُريدون أَنْ يَرْتاحوا؟	-	Describe symptoms
+They do not like to rest.	لا يُحِبّون أَنْ يَرْتاحوا.	-	Describe symptoms
+She has had a fever since yesterday.	عِنْدها حَرارة مُنْذُ أَمْس.	-	Describe symptoms
+Is the pain strong?	هَل اَلْأَلَم قَوِيّ؟	-	Describe symptoms
+Does your hand hurt?	هل يدك تؤلمك؟	-	Describe symptoms
+We must take a break.	يَجِب أَنْ نَأْخُذ اِسْتِراحة.	-	Describe symptoms
+soap	صابون	-	Buy food
+Give me some okra, Samia.	أَعْطيني بامْيا يا سامْية.	-	Buy food
+Give me the meat, guys!	أَعْطوني ٱلْلَّحْم يا شَباب!	-	Buy food
+Where is the toothpaste?	أَيْن مَعْجون اَلْأَسْنان؟	-	Buy food
+Where is the smell of soap coming from?	مِن أَيْن تَجيء رائِحة اَلْصّابون؟	-	Buy food
+This vendor always gives me a good price.	هٰذا ٱلْبائِع دائِماً يُعْطيني سِعْراً جَيِّداً.	-	Buy food
+I do not like the smell of this vendor's soap.	لا أُحِبّ رائِحة صابون هٰذا ٱلْبائِع.	-	Buy food
+They want one toothbrush.	يُريدون فُرْشاة أَسْنان واحِدة.	-	Buy food
+Give me fresh toothpaste this time.	أَعْطيني مَعْجون أَسْنان طازِجاً هٰذِهِ ٱلْمَرّة.	-	Buy food
+We will return in only an hour.	سَنَعود بَعْد ساعة واحِدة فَقَط.	-	Buy food
+Give me the same thing again, Rania.	أَعْطيني نَفْس اَلْشَّيْء مَرّة أُخْرى يا رانْيا.	-	Buy food
+I want a toothbrush.	أُريد فُرْشاة أَسْنان.	-	Buy food
+This is a good price!	هٰذا سِعْر جَيِّد!	-	Buy food
+Do you give the cash now, Judy?	هَل تُعْطين اَلْنُّقود اَلْآن يا جودي؟	-	Buy food
+Do you all have 10 dinar, guys?	هَل عِنْدكُم ١٠ دَنانير يا شَباب؟	-	Buy food
+Here you go, Rania!	تَفَضَّلي يا رانْيا!	-	Buy food
+Do you have 5 dinar for the tomatoes?	هَل عِنْدَك ٥ دَنانير لِلْبَنَدورة؟	-	Buy food
+We will become richer, God willing.	سَنُصْبِح أَغْنى إِنْ شاءَ ٱلله.	-	Describe your ideal job
+What do you all want to be, guys?	ماذا تُريدون أَنْ تَكونوا يا شَباب؟	-	Describe your ideal job
+The work is good but I want another salary.	اَلْعَمَل جَيِّد لٰكِنّ أُريد راتِباً آخَر.	-	Describe your ideal job
+I want to be richer than my father.	أُريد أَنْ أَكون أَغْنى مِن أَبي.	-	Describe your ideal job
+There is more cash in the other office.	هُناك نُقود أَكْثَر في ٱلْمَكْتَب اَلْآخَر.	-	Describe your ideal job
+I will be richer in a richer economy, God willing.	سَأَكون أَغْنى في ٱقْتِصاد أَغْنى إِنْ شاءَ ٱلله.	-	Describe your ideal job
+No, I do not want to immigrate.	لا، لا أُريد اَلْهِجْرة.	-	Describe your ideal job
+Because the salary is high.	لِأَنَّ ٱلْرّاتِب عالي.	-	Describe your ideal job
+We like our salary, praise be to God.	نُحِبّ راتِبنا اَلْحَمْدُ لِله.	-	Describe your ideal job
+Do you prefer the other office?	هَل تُفَضِّل اَلْمَكْتَب اَلْآخَر؟	-	Describe your ideal job
+She is not poor.	هِيَّ لَيْسَت فَقيرة.	-	Describe your ideal job
+You want to be a professor, correct?	تُريدين أَنْ تَكوني أُسْتاذة صَحيح؟	-	Describe your ideal job
+music	موسيقى	-	Talk about daily life
+She brushes her teeth sometimes.	تُفَرِّش أَسْنانها أَحْياناً.	-	Talk about daily life
+I go to sleep or I read.	أَنام أَو أَقْرَأ.	-	Talk about daily life
+My son likes to wake up late.	اِبْني يُحِبّ أَنْ يَصْحو في ساعة مُتَأَخِّرة.	-	Talk about daily life
+I want to wake up late every day.	أُريد أَنْ أَصْحو في ساعة مُتَأَخِّرة كُلّ يَوْم.	-	Talk about daily life
+We eat a light dinner late.	نَتَناوَل عَشاء خَفيفاً في ساعة مُتَأَخِّرة.	-	Talk about daily life
+They brush their teeth sometimes.	يُفَرِّشون أَسْنانهُم أَحْياناً.	-	Talk about daily life
+What do you do after that?	ماذا تَفْعَلين بَعْد ذٰلِك؟	-	Talk about daily life
+We shower every day in the summer.	نَسْتَحِمّ كُلّ يَوْم في ٱلْصَّيْف.	-	Talk about daily life
+I do not like to wake up early on the weekend.	لا أُحِبّ أَنْ أَصْحو مُبَكِّراً في نِهاية اَلْأُسْبوع.	-	Talk about daily life
+We wake up early every morning.	نَحْنُ نَصْحو مُبَكِّراً كُلّ صَباح.	-	Talk about daily life
+In the evening, I watch TV or I go to sleep early.	في ٱلْمَساء أُشاهِد اَلْتِّلْفاز أَو أَنام مُبَكِّراً.	-	Talk about daily life
+We can eat together.	مِن اَلْمُمْكِن أَنْ نَأْكُل مَعاً.	-	Talk about daily life
+I do not eat quickly because eating takes time.	لا آكُل بِسُرْعة لِأَنَّ اَلْأَكْل يَأْخُذ وَقْتاً.	-	Talk about daily life
+after that, we eat breakfast together.	بَعْد ذٰلِك نَتَناوَل اَلْفُطور مَعاً.	-	Talk about daily life
+We cannot eat together.	لَيْسَ مِن اَلْمُمْكِن أَنْ نَأْكُل مَعاً.	-	Talk about daily life
+He usually showers before sleep.	يَسْتَحِمّ قَبْل اَلْنَّوْم عادةً.	-	Talk about daily life
+I work quickly.	أَعْمَل بِسُرْعة.	-	Talk about daily life
+Are you ready?	هل أنت جاهز؟	-	Talk about daily life
+You are not ready now, correct?	لَسْتَ جاهِزاً اَلْآن صَحيح؟	-	Talk about daily life
+We want a pretty scarf for Laila.	نُريد وِشاحاً جَميلاً لِلَيْلى.	-	Discuss clothing
+gloves	قُفّازات	-	Discuss clothing
+My husband needs a new suit.	زَوْجي يَحْتاج إِلى بَدْلة جَديدة.	-	Discuss clothing
+shoes	حِذاء	-	Discuss clothing
+Can you help me?	هَل مِن اَلْمُمْكِن أَنْ تُساعِدني؟	-	Discuss clothing
+shirts	قُمْصان	-	Discuss clothing
+Excuse me, can you help me?	عَفْواً هَل مِن اَلْمُمْكِن أَنْ تُساعِدني؟	-	Discuss clothing
+Do you have wool socks?	هَل عِنْدِك جَوارِب مِن اَلْصّوف؟	-	Discuss clothing
+Can you help me?	هل يمكنك أن تساعدني؟	-	Discuss clothing
+Do you prefer these hats?	هَل تُفَضِّل هٰذِهِ ٱلْقُبَّعات؟	-	Discuss clothing
+You do not need a new dress.	لا تَحْتاجين إِلى فُسْتان جَديد.	-	Discuss clothing
+No one needs all these hats.	لا أَحَد يَحْتاج إِلى كُلّ هٰذِهِ ٱلْقُبَّعات.	-	Discuss clothing
+No one needs all these suits.	لا أَحَد يَحْتاج إِلى كُلّ هٰذِهِ ٱلْبَدَلات.	-	Discuss clothing
+Do you have cheap coats?	هَل عِنْدكُم مَعاطِف رَخيصة؟	-	Discuss clothing
+They have expensive suits.	عِنْدهُم بَدَلات غالْية.	-	Discuss clothing
+Is there a blouse with long sleeves?	هَل هُناك بَلوزة بِكُمّ طَويل؟	-	Discuss clothing
+These gloves are small.	هٰذِهِ ٱلْقُفّازات صَغيرة.	-	Discuss clothing
+airplane	طَيّارة	-	Plan activities
+passport	جَواز سَفَر	-	Plan activities
+This activity will be good for my father.	هٰذا ٱلْنَّشاط سَيَكون جَيِّداً لِأَبي.	-	Plan activities
+We will rent a big apartment together.	سَنَسْتَأْجِر شَقّة كَبيرة مَعاً.	-	Plan activities
+This site is very famous.	هٰذا ٱلْمَوْقِع مَشْهور جِدّاً.	-	Plan activities
+Where do you want to go?	إِلى أَيْن تُريدين أَنْ تَذْهَبي؟	-	Plan activities
+Are there other countries?	هَل هُناك بِلاد أُخْرى؟	-	Plan activities
+How do you obtain cash in Cuba?	كَيْف تَحْصُلين عَلى ٱلْنُّقود في كوبا؟	-	Plan activities
+In the world there are a lot of stunning countries, my son.	في ٱلْعالَم بِلاد رائِعة كَثيرة يا ٱبْني.	-	Plan activities
+I will not travel to a lot of countries this year.	لَنْ أُسافِر إِلى بِلاد كَثيرة هٰذِهِ ٱلْسَّنة.	-	Plan activities
+I do not want a short trip.	لا أُريد رِحْلة قَصيرة.	-	Plan activities
+Do you want to take the plane?	هَل تُريدون أَنْ تَأْخُذوا ٱلْطَّيّارة؟	-	Plan activities
+He wants to travel to more countries.	يُريد اَلْسَّفَر إِلى بِلاد أَكْثَر.	-	Plan activities
+In Egypt, there are stunning views.	في مِصْر مَناظِر رائِعة.	-	Plan activities
+We will see.	سَنَرى.	-	Plan activities
+We do not want to rent a car.	لا نُريد أَنْ نَسْتَأْجِر سَيّارة.	-	Plan activities
+There are other activities.	هُناك أَنْشِطة أُخْرى.	-	Plan activities

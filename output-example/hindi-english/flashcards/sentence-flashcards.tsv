@@ -1,447 +1,447 @@
-English	Context	Foreign	Transliteration	Tip	Sources	Debug
-One	Pair letters and sounds	एक	ek	-	Duo	type=translate:reverse_tap
-Raj is a man.	Form basic sentences	राज एक आदमी है।	raaj ek aadamii hai.	-	Duo	type=translate:tap
-an apple	Form basic sentences	एक सेब	ek seb	-	Duo	type=translate:tap
-That girl and this girl	Form basic sentences	वह लड़की और यह लड़की	vah laṛkii aur yah laṛkii	-	Duo	type=translate:tap
-Book	Form basic sentences	किताब	kitaab	-	Duo	type=select:name_example
-Apple	Form basic sentences	सेब	seb	-	Duo	type=select:name_example
-Woman	Form basic sentences	औरत	aurat	-	Duo	type=select:name_example
-I am Julia.	Form basic sentences	मैं जूलिया हूँ।	main juuliyaa huun.	-	Duo	type=translate:tap
-This man	Form basic sentences	यह आदमी	yah aadamii	-	Duo	type=translate:tap
-Neha is a woman.	Form basic sentences	नेहा एक औरत है।	nehaa ek aurat hai.	-	Duo	type=translate:reverse_tap
-A book and an apple	Form basic sentences	एक किताब और एक सेब	ek kitaab aur ek seb	-	Duo	type=translate:reverse_tap
-This woman is fine.	Form basic sentences	यह औरत ठीक है।	yah aurat ṭhiik hai.	-	Duo	type=translate:reverse_tap
-That book	Form basic sentences	वह किताब	vah kitaab	-	Duo	type=translate:tap
-Peter reads and eats.	Talk about food	पीटर पढ़ता है और खाता है।	piiṭar paṛtaa hai aur khaataa hai.	-	Duo	type=translate:tap
-I eat.	Talk about food	मैं खाती हूँ।	main khaatii huun.	-	Duo	type=translate:tap
-I read.	Talk about food	मैं पढ़ती हूँ।	main paṛtii huun.	-	Duo	type=translate:tap
-Water	Talk about food	पानी	paanii	-	Duo	type=select:name_example
-Banana	Talk about food	केला	kelaa	-	Duo	type=select:name_example
-Neha does not drink tea.	Talk about food	नेहा चाय नहीं पीती है।	nehaa chaaya nahiin piitii hai.	-	Duo	type=translate:tap
-This boy reads.	Talk about food	यह लड़का पढ़ता है।	yah laṛkaa paṛtaa hai.	-	Duo	type=translate:tap
-You eat.	Talk about food	तू खाता है।	tuu khaataa hai.	-	Duo	type=translate:tap
-Tea	Talk about food	चाय	chaaya	-	Duo	type=select:name_example
-This is a banana.	Talk about food	यह एक केला है।	yah ek kelaa hai.	-	Duo	type=translate:tap
-Hello, I am fine.	Talk about food	नमस्ते, मैं ठीक हूँ।	namaste, main ṭhiik huun.	-	Duo	type=translate:tap
-I read.	Talk about food	मैं पढ़ता हूँ।	main paṛtaa huun.	-	Duo	type=translate:tap
-You drink water.	Talk about food	तू पानी पीती है।	tuu paanii piitii hai.	-	Duo	type=translate:tap
-Peter eats an apple.	Talk about food	पीटर सेब खाता है।	piiṭar seb khaataa hai.	-	Duo	type=translate:tap
-Thank you	Talk about food	धन्यवाद	dhanyavaad	-	Duo	type=translate:tap
-Neha reads and Julia eats.	Talk about food	नेहा पढ़ती है और जूलिया खाती है।	nehaa paṛtii hai aur juuliyaa khaatii hai.	-	Duo	type=translate:reverse_tap
-What does Julia eat?	Talk about food	जूलिया क्या खाती है?	juuliyaa kyaa khaatii hai?	-	Duo	type=translate:reverse_tap
-I drink water.	Talk about food	मैं पानी पीती हूँ।	main paanii piitii huun.	-	Duo	type=translate:reverse_tap
-Hi, I am Neha.	Talk about food	नमस्ते, मैं नेहा हूँ।	namaste, main nehaa huun.	-	Duo	type=translate:tap
-You are a girl.	Talk about food	तू एक लड़की है।	tuu ek laṛkii hai.	-	Duo	type=translate:tap
-No, not tea. Water is fine.	Talk about food	नहीं, चाय नहीं। पानी ठीक है।	nahiin, chaaya nahiin. paanii ṭhiik hai.	-	Duo	type=translate:reverse_tap
-We eat bananas and apples.	Form the plural	हम केले और सेब खाते हैं।	ham kele aur seb khaate hain.	-	Duo	type=translate:tap
-You eat.	Form the plural	तुम खाते हो।	tum khaate ho.	-	Duo	type=translate:tap
-Books	Form the plural	किताबें	kitaaben	-	Duo	type=select:name_example
-One woman and two women	Form the plural	एक औरत और दो औरतें	ek aurat aur do auraten	-	Duo	type=translate:tap
-Girls	Form the plural	लड़कियाँ	laṛkiyaan	-	Duo	type=select:name_example
-Boys	Form the plural	लड़के	laṛke	-	Duo	type=select:name_example
-Are these three apples?	Form the plural	क्या ये तीन सेब हैं?	kyaa ye tiin seb hain?	-	Duo	type=translate:reverse_tap
-Who are those women?	Form the plural	वे महिलाएँ कौन हैं?	ve mahilaaen kaun hain?	-	Duo	type=translate:reverse_tap
-What do the girls and boys read?	Form the plural	लड़कियाँ और लड़के क्या पढ़ते हैं?	laṛkiyaan aur laṛke kyaa paṛte hain?	-	Duo	type=translate:reverse_tap
-Two men and three women	Form the plural	दो आदमी और तीन औरतें	do aadamii aur tiin auraten	-	Duo	type=translate:tap
-Two men eat bananas.	Form the plural	दो आदमी केले खाते हैं।	do aadamii kele khaate hain.	-	Duo	type=translate:tap
-We drink tea and eat apples.	Form the plural	हम चाय पीते हैं और सेब खाते हैं।	ham chaaya piite hain aur seb khaate hain.	-	Duo	type=translate:tap
-You drink tea.	Form the plural	तुम चाय पीते हो।	tum chaaya piite ho.	-	Duo	type=translate:tap
-They read that book.	Form the plural	वे वह किताब पढ़ते हैं।	ve vah kitaab paṛte hain.	-	Duo	type=translate:reverse_tap
-Women read books.	Form the plural	औरतें किताबें पढ़ती हैं।	auraten kitaaben paṛtii hain.	-	Duo	type=translate:tap
-Women eat apples.	Form the plural	औरतें सेब खाती हैं।	auraten seb khaatii hain.	-	Duo	type=translate:reverse_tap
-We drink water.	Form the plural	हम पानी पीते हैं।	ham paanii piite hain.	-	Duo	type=translate:reverse_tap
-The girls eat apples.	Form the plural	लड़कियाँ सेब खाती हैं।	laṛkiyaan seb khaatii hain.	-	Duo	type=translate:reverse_tap
-We are not fine.	Form the plural	हम ठीक नहीं हैं।	ham ṭhiik nahiin hain.	-	Duo	type=translate:tap
-They are three men.	Form the plural	वे तीन आदमी हैं।	ve tiin aadamii hain.	-	Duo	type=translate:reverse_tap
-Who reads the books?	Form the plural	किताबें कौन पढ़ता है?	kitaaben kaun paṛtaa hai?	-	Duo	type=translate:tap
-Home	Introduce people	घर	ghar	-	Duo	type=select:name_example
-Peter's daughter lives in India.	Introduce people	पीटर की बेटी भारत में रहती है।	piiṭar kii beṭii bhaarat men rahatii hai.	-	Duo	type=translate:tap
-School	Introduce people	स्कूल	skuul	-	Duo	type=select:name_example
-He lives in India.	Introduce people	वह भारत में रहता है।	vah bhaarat men rahataa hai.	-	Duo	type=translate:tap
-This is Neha's son.	Introduce people	यह नेहा का बेटा है।	yah nehaa kaa beṭaa hai.	-	Duo	type=translate:tap
-Raj is Julia's sister's son.	Introduce people	राज जूलिया की बहन का बेटा है।	raaj juuliyaa kii bahan kaa beṭaa hai.	-	Duo	type=translate:reverse_tap
-Your name is Neha and his name is Aamir.	Introduce people	तेरा नाम नेहा है और उसका नाम आमिर है।	teraa naam nehaa hai aur usakaa naam aamir hai.	-	Duo	type=translate:reverse_tap
-Aamir goes to India every day.	Introduce people	आमिर हर दिन भारत जाता है।	aamir har din bhaarat jaataa hai.	-	Duo	type=translate:reverse_tap
-This is my daughter.	Introduce people	यह मेरी बेटी है।	yah merii beṭii hai.	-	Duo	type=translate:tap
-No, I don't live in America.	Introduce people	नहीं, मैं अमेरिका में नहीं रहता हूँ।	nahiin, main amerikaa men nahiin rahataa huun.	-	Duo	type=translate:tap
-That is Julia's apple.	Introduce people	वह जूलिया का सेब है।	vah juuliyaa kaa seb hai.	-	Duo	type=translate:tap
-That girl goes to home from school.	Introduce people	वह लड़की स्कूल से घर जाती है।	vah laṛkii skuul se ghar jaatii hai.	-	Duo	type=translate:reverse_tap
-Yes, I live in India.	Introduce people	हाँ, मैं भारत में रहता हूँ।	haan, main bhaarat men rahataa huun.	-	Duo	type=translate:tap
-That is his book.	Introduce people	वह उसकी किताब है।	vah usakii kitaab hai.	-	Duo	type=translate:tap
-India is my home.	Introduce people	भारत मेरा घर है।	bhaarat meraa ghar hai.	-	Duo	type=translate:tap
-That boy does not live in India.	Introduce people	वह लड़का भारत में नहीं रहता है।	vah laṛkaa bhaarat men nahiin rahataa hai.	-	Duo	type=translate:reverse_tap
-His sister lives in America.	Introduce people	उसकी बहन अमेरिका में रहती है।	usakii bahan amerikaa men rahatii hai.	-	Duo	type=translate:reverse_tap
-His brother is Aamir.	Introduce people	उसका भाई आमिर है।	usakaa bhaaii aamir hai.	-	Duo	type=translate:reverse_tap
-He is my son.	Introduce people	वह मेरा बेटा है।	vah meraa beṭaa hai.	-	Duo	type=translate:tap
-His house and your house	Introduce people	उसका घर और तेरा घर	usakaa ghar aur teraa ghar	-	Duo	type=translate:tap
-She is our sister.	Describe your family	वह हमारी बहन है।	vah hamaarii bahan hai.	-	Duo	type=translate:tap
-Julia and Neha are sisters.	Describe your family	जूलिया और नेहा बहनें हैं।	juuliyaa aur nehaa bahanen hain.	-	Duo	type=translate:tap
-Your father and your mother	Describe your family	आपके पिता और आपकी माँ	aapake pitaa aur aapakii maan	-	Duo	type=translate:tap
-I am with my mother.	Describe your family	मैं अपनी माँ के साथ हूँ।	main apanii maan ke saath huun.	-	Duo	type=translate:reverse_tap
-His sons are in your home.	Describe your family	उसके बेटे तेरे घर में हैं।	usake beṭe tere ghar men hain.	-	Duo	type=translate:reverse_tap
-His mother has three daughters.	Describe your family	उसकी माँ की तीन बेटियाँ हैं।	usakii maan kii tiin beṭiyaan hain.	-	Duo	type=translate:reverse_tap
-The father and the children go home.	Describe your family	पिता और बच्चे घर जाते हैं।	pitaa aur bachche ghar jaate hain.	-	Duo	type=translate:tap
-Your sons eat apples.	Describe your family	तेरे बेटे सेब खाते हैं।	tere beṭe seb khaate hain.	-	Duo	type=translate:tap
-Their father is in America.	Describe your family	उनके पिता अमेरिका में हैं।	unake pitaa amerikaa men hain.	-	Duo	type=translate:tap
-They live with their grandfather.	Describe your family	वे अपने नाना के साथ रहते हैं।	ve apane naanaa ke saath rahate hain.	-	Duo	type=translate:reverse_tap
-That is your book.	Describe your family	वह तुम्हारी किताब है।	vah tumhaarii kitaab hai.	-	Duo	type=translate:tap
-They have two sons.	Describe your family	उनके दो बेटे हैं।	unake do beṭe hain.	-	Duo	type=translate:tap
-Mother lives at home.	Describe your family	माँ घर में रहती हैं।	maan ghar men rahatii hain.	-	Duo	type=translate:tap
-Neha has two sons.	Describe your family	नेहा के दो बेटे हैं।	nehaa ke do beṭe hain.	-	Duo	type=translate:reverse_tap
-You have two brothers.	Describe your family	तेरे दो भाई हैं।	tere do bhaaii hain.	-	Duo	type=translate:reverse_tap
-Your child, your children	Describe your family	तुम्हारा बच्चा, तुम्हारे बच्चे	tumhaaraa bachchaa, tumhaare bachche	-	Duo	type=translate:tap
-Raj goes to his home.	Describe your family	राज उसके घर जाता है।	raaj usake ghar jaataa hai.	-	Duo	type=translate:reverse_tap
-That child does not go home.	Describe your family	वह बच्चा घर नहीं जाता है।	vah bachchaa ghar nahiin jaataa hai.	-	Duo	type=translate:reverse_tap
-Our son studies.	Describe your family	हमारा बेटा पढ़ता है।	hamaaraa beṭaa paṛtaa hai.	-	Duo	type=translate:tap
-Your school is in India.	Describe your family	तुम्हारा स्कूल भारत में है।	tumhaaraa skuul bhaarat men hai.	-	Duo	type=translate:reverse_tap
-Their apples	Describe your family	उनके सेब	unake seb	-	Duo	type=translate:reverse_tap
-Raj and Neha don't live in America.	Describe your family	राज और नेहा अमेरिका में नहीं रहते हैं।	raaj aur nehaa amerikaa men nahiin rahate hain.	-	Duo	type=translate:tap
-Your sister is my friend.	Describe your family	आपकी बहन मेरी दोस्त है।	aapakii bahan merii dost hai.	-	Duo	type=translate:tap
-Big animals do not eat grass.	Talk about animals	बड़े जानवर घास नहीं खाते हैं।	baṛe jaanavar ghaas nahiin khaate hain.	-	Duo	type=translate:tap
-Elephants eat big bananas.	Talk about animals	हाथी बड़े केले खाते हैं।	haathii baṛe kele khaate hain.	-	Duo	type=translate:tap
-Milk	Talk about animals	दूध	duudh	-	Duo	type=select:name_example
-Small mouse, small cow. Small dogs, small cats.	Talk about animals	छोटा चूहा, छोटी गाय। छोटे कुत्ते, छोटी बिल्लियाँ।	chhoṭaa chuuhaa, chhoṭii gaaya. chhoṭe kutte, chhoṭii billiyaan.	-	Duo	type=translate:tap
-Bird	Talk about animals	पक्षी	pakshii	-	Duo	type=select:name_example
-Dog	Talk about animals	कुत्ता	kuttaa	-	Duo	type=select:name_example
-Elephant	Talk about animals	हाथी	haathii	-	Duo	type=select:name_example
-The rats and dogs are fine.	Talk about animals	चूहे और कुत्ते ठीक हैं।	chuuhe aur kutte ṭhiik hain.	-	Duo	type=translate:tap
-Big dog, big cat. Big mice, big cows.	Talk about animals	बड़ा कुत्ता, बड़ी बिल्ली। बड़े चूहे, बड़ी गायें।	baṛaa kuttaa, baṛii billii. baṛe chuuhe, baṛii gaayen.	-	Duo	type=translate:tap
-This is my cat's tea, not yours.	Talk about animals	यह मेरी बिल्ली की चाय है, तेरी नहीं।	yah merii billii kii chaaya hai, terii nahiin.	-	Duo	type=translate:reverse_tap
-The rats are in the book.	Talk about animals	चूहे किताब में हैं ।	chuuhe kitaab men hain .	-	Duo	type=translate:reverse_tap
-Neha's cow is bigger than my cow.	Talk about animals	नेहा की गाय मेरी गाय से बड़ी है।	nehaa kii gaaya merii gaaya se baṛii hai.	-	Duo	type=translate:reverse_tap
-A rat is black.	Talk about animals	चूहा काला होता है।	chuuhaa kaalaa hotaa hai.	-	Duo	type=translate:tap
-The dog drinks milk.	Talk about animals	कुत्ता दूध पीता है।	kuttaa duudh piitaa hai.	-	Duo	type=translate:tap
-Cows are not cats.	Talk about animals	गायें बिल्लियाँ नहीं होती हैं।	gaayen billiyaan nahiin hotii hain.	-	Duo	type=translate:tap
-Dogs	Talk about animals	कुत्ते	kutte	-	Duo	type=select:name_example
-This is my cow's apple, not Julia's.	Talk about animals	यह मेरी गाय का सेब है, जूलिया का नहीं।	yah merii gaaya kaa seb hai, juuliyaa kaa nahiin.	-	Duo	type=translate:reverse_tap
-The name of Neha's cat is Raj.	Talk about animals	नेहा की बिल्ली का नाम राज है।	nehaa kii billii kaa naam raaj hai.	-	Duo	type=translate:reverse_tap
-The cat is black.	Talk about animals	बिल्ली काली है।	billii kaalii hai.	-	Duo	type=translate:reverse_tap
-That rat is black.	Talk about animals	वह चूहा काला है ।	vah chuuhaa kaalaa hai .	-	Duo	type=translate:reverse_tap
-That cow is black.	Talk about animals	वह गाय काली है ।	vah gaaya kaalii hai .	-	Duo	type=translate:reverse_tap
-The rats are black.	Talk about animals	चूहे काले हैं ।	chuuhe kaale hain .	-	Duo	type=translate:reverse_tap
-This peacock drinks tea.	Talk about animals	यह मोर चाय पीता है।	yah mor chaaya piitaa hai.	-	Duo	type=translate:tap
-That apple is big.	Talk about animals	वह सेब बड़ा है।	vah seb baṛaa hai.	-	Duo	type=translate:tap
-Chair	Use the present tense	कुर्सी	kursii	-	Duo	type=select:name_example
-I have two cats.	Use the present tense	मेरे पास दो बिल्लियाँ हैं।	mere paas do billiyaan hain.	-	Duo	type=translate:tap
-Table	Use the present tense	मेज़	mej	-	Duo	type=select:name_example
-He is not swimming.	Use the present tense	वह नहीं तैर रहा है ।	vah nahiin tair rahaa hai .	-	Duo	type=translate:tap
-Two girls are standing.	Use the present tense	दो लड़कियाँ खड़ी हैं।	do laṛkiyaan khaṛii hain.	-	Duo	type=translate:tap
-You are standing.	Use the present tense	तू खड़ा है।	tuu khaṛaa hai.	-	Duo	type=translate:tap
-My father and grandfather are swimming today.	Use the present tense	मेरे पिता और दादा आज तैर रहे हैं ।	mere pitaa aur daadaa aaj tair rahe hain .	-	Duo	type=translate:tap
-My father is coming home.	Use the present tense	मेरे पिता घर आ रहे हैं ।	mere pitaa ghar aa rahe hain .	-	Duo	type=translate:tap
-That girl is coming.	Use the present tense	वह लड़की आ रही है।	vah laṛkii aa rahii hai.	-	Duo	type=translate:tap
-She is not standing.	Use the present tense	वह खड़ी नहीं है।	vah khaṛii nahiin hai.	-	Duo	type=translate:tap
-The dog is sitting on the table.	Use the present tense	कुत्ता मेज़ पर बैठा है।	kuttaa mej par baiṭhaa hai.	-	Duo	type=translate:tap
-My grandfather is standing in the river.	Use the present tense	मेरे दादा नदी में खड़े हैं ।	mere daadaa nadii men khaṛe hain .	-	Duo	type=translate:tap
-The children are playing.	Use the present tense	बच्चे खेल रहे हैं।	bachche khel rahe hain.	-	Duo	type=translate:tap
-The dog runs.	Use the present tense	कुत्ता दौड़ता है।	kuttaa dauṛtaa hai.	-	Duo	type=translate:reverse_tap
-The elephant is standing on the table.	Use the present tense	हाथी मेज़ पर खड़ा है।	haathii mej par khaṛaa hai.	-	Duo	type=translate:reverse_tap
-We are running.	Use the present tense	हम दौड़ रहे हैं ।	ham dauṛ rahe hain .	-	Duo	type=translate:reverse_tap
-What are they playing?	Use the present tense	वे क्या खेल रहे हैं?	ve kyaa khel rahe hain?	-	Duo	type=translate:reverse_tap
-Peter is coming from India.	Use the present tense	पीटर भारत से आ रहा है ।	piiṭar bhaarat se aa rahaa hai .	-	Duo	type=translate:tap
-This woman is standing.	Use the present tense	यह औरत खड़ी है।	yah aurat khaṛii hai.	-	Duo	type=translate:reverse_tap
-He does not run, he walks.	Use the present tense	वह दौड़ता नहीं, चलता है।	vah dauṛtaa nahiin, chalataa hai.	-	Duo	type=translate:tap
-People drink water.	Describe people	लोग पानी पीते हैं।	log paanii piite hain.	-	Duo	type=translate:tap
-Julia is a very good girl.	Describe people	जूलिया एक बहुत अच्छी लड़की है।	juuliyaa ek bahut achchhii laṛkii hai.	-	Duo	type=translate:tap
-The bananas are green.	Describe people	केले हरे हैं।	kele hare hain.	-	Duo	type=translate:tap
-Neha's cat is not very bad.	Describe people	नेहा की बिल्ली बहुत बुरी नहीं है।	nehaa kii billii bahut burii nahiin hai.	-	Duo	type=translate:reverse_tap
-She is not tall, she is short.	Describe people	वह लंबी नहीं, छोटी है।	vah lanbii nahiin, chhoṭii hai.	-	Duo	type=translate:reverse_tap
-I am not happy.	Describe people	मैं ख़ुश नहीं हूँ।	main khush nahiin huun.	-	Duo	type=translate:tap
-How is your mother?	Describe people	तुम्हारी माँ कैसी हैं?	tumhaarii maan kaisii hain?	-	Duo	type=translate:tap
-How are those people?	Describe people	वे लोग कैसे हैं?	ve log kaise hain?	-	Duo	type=translate:tap
-He is not a bad man.	Describe people	वह बुरा आदमी नहीं है।	vah buraa aadamii nahiin hai.	-	Duo	type=translate:reverse_tap
-That boy is good, not bad.	Describe people	वह लड़का अच्छा है, बुरा नहीं।	vah laṛkaa achchhaa hai, buraa nahiin.	-	Duo	type=translate:reverse_tap
-Your daughter is very good.	Describe people	आपकी बेटी बहुत अच्छी है।	aapakii beṭii bahut achchhii hai.	-	Duo	type=translate:reverse_tap
-Blue and yellow books	Describe people	नीली और पीली किताबें	niilii aur piilii kitaaben	-	Duo	type=translate:reverse_tap
-Grandmother studies a lot.	Describe people	दादी बहुत पढ़ती हैं।	daadii bahut paṛtii hain.	-	Duo	type=translate:reverse_tap
-White and red animals	Describe people	सफ़ेद और लाल जानवर	saphed aur laal jaanavar	-	Duo	type=translate:tap
-Aamir's friends are tall.	Describe people	आमिर के दोस्त लंबे हैं।	aamir ke dost lanbe hain.	-	Duo	type=translate:tap
-You are drinking cold milk.	Talk about food	तुम ठंडा दूध पी रहे हो।	tum ṭhanṛaa duudh pii rahe ho.	-	Duo	type=translate:tap
-Vegetables	Talk about food	सब्ज़ियाँ	sabjiyaan	-	Duo	type=select:name_example
-You like eggs.	Talk about food	आपको अंडे पसंद हैं।	aapako anṛe pasand hain.	-	Duo	type=translate:tap
-Fish	Talk about food	मछली	machhalii	-	Duo	type=select:name_example
-Peter eats salad every day.	Talk about food	पीटर हर दिन सलाद खाता है।	piiṭar har din salaad khaataa hai.	-	Duo	type=translate:tap
-Alcohol	Talk about food	शराब	sharaab	-	Duo	type=select:name_example
-I do not like breakfast.	Talk about food	मुझे नाश्ता नहीं पसंद।	mujhe naashtaa nahiin pasanda.	-	Duo	type=translate:tap
-Fruits	Talk about food	फल	phal	-	Duo	type=select:name_example
-Tomato and lemon are in the salad.	Talk about food	सलाद में टमाटर और नींबू है।	salaad men ṭamaaṭar aur niinbuu hai.	-	Duo	type=translate:reverse_tap
-I eat fruits.	Talk about food	मैं फलों को खाती हूँ।	main phalon ko khaatii huun.	-	Duo	type=translate:reverse_tap
-There is no alcohol in my house.	Talk about food	मेरे घर में शराब नहीं है।	mere ghar men sharaab nahiin hai.	-	Duo	type=translate:reverse_tap
-Tomato	Talk about food	टमाटर	ṭamaaṭar	-	Duo	type=select:name_example
-This food is not good.	Talk about food	यह खाना अच्छा नहीं है।	yah khaanaa achchhaa nahiin hai.	-	Duo	type=translate:tap
-Julia wants salad.	Talk about food	जूलिया को सलाद चाहिए।	juuliyaa ko salaad chaahie.	-	Duo	type=translate:reverse_tap
-Neha is drinking water.	Talk about food	नेहा पानी पी रही है।	nehaa paanii pii rahii hai.	-	Duo	type=translate:tap
-You want eggs and mangoes.	Talk about food	तुझे अंडे और आम चाहिए।	tujhe anṛe aur aam chaahie.	-	Duo	type=translate:tap
-He does not want food.	Talk about food	उसे खाना नहीं चाहिए।	use khaanaa nahiin chaahie.	-	Duo	type=translate:tap
-Neha does not eat fish.	Talk about food	नेहा मछली नहीं खाती।	nehaa machhalii nahiin khaatii.	-	Duo	type=translate:reverse_tap
-What do you like?	Talk about food	आपको क्या पसंद है?	aapako kyaa pasand hai?	-	Duo	type=translate:reverse_tap
-The food is good.	Talk about food	खाना अच्छा है।	khaanaa achchhaa hai.	-	Duo	type=translate:reverse_tap
-What does he want?	Talk about food	उसे क्या चाहिए?	use kyaa chaahie?	-	Duo	type=translate:reverse_tap
-That boy does not eat breakfast.	Talk about food	वह लड़का नाश्ता नहीं खाता है।	vah laṛkaa naashtaa nahiin khaataa hai.	-	Duo	type=translate:tap
-Nine, ten, and hundred	Use numbers	नौ, दस, और सौ	nau, das, aur sau	-	Duo	type=translate:tap
-Many boys study.	Use numbers	कई लड़के पढ़ते हैं।	kaii laṛke paṛte hain.	-	Duo	type=translate:tap
-This fourth book is mine.	Use numbers	यह चौथी किताब मेरी है।	yah chauthii kitaab merii hai.	-	Duo	type=translate:tap
-How many eggs?	Use numbers	कितने अंडे?	kitane anṛe?	-	Duo	type=translate:tap
-Four thousand nine	Use numbers	चार हज़ार नौ	chaar hajaar nau	-	Duo	type=translate:tap
-Fourth and fifth day	Use numbers	चौथा और पाँचवा दिन	chauthaa aur paanchavaa din	-	Duo	type=translate:tap
-I want some books.	Use numbers	मुझे कुछ किताबें चाहिए।	mujhe kuchh kitaaben chaahie.	-	Duo	type=translate:reverse_tap
-This is Raj's first daughter.	Use numbers	यह राज की पहली बेटी है।	yah raaj kii pahalii beṭii hai.	-	Duo	type=translate:reverse_tap
-This is her first day.	Use numbers	यह उसका पहला दिन है।	yah usakaa pahalaa din hai.	-	Duo	type=translate:tap
-Yes or no?	Form questions	हाँ या नहीं?	haan yaa nahiin?	-	Duo	type=translate:tap
-Raj or Peter?	Form questions	राज या पीटर?	raaj yaa piiṭar?	-	Duo	type=translate:tap
-Is it a cat?	Form questions	क्या यह एक बिल्ली है?	kyaa yah ek billii hai?	-	Duo	type=translate:reverse_tap
-Do you want an apple or an orange?	Form questions	तुझे सेब चाहिए या संतरा?	tujhe seb chaahie yaa santaraa?	-	Duo	type=translate:reverse_tap
-Why do you want this?	Form questions	तुम्हें यह क्यों चाहिए?	tumhen yah kyon chaahie?	-	Duo	type=translate:reverse_tap
-Do they drink tea?	Form questions	क्या वे चाय पीते हैं?	kyaa ve chaaya piite hain?	-	Duo	type=translate:reverse_tap
-Why are you walking?	Form questions	तुम क्यों चल रहे हो ?	tum kyon chal rahe ho ?	-	Duo	type=translate:tap
-Are you fine?	Form questions	क्या तू ठीक है?	kyaa tuu ṭhiik hai?	-	Duo	type=translate:reverse_tap
-Why are you going?	Form questions	आप क्यों जा रहे हैं?	aap kyon jaa rahe hain?	-	Duo	type=translate:tap
-Does he eat eggs?	Form questions	क्या वह अंडे खाता है?	kyaa vah anṛe khaataa hai?	-	Duo	type=translate:reverse_tap
-Why does she study?	Form questions	वह क्यों पढ़ती है?	vah kyon paṛtii hai?	-	Duo	type=translate:reverse_tap
-Five rooms	Talk about your home	पाँच कमरे	paanch kamare	-	Duo	type=translate:tap
-Roof	Talk about your home	छत	chhat	-	Duo	type=translate:tap
-One car, two cars	Talk about your home	एक गाड़ी, दो गाड़ियाँ	ek gaaṛii, do gaaṛiyaan	-	Duo	type=translate:tap
-Car	Talk about your home	गाड़ी	gaaṛii	-	Duo	type=select:name_example
-Room	Talk about your home	कमरा	kamaraa	-	Duo	type=select:name_example
-Bed	Talk about your home	बिस्तर	bistar	-	Duo	type=select:name_example
-That child is sleeping on the new bed.	Talk about your home	वह बच्चा नये बिस्तर पर सो रहा है।	vah bachchaa naye bistar par so rahaa hai.	-	Duo	type=translate:reverse_tap
-A cat is sitting on that chair.	Talk about your home	उस कुर्सी पर बिल्ली बैठी है।	us kursii par billii baiṭhii hai.	-	Duo	type=translate:reverse_tap
-Does he sleep on the new bed or the old?	Talk about your home	वह नये बिस्तर पर सोता है या पुराने?	vah naye bistar par sotaa hai yaa puraane?	-	Duo	type=translate:reverse_tap
-Is this our room?	Talk about your home	क्या यह हमारा कमरा है?	kyaa yah hamaaraa kamaraa hai?	-	Duo	type=translate:reverse_tap
-Floor	Talk about your home	ज़मीन	jmiin	-	Duo	type=select:name_example
-My grandfather is on the terrace.	Talk about your home	मेरे दादा छत पर हैं।	mere daadaa chhat par hain.	-	Duo	type=translate:reverse_tap
-A window	Talk about your home	एक खिड़की	ek khiṛkii	-	Duo	type=translate:tap
-The house's windows are closed.	Talk about your home	घर की खिड़कियाँ बंद हैं।	ghar kii khiṛkiyaan band hain.	-	Duo	type=translate:reverse_tap
-The door is open.	Talk about your home	दरवाज़ा खुला है।	daravaajaa khulaa hai.	-	Duo	type=translate:reverse_tap
-One door, two doors	Talk about your home	एक दरवाज़ा, दो दरवाज़े	ek daravaajaa, do daravaaje	-	Duo	type=translate:tap
-I live in that house.	Talk about your home	मैं उस घर में रहता हूँ।	main us ghar men rahataa huun.	-	Duo	type=translate:reverse_tap
-Speak something	Tell others what to do	कुछ बोलो	kuchh bolo	-	Duo	type=translate:tap
-Give me my book.	Tell others what to do	मुझे मेरी किताब दो।	mujhe merii kitaab do.	-	Duo	type=translate:tap
-You go and eat.	Tell others what to do	तुम जाओ और खाओ ।	tum jaao aur khaao .	-	Duo	type=translate:tap
-Take this, your food.	Tell others what to do	यह लो, तुम्हारा खाना।	yah lo, tumhaaraa khaanaa.	-	Duo	type=translate:tap
-Come and drink tea.	Tell others what to do	आओ और चाय पियो।	aao aur chaaya piyo.	-	Duo	type=translate:tap
-Do your work.	Tell others what to do	अपना काम करो।	apanaa kaam karo.	-	Duo	type=translate:tap
-Study from me.	Tell others what to do	मुझसे पढ़ो।	mujhase paṛo.	-	Duo	type=translate:reverse_tap
-Play with me.	Tell others what to do	मेरे साथ खेलो।	mere saath khelo.	-	Duo	type=translate:reverse_tap
-Raj, don't do that!	Tell others what to do	राज, वह मत करो!	raaj, vah mat karo!	-	Duo	type=translate:reverse_tap
-Do not drink the tea.	Tell others what to do	चाय मत पियो।	chaaya mat piyo.	-	Duo	type=translate:reverse_tap
-Come and eat.	Tell others what to do	आओ और खाओ ।	aao aur khaao .	-	Duo	type=translate:tap
-There is pain in my teeth.	Talk about health	मेरे दाँतों में दर्द है ।	mere daanton men dard hai .	-	Duo	type=translate:tap
-Aamir's teeth are beautiful.	Talk about health	आमिर के दाँत सुंदर हैं।	aamir ke daant sundar hain.	-	Duo	type=translate:tap
-My hand is smaller than my foot.	Talk about health	मेरा हाथ मेरे पैर से छोटा है।	meraa haath mere pair se chhoṭaa hai.	-	Duo	type=translate:tap
-Foot	Talk about health	पैर	pair	-	Duo	type=select:name_example
-Mouth	Talk about health	मुँह	munh	-	Duo	type=select:name_example
-Nose	Talk about health	नाक	naak	-	Duo	type=select:name_example
-My mouth is paining.	Talk about health	मेरे मुँह में दर्द हो रहा है।	mere munh men dard ho rahaa hai.	-	Duo	type=translate:reverse_tap
-Raj has two hands, two legs, one nose, and two ears.	Talk about health	राज के पास दो हाथ, दो पैर, एक नाक, और दो कान हैं।	raaj ke paas do haath, do pair, ek naak, aur do kaan hain.	-	Duo	type=translate:reverse_tap
-Peter's foot is aching.	Talk about health	पीटर के पैर में दर्द हो रहा है।	piiṭar ke pair men dard ho rahaa hai.	-	Duo	type=translate:reverse_tap
-My eyes are good.	Talk about health	मेरी आँखें अच्छी हैं ।	merii aankhen achchhii hain .	-	Duo	type=translate:tap
-Are they healthy or sick?	Talk about health	वे स्वस्थ हैं या बीमार?	ve svasth hain yaa biimaar?	-	Duo	type=translate:reverse_tap
-My grandfather is healthy today.	Talk about health	मेरे दादा आज स्वस्थ हैं ।	mere daadaa aaj svasth hain .	-	Duo	type=translate:tap
-My fingers are small.	Talk about health	मेरी उँगलियाँ छोटी हैं ।	merii ungaliyaan chhoṭii hain .	-	Duo	type=translate:tap
-My hands and legs are paining.	Talk about health	मेरे हाथों और पैरों में दर्द हो रहा है।	mere haathon aur pairon men dard ho rahaa hai.	-	Duo	type=translate:tap
-There is pain in my ears.	Talk about health	मेरे कान में दर्द है ।	mere kaan men dard hai .	-	Duo	type=translate:reverse_tap
-I have one nose and two ears.	Talk about health	मेरे पास एक नाक और दो कान हैं ।	mere paas ek naak aur do kaan hain .	-	Duo	type=translate:reverse_tap
-You have two eyes.	Talk about health	आपके पास दो आँखें हैं।	aapake paas do aankhen hain.	-	Duo	type=translate:reverse_tap
-The colour of my teeth is yellow.	Talk about health	मेरे दाँतों का रंग पीला है।	mere daanton kaa rang piilaa hai.	-	Duo	type=translate:reverse_tap
-Close your mouth.	Talk about health	अपना मुँह बंद करो।	apanaa munh band karo.	-	Duo	type=translate:tap
-My teeth are yellow.	Talk about health	मेरे दाँत पीले हैं।	mere daant piile hain.	-	Duo	type=translate:tap
-There are two thumbs in my hand.	Talk about health	मेरे हाथ में दो अँगूठे हैं।	mere haath men do anguuṭhe hain.	-	Duo	type=translate:tap
-There are five fingers in Raj's hands.	Talk about health	राज के हाथों में पाँच उँगलियाँ हैं।	raaj ke haathon men paanch ungaliyaan hain.	-	Duo	type=translate:reverse_tap
-Aamir's thumb is red.	Talk about health	आमिर का अँगूठा लाल है।	aamir kaa anguuṭhaa laal hai.	-	Duo	type=translate:tap
-This street is short.	Describe places	यह गली छोटी है।	yah galii chhoṭii hai.	-	Duo	type=translate:tap
-Where do you live?	Describe places	तुम कहाँ रहते हो?	tum kahaan rahate ho?	-	Duo	type=translate:tap
-Which city is there?	Describe places	वहाँ कौनसा शहर है?	vahaan kaunasaa shahar hai?	-	Duo	type=translate:tap
-City	Describe places	शहर	shahar	-	Duo	type=select:name_example
-My brother lives near my city.	Describe places	मेरा भाई मेरे शहर के पास रहता है।	meraa bhaaii mere shahar ke paas rahataa hai.	-	Duo	type=translate:reverse_tap
-Is your house far from here?	Describe places	क्या तुम्हारा घर यहाँ से दूर है?	kyaa tumhaaraa ghar yahaan se duur hai?	-	Duo	type=translate:reverse_tap
-Which village is there?	Describe places	वहाँ कौनसा गाँव है?	vahaan kaunasaa gaanv hai?	-	Duo	type=translate:reverse_tap
-Peter lives near Julia's home.	Describe places	पीटर जूलिया के घर के पास रहता है।	piiṭar juuliyaa ke ghar ke paas rahataa hai.	-	Duo	type=translate:tap
-Go inside or come outside.	Describe places	अंदर जाओ या बाहर आओ।	andar jaao yaa baahar aao.	-	Duo	type=translate:reverse_tap
-Peter is in front of me.	Describe places	मेरे आगे पीटर है ।	mere aage piiṭar hai .	-	Duo	type=translate:tap
-This place is in Delhi.	Describe places	यह जगह दिल्ली में है ।	yah jagah dillii men hai .	-	Duo	type=translate:tap
-Which city is Delhi?	Describe places	कौनसा शहर दिल्ली है?	kaunasaa shahar dillii hai?	-	Duo	type=translate:reverse_tap
-There are a lot of people in Delhi.	Describe places	दिल्ली में बहुत लोग हैं।	dillii men bahut log hain.	-	Duo	type=translate:reverse_tap
-He is inside the house.	Describe places	वह घर के अंदर है।	vah ghar ke andar hai.	-	Duo	type=translate:reverse_tap
-His street is here.	Describe places	उसकी गली यहाँ है।	usakii galii yahaan hai.	-	Duo	type=translate:reverse_tap
-Delhi is far from here.	Describe places	दिल्ली यहाँ से दूर है ।	dillii yahaan se duur hai .	-	Duo	type=translate:reverse_tap
-You are near Delhi.	Describe places	तुम दिल्ली के पास हो।	tum dillii ke paas ho.	-	Duo	type=translate:tap
-Which animal is this?	Describe places	यह कौनसा जानवर है?	yah kaunasaa jaanavar hai?	-	Duo	type=translate:reverse_tap
-half an hour	Tell time	आधा घंटा	aadhaa ghanṭaa	-	Duo	type=translate:tap
-You always sleep.	Tell time	तुम हमेशा सोते हो।	tum hameshaa sote ho.	-	Duo	type=translate:tap
-I do not have time.	Tell time	मेरे पास समय नहीं है।	mere paas samaya nahiin hai.	-	Duo	type=translate:tap
-These people eat breakfast at quarter to one.	Tell time	ये लोग पौने एक बजे नाश्ता करते हैं।	ye log paune ek baje naashtaa karate hain.	-	Duo	type=translate:reverse_tap
-Are you in your room at this time?	Tell time	क्या तुम इस समय अपने कमरे में हो?	kyaa tum is samaya apane kamare men ho?	-	Duo	type=translate:reverse_tap
-He is at home at half past three.	Tell time	वह साढ़े तीन बजे घर पर होता है।	vah saaṛe tiin baje ghar par hotaa hai.	-	Duo	type=translate:reverse_tap
-These children play at six in the evening.	Tell time	ये बच्चे शाम को छह बजे खेलते हैं।	ye bachche shaam ko chhah baje khelate hain.	-	Duo	type=translate:reverse_tap
-We play at ten at night.	Tell time	हम रात को दस बजे खेलते हैं।	ham raat ko das baje khelate hain.	-	Duo	type=translate:reverse_tap
-I wake up in the evening.	Tell time	मैं शाम को जागती हूँ।	main shaam ko jaagatii huun.	-	Duo	type=translate:tap
-Raj does not eat in the afternoon.	Tell time	राज दोपहर में नहीं खाता है।	raaj dopahar men nahiin khaataa hai.	-	Duo	type=translate:reverse_tap
-Quarter to five	Tell time	पौने पाँच	paune paanch	-	Duo	type=translate:reverse_tap
-That boy is coming now.	Tell time	वह लड़का अब आ रहा है।	vah laṛkaa ab aa rahaa hai.	-	Duo	type=translate:reverse_tap
-When does Neha play?	Tell time	नेहा कब खेलती है?	nehaa kab khelatii hai?	-	Duo	type=translate:reverse_tap
-He eats at quarter to nine.	Tell time	वह पौने नौ बजे खाता है।	vah paune nau baje khaataa hai.	-	Duo	type=translate:tap
-Letter	Describe what people do	चिट्ठी	chiṭṭhii	-	Duo	type=select:name_example
-The teacher teaches us.	Describe what people do	शिक्षक हमें पढ़ाता है ।	shikshak hamen paṛaataa hai .	-	Duo	type=translate:tap
-Peter sells newspapers.	Describe what people do	पीटर अख़बार बेचता है ।	piiṭar akhbaar bechataa hai .	-	Duo	type=translate:tap
-She buys fruits from the shop.	Describe what people do	वह दुकान से फल ख़रीदती है।	vah dukaan se phal khriidatii hai.	-	Duo	type=translate:tap
-Newspaper	Describe what people do	अख़बार	akhbaar	-	Duo	type=select:name_example
-Teacher	Describe what people do	शिक्षक	shikshak	-	Duo	type=select:name_example
-What do you sell?	Describe what people do	तुम क्या बेचते हो?	tum kyaa bechate ho?	-	Duo	type=translate:tap
-Raj does not work hard.	Describe what people do	राज मेहनत नहीं करता ।	raaj mehanat nahiin karataa .	-	Duo	type=translate:tap
-We write a poem.	Describe what people do	हम एक कविता लिखते हैं।	ham ek kavitaa likhate hain.	-	Duo	type=translate:tap
-The answer to this question is easy.	Describe what people do	इस सवाल का जवाब आसान है।	is savaal kaa javaab aasaan hai.	-	Duo	type=translate:reverse_tap
-Is this question not difficult?	Describe what people do	क्या यह सवाल मुश्किल नहीं है?	kyaa yah savaal mushkil nahiin hai?	-	Duo	type=translate:reverse_tap
-She sells oranges.	Describe what people do	वह संतरे बेचती है।	vah santare bechatii hai.	-	Duo	type=translate:tap
-Are my answers right or wrong?	Describe what people do	क्या मेरे जवाब सही हैं या ग़लत?	kyaa mere javaab sahii hain yaa glat?	-	Duo	type=translate:tap
-This writer writes letter, story, and poem.	Describe what people do	यह लेखक चिट्ठी, कहानी, और कविता लिखता है।	yah lekhak chiṭṭhii, kahaanii, aur kavitaa likhataa hai.	-	Duo	type=translate:tap
-What does that writer write?	Describe what people do	वह लेखक क्या लिखता है?	vah lekhak kyaa likhataa hai?	-	Duo	type=translate:reverse_tap
-Ask easy questions.	Describe what people do	आसान सवाल पूछो।	aasaan savaal puuchho.	-	Duo	type=translate:tap
-Julia writes a letter to Neha.	Describe what people do	जूलिया नेहा को चिट्ठी लिखती है।	juuliyaa nehaa ko chiṭṭhii likhatii hai.	-	Duo	type=translate:tap
-We buy fruits.	Describe what people do	हम फल ख़रीदते हैं।	ham phal khriidate hain.	-	Duo	type=translate:reverse_tap
-What does she ask?	Describe what people do	वह क्या पूछती है ?	vah kyaa puuchhatii hai ?	-	Duo	type=translate:reverse_tap
-Teachers do not ask wrong questions.	Describe what people do	शिक्षक ग़लत सवाल नहीं पूछते हैं।	shikshak glat savaal nahiin puuchhate hain.	-	Duo	type=translate:tap
-The writer writes a story.	Describe what people do	लेखक कहानी लिखता है ।	lekhak kahaanii likhataa hai .	-	Duo	type=translate:tap
-Aamir's father is writing a book.	Make comparisons	आमिर के पिता एक किताब लिख रहे हैं।	aamir ke pitaa ek kitaab likh rahe hain.	-	Duo	type=translate:tap
-He studies more than Aamir.	Make comparisons	वह आमिर से ज़्यादा पढ़ता है।	vah aamir se jyaadaa paṛtaa hai.	-	Duo	type=translate:tap
-Neha is behind you.	Make comparisons	नेहा तुमसे पीछे है ।	nehaa tumase piichhe hai .	-	Duo	type=translate:tap
-I am also writing.	Make comparisons	मैं भी लिख रही हूँ।	main bhii likh rahii huun.	-	Duo	type=translate:tap
-Her cat dances better than your dog.	Make comparisons	उसकी बिल्ली तुम्हारे कुत्ते से बेहतर नाचती है।	usakii billii tumhaare kutte se behatar naachatii hai.	-	Duo	type=translate:tap
-He is writing the best story.	Make comparisons	वह सबसे अच्छी कहानी लिख रहा है।	vah sabase achchhii kahaanii likh rahaa hai.	-	Duo	type=translate:tap
-Grandmother is writing in the book.	Make comparisons	दादी किताब में लिख रही है ।	daadii kitaab men likh rahii hai .	-	Duo	type=translate:reverse_tap
-Go and rest.	Make comparisons	जाओ और आराम करो।	jaao aur aaraam karo.	-	Duo	type=translate:reverse_tap
-Raj walks faster than Peter.	Make comparisons	राज पीटर से तेज़ चलता है।	raaj piiṭar se tej chalataa hai.	-	Duo	type=translate:reverse_tap
-They have less food than you.	Make comparisons	उनके पास आपसे कम खाना है।	unake paas aapase kam khaanaa hai.	-	Duo	type=translate:tap
-Aamir will give me books tomorrow.	Use the future tense	आमिर मुझे कल किताबें देगा।	aamir mujhe kal kitaaben degaa.	-	Duo	type=translate:tap
-These people will not study together.	Use the future tense	ये लोग साथ में नहीं पढ़ेंगे।	ye log saath men nahiin paṛenge.	-	Duo	type=translate:tap
-Will they come or go?	Use the future tense	वे आयेंगी या जायेंगी?	ve aayengii yaa jaayengii?	-	Duo	type=translate:tap
-I will read and he will read.	Use the future tense	मैं पढ़ूँगा और वह पढ़ेगा।	main paṛuungaa aur vah paṛegaa.	-	Duo	type=translate:tap
-Will you come?	Use the future tense	क्या तुम आओगी?	kyaa tum aaogii?	-	Duo	type=translate:tap
-I will go to Delhi tomorrow.	Use the future tense	मैं कल दिल्ली जाऊँगा ।	main kal dillii jaauungaa .	-	Duo	type=translate:tap
-Where will you go the day after tomorrow?	Use the future tense	तुम परसों कहाँ जाओगे?	tum parason kahaan jaaoge?	-	Duo	type=translate:tap
-I will not come to Delhi.	Use the future tense	मैं दिल्ली नहीं आऊँगा ।	main dillii nahiin aauungaa .	-	Duo	type=translate:reverse_tap
-I will come home the day after tomorrow.	Use the future tense	मैं परसों घर आऊँगी।	main parason ghar aauungii.	-	Duo	type=translate:reverse_tap
-When will she go home?	Use the future tense	वह घर कब जायेगी?	vah ghar kab jaayegii?	-	Duo	type=translate:reverse_tap
-What will she watch?	Use the future tense	वह क्या देखेगी?	vah kyaa dekhegii?	-	Duo	type=translate:reverse_tap
-Will you go home?	Use the future tense	क्या तुम घर जाओगे ?	kyaa tum ghar jaaoge ?	-	Duo	type=translate:reverse_tap
-These people will give me food.	Use the future tense	ये लोग मुझे खाना देंगे।	ye log mujhe khaanaa denge.	-	Duo	type=translate:reverse_tap
-What will they give us?	Use the future tense	वे हमें क्या देंगे?	ve hamen kyaa denge?	-	Duo	type=translate:tap
-That child will go to Delhi in November.	Talk about days	वह बच्ची नवंबर में दिल्ली जायेगी ।	vah bachchii navanbar men dillii jaayegii .	-	Duo	type=translate:tap
-I will go in May.	Talk about days	मैं मई में जाऊँगी।	main maii men jaauungii.	-	Duo	type=translate:tap
-He will go to Delhi next Monday.	Talk about days	वह अगले सोमवार दिल्ली जायेगा।	vah agale somavaar dillii jaayegaa.	-	Duo	type=translate:tap
-How many months are there in one year?	Talk about days	एक साल में कितने महीने होते हैं?	ek saal men kitane mahiine hote hain?	-	Duo	type=translate:reverse_tap
-May is the next month.	Talk about days	मई अगला महीना है।	maii agalaa mahiinaa hai.	-	Duo	type=translate:reverse_tap
-Aamir will give my book on Tuesday.	Talk about days	आमिर मंगलवार को मेरी किताब देगा ।	aamir mangalavaar ko merii kitaab degaa .	-	Duo	type=translate:reverse_tap
-Is this the month of July?	Talk about days	क्या यह जुलाई का महीना है?	kyaa yah julaaii kaa mahiinaa hai?	-	Duo	type=translate:reverse_tap
-January, February, and March are months.	Talk about days	जनवरी, फ़रवरी, और मार्च महीने हैं।	janavarii, phravarii, aur maarch mahiine hain.	-	Duo	type=translate:tap
-Is it Friday today or Saturday?	Talk about days	आज शुक्रवार है या शनिवार?	aaj shukravaar hai yaa shanivaar?	-	Duo	type=translate:reverse_tap
-I am at home on Friday and Saturday.	Talk about days	मैं शुक्रवार और शनिवार को घर पर हूँ।	main shukravaar aur shanivaar ko ghar par huun.	-	Duo	type=translate:reverse_tap
-When will April come?	Talk about days	अप्रैल कब आयेगा?	aprail kab aayegaa?	-	Duo	type=translate:reverse_tap
-Tuesday comes after Monday.	Talk about days	मंगलवार सोमवार के बाद आता है।	mangalavaar somavaar ke baad aataa hai.	-	Duo	type=translate:reverse_tap
-My father will go to India in September.	Talk about days	मेरे पिता सितंबर में भारत जायेंगे ।	mere pitaa sitanbar men bhaarat jaayenge .	-	Duo	type=translate:reverse_tap
-July comes after June.	Talk about days	जुलाई जून के बाद आता है।	julaaii juun ke baad aataa hai.	-	Duo	type=translate:tap
-Grandfather will come on Wednesday.	Talk about days	दादा बुधवार को आयेंगे ।	daadaa budhavaar ko aayenge .	-	Duo	type=translate:tap
-Clothes	Discuss weather	कपड़े	kapaṛe	-	Duo	type=select:name_example
-Pants	Discuss weather	पतलून	pataluun	-	Duo	type=select:name_example
-Where are my pants?	Discuss weather	मेरी पतलून कहाँ है?	merii pataluun kahaan hai?	-	Duo	type=translate:tap
-Give him new clothes and umbrella.	Discuss weather	उसे नये कपड़े और छाता दो।	use naye kapaṛe aur chhaataa do.	-	Duo	type=translate:tap
-I like winter season.	Discuss weather	मुझे सर्दी का मौसम पसंद है।	mujhe sardii kaa mausam pasand hai.	-	Duo	type=translate:tap
-Shirt	Discuss weather	क़मीज़	kmiij	-	Duo	type=select:name_example
-I am feeling cold in pants and shirt.	Discuss weather	मुझे पतलून और क़मीज़ में ठंड लग रही है।	mujhe pataluun aur kmiij men ṭhanṛ lag rahii hai.	-	Duo	type=translate:reverse_tap
-This cat is feeling hot.	Discuss weather	इस बिल्ली को गर्मी लग रही है।	is billii ko garmii lag rahii hai.	-	Duo	type=translate:reverse_tap
-Winter	Discuss weather	सर्दी	sardii	-	Duo	type=select:name_example
-Where are your shoes?	Discuss weather	आपके जूते कहाँ हैं?	aapake juute kahaan hain?	-	Duo	type=translate:tap
-It is very hot today.	Discuss weather	आज बहुत गर्मी है।	aaj bahut garmii hai.	-	Duo	type=translate:tap
-Neha is not feeling cold.	Discuss weather	नेहा को ठंड नहीं लग रही है।	nehaa ko ṭhanṛ nahiin lag rahii hai.	-	Duo	type=translate:reverse_tap
-I am feeling cold.	Discuss weather	मुझे ठंड लग रही है।	mujhe ṭhanṛ lag rahii hai.	-	Duo	type=translate:tap
-Shoes	Discuss weather	जूते	juute	-	Duo	type=select:name_example
-Do you not feel cold?	Discuss weather	क्या तुम्हें ठंड नहीं लगती?	kyaa tumhen ṭhanṛ nahiin lagatii?	-	Duo	type=translate:tap
-I want new clothes, shoes, and socks.	Discuss weather	मुझे नये कपड़े, जूते, और जुराब चाहिए।	mujhe naye kapaṛe, juute, aur juraab chaahie.	-	Duo	type=translate:tap
-Why do people wear clothes?	Discuss weather	लोग कपड़े क्यों पहनते हैं?	log kapaṛe kyon pahanate hain?	-	Duo	type=translate:reverse_tap
-I wear socks and shoes.	Discuss weather	मैं जुराब और जूते पहनती हूँ।	main juraab aur juute pahanatii huun.	-	Duo	type=translate:reverse_tap
-That man wears one shoe.	Discuss weather	वह आदमी एक जूता पहनता है।	vah aadamii ek juutaa pahanataa hai.	-	Duo	type=translate:reverse_tap
-Wear this shirt.	Discuss weather	यह क़मीज़ पहनो।	yah kmiij pahano.	-	Duo	type=translate:tap
-Raj does not wear socks.	Discuss weather	राज जुराब नहीं पहनता।	raaj juraab nahiin pahanataa.	-	Duo	type=translate:reverse_tap
-This shoe is red.	Discuss weather	यह जूता लाल है।	yah juutaa laal hai.	-	Duo	type=translate:tap
-Neha wears good clothes.	Discuss weather	नेहा अच्छे कपड़े पहनती है।	nehaa achchhe kapaṛe pahanatii hai.	-	Duo	type=translate:reverse_tap
-I do not feel cold.	Discuss weather	मुझे ठंड नहीं लगती है।	mujhe ṭhanṛ nahiin lagatii hai.	-	Duo	type=translate:reverse_tap
-This is the winter season.	Discuss weather	यह सर्दी का मौसम है।	yah sardii kaa mausam hai.	-	Duo	type=translate:reverse_tap
-His mother's brother is his uncle.	Describe relationships	उसकी माँ के भाई उसके मामा हैं।	usakii maan ke bhaaii usake maamaa hain.	-	Duo	type=translate:tap
-Aamir's uncle sings.	Describe relationships	आमिर के फूफा गाते हैं।	aamir ke phuuphaa gaate hain.	-	Duo	type=translate:tap
-His parents come here every day.	Describe relationships	उसके माता-पिता हर दिन यहाँ आते हैं।	usake maataa-pitaa har din yahaan aate hain.	-	Duo	type=translate:tap
-Julia's uncle loves her aunt.	Describe relationships	जूलिया के मौसा उसकी मौसी से प्यार करते हैं।	juuliyaa ke mausaa usakii mausii se pyaar karate hain.	-	Duo	type=translate:reverse_tap
-Are they husband and wife?	Describe relationships	क्या वे पति और पत्नी हैं?	kyaa ve pati aur patnii hain?	-	Duo	type=translate:reverse_tap
-My uncle and aunt live in the village.	Describe relationships	मेरे मामा और मामी गाँव में रहते हैं।	mere maamaa aur maamii gaanv men rahate hain.	-	Duo	type=translate:reverse_tap
-Who is her husband?	Describe relationships	उसका पति कौन है?	usakaa pati kaun hai?	-	Duo	type=translate:reverse_tap
-When will aunt come?	Describe relationships	बुआ कब आयेंगी?	buaa kab aayengii?	-	Duo	type=translate:reverse_tap
-Glass	Discuss food	गिलास	gilaas	-	Duo	type=select:name_example
-Dogs are non-vegetarian.	Discuss food	कुत्ते माँसाहारी होते हैं।	kutte maansaahaarii hote hain.	-	Duo	type=translate:tap
-Two knives and four spoons	Discuss food	दो चाकू और चार चम्मचें	do chaakuu aur chaar chammachen	-	Duo	type=translate:tap
-Spoon	Discuss food	चम्मच	chammach	-	Duo	type=select:name_example
-Knife	Discuss food	चाकू	chaakuu	-	Duo	type=select:name_example
-Where are the white spoons?	Discuss food	सफ़ेद चम्मच कहाँ हैं?	saphed chammach kahaan hain?	-	Duo	type=translate:tap
-Sugar	Discuss food	चीनी	chiinii	-	Duo	type=select:name_example
-Vegetarian food is good.	Discuss food	शाकाहारी खाना अच्छा होता है।	shaakaahaarii khaanaa achchhaa hotaa hai.	-	Duo	type=translate:tap
-There's water in the bottle and the glass.	Discuss food	बोतल और गिलास में पानी है।	botal aur gilaas men paanii hai.	-	Duo	type=translate:reverse_tap
-The knife is on the table.	Discuss food	चाकू मेज़ पर है।	chaakuu mej par hai.	-	Duo	type=translate:reverse_tap
-Peter does not want the knife.	Discuss food	पीटर को चाकू नहीं चाहिए।	piiṭar ko chaakuu nahiin chaahie.	-	Duo	type=translate:reverse_tap
-There is milk in the bottle.	Discuss food	बोतल में दूध है।	botal men duudh hai.	-	Duo	type=translate:tap
-An apple is sweet.	Discuss food	सेब मीठा होता है।	seb miiṭhaa hotaa hai.	-	Duo	type=translate:tap
-There is a spoon in the glass.	Discuss food	गिलास में एक चम्मच है।	gilaas men ek chammach hai.	-	Duo	type=translate:tap
-The food is very sweet.	Discuss food	खाना बहुत मीठा है।	khaanaa bahut miiṭhaa hai.	-	Duo	type=translate:reverse_tap
-Julia eats with a spoon.	Discuss food	जूलिया चम्मच से खाती है।	juuliyaa chammach se khaatii hai.	-	Duo	type=translate:tap
-You people are hungry.	Discuss food	तुम लोग भूखे हो।	tum log bhuukhe ho.	-	Duo	type=translate:reverse_tap
-Peter is not thirsty.	Discuss food	पीटर प्यासा नहीं है।	piiṭar pyaasaa nahiin hai.	-	Duo	type=translate:reverse_tap
-These people are non-vegetarian.	Discuss food	ये लोग माँसाहारी हैं।	ye log maansaahaarii hain.	-	Duo	type=translate:tap
-Aamir was there earlier.	Talk about the past	पहले आमिर वहाँ था ।	pahale aamir vahaan thaa .	-	Duo	type=translate:tap
-She used to eat oranges.	Talk about the past	वह संतरे खाती थी।	vah santare khaatii thii.	-	Duo	type=translate:tap
-Those women were very good.	Talk about the past	वे औरतें बहुत अच्छी थीं।	ve auraten bahut achchhii thiin.	-	Duo	type=translate:tap
-Raj used to live there.	Talk about the past	राज वहाँ रहता था ।	raaj vahaan rahataa thaa .	-	Duo	type=translate:tap
-That man was in Delhi the day before yesterday.	Talk about the past	परसों वह आदमी दिल्ली में था।	parason vah aadamii dillii men thaa.	-	Duo	type=translate:tap
-Peter was walking today.	Talk about the past	पीटर आज चल रहा था।	piiṭar aaj chal rahaa thaa.	-	Duo	type=translate:tap
-Were you going?	Talk about the past	क्या तू जा रही थी?	kyaa tuu jaa rahii thii?	-	Duo	type=translate:tap
-These girls were here.	Talk about the past	ये लड़कियाँ यहाँ थीं।	ye laṛkiyaan yahaan thiin.	-	Duo	type=translate:reverse_tap
-Two months ago	Talk about the past	दो महीने पहले	do mahiine pahale	-	Duo	type=translate:reverse_tap
-Neha and Peter were in India.	Talk about the past	नेहा और पीटर भारत में थे।	nehaa aur piiṭar bhaarat men the.	-	Duo	type=translate:reverse_tap
-Raj was swimming in Delhi yesterday.	Talk about the past	राज कल दिल्ली में तैर रहा था ।	raaj kal dillii men tair rahaa thaa .	-	Duo	type=translate:tap
-Sky	Discuss nature	आसमान	aasamaan	-	Duo	type=select:name_example
-The fragrance of this plant is good.	Discuss nature	इस पौधे की ख़ुशबू अच्छी है।	is paudhe kii khushabuu achchhii hai.	-	Duo	type=translate:tap
-There are leaves on the tree.	Discuss nature	पेड़ पर पत्ते हैं ।	peṛ par patte hain .	-	Duo	type=translate:tap
-Star	Discuss nature	तारा	taaraa	-	Duo	type=select:name_example
-There is a bird in the air.	Discuss nature	हवा में पक्षी है ।	havaa men pakshii hai .	-	Duo	type=translate:tap
-Sun	Discuss nature	सूरज	suuraj	-	Duo	type=select:name_example
-This plant is small.	Discuss nature	यह पौधा छोटा है।	yah paudhaa chhoṭaa hai.	-	Duo	type=translate:tap
-This plant is smaller than this tree.	Discuss nature	यह पौधा इस पेड़ से छोटा है।	yah paudhaa is peṛ se chhoṭaa hai.	-	Duo	type=translate:tap
-There is a bird in the sky.	Discuss nature	आसमान में पक्षी है ।	aasamaan men pakshii hai .	-	Duo	type=translate:reverse_tap
-There are stars in the sky.	Discuss nature	आसमान में तारे हैं ।	aasamaan men taare hain .	-	Duo	type=translate:tap
-The clouds are in the air.	Discuss nature	बादल हवा में हैं ।	baadal havaa men hain .	-	Duo	type=translate:reverse_tap
-I am sleeping so I am crying.	Describe people	मैं सो रहा हूँ इसलिये मैं रो रहा हूँ।	main so rahaa huun isaliye main ro rahaa huun.	-	Duo	type=translate:tap
-Peter does not laugh.	Describe people	पीटर हँसता नहीं है।	piiṭar hansataa nahiin hai.	-	Duo	type=translate:tap
-These people say that the food is bad.	Describe people	ये लोग कहते हैं कि खाना बुरा है।	ye log kahate hain ki khaanaa buraa hai.	-	Duo	type=translate:tap
-No one speaks with Neha.	Describe people	कोई नेहा से बात नहीं करता।	koii nehaa se baat nahiin karataa.	-	Duo	type=translate:tap
-Someone is speaking Hindi.	Describe people	कोई हिंदी बोल रहा है।	koii hindii bol rahaa hai.	-	Duo	type=translate:tap
-But who are you?	Describe people	लेकिन तुम कौन हो?	lekin tum kaun ho?	-	Duo	type=translate:reverse_tap
-What is Peter saying?	Describe people	पीटर क्या कह रहा है?	piiṭar kyaa kah rahaa hai?	-	Duo	type=translate:reverse_tap
-These people are saying that Neha is not listening.	Describe people	ये लोग कह रहे हैं कि नेहा नहीं सुन रही है।	ye log kah rahe hain ki nehaa nahiin sun rahii hai.	-	Duo	type=translate:tap
-Now you can go.	Use modals	अब आप जा सकते हैं।	ab aap jaa sakate hain.	-	Duo	type=translate:tap
-I have to go to Delhi.	Use modals	मुझे दिल्ली जाना है ।	mujhe dillii jaanaa hai .	-	Duo	type=translate:tap
-Peter does not want to talk to Neha.	Use modals	पीटर नेहा से बात नहीं करना चाहता।	piiṭar nehaa se baat nahiin karanaa chaahataa.	-	Duo	type=translate:tap
-Aamir has to come to my home.	Use modals	आमिर को मेरे घर आना है।	aamir ko mere ghar aanaa hai.	-	Duo	type=translate:tap
-He can sing well.	Use modals	वह अच्छा गा सकता है।	vah achchhaa gaa sakataa hai.	-	Duo	type=translate:tap
-These people want to play.	Use modals	ये लोग खेलना चाहते हैं।	ye log khelanaa chaahate hain.	-	Duo	type=translate:tap
-Neha can not come to the village.	Use modals	नेहा गाँव नहीं आ सकती।	nehaa gaanv nahiin aa sakatii.	-	Duo	type=translate:reverse_tap
-We should study.	Use modals	हमें पढ़ना चाहिए।	hamen paṛnaa chaahie.	-	Duo	type=translate:reverse_tap
-We can come.	Use modals	हम आ सकते हैं।	ham aa sakate hain.	-	Duo	type=translate:tap
-Neha can not go.	Use modals	नेहा नहीं जा सकती।	nehaa nahiin jaa sakatii.	-	Duo	type=translate:reverse_tap
-Aamir can study.	Use modals	आमिर पढ़ सकता है।	aamir paṛ sakataa hai.	-	Duo	type=translate:reverse_tap
-They did not drink tea.	Describe past events	उन्होंने चाय नहीं पी।	unhonne chaaya nahiin pii.	-	Duo	type=translate:tap
-We drank tea.	Describe past events	हमने चाय पी।	hamane chaaya pii.	-	Duo	type=translate:tap
-When did you come from America?	Describe past events	आप अमेरिका से कब आये?	aap amerikaa se kab aaye?	-	Duo	type=translate:tap
-What have you written?	Describe past events	तुमने क्या लिखा है?	tumane kyaa likhaa hai?	-	Duo	type=translate:tap
-Have you seen my book?	Describe past events	क्या तुमने मेरी किताब देखी है ?	kyaa tumane merii kitaab dekhii hai ?	-	Duo	type=translate:tap
-Did you drink water?	Describe past events	क्या आपने पानी पिया?	kyaa aapane paanii piyaa?	-	Duo	type=translate:tap
-You did not eat the mangoes.	Describe past events	तूने आम नहीं खाये।	tuune aam nahiin khaaye.	-	Duo	type=translate:reverse_tap
-Peter came to my home.	Describe past events	पीटर मेरे घर आया ।	piiṭar mere ghar aayaa .	-	Duo	type=translate:reverse_tap
-Drink tea, it is hot.	Describe past events	चाय पी लो, गरम है।	chaaya pii lo, garam hai.	-	Duo	type=translate:reverse_tap
-We played games yesterday.	Describe past events	कल हमने खेल खेले।	kal hamane khel khele.	-	Duo	type=translate:tap
-Raj has written a book.	Describe past events	राज ने एक किताब लिखी है।	raaj ne ek kitaab likhii hai.	-	Duo	type=translate:tap
+English	Foreign	Transliteration	Context
+One	एक	ek	Pair letters and sounds
+Raj is a man.	राज एक आदमी है।	raaj ek aadamii hai.	Form basic sentences
+an apple	एक सेब	ek seb	Form basic sentences
+That girl and this girl	वह लड़की और यह लड़की	vah laṛkii aur yah laṛkii	Form basic sentences
+Book	किताब	kitaab	Form basic sentences
+Apple	सेब	seb	Form basic sentences
+Woman	औरत	aurat	Form basic sentences
+I am Julia.	मैं जूलिया हूँ।	main juuliyaa huun.	Form basic sentences
+This man	यह आदमी	yah aadamii	Form basic sentences
+Neha is a woman.	नेहा एक औरत है।	nehaa ek aurat hai.	Form basic sentences
+A book and an apple	एक किताब और एक सेब	ek kitaab aur ek seb	Form basic sentences
+This woman is fine.	यह औरत ठीक है।	yah aurat ṭhiik hai.	Form basic sentences
+That book	वह किताब	vah kitaab	Form basic sentences
+Peter reads and eats.	पीटर पढ़ता है और खाता है।	piiṭar paṛtaa hai aur khaataa hai.	Talk about food
+I eat.	मैं खाती हूँ।	main khaatii huun.	Talk about food
+I read.	मैं पढ़ती हूँ।	main paṛtii huun.	Talk about food
+Water	पानी	paanii	Talk about food
+Banana	केला	kelaa	Talk about food
+Neha does not drink tea.	नेहा चाय नहीं पीती है।	nehaa chaaya nahiin piitii hai.	Talk about food
+This boy reads.	यह लड़का पढ़ता है।	yah laṛkaa paṛtaa hai.	Talk about food
+You eat.	तू खाता है।	tuu khaataa hai.	Talk about food
+Tea	चाय	chaaya	Talk about food
+This is a banana.	यह एक केला है।	yah ek kelaa hai.	Talk about food
+Hello, I am fine.	नमस्ते, मैं ठीक हूँ।	namaste, main ṭhiik huun.	Talk about food
+I read.	मैं पढ़ता हूँ।	main paṛtaa huun.	Talk about food
+You drink water.	तू पानी पीती है।	tuu paanii piitii hai.	Talk about food
+Peter eats an apple.	पीटर सेब खाता है।	piiṭar seb khaataa hai.	Talk about food
+Thank you	धन्यवाद	dhanyavaad	Talk about food
+Neha reads and Julia eats.	नेहा पढ़ती है और जूलिया खाती है।	nehaa paṛtii hai aur juuliyaa khaatii hai.	Talk about food
+What does Julia eat?	जूलिया क्या खाती है?	juuliyaa kyaa khaatii hai?	Talk about food
+I drink water.	मैं पानी पीती हूँ।	main paanii piitii huun.	Talk about food
+Hi, I am Neha.	नमस्ते, मैं नेहा हूँ।	namaste, main nehaa huun.	Talk about food
+You are a girl.	तू एक लड़की है।	tuu ek laṛkii hai.	Talk about food
+No, not tea. Water is fine.	नहीं, चाय नहीं। पानी ठीक है।	nahiin, chaaya nahiin. paanii ṭhiik hai.	Talk about food
+We eat bananas and apples.	हम केले और सेब खाते हैं।	ham kele aur seb khaate hain.	Form the plural
+You eat.	तुम खाते हो।	tum khaate ho.	Form the plural
+Books	किताबें	kitaaben	Form the plural
+One woman and two women	एक औरत और दो औरतें	ek aurat aur do auraten	Form the plural
+Girls	लड़कियाँ	laṛkiyaan	Form the plural
+Boys	लड़के	laṛke	Form the plural
+Are these three apples?	क्या ये तीन सेब हैं?	kyaa ye tiin seb hain?	Form the plural
+Who are those women?	वे महिलाएँ कौन हैं?	ve mahilaaen kaun hain?	Form the plural
+What do the girls and boys read?	लड़कियाँ और लड़के क्या पढ़ते हैं?	laṛkiyaan aur laṛke kyaa paṛte hain?	Form the plural
+Two men and three women	दो आदमी और तीन औरतें	do aadamii aur tiin auraten	Form the plural
+Two men eat bananas.	दो आदमी केले खाते हैं।	do aadamii kele khaate hain.	Form the plural
+We drink tea and eat apples.	हम चाय पीते हैं और सेब खाते हैं।	ham chaaya piite hain aur seb khaate hain.	Form the plural
+You drink tea.	तुम चाय पीते हो।	tum chaaya piite ho.	Form the plural
+They read that book.	वे वह किताब पढ़ते हैं।	ve vah kitaab paṛte hain.	Form the plural
+Women read books.	औरतें किताबें पढ़ती हैं।	auraten kitaaben paṛtii hain.	Form the plural
+Women eat apples.	औरतें सेब खाती हैं।	auraten seb khaatii hain.	Form the plural
+We drink water.	हम पानी पीते हैं।	ham paanii piite hain.	Form the plural
+The girls eat apples.	लड़कियाँ सेब खाती हैं।	laṛkiyaan seb khaatii hain.	Form the plural
+We are not fine.	हम ठीक नहीं हैं।	ham ṭhiik nahiin hain.	Form the plural
+They are three men.	वे तीन आदमी हैं।	ve tiin aadamii hain.	Form the plural
+Who reads the books?	किताबें कौन पढ़ता है?	kitaaben kaun paṛtaa hai?	Form the plural
+Home	घर	ghar	Introduce people
+Peter's daughter lives in India.	पीटर की बेटी भारत में रहती है।	piiṭar kii beṭii bhaarat men rahatii hai.	Introduce people
+School	स्कूल	skuul	Introduce people
+He lives in India.	वह भारत में रहता है।	vah bhaarat men rahataa hai.	Introduce people
+This is Neha's son.	यह नेहा का बेटा है।	yah nehaa kaa beṭaa hai.	Introduce people
+Raj is Julia's sister's son.	राज जूलिया की बहन का बेटा है।	raaj juuliyaa kii bahan kaa beṭaa hai.	Introduce people
+Your name is Neha and his name is Aamir.	तेरा नाम नेहा है और उसका नाम आमिर है।	teraa naam nehaa hai aur usakaa naam aamir hai.	Introduce people
+Aamir goes to India every day.	आमिर हर दिन भारत जाता है।	aamir har din bhaarat jaataa hai.	Introduce people
+This is my daughter.	यह मेरी बेटी है।	yah merii beṭii hai.	Introduce people
+No, I don't live in America.	नहीं, मैं अमेरिका में नहीं रहता हूँ।	nahiin, main amerikaa men nahiin rahataa huun.	Introduce people
+That is Julia's apple.	वह जूलिया का सेब है।	vah juuliyaa kaa seb hai.	Introduce people
+That girl goes to home from school.	वह लड़की स्कूल से घर जाती है।	vah laṛkii skuul se ghar jaatii hai.	Introduce people
+Yes, I live in India.	हाँ, मैं भारत में रहता हूँ।	haan, main bhaarat men rahataa huun.	Introduce people
+That is his book.	वह उसकी किताब है।	vah usakii kitaab hai.	Introduce people
+India is my home.	भारत मेरा घर है।	bhaarat meraa ghar hai.	Introduce people
+That boy does not live in India.	वह लड़का भारत में नहीं रहता है।	vah laṛkaa bhaarat men nahiin rahataa hai.	Introduce people
+His sister lives in America.	उसकी बहन अमेरिका में रहती है।	usakii bahan amerikaa men rahatii hai.	Introduce people
+His brother is Aamir.	उसका भाई आमिर है।	usakaa bhaaii aamir hai.	Introduce people
+He is my son.	वह मेरा बेटा है।	vah meraa beṭaa hai.	Introduce people
+His house and your house	उसका घर और तेरा घर	usakaa ghar aur teraa ghar	Introduce people
+She is our sister.	वह हमारी बहन है।	vah hamaarii bahan hai.	Describe your family
+Julia and Neha are sisters.	जूलिया और नेहा बहनें हैं।	juuliyaa aur nehaa bahanen hain.	Describe your family
+Your father and your mother	आपके पिता और आपकी माँ	aapake pitaa aur aapakii maan	Describe your family
+I am with my mother.	मैं अपनी माँ के साथ हूँ।	main apanii maan ke saath huun.	Describe your family
+His sons are in your home.	उसके बेटे तेरे घर में हैं।	usake beṭe tere ghar men hain.	Describe your family
+His mother has three daughters.	उसकी माँ की तीन बेटियाँ हैं।	usakii maan kii tiin beṭiyaan hain.	Describe your family
+The father and the children go home.	पिता और बच्चे घर जाते हैं।	pitaa aur bachche ghar jaate hain.	Describe your family
+Your sons eat apples.	तेरे बेटे सेब खाते हैं।	tere beṭe seb khaate hain.	Describe your family
+Their father is in America.	उनके पिता अमेरिका में हैं।	unake pitaa amerikaa men hain.	Describe your family
+They live with their grandfather.	वे अपने नाना के साथ रहते हैं।	ve apane naanaa ke saath rahate hain.	Describe your family
+That is your book.	वह तुम्हारी किताब है।	vah tumhaarii kitaab hai.	Describe your family
+They have two sons.	उनके दो बेटे हैं।	unake do beṭe hain.	Describe your family
+Mother lives at home.	माँ घर में रहती हैं।	maan ghar men rahatii hain.	Describe your family
+Neha has two sons.	नेहा के दो बेटे हैं।	nehaa ke do beṭe hain.	Describe your family
+You have two brothers.	तेरे दो भाई हैं।	tere do bhaaii hain.	Describe your family
+Your child, your children	तुम्हारा बच्चा, तुम्हारे बच्चे	tumhaaraa bachchaa, tumhaare bachche	Describe your family
+Raj goes to his home.	राज उसके घर जाता है।	raaj usake ghar jaataa hai.	Describe your family
+That child does not go home.	वह बच्चा घर नहीं जाता है।	vah bachchaa ghar nahiin jaataa hai.	Describe your family
+Our son studies.	हमारा बेटा पढ़ता है।	hamaaraa beṭaa paṛtaa hai.	Describe your family
+Your school is in India.	तुम्हारा स्कूल भारत में है।	tumhaaraa skuul bhaarat men hai.	Describe your family
+Their apples	उनके सेब	unake seb	Describe your family
+Raj and Neha don't live in America.	राज और नेहा अमेरिका में नहीं रहते हैं।	raaj aur nehaa amerikaa men nahiin rahate hain.	Describe your family
+Your sister is my friend.	आपकी बहन मेरी दोस्त है।	aapakii bahan merii dost hai.	Describe your family
+Big animals do not eat grass.	बड़े जानवर घास नहीं खाते हैं।	baṛe jaanavar ghaas nahiin khaate hain.	Talk about animals
+Elephants eat big bananas.	हाथी बड़े केले खाते हैं।	haathii baṛe kele khaate hain.	Talk about animals
+Milk	दूध	duudh	Talk about animals
+Small mouse, small cow. Small dogs, small cats.	छोटा चूहा, छोटी गाय। छोटे कुत्ते, छोटी बिल्लियाँ।	chhoṭaa chuuhaa, chhoṭii gaaya. chhoṭe kutte, chhoṭii billiyaan.	Talk about animals
+Bird	पक्षी	pakshii	Talk about animals
+Dog	कुत्ता	kuttaa	Talk about animals
+Elephant	हाथी	haathii	Talk about animals
+The rats and dogs are fine.	चूहे और कुत्ते ठीक हैं।	chuuhe aur kutte ṭhiik hain.	Talk about animals
+Big dog, big cat. Big mice, big cows.	बड़ा कुत्ता, बड़ी बिल्ली। बड़े चूहे, बड़ी गायें।	baṛaa kuttaa, baṛii billii. baṛe chuuhe, baṛii gaayen.	Talk about animals
+This is my cat's tea, not yours.	यह मेरी बिल्ली की चाय है, तेरी नहीं।	yah merii billii kii chaaya hai, terii nahiin.	Talk about animals
+The rats are in the book.	चूहे किताब में हैं ।	chuuhe kitaab men hain .	Talk about animals
+Neha's cow is bigger than my cow.	नेहा की गाय मेरी गाय से बड़ी है।	nehaa kii gaaya merii gaaya se baṛii hai.	Talk about animals
+A rat is black.	चूहा काला होता है।	chuuhaa kaalaa hotaa hai.	Talk about animals
+The dog drinks milk.	कुत्ता दूध पीता है।	kuttaa duudh piitaa hai.	Talk about animals
+Cows are not cats.	गायें बिल्लियाँ नहीं होती हैं।	gaayen billiyaan nahiin hotii hain.	Talk about animals
+Dogs	कुत्ते	kutte	Talk about animals
+This is my cow's apple, not Julia's.	यह मेरी गाय का सेब है, जूलिया का नहीं।	yah merii gaaya kaa seb hai, juuliyaa kaa nahiin.	Talk about animals
+The name of Neha's cat is Raj.	नेहा की बिल्ली का नाम राज है।	nehaa kii billii kaa naam raaj hai.	Talk about animals
+The cat is black.	बिल्ली काली है।	billii kaalii hai.	Talk about animals
+That rat is black.	वह चूहा काला है ।	vah chuuhaa kaalaa hai .	Talk about animals
+That cow is black.	वह गाय काली है ।	vah gaaya kaalii hai .	Talk about animals
+The rats are black.	चूहे काले हैं ।	chuuhe kaale hain .	Talk about animals
+This peacock drinks tea.	यह मोर चाय पीता है।	yah mor chaaya piitaa hai.	Talk about animals
+That apple is big.	वह सेब बड़ा है।	vah seb baṛaa hai.	Talk about animals
+Chair	कुर्सी	kursii	Use the present tense
+I have two cats.	मेरे पास दो बिल्लियाँ हैं।	mere paas do billiyaan hain.	Use the present tense
+Table	मेज़	mej	Use the present tense
+He is not swimming.	वह नहीं तैर रहा है ।	vah nahiin tair rahaa hai .	Use the present tense
+Two girls are standing.	दो लड़कियाँ खड़ी हैं।	do laṛkiyaan khaṛii hain.	Use the present tense
+You are standing.	तू खड़ा है।	tuu khaṛaa hai.	Use the present tense
+My father and grandfather are swimming today.	मेरे पिता और दादा आज तैर रहे हैं ।	mere pitaa aur daadaa aaj tair rahe hain .	Use the present tense
+My father is coming home.	मेरे पिता घर आ रहे हैं ।	mere pitaa ghar aa rahe hain .	Use the present tense
+That girl is coming.	वह लड़की आ रही है।	vah laṛkii aa rahii hai.	Use the present tense
+She is not standing.	वह खड़ी नहीं है।	vah khaṛii nahiin hai.	Use the present tense
+The dog is sitting on the table.	कुत्ता मेज़ पर बैठा है।	kuttaa mej par baiṭhaa hai.	Use the present tense
+My grandfather is standing in the river.	मेरे दादा नदी में खड़े हैं ।	mere daadaa nadii men khaṛe hain .	Use the present tense
+The children are playing.	बच्चे खेल रहे हैं।	bachche khel rahe hain.	Use the present tense
+The dog runs.	कुत्ता दौड़ता है।	kuttaa dauṛtaa hai.	Use the present tense
+The elephant is standing on the table.	हाथी मेज़ पर खड़ा है।	haathii mej par khaṛaa hai.	Use the present tense
+We are running.	हम दौड़ रहे हैं ।	ham dauṛ rahe hain .	Use the present tense
+What are they playing?	वे क्या खेल रहे हैं?	ve kyaa khel rahe hain?	Use the present tense
+Peter is coming from India.	पीटर भारत से आ रहा है ।	piiṭar bhaarat se aa rahaa hai .	Use the present tense
+This woman is standing.	यह औरत खड़ी है।	yah aurat khaṛii hai.	Use the present tense
+He does not run, he walks.	वह दौड़ता नहीं, चलता है।	vah dauṛtaa nahiin, chalataa hai.	Use the present tense
+People drink water.	लोग पानी पीते हैं।	log paanii piite hain.	Describe people
+Julia is a very good girl.	जूलिया एक बहुत अच्छी लड़की है।	juuliyaa ek bahut achchhii laṛkii hai.	Describe people
+The bananas are green.	केले हरे हैं।	kele hare hain.	Describe people
+Neha's cat is not very bad.	नेहा की बिल्ली बहुत बुरी नहीं है।	nehaa kii billii bahut burii nahiin hai.	Describe people
+She is not tall, she is short.	वह लंबी नहीं, छोटी है।	vah lanbii nahiin, chhoṭii hai.	Describe people
+I am not happy.	मैं ख़ुश नहीं हूँ।	main khush nahiin huun.	Describe people
+How is your mother?	तुम्हारी माँ कैसी हैं?	tumhaarii maan kaisii hain?	Describe people
+How are those people?	वे लोग कैसे हैं?	ve log kaise hain?	Describe people
+He is not a bad man.	वह बुरा आदमी नहीं है।	vah buraa aadamii nahiin hai.	Describe people
+That boy is good, not bad.	वह लड़का अच्छा है, बुरा नहीं।	vah laṛkaa achchhaa hai, buraa nahiin.	Describe people
+Your daughter is very good.	आपकी बेटी बहुत अच्छी है।	aapakii beṭii bahut achchhii hai.	Describe people
+Blue and yellow books	नीली और पीली किताबें	niilii aur piilii kitaaben	Describe people
+Grandmother studies a lot.	दादी बहुत पढ़ती हैं।	daadii bahut paṛtii hain.	Describe people
+White and red animals	सफ़ेद और लाल जानवर	saphed aur laal jaanavar	Describe people
+Aamir's friends are tall.	आमिर के दोस्त लंबे हैं।	aamir ke dost lanbe hain.	Describe people
+You are drinking cold milk.	तुम ठंडा दूध पी रहे हो।	tum ṭhanṛaa duudh pii rahe ho.	Talk about food
+Vegetables	सब्ज़ियाँ	sabjiyaan	Talk about food
+You like eggs.	आपको अंडे पसंद हैं।	aapako anṛe pasand hain.	Talk about food
+Fish	मछली	machhalii	Talk about food
+Peter eats salad every day.	पीटर हर दिन सलाद खाता है।	piiṭar har din salaad khaataa hai.	Talk about food
+Alcohol	शराब	sharaab	Talk about food
+I do not like breakfast.	मुझे नाश्ता नहीं पसंद।	mujhe naashtaa nahiin pasanda.	Talk about food
+Fruits	फल	phal	Talk about food
+Tomato and lemon are in the salad.	सलाद में टमाटर और नींबू है।	salaad men ṭamaaṭar aur niinbuu hai.	Talk about food
+I eat fruits.	मैं फलों को खाती हूँ।	main phalon ko khaatii huun.	Talk about food
+There is no alcohol in my house.	मेरे घर में शराब नहीं है।	mere ghar men sharaab nahiin hai.	Talk about food
+Tomato	टमाटर	ṭamaaṭar	Talk about food
+This food is not good.	यह खाना अच्छा नहीं है।	yah khaanaa achchhaa nahiin hai.	Talk about food
+Julia wants salad.	जूलिया को सलाद चाहिए।	juuliyaa ko salaad chaahie.	Talk about food
+Neha is drinking water.	नेहा पानी पी रही है।	nehaa paanii pii rahii hai.	Talk about food
+You want eggs and mangoes.	तुझे अंडे और आम चाहिए।	tujhe anṛe aur aam chaahie.	Talk about food
+He does not want food.	उसे खाना नहीं चाहिए।	use khaanaa nahiin chaahie.	Talk about food
+Neha does not eat fish.	नेहा मछली नहीं खाती।	nehaa machhalii nahiin khaatii.	Talk about food
+What do you like?	आपको क्या पसंद है?	aapako kyaa pasand hai?	Talk about food
+The food is good.	खाना अच्छा है।	khaanaa achchhaa hai.	Talk about food
+What does he want?	उसे क्या चाहिए?	use kyaa chaahie?	Talk about food
+That boy does not eat breakfast.	वह लड़का नाश्ता नहीं खाता है।	vah laṛkaa naashtaa nahiin khaataa hai.	Talk about food
+Nine, ten, and hundred	नौ, दस, और सौ	nau, das, aur sau	Use numbers
+Many boys study.	कई लड़के पढ़ते हैं।	kaii laṛke paṛte hain.	Use numbers
+This fourth book is mine.	यह चौथी किताब मेरी है।	yah chauthii kitaab merii hai.	Use numbers
+How many eggs?	कितने अंडे?	kitane anṛe?	Use numbers
+Four thousand nine	चार हज़ार नौ	chaar hajaar nau	Use numbers
+Fourth and fifth day	चौथा और पाँचवा दिन	chauthaa aur paanchavaa din	Use numbers
+I want some books.	मुझे कुछ किताबें चाहिए।	mujhe kuchh kitaaben chaahie.	Use numbers
+This is Raj's first daughter.	यह राज की पहली बेटी है।	yah raaj kii pahalii beṭii hai.	Use numbers
+This is her first day.	यह उसका पहला दिन है।	yah usakaa pahalaa din hai.	Use numbers
+Yes or no?	हाँ या नहीं?	haan yaa nahiin?	Form questions
+Raj or Peter?	राज या पीटर?	raaj yaa piiṭar?	Form questions
+Is it a cat?	क्या यह एक बिल्ली है?	kyaa yah ek billii hai?	Form questions
+Do you want an apple or an orange?	तुझे सेब चाहिए या संतरा?	tujhe seb chaahie yaa santaraa?	Form questions
+Why do you want this?	तुम्हें यह क्यों चाहिए?	tumhen yah kyon chaahie?	Form questions
+Do they drink tea?	क्या वे चाय पीते हैं?	kyaa ve chaaya piite hain?	Form questions
+Why are you walking?	तुम क्यों चल रहे हो ?	tum kyon chal rahe ho ?	Form questions
+Are you fine?	क्या तू ठीक है?	kyaa tuu ṭhiik hai?	Form questions
+Why are you going?	आप क्यों जा रहे हैं?	aap kyon jaa rahe hain?	Form questions
+Does he eat eggs?	क्या वह अंडे खाता है?	kyaa vah anṛe khaataa hai?	Form questions
+Why does she study?	वह क्यों पढ़ती है?	vah kyon paṛtii hai?	Form questions
+Five rooms	पाँच कमरे	paanch kamare	Talk about your home
+Roof	छत	chhat	Talk about your home
+One car, two cars	एक गाड़ी, दो गाड़ियाँ	ek gaaṛii, do gaaṛiyaan	Talk about your home
+Car	गाड़ी	gaaṛii	Talk about your home
+Room	कमरा	kamaraa	Talk about your home
+Bed	बिस्तर	bistar	Talk about your home
+That child is sleeping on the new bed.	वह बच्चा नये बिस्तर पर सो रहा है।	vah bachchaa naye bistar par so rahaa hai.	Talk about your home
+A cat is sitting on that chair.	उस कुर्सी पर बिल्ली बैठी है।	us kursii par billii baiṭhii hai.	Talk about your home
+Does he sleep on the new bed or the old?	वह नये बिस्तर पर सोता है या पुराने?	vah naye bistar par sotaa hai yaa puraane?	Talk about your home
+Is this our room?	क्या यह हमारा कमरा है?	kyaa yah hamaaraa kamaraa hai?	Talk about your home
+Floor	ज़मीन	jmiin	Talk about your home
+My grandfather is on the terrace.	मेरे दादा छत पर हैं।	mere daadaa chhat par hain.	Talk about your home
+A window	एक खिड़की	ek khiṛkii	Talk about your home
+The house's windows are closed.	घर की खिड़कियाँ बंद हैं।	ghar kii khiṛkiyaan band hain.	Talk about your home
+The door is open.	दरवाज़ा खुला है।	daravaajaa khulaa hai.	Talk about your home
+One door, two doors	एक दरवाज़ा, दो दरवाज़े	ek daravaajaa, do daravaaje	Talk about your home
+I live in that house.	मैं उस घर में रहता हूँ।	main us ghar men rahataa huun.	Talk about your home
+Speak something	कुछ बोलो	kuchh bolo	Tell others what to do
+Give me my book.	मुझे मेरी किताब दो।	mujhe merii kitaab do.	Tell others what to do
+You go and eat.	तुम जाओ और खाओ ।	tum jaao aur khaao .	Tell others what to do
+Take this, your food.	यह लो, तुम्हारा खाना।	yah lo, tumhaaraa khaanaa.	Tell others what to do
+Come and drink tea.	आओ और चाय पियो।	aao aur chaaya piyo.	Tell others what to do
+Do your work.	अपना काम करो।	apanaa kaam karo.	Tell others what to do
+Study from me.	मुझसे पढ़ो।	mujhase paṛo.	Tell others what to do
+Play with me.	मेरे साथ खेलो।	mere saath khelo.	Tell others what to do
+Raj, don't do that!	राज, वह मत करो!	raaj, vah mat karo!	Tell others what to do
+Do not drink the tea.	चाय मत पियो।	chaaya mat piyo.	Tell others what to do
+Come and eat.	आओ और खाओ ।	aao aur khaao .	Tell others what to do
+There is pain in my teeth.	मेरे दाँतों में दर्द है ।	mere daanton men dard hai .	Talk about health
+Aamir's teeth are beautiful.	आमिर के दाँत सुंदर हैं।	aamir ke daant sundar hain.	Talk about health
+My hand is smaller than my foot.	मेरा हाथ मेरे पैर से छोटा है।	meraa haath mere pair se chhoṭaa hai.	Talk about health
+Foot	पैर	pair	Talk about health
+Mouth	मुँह	munh	Talk about health
+Nose	नाक	naak	Talk about health
+My mouth is paining.	मेरे मुँह में दर्द हो रहा है।	mere munh men dard ho rahaa hai.	Talk about health
+Raj has two hands, two legs, one nose, and two ears.	राज के पास दो हाथ, दो पैर, एक नाक, और दो कान हैं।	raaj ke paas do haath, do pair, ek naak, aur do kaan hain.	Talk about health
+Peter's foot is aching.	पीटर के पैर में दर्द हो रहा है।	piiṭar ke pair men dard ho rahaa hai.	Talk about health
+My eyes are good.	मेरी आँखें अच्छी हैं ।	merii aankhen achchhii hain .	Talk about health
+Are they healthy or sick?	वे स्वस्थ हैं या बीमार?	ve svasth hain yaa biimaar?	Talk about health
+My grandfather is healthy today.	मेरे दादा आज स्वस्थ हैं ।	mere daadaa aaj svasth hain .	Talk about health
+My fingers are small.	मेरी उँगलियाँ छोटी हैं ।	merii ungaliyaan chhoṭii hain .	Talk about health
+My hands and legs are paining.	मेरे हाथों और पैरों में दर्द हो रहा है।	mere haathon aur pairon men dard ho rahaa hai.	Talk about health
+There is pain in my ears.	मेरे कान में दर्द है ।	mere kaan men dard hai .	Talk about health
+I have one nose and two ears.	मेरे पास एक नाक और दो कान हैं ।	mere paas ek naak aur do kaan hain .	Talk about health
+You have two eyes.	आपके पास दो आँखें हैं।	aapake paas do aankhen hain.	Talk about health
+The colour of my teeth is yellow.	मेरे दाँतों का रंग पीला है।	mere daanton kaa rang piilaa hai.	Talk about health
+Close your mouth.	अपना मुँह बंद करो।	apanaa munh band karo.	Talk about health
+My teeth are yellow.	मेरे दाँत पीले हैं।	mere daant piile hain.	Talk about health
+There are two thumbs in my hand.	मेरे हाथ में दो अँगूठे हैं।	mere haath men do anguuṭhe hain.	Talk about health
+There are five fingers in Raj's hands.	राज के हाथों में पाँच उँगलियाँ हैं।	raaj ke haathon men paanch ungaliyaan hain.	Talk about health
+Aamir's thumb is red.	आमिर का अँगूठा लाल है।	aamir kaa anguuṭhaa laal hai.	Talk about health
+This street is short.	यह गली छोटी है।	yah galii chhoṭii hai.	Describe places
+Where do you live?	तुम कहाँ रहते हो?	tum kahaan rahate ho?	Describe places
+Which city is there?	वहाँ कौनसा शहर है?	vahaan kaunasaa shahar hai?	Describe places
+City	शहर	shahar	Describe places
+My brother lives near my city.	मेरा भाई मेरे शहर के पास रहता है।	meraa bhaaii mere shahar ke paas rahataa hai.	Describe places
+Is your house far from here?	क्या तुम्हारा घर यहाँ से दूर है?	kyaa tumhaaraa ghar yahaan se duur hai?	Describe places
+Which village is there?	वहाँ कौनसा गाँव है?	vahaan kaunasaa gaanv hai?	Describe places
+Peter lives near Julia's home.	पीटर जूलिया के घर के पास रहता है।	piiṭar juuliyaa ke ghar ke paas rahataa hai.	Describe places
+Go inside or come outside.	अंदर जाओ या बाहर आओ।	andar jaao yaa baahar aao.	Describe places
+Peter is in front of me.	मेरे आगे पीटर है ।	mere aage piiṭar hai .	Describe places
+This place is in Delhi.	यह जगह दिल्ली में है ।	yah jagah dillii men hai .	Describe places
+Which city is Delhi?	कौनसा शहर दिल्ली है?	kaunasaa shahar dillii hai?	Describe places
+There are a lot of people in Delhi.	दिल्ली में बहुत लोग हैं।	dillii men bahut log hain.	Describe places
+He is inside the house.	वह घर के अंदर है।	vah ghar ke andar hai.	Describe places
+His street is here.	उसकी गली यहाँ है।	usakii galii yahaan hai.	Describe places
+Delhi is far from here.	दिल्ली यहाँ से दूर है ।	dillii yahaan se duur hai .	Describe places
+You are near Delhi.	तुम दिल्ली के पास हो।	tum dillii ke paas ho.	Describe places
+Which animal is this?	यह कौनसा जानवर है?	yah kaunasaa jaanavar hai?	Describe places
+half an hour	आधा घंटा	aadhaa ghanṭaa	Tell time
+You always sleep.	तुम हमेशा सोते हो।	tum hameshaa sote ho.	Tell time
+I do not have time.	मेरे पास समय नहीं है।	mere paas samaya nahiin hai.	Tell time
+These people eat breakfast at quarter to one.	ये लोग पौने एक बजे नाश्ता करते हैं।	ye log paune ek baje naashtaa karate hain.	Tell time
+Are you in your room at this time?	क्या तुम इस समय अपने कमरे में हो?	kyaa tum is samaya apane kamare men ho?	Tell time
+He is at home at half past three.	वह साढ़े तीन बजे घर पर होता है।	vah saaṛe tiin baje ghar par hotaa hai.	Tell time
+These children play at six in the evening.	ये बच्चे शाम को छह बजे खेलते हैं।	ye bachche shaam ko chhah baje khelate hain.	Tell time
+We play at ten at night.	हम रात को दस बजे खेलते हैं।	ham raat ko das baje khelate hain.	Tell time
+I wake up in the evening.	मैं शाम को जागती हूँ।	main shaam ko jaagatii huun.	Tell time
+Raj does not eat in the afternoon.	राज दोपहर में नहीं खाता है।	raaj dopahar men nahiin khaataa hai.	Tell time
+Quarter to five	पौने पाँच	paune paanch	Tell time
+That boy is coming now.	वह लड़का अब आ रहा है।	vah laṛkaa ab aa rahaa hai.	Tell time
+When does Neha play?	नेहा कब खेलती है?	nehaa kab khelatii hai?	Tell time
+He eats at quarter to nine.	वह पौने नौ बजे खाता है।	vah paune nau baje khaataa hai.	Tell time
+Letter	चिट्ठी	chiṭṭhii	Describe what people do
+The teacher teaches us.	शिक्षक हमें पढ़ाता है ।	shikshak hamen paṛaataa hai .	Describe what people do
+Peter sells newspapers.	पीटर अख़बार बेचता है ।	piiṭar akhbaar bechataa hai .	Describe what people do
+She buys fruits from the shop.	वह दुकान से फल ख़रीदती है।	vah dukaan se phal khriidatii hai.	Describe what people do
+Newspaper	अख़बार	akhbaar	Describe what people do
+Teacher	शिक्षक	shikshak	Describe what people do
+What do you sell?	तुम क्या बेचते हो?	tum kyaa bechate ho?	Describe what people do
+Raj does not work hard.	राज मेहनत नहीं करता ।	raaj mehanat nahiin karataa .	Describe what people do
+We write a poem.	हम एक कविता लिखते हैं।	ham ek kavitaa likhate hain.	Describe what people do
+The answer to this question is easy.	इस सवाल का जवाब आसान है।	is savaal kaa javaab aasaan hai.	Describe what people do
+Is this question not difficult?	क्या यह सवाल मुश्किल नहीं है?	kyaa yah savaal mushkil nahiin hai?	Describe what people do
+She sells oranges.	वह संतरे बेचती है।	vah santare bechatii hai.	Describe what people do
+Are my answers right or wrong?	क्या मेरे जवाब सही हैं या ग़लत?	kyaa mere javaab sahii hain yaa glat?	Describe what people do
+This writer writes letter, story, and poem.	यह लेखक चिट्ठी, कहानी, और कविता लिखता है।	yah lekhak chiṭṭhii, kahaanii, aur kavitaa likhataa hai.	Describe what people do
+What does that writer write?	वह लेखक क्या लिखता है?	vah lekhak kyaa likhataa hai?	Describe what people do
+Ask easy questions.	आसान सवाल पूछो।	aasaan savaal puuchho.	Describe what people do
+Julia writes a letter to Neha.	जूलिया नेहा को चिट्ठी लिखती है।	juuliyaa nehaa ko chiṭṭhii likhatii hai.	Describe what people do
+We buy fruits.	हम फल ख़रीदते हैं।	ham phal khriidate hain.	Describe what people do
+What does she ask?	वह क्या पूछती है ?	vah kyaa puuchhatii hai ?	Describe what people do
+Teachers do not ask wrong questions.	शिक्षक ग़लत सवाल नहीं पूछते हैं।	shikshak glat savaal nahiin puuchhate hain.	Describe what people do
+The writer writes a story.	लेखक कहानी लिखता है ।	lekhak kahaanii likhataa hai .	Describe what people do
+Aamir's father is writing a book.	आमिर के पिता एक किताब लिख रहे हैं।	aamir ke pitaa ek kitaab likh rahe hain.	Make comparisons
+He studies more than Aamir.	वह आमिर से ज़्यादा पढ़ता है।	vah aamir se jyaadaa paṛtaa hai.	Make comparisons
+Neha is behind you.	नेहा तुमसे पीछे है ।	nehaa tumase piichhe hai .	Make comparisons
+I am also writing.	मैं भी लिख रही हूँ।	main bhii likh rahii huun.	Make comparisons
+Her cat dances better than your dog.	उसकी बिल्ली तुम्हारे कुत्ते से बेहतर नाचती है।	usakii billii tumhaare kutte se behatar naachatii hai.	Make comparisons
+He is writing the best story.	वह सबसे अच्छी कहानी लिख रहा है।	vah sabase achchhii kahaanii likh rahaa hai.	Make comparisons
+Grandmother is writing in the book.	दादी किताब में लिख रही है ।	daadii kitaab men likh rahii hai .	Make comparisons
+Go and rest.	जाओ और आराम करो।	jaao aur aaraam karo.	Make comparisons
+Raj walks faster than Peter.	राज पीटर से तेज़ चलता है।	raaj piiṭar se tej chalataa hai.	Make comparisons
+They have less food than you.	उनके पास आपसे कम खाना है।	unake paas aapase kam khaanaa hai.	Make comparisons
+Aamir will give me books tomorrow.	आमिर मुझे कल किताबें देगा।	aamir mujhe kal kitaaben degaa.	Use the future tense
+These people will not study together.	ये लोग साथ में नहीं पढ़ेंगे।	ye log saath men nahiin paṛenge.	Use the future tense
+Will they come or go?	वे आयेंगी या जायेंगी?	ve aayengii yaa jaayengii?	Use the future tense
+I will read and he will read.	मैं पढ़ूँगा और वह पढ़ेगा।	main paṛuungaa aur vah paṛegaa.	Use the future tense
+Will you come?	क्या तुम आओगी?	kyaa tum aaogii?	Use the future tense
+I will go to Delhi tomorrow.	मैं कल दिल्ली जाऊँगा ।	main kal dillii jaauungaa .	Use the future tense
+Where will you go the day after tomorrow?	तुम परसों कहाँ जाओगे?	tum parason kahaan jaaoge?	Use the future tense
+I will not come to Delhi.	मैं दिल्ली नहीं आऊँगा ।	main dillii nahiin aauungaa .	Use the future tense
+I will come home the day after tomorrow.	मैं परसों घर आऊँगी।	main parason ghar aauungii.	Use the future tense
+When will she go home?	वह घर कब जायेगी?	vah ghar kab jaayegii?	Use the future tense
+What will she watch?	वह क्या देखेगी?	vah kyaa dekhegii?	Use the future tense
+Will you go home?	क्या तुम घर जाओगे ?	kyaa tum ghar jaaoge ?	Use the future tense
+These people will give me food.	ये लोग मुझे खाना देंगे।	ye log mujhe khaanaa denge.	Use the future tense
+What will they give us?	वे हमें क्या देंगे?	ve hamen kyaa denge?	Use the future tense
+That child will go to Delhi in November.	वह बच्ची नवंबर में दिल्ली जायेगी ।	vah bachchii navanbar men dillii jaayegii .	Talk about days
+I will go in May.	मैं मई में जाऊँगी।	main maii men jaauungii.	Talk about days
+He will go to Delhi next Monday.	वह अगले सोमवार दिल्ली जायेगा।	vah agale somavaar dillii jaayegaa.	Talk about days
+How many months are there in one year?	एक साल में कितने महीने होते हैं?	ek saal men kitane mahiine hote hain?	Talk about days
+May is the next month.	मई अगला महीना है।	maii agalaa mahiinaa hai.	Talk about days
+Aamir will give my book on Tuesday.	आमिर मंगलवार को मेरी किताब देगा ।	aamir mangalavaar ko merii kitaab degaa .	Talk about days
+Is this the month of July?	क्या यह जुलाई का महीना है?	kyaa yah julaaii kaa mahiinaa hai?	Talk about days
+January, February, and March are months.	जनवरी, फ़रवरी, और मार्च महीने हैं।	janavarii, phravarii, aur maarch mahiine hain.	Talk about days
+Is it Friday today or Saturday?	आज शुक्रवार है या शनिवार?	aaj shukravaar hai yaa shanivaar?	Talk about days
+I am at home on Friday and Saturday.	मैं शुक्रवार और शनिवार को घर पर हूँ।	main shukravaar aur shanivaar ko ghar par huun.	Talk about days
+When will April come?	अप्रैल कब आयेगा?	aprail kab aayegaa?	Talk about days
+Tuesday comes after Monday.	मंगलवार सोमवार के बाद आता है।	mangalavaar somavaar ke baad aataa hai.	Talk about days
+My father will go to India in September.	मेरे पिता सितंबर में भारत जायेंगे ।	mere pitaa sitanbar men bhaarat jaayenge .	Talk about days
+July comes after June.	जुलाई जून के बाद आता है।	julaaii juun ke baad aataa hai.	Talk about days
+Grandfather will come on Wednesday.	दादा बुधवार को आयेंगे ।	daadaa budhavaar ko aayenge .	Talk about days
+Clothes	कपड़े	kapaṛe	Discuss weather
+Pants	पतलून	pataluun	Discuss weather
+Where are my pants?	मेरी पतलून कहाँ है?	merii pataluun kahaan hai?	Discuss weather
+Give him new clothes and umbrella.	उसे नये कपड़े और छाता दो।	use naye kapaṛe aur chhaataa do.	Discuss weather
+I like winter season.	मुझे सर्दी का मौसम पसंद है।	mujhe sardii kaa mausam pasand hai.	Discuss weather
+Shirt	क़मीज़	kmiij	Discuss weather
+I am feeling cold in pants and shirt.	मुझे पतलून और क़मीज़ में ठंड लग रही है।	mujhe pataluun aur kmiij men ṭhanṛ lag rahii hai.	Discuss weather
+This cat is feeling hot.	इस बिल्ली को गर्मी लग रही है।	is billii ko garmii lag rahii hai.	Discuss weather
+Winter	सर्दी	sardii	Discuss weather
+Where are your shoes?	आपके जूते कहाँ हैं?	aapake juute kahaan hain?	Discuss weather
+It is very hot today.	आज बहुत गर्मी है।	aaj bahut garmii hai.	Discuss weather
+Neha is not feeling cold.	नेहा को ठंड नहीं लग रही है।	nehaa ko ṭhanṛ nahiin lag rahii hai.	Discuss weather
+I am feeling cold.	मुझे ठंड लग रही है।	mujhe ṭhanṛ lag rahii hai.	Discuss weather
+Shoes	जूते	juute	Discuss weather
+Do you not feel cold?	क्या तुम्हें ठंड नहीं लगती?	kyaa tumhen ṭhanṛ nahiin lagatii?	Discuss weather
+I want new clothes, shoes, and socks.	मुझे नये कपड़े, जूते, और जुराब चाहिए।	mujhe naye kapaṛe, juute, aur juraab chaahie.	Discuss weather
+Why do people wear clothes?	लोग कपड़े क्यों पहनते हैं?	log kapaṛe kyon pahanate hain?	Discuss weather
+I wear socks and shoes.	मैं जुराब और जूते पहनती हूँ।	main juraab aur juute pahanatii huun.	Discuss weather
+That man wears one shoe.	वह आदमी एक जूता पहनता है।	vah aadamii ek juutaa pahanataa hai.	Discuss weather
+Wear this shirt.	यह क़मीज़ पहनो।	yah kmiij pahano.	Discuss weather
+Raj does not wear socks.	राज जुराब नहीं पहनता।	raaj juraab nahiin pahanataa.	Discuss weather
+This shoe is red.	यह जूता लाल है।	yah juutaa laal hai.	Discuss weather
+Neha wears good clothes.	नेहा अच्छे कपड़े पहनती है।	nehaa achchhe kapaṛe pahanatii hai.	Discuss weather
+I do not feel cold.	मुझे ठंड नहीं लगती है।	mujhe ṭhanṛ nahiin lagatii hai.	Discuss weather
+This is the winter season.	यह सर्दी का मौसम है।	yah sardii kaa mausam hai.	Discuss weather
+His mother's brother is his uncle.	उसकी माँ के भाई उसके मामा हैं।	usakii maan ke bhaaii usake maamaa hain.	Describe relationships
+Aamir's uncle sings.	आमिर के फूफा गाते हैं।	aamir ke phuuphaa gaate hain.	Describe relationships
+His parents come here every day.	उसके माता-पिता हर दिन यहाँ आते हैं।	usake maataa-pitaa har din yahaan aate hain.	Describe relationships
+Julia's uncle loves her aunt.	जूलिया के मौसा उसकी मौसी से प्यार करते हैं।	juuliyaa ke mausaa usakii mausii se pyaar karate hain.	Describe relationships
+Are they husband and wife?	क्या वे पति और पत्नी हैं?	kyaa ve pati aur patnii hain?	Describe relationships
+My uncle and aunt live in the village.	मेरे मामा और मामी गाँव में रहते हैं।	mere maamaa aur maamii gaanv men rahate hain.	Describe relationships
+Who is her husband?	उसका पति कौन है?	usakaa pati kaun hai?	Describe relationships
+When will aunt come?	बुआ कब आयेंगी?	buaa kab aayengii?	Describe relationships
+Glass	गिलास	gilaas	Discuss food
+Dogs are non-vegetarian.	कुत्ते माँसाहारी होते हैं।	kutte maansaahaarii hote hain.	Discuss food
+Two knives and four spoons	दो चाकू और चार चम्मचें	do chaakuu aur chaar chammachen	Discuss food
+Spoon	चम्मच	chammach	Discuss food
+Knife	चाकू	chaakuu	Discuss food
+Where are the white spoons?	सफ़ेद चम्मच कहाँ हैं?	saphed chammach kahaan hain?	Discuss food
+Sugar	चीनी	chiinii	Discuss food
+Vegetarian food is good.	शाकाहारी खाना अच्छा होता है।	shaakaahaarii khaanaa achchhaa hotaa hai.	Discuss food
+There's water in the bottle and the glass.	बोतल और गिलास में पानी है।	botal aur gilaas men paanii hai.	Discuss food
+The knife is on the table.	चाकू मेज़ पर है।	chaakuu mej par hai.	Discuss food
+Peter does not want the knife.	पीटर को चाकू नहीं चाहिए।	piiṭar ko chaakuu nahiin chaahie.	Discuss food
+There is milk in the bottle.	बोतल में दूध है।	botal men duudh hai.	Discuss food
+An apple is sweet.	सेब मीठा होता है।	seb miiṭhaa hotaa hai.	Discuss food
+There is a spoon in the glass.	गिलास में एक चम्मच है।	gilaas men ek chammach hai.	Discuss food
+The food is very sweet.	खाना बहुत मीठा है।	khaanaa bahut miiṭhaa hai.	Discuss food
+Julia eats with a spoon.	जूलिया चम्मच से खाती है।	juuliyaa chammach se khaatii hai.	Discuss food
+You people are hungry.	तुम लोग भूखे हो।	tum log bhuukhe ho.	Discuss food
+Peter is not thirsty.	पीटर प्यासा नहीं है।	piiṭar pyaasaa nahiin hai.	Discuss food
+These people are non-vegetarian.	ये लोग माँसाहारी हैं।	ye log maansaahaarii hain.	Discuss food
+Aamir was there earlier.	पहले आमिर वहाँ था ।	pahale aamir vahaan thaa .	Talk about the past
+She used to eat oranges.	वह संतरे खाती थी।	vah santare khaatii thii.	Talk about the past
+Those women were very good.	वे औरतें बहुत अच्छी थीं।	ve auraten bahut achchhii thiin.	Talk about the past
+Raj used to live there.	राज वहाँ रहता था ।	raaj vahaan rahataa thaa .	Talk about the past
+That man was in Delhi the day before yesterday.	परसों वह आदमी दिल्ली में था।	parason vah aadamii dillii men thaa.	Talk about the past
+Peter was walking today.	पीटर आज चल रहा था।	piiṭar aaj chal rahaa thaa.	Talk about the past
+Were you going?	क्या तू जा रही थी?	kyaa tuu jaa rahii thii?	Talk about the past
+These girls were here.	ये लड़कियाँ यहाँ थीं।	ye laṛkiyaan yahaan thiin.	Talk about the past
+Two months ago	दो महीने पहले	do mahiine pahale	Talk about the past
+Neha and Peter were in India.	नेहा और पीटर भारत में थे।	nehaa aur piiṭar bhaarat men the.	Talk about the past
+Raj was swimming in Delhi yesterday.	राज कल दिल्ली में तैर रहा था ।	raaj kal dillii men tair rahaa thaa .	Talk about the past
+Sky	आसमान	aasamaan	Discuss nature
+The fragrance of this plant is good.	इस पौधे की ख़ुशबू अच्छी है।	is paudhe kii khushabuu achchhii hai.	Discuss nature
+There are leaves on the tree.	पेड़ पर पत्ते हैं ।	peṛ par patte hain .	Discuss nature
+Star	तारा	taaraa	Discuss nature
+There is a bird in the air.	हवा में पक्षी है ।	havaa men pakshii hai .	Discuss nature
+Sun	सूरज	suuraj	Discuss nature
+This plant is small.	यह पौधा छोटा है।	yah paudhaa chhoṭaa hai.	Discuss nature
+This plant is smaller than this tree.	यह पौधा इस पेड़ से छोटा है।	yah paudhaa is peṛ se chhoṭaa hai.	Discuss nature
+There is a bird in the sky.	आसमान में पक्षी है ।	aasamaan men pakshii hai .	Discuss nature
+There are stars in the sky.	आसमान में तारे हैं ।	aasamaan men taare hain .	Discuss nature
+The clouds are in the air.	बादल हवा में हैं ।	baadal havaa men hain .	Discuss nature
+I am sleeping so I am crying.	मैं सो रहा हूँ इसलिये मैं रो रहा हूँ।	main so rahaa huun isaliye main ro rahaa huun.	Describe people
+Peter does not laugh.	पीटर हँसता नहीं है।	piiṭar hansataa nahiin hai.	Describe people
+These people say that the food is bad.	ये लोग कहते हैं कि खाना बुरा है।	ye log kahate hain ki khaanaa buraa hai.	Describe people
+No one speaks with Neha.	कोई नेहा से बात नहीं करता।	koii nehaa se baat nahiin karataa.	Describe people
+Someone is speaking Hindi.	कोई हिंदी बोल रहा है।	koii hindii bol rahaa hai.	Describe people
+But who are you?	लेकिन तुम कौन हो?	lekin tum kaun ho?	Describe people
+What is Peter saying?	पीटर क्या कह रहा है?	piiṭar kyaa kah rahaa hai?	Describe people
+These people are saying that Neha is not listening.	ये लोग कह रहे हैं कि नेहा नहीं सुन रही है।	ye log kah rahe hain ki nehaa nahiin sun rahii hai.	Describe people
+Now you can go.	अब आप जा सकते हैं।	ab aap jaa sakate hain.	Use modals
+I have to go to Delhi.	मुझे दिल्ली जाना है ।	mujhe dillii jaanaa hai .	Use modals
+Peter does not want to talk to Neha.	पीटर नेहा से बात नहीं करना चाहता।	piiṭar nehaa se baat nahiin karanaa chaahataa.	Use modals
+Aamir has to come to my home.	आमिर को मेरे घर आना है।	aamir ko mere ghar aanaa hai.	Use modals
+He can sing well.	वह अच्छा गा सकता है।	vah achchhaa gaa sakataa hai.	Use modals
+These people want to play.	ये लोग खेलना चाहते हैं।	ye log khelanaa chaahate hain.	Use modals
+Neha can not come to the village.	नेहा गाँव नहीं आ सकती।	nehaa gaanv nahiin aa sakatii.	Use modals
+We should study.	हमें पढ़ना चाहिए।	hamen paṛnaa chaahie.	Use modals
+We can come.	हम आ सकते हैं।	ham aa sakate hain.	Use modals
+Neha can not go.	नेहा नहीं जा सकती।	nehaa nahiin jaa sakatii.	Use modals
+Aamir can study.	आमिर पढ़ सकता है।	aamir paṛ sakataa hai.	Use modals
+They did not drink tea.	उन्होंने चाय नहीं पी।	unhonne chaaya nahiin pii.	Describe past events
+We drank tea.	हमने चाय पी।	hamane chaaya pii.	Describe past events
+When did you come from America?	आप अमेरिका से कब आये?	aap amerikaa se kab aaye?	Describe past events
+What have you written?	तुमने क्या लिखा है?	tumane kyaa likhaa hai?	Describe past events
+Have you seen my book?	क्या तुमने मेरी किताब देखी है ?	kyaa tumane merii kitaab dekhii hai ?	Describe past events
+Did you drink water?	क्या आपने पानी पिया?	kyaa aapane paanii piyaa?	Describe past events
+You did not eat the mangoes.	तूने आम नहीं खाये।	tuune aam nahiin khaaye.	Describe past events
+Peter came to my home.	पीटर मेरे घर आया ।	piiṭar mere ghar aayaa .	Describe past events
+Drink tea, it is hot.	चाय पी लो, गरम है।	chaaya pii lo, garam hai.	Describe past events
+We played games yesterday.	कल हमने खेल खेले।	kal hamane khel khele.	Describe past events
+Raj has written a book.	राज ने एक किताब लिखी है।	raaj ne ek kitaab likhii hai.	Describe past events
