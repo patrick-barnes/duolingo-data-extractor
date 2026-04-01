@@ -36,10 +36,12 @@ Check the `output` folder for results.
 
 - When the target language is English itself, the `Foreign` and `English` column names are incorrect:
   - The `English` column is not English, and the `Foreign` column is native
-- Transliteration/romanization is limited:
-  - for some languages, not supported for sentences, only lexems (words)
-  - for some languages, not supported at all
-- In output-example/, for some languages, sentence flashcards are not provided, only lexemes
+- Transliteration is limited:
+  - for some languages, transliteration is missing for lexemes or sentences or both
+- In `output-example/`:
+  - for some languages, flashcards are missing for lexemes or sentences or both
+- `fetch-sessions` might not be consistent and return different sentences on different runs
+  - this is inherent due to the dynamic behavior of DuoLingo
 
 
 ## How to get your DuoLingo USER_ID and JWT token
