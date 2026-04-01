@@ -37,5 +37,13 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
+
+    // smoother handling of older CommonJS modules
+    // Instead of: import * as fs from 'fs';
+    // You can do: import fs from 'fs';
+    // Under the hood, TypeScript will do something like:
+    // const fs = require('fs').default || require('fs');
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   }
 }

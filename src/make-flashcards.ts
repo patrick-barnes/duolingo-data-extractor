@@ -1,6 +1,7 @@
 import { FM, readJsonFromFile, writeStringToFile } from './file-util.js';
-import { transliterateArabic } from "./arabic-transliterator.js";
-import { transliterateHindi } from "./hindi-transliterator.js";
+import { transliterateArabic } from "./transliteration/arabic-transliterator.js";
+import { transliterateChinese } from "./transliteration/chinese-transliterator.js";
+import { transliterateHindi } from "./transliteration/hindi-transliterator.js";
 import type { LearnedLexeme } from './model/lexemes.js';
 import { CURRENT_COURSE } from './config.js';
 import { LANGUAGE_COURSES, type LanguageCourse } from './model/courses.js';
@@ -80,12 +81,15 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     }
                 } else if (jsonFilePath.includes("DUOLINGO_AR_EN")) {
                     let arabicText = isReverse ? textLang2 : textLang1;
-                    //transliteration = arabictransliterate(arabicText, "arabic2latin", "Arabic");
                     transliteration = transliterateArabic(arabicText);
                 } else if (CURRENT_COURSE == LANGUAGE_COURSES.HINDI_ENGLISH) {
                     let hindiText = isReverse ? textLang2 : textLang1;
-                    //transliteration = arabictransliterate(arabicText, "arabic2latin", "Arabic");
                     transliteration = transliterateHindi(hindiText);
+                } else if (CURRENT_COURSE == LANGUAGE_COURSES.CHINESE_ENGLISH) {
+                    // Haven't seen this happen yet
+                    let chineseText = isReverse ? textLang2 : textLang1;
+                    transliteration = transliterateChinese(chineseText);
+                    console.warn(`Found sentence without pinyin. Transliterated: ${chineseText} -> ${transliteration}`);
                 } else {
                     transliteration = "-"; // Arabic doesn't have transliteration, at least for translate:tap
                 }
@@ -247,6 +251,8 @@ function makeLexemeFlashcards() {
             note.transliteration = transliterateArabic(lexeme.text);
         } else if (CURRENT_COURSE.learningLanguage == 'hi') {
             note.transliteration = transliterateHindi(lexeme.text);
+        } else if (CURRENT_COURSE.learningLanguage == 'zh') {
+            note.transliteration = transliterateChinese(lexeme.text);
         }
         notes.push(note);
     }
