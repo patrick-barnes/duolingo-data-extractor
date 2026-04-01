@@ -32,16 +32,11 @@ For examples of generated flashcards, see:
 Check the `output` folder for results.
 
 
-## Known Bugs and Limitations
+## Feedback
 
-- When the target language is English itself, the `Foreign` and `English` column names are incorrect:
-  - The `English` column is not English, and the `Foreign` column is native
-- Transliteration is limited:
-  - for some languages, transliteration is missing for lexemes or sentences or both
-- In `output-example/`:
-  - for some languages, flashcards are missing for lexemes or sentences or both
-- `fetch-sessions` might not be consistent and return different sentences on different runs
-  - this is inherent due to the dynamic behavior of DuoLingo
+See [issues](https://github.com/patrick-barnes/duolingo-data-extractor/issues) for known bugs, limitations, and possible future features.
+
+To give feedback, either comment on an existing issue or create a new issue.
 
 
 ## How to get your DuoLingo USER_ID and JWT token
