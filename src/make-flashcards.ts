@@ -9,7 +9,7 @@ import { LANGUAGE_COURSES, learningLanguageNameFor, fromLanguageNameFor } from '
 
 interface Note {
     //id: string;
-    english: string;
+    meaning: string;
     foreign: string;
     transliteration: string;
     context: string;
@@ -18,7 +18,7 @@ interface Note {
 function noteToTsvRow(note: Note): string {
     let row = [
         //note.id,
-        note.english,
+        note.meaning,
         note.foreign,
         note.transliteration,
         note.context,
@@ -73,6 +73,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                 let textLang2 = challenge.metadata?.challenge_construction_insights?.best_solution;
                 let transliteration = "";
                 let transliterations: any = isReverse ? (challenge?.correctSolutionTransliterations?.[0]) : (challenge?.promptTransliteration);
+                // Transliterations for the learning language
                 if (transliterations) {
                     for (let token of transliterations.tokens) {
                         for (let text of token.transliterationTexts) {
@@ -109,7 +110,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                 }
                 let note: Note = {
                     //id: 'TODO',
-                    english: isReverse ? textLang1 : textLang2,
+                    meaning: isReverse ? textLang1 : textLang2,
                     foreign: isReverse ? textLang2 : textLang1,
                     transliteration: transliteration,
                     context: teachingObjective,
@@ -117,6 +118,13 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     //tip: '-', // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
                     //debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
                 };
+                // Transliterations for the fromLanguage (e.g., Chinese speaker learning Cantonese)
+                if (CURRENT_COURSE.fromLanguage == 'zh' || CURRENT_COURSE.fromLanguage == 'zs') {
+                    let pinyin = transliterateChinese(note.meaning);
+                    note.meaning = note.meaning + "<br>" + pinyin;
+                    let contextPinyin = transliterateChinese(note.context);
+                    note.context = note.context + "<br>" + contextPinyin;
+                }
                 let row = noteToTsvRow(note);
                 notes.push(note);
                 ////tsvRows.push(row);
@@ -154,7 +162,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     }
                     let note: Note = {
                         //id: 'TODO',
-                        english: textLang1,
+                        meaning: textLang1,
                         foreign: textLang2,
                         transliteration: transliteration,
                         context: teachingObjective,
@@ -231,7 +239,7 @@ function dedupe(notes: Note[]): Note[] {
     let deduped: Note[] = [];
     let seen = new Set<string>();
     for (let note of notes) {
-        let key = note.foreign + "|" + note.english;
+        let key = note.foreign + "|" + note.meaning;
         if (!seen.has(key)) {
             deduped.push(note);
             seen.add(key); 
@@ -253,7 +261,7 @@ function makeLexemeFlashcards() {
     for (let lexeme of lexemes) {
         let note: Note = {
             //id: 'TODO',
-            english: lexeme.translations.join('; '),
+            meaning: lexeme.translations.join('; '),
             foreign: lexeme.text,
             transliteration: '-',
             context: '',
@@ -261,6 +269,7 @@ function makeLexemeFlashcards() {
             //tip: '-',
             //debug: '-'
         };
+        // Transliterate for learning language
         if (CURRENT_COURSE.learningLanguage == 'ar') {
             note.transliteration = transliterateArabic(lexeme.text);
         } else if (CURRENT_COURSE.learningLanguage == 'hi') {
@@ -269,6 +278,11 @@ function makeLexemeFlashcards() {
             note.transliteration = transliterateChinese(lexeme.text);
         } else if (CURRENT_COURSE.learningLanguage == 'zc') {
             note.transliteration = transliterateCantonese(lexeme.text);
+        }
+        // Transliterate for the fromLanguage (e.g. Chinese speaker learning Cantonese)
+        if (CURRENT_COURSE.fromLanguage == 'zh' || CURRENT_COURSE.fromLanguage == 'zs') { // or 'zs'
+            let pinyin = transliterateChinese(note.meaning);
+            note.meaning = note.meaning + "<br>" + pinyin;
         }
         notes.push(note);
     }

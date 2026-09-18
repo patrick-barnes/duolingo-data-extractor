@@ -21,7 +21,7 @@ export const LANG_CODE_TO_LANG_NAME: { [langCode: string]: string } = {
     "en": "English",
     "ar": "Arabic",
     "es": "Spanish",
-    "zh": "Chinese",
+    "zh": "Chinese", // learningLanguage for CHINESE_ENGLISH, fromLanguage for CANTONESE_CHINESE
     "hi": "Hindi",
     "ja": "Japanese",
     "ru": "Russian",
@@ -29,7 +29,7 @@ export const LANG_CODE_TO_LANG_NAME: { [langCode: string]: string } = {
     "te": "Telugu",
     "tl": "Tagalog",
     "zc": "Cantonese",
-    "zs": "Chinese"
+    // "zs": "Chinese" // so far, I've seen this only in ui-language but not learningLanguage or fromLanguage
 };
 
 export const LANGUAGE_COURSES: LanguageCourseMap = {
@@ -90,8 +90,8 @@ export const LANGUAGE_COURSES: LanguageCourseMap = {
     CANTONESE_CHINESE: {
         //commonFolderName: "cantonese-chinese",
         courseId: "DUOLINGO_ZH-HK_ZH-CN",
-        learningLanguage: "zc",
-        fromLanguage: "zs"
+        learningLanguage: "zc", // some APIs say "zc", some say "zh-HK", but "zc" seems to work for our purposes
+        fromLanguage: "zh"
     },
 };
 
