@@ -26,6 +26,7 @@
     "@indic-tools/hindi-transliterate": "^0.0.4",
     "arabic-transliterate": "^1.0.1",
     "arabscript": "^0.0.1",
+    "opencc-js": "^1.4.2",
     "pinyin": "^4.0.0",
     "to-jyutping": "^3.1.1"
   }

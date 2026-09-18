@@ -6,6 +6,7 @@ import { transliterateHindi } from "./transliteration/hindi-transliterator.js";
 import type { LearnedLexeme } from './model/lexemes.js';
 import { CURRENT_COURSE } from './config.js';
 import { LANGUAGE_COURSES, learningLanguageNameFor, fromLanguageNameFor } from './model/courses.js';
+import { transliterateTraditionalToSimplified } from './transliteration/traditional-chinese-transliterator.js';
 
 interface Note {
     //id: string;
@@ -13,6 +14,7 @@ interface Note {
     foreign: string;
     transliteration: string;
     context: string;
+    extra?: string;
 };
 
 function noteToTsvRow(note: Note): string {
@@ -22,6 +24,7 @@ function noteToTsvRow(note: Note): string {
         note.foreign,
         note.transliteration,
         note.context,
+        note.extra ?? "",
     ].join('\t');
     return row;
 }
@@ -32,15 +35,8 @@ const NOTE_TSV_HEADERS = [
     learningLanguageNameFor(CURRENT_COURSE),
     "Transliteration",
     "Context",
+    "Extra",
 ];
-
-/*
-// TODO: Add English translations as a third language.
-
-if (CURRENT_COURSE.fromLanguage != 'en') {
-    NOTE_TSV_HEADERS.push("English");
-}
-*/
 
 function getChallenges(sessionData: any): any[] {
     let allChallenges: any[] = [];
@@ -101,7 +97,6 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     transliteration = transliterateChinese(chineseText);
                     console.warn(`Found sentence without pinyin. Transliterated: ${chineseText} -> ${transliteration}`);
                 } else if (CURRENT_COURSE == LANGUAGE_COURSES.CANTONESE_CHINESE) {
-                    // Haven't seen this happen yet
                     let cantoneseText = isReverse ? textLang2 : textLang1;
                     transliteration = transliterateCantonese(cantoneseText);
                     console.warn(`Found sentence without jyutping. Transliterated: ${cantoneseText} -> ${transliteration}`);
@@ -122,8 +117,16 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                 if (CURRENT_COURSE.fromLanguage == 'zh' || CURRENT_COURSE.fromLanguage == 'zs') {
                     let pinyin = transliterateChinese(note.meaning);
                     note.meaning = note.meaning + "<br>" + pinyin;
-                    let contextPinyin = transliterateChinese(note.context);
-                    note.context = note.context + "<br>" + contextPinyin;
+                    // let contextPinyin = transliterateChinese(note.context);
+                    // note.context = note.context + "<br>" + contextPinyin;
+                }
+                // Add extra field for "Cantonese to Simplified"
+                if (CURRENT_COURSE == LANGUAGE_COURSES.CANTONESE_CHINESE) {
+                    let simplified = transliterateTraditionalToSimplified(note.foreign);
+                    let simplifiedPinyin = transliterateChinese(simplified);
+                    note.extra = simplified + "<br>" + simplifiedPinyin;
+                    // let contextPinyin = transliterateChinese(note.context);
+                    // note.context = note.context + "<br>" + contextPinyin;
                 }
                 let row = noteToTsvRow(note);
                 notes.push(note);
@@ -157,6 +160,15 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     } else if (CURRENT_COURSE == LANGUAGE_COURSES.HINDI_ENGLISH) {
                         let hindiText = isReverse ? textLang1 : textLang2;
                         transliteration = transliterateHindi(hindiText);
+                    } else if (CURRENT_COURSE == LANGUAGE_COURSES.CHINESE_ENGLISH) {
+                        // Haven't seen this happen yet
+                        let chineseText = isReverse ? textLang1 : textLang2;
+                        transliteration = transliterateChinese(chineseText);
+                        console.warn(`Found sentence without pinyin. Transliterated: ${chineseText} -> ${transliteration}`);
+                    } else if (CURRENT_COURSE == LANGUAGE_COURSES.CANTONESE_CHINESE) {
+                        let cantoneseText = isReverse ? textLang1 : textLang2;
+                        transliteration = transliterateCantonese(cantoneseText);
+                        console.warn(`Found sentence without jyutping. Transliterated: ${cantoneseText} -> ${transliteration}`);
                     } else {
                         transliteration = "-"; // Arabic doesn't have transliteration, at least for translate:tap
                     }
@@ -170,6 +182,21 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                         //tip: '-',
                         //debug: `type=${challenge?.type}:${challenge.metadata.specific_type}`, // isHard ? 'HARD' : '-', // sourceDesc + 'Translate ' + (isReverse ? 'from English' : 'to English'),
                     };
+                    // Transliterations for the fromLanguage (e.g., Chinese speaker learning Cantonese)
+                    if (CURRENT_COURSE.fromLanguage == 'zh' || CURRENT_COURSE.fromLanguage == 'zs') {
+                        let pinyin = transliterateChinese(note.meaning);
+                        note.meaning = note.meaning + "<br>" + pinyin;
+                        // let contextPinyin = transliterateChinese(note.context);
+                        // note.context = note.context + "<br>" + contextPinyin;
+                    }
+                    // Add extra field for "Cantonese to Simplified"
+                    if (CURRENT_COURSE == LANGUAGE_COURSES.CANTONESE_CHINESE) {
+                        let simplified = transliterateTraditionalToSimplified(note.foreign);
+                        let simplifiedPinyin = transliterateChinese(simplified);
+                        note.extra = simplified + "<br>" + simplifiedPinyin;
+                        // let contextPinyin = transliterateChinese(note.context);
+                        // note.context = note.context + "<br>" + contextPinyin;
+                    }
                     let row = noteToTsvRow(note);
                     notes.push(note);
                     ////tsvRows.push(row);
@@ -278,6 +305,9 @@ function makeLexemeFlashcards() {
             note.transliteration = transliterateChinese(lexeme.text);
         } else if (CURRENT_COURSE.learningLanguage == 'zc') {
             note.transliteration = transliterateCantonese(lexeme.text);
+            let simplified = transliterateTraditionalToSimplified(lexeme.text);
+            let simplifiedPinyin = transliterateChinese(simplified);
+            note.extra = simplified + "<br>" + simplifiedPinyin;
         }
         // Transliterate for the fromLanguage (e.g. Chinese speaker learning Cantonese)
         if (CURRENT_COURSE.fromLanguage == 'zh' || CURRENT_COURSE.fromLanguage == 'zs') { // or 'zs'
