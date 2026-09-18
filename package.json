@@ -12,19 +12,21 @@
     "explore-course": "dotenv tsc && dotenv node dist/explore-course.js",
     "make-flashcards": "dotenv tsc && dotenv node dist/make-flashcards.js",
     "hindi-transliterator": "dotenv tsc && dotenv node dist/hindi-transliterator.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.3.0",
     "dotenv-cli": "^7.4.2",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "vitest": "^5.0.1"
   },
   "dependencies": {
     "@indic-tools/hindi-transliterate": "^0.0.4",
     "arabic-transliterate": "^1.0.1",
     "arabscript": "^0.0.1",
-    "pinyin": "^4.0.0"
+    "pinyin": "^4.0.0",
+    "to-jyutping": "^3.1.1"
   }
 }

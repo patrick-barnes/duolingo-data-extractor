@@ -1,10 +1,11 @@
 import { FM, readJsonFromFile, writeStringToFile } from './file-util.js';
 import { transliterateArabic } from "./transliteration/arabic-transliterator.js";
 import { transliterateChinese } from "./transliteration/chinese-transliterator.js";
+import { transliterateCantonese } from "./transliteration/cantonese-transliterator.js";
 import { transliterateHindi } from "./transliteration/hindi-transliterator.js";
 import type { LearnedLexeme } from './model/lexemes.js';
 import { CURRENT_COURSE } from './config.js';
-import { LANGUAGE_COURSES, type LanguageCourse } from './model/courses.js';
+import { LANGUAGE_COURSES, learningLanguageNameFor, fromLanguageNameFor } from './model/courses.js';
 
 interface Note {
     //id: string;
@@ -27,11 +28,19 @@ function noteToTsvRow(note: Note): string {
 
 const NOTE_TSV_HEADERS = [
     //"ID",
-    "English",
-    "Foreign",
+    fromLanguageNameFor(CURRENT_COURSE),
+    learningLanguageNameFor(CURRENT_COURSE),
     "Transliteration",
     "Context",
 ];
+
+/*
+// TODO: Add English translations as a third language.
+
+if (CURRENT_COURSE.fromLanguage != 'en') {
+    NOTE_TSV_HEADERS.push("English");
+}
+*/
 
 function getChallenges(sessionData: any): any[] {
     let allChallenges: any[] = [];
@@ -67,7 +76,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                 if (transliterations) {
                     for (let token of transliterations.tokens) {
                         for (let text of token.transliterationTexts) {
-                            if (text.type != 'pinyin') {
+                            if (text.type != 'pinyin' && text.type != 'jyutping') {
                                 console.error('Warning: Found non-pinyin: type=' + text.type + ', text=' + text.text);
                             } else {
                                 if (/*text.text == '' && */token.token=="、") {
@@ -90,6 +99,11 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     let chineseText = isReverse ? textLang2 : textLang1;
                     transliteration = transliterateChinese(chineseText);
                     console.warn(`Found sentence without pinyin. Transliterated: ${chineseText} -> ${transliteration}`);
+                } else if (CURRENT_COURSE == LANGUAGE_COURSES.CANTONESE_CHINESE) {
+                    // Haven't seen this happen yet
+                    let cantoneseText = isReverse ? textLang2 : textLang1;
+                    transliteration = transliterateCantonese(cantoneseText);
+                    console.warn(`Found sentence without jyutping. Transliterated: ${cantoneseText} -> ${transliteration}`);
                 } else {
                     transliteration = "-"; // Arabic doesn't have transliteration, at least for translate:tap
                 }
@@ -117,7 +131,7 @@ function makeFlashcardsForSession(jsonFilePath: string, sourceDesc: string, teac
                     if (transliterations) {
                         for (let token of transliterations.tokens) {
                             for (let text of token.transliterationTexts) {
-                                if (text.type != 'pinyin') {
+                                if (text.type != 'pinyin' && text.type != 'jyutping') {
                                     console.error('Warning: Found non-pinyin: type=' + text.type + ', text=' + text.text);
                                 } else {
                                     if (token.token=="、") { // && text.text == ''
@@ -253,6 +267,8 @@ function makeLexemeFlashcards() {
             note.transliteration = transliterateHindi(lexeme.text);
         } else if (CURRENT_COURSE.learningLanguage == 'zh') {
             note.transliteration = transliterateChinese(lexeme.text);
+        } else if (CURRENT_COURSE.learningLanguage == 'zc') {
+            note.transliteration = transliterateCantonese(lexeme.text);
         }
         notes.push(note);
     }

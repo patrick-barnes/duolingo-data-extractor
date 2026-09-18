@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { LANGUAGE_COURSES, type LanguageCourse } from './model/courses.js';
+import { LANGUAGE_COURSES, type LanguageCourse, commonFolderNameFor } from './model/courses.js';
 import { CURRENT_COURSE } from './config.js';
 
 export function writeStringToFile(s: string, filename: string): void {
@@ -38,8 +38,9 @@ export function getCourseJsonFilenameByCourseId(courseId: string): string {
     if (!languageCourse) {
         throw "Unsupported courseId: " + courseId;
     }
-    console.info(`Found LanguageCourse, commonFolderName=${languageCourse.commonFolderName}`);
-    return `output/${languageCourse.commonFolderName}/course.json`;
+    let commonFolderName = commonFolderNameFor(languageCourse);
+    console.info(`Found LanguageCourse, commonFolderName=${commonFolderName}`);
+    return `output/${commonFolderName}/course.json`;
 }
 
 // Folder structure:
@@ -57,7 +58,7 @@ export class FileManager {
     }
 
     getSessionFilenames() {
-        let sessionsFolder = `output/${CURRENT_COURSE.commonFolderName}/sessions`;
+        let sessionsFolder = `output/${commonFolderNameFor(CURRENT_COURSE)}/sessions`;
         let sessionFilenames: string[] = [];
         const filenames = fs.readdirSync(sessionsFolder);
         for (let filename of filenames) {
@@ -75,7 +76,7 @@ export class FileManager {
         levelIndex: number,
         sessionIndex: number
     ) {
-        return `output/${CURRENT_COURSE.commonFolderName}/sessions/sessions.${sectionIndex}.${unitIndex}.${levelIndex}.${sessionIndex}.json`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/sessions/sessions.${sectionIndex}.${unitIndex}.${levelIndex}.${sessionIndex}.json`;
     }
 
     getAllCoursesJsonFilename() {
@@ -87,35 +88,35 @@ export class FileManager {
     }
 
     getCourseJsonFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/course.json`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/course.json`;
     }
 
     getExploreLevelsTsvFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/explore/levels.tsv`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/explore/levels.tsv`;
     }
 
     getExploreSkillsTsvFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/explore/skills.tsv`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/explore/skills.tsv`;
     }
 
     getExploreChallengeKeysJsonFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/explore/challenge-keys.json`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/explore/challenge-keys.json`;
     }
 
     getExploreChallengesTsvFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/explore/challenges.tsv`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/explore/challenges.tsv`;
     }
 
     getSentenceFlashcardsTsvFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/flashcards/sentence-flashcards.tsv`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/flashcards/sentence-flashcards.tsv`;
     }
 
     getLexemesJsonFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/lexemes/lexemes.json`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/lexemes/lexemes.json`;
     }
 
     getLexemeFlashcardsTsvFilename() {
-        return `output/${CURRENT_COURSE.commonFolderName}/flashcards/lexeme-flashcards.tsv`;
+        return `output/${commonFolderNameFor(CURRENT_COURSE)}/flashcards/lexeme-flashcards.tsv`;
     }
 
 };
